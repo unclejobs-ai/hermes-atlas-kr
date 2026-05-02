@@ -4,7 +4,7 @@ const $ = (sel) => document.querySelector(sel);
 const fmt = (n) => n >= 1000 ? (n/1000).toFixed(n >= 10000 ? 1 : 1) + 'K' : String(n);
 
 async function init(){
-  state.repos = await fetch('./data/repos.json').then(r => r.json());
+  state.repos = await fetch('./data/repos.ko.json').then(r => r.json());
   state.selected = state.repos[0];
   setupTheme();
   renderStats();

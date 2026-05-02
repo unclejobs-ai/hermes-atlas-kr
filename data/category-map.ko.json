@@ -1,0 +1,50 @@
+{
+  "Core & Official": {
+    "ko": "코어·공식",
+    "descKo": "Hermes Agent의 공식 핵심 저장소와 Nous Research가 직접 관리하는 프로젝트입니다."
+  },
+  "Workspaces & GUIs": {
+    "ko": "워크스페이스·GUI",
+    "descKo": "웹·데스크톱에서 Hermes를 쓰기 쉽게 만든 화면, 대시보드, 작업 공간입니다."
+  },
+  "Skills & Skill Registries": {
+    "ko": "스킬·레지스트리",
+    "descKo": "에이전트가 반복 작업을 잘 수행하도록 돕는 재사용 스킬과 스킬 저장소입니다."
+  },
+  "Memory & Context": {
+    "ko": "메모리·컨텍스트",
+    "descKo": "세션을 넘어 기억하고, 검색하고, 맥락을 유지하게 해주는 메모리 계층입니다."
+  },
+  "Plugins & Extensions": {
+    "ko": "플러그인·확장",
+    "descKo": "Hermes에 도구, 안전장치, 결제, 새 기능을 붙이는 확장 모듈입니다."
+  },
+  "Multi-Agent & Orchestration": {
+    "ko": "멀티 에이전트·오케스트레이션",
+    "descKo": "여러 에이전트를 역할별로 나누고 함께 실행하는 오케스트레이션 도구입니다."
+  },
+  "Deployment & Infra": {
+    "ko": "배포·인프라",
+    "descKo": "VPS, Docker, Nix, systemd, 클라우드에 Hermes를 배포하기 위한 인프라입니다."
+  },
+  "Integrations & Bridges": {
+    "ko": "통합·브리지",
+    "descKo": "Hermes를 외부 서비스, 다른 에이전트, 특화 시스템과 연결하는 브리지입니다."
+  },
+  "Developer Tools": {
+    "ko": "개발자 도구",
+    "descKo": "Hermes 개발과 운영을 편하게 만드는 CLI, 린터, 마이그레이션, 유틸리티입니다."
+  },
+  "Domain Applications": {
+    "ko": "도메인 앱",
+    "descKo": "특정 업무나 산업 문제를 해결하기 위해 Hermes 위에 만든 응용 프로젝트입니다."
+  },
+  "Guides & Docs": {
+    "ko": "가이드·문서",
+    "descKo": "설치, 운영, 최적화, 비교, 커뮤니티 지식을 정리한 문서와 가이드입니다."
+  },
+  "Forks & Derivatives": {
+    "ko": "포크·파생",
+    "descKo": "Hermes Agent를 변형하거나 특정 목적에 맞게 고친 파생 프로젝트입니다."
+  }
+}

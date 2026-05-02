@@ -6,6 +6,9 @@
   "description": "Korean-first Hermes Agent ecosystem atlas",
   "scripts": {
     "serve": "python3 -m http.server 4181",
-    "check": "node --check assets/app.js && python3 scripts/check.py"
+    "sync": "node scripts/sync-upstream.js",
+    "localize": "node scripts/localize-repos.js",
+    "check": "node --check assets/app.js && node --check scripts/sync-upstream.js && node --check scripts/localize-repos.js && node --check scripts/check-localization-quality.js && python3 scripts/check.py && node scripts/check-localization-quality.js",
+    "build": "npm run localize"
   }
 }

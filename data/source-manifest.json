@@ -1,0 +1,16 @@
+{
+  "syncedAt": "2026-05-02T01:30:37.108Z",
+  "upstream": "https://github.com/ksimback/hermes-ecosystem",
+  "sources": {
+    "repos": "https://raw.githubusercontent.com/ksimback/hermes-ecosystem/main/data/repos.json",
+    "lists": "https://raw.githubusercontent.com/ksimback/hermes-ecosystem/main/data/lists.json"
+  },
+  "hashes": {
+    "repos": "de929f6bfa8f4cf39dbf6a78964a612917fe8741acda63ff860dc3dc34faad87",
+    "lists": "caf1ef9b3160dc7b188139308ff460503ba155fcea83144dbef62aa6e34457f8"
+  },
+  "counts": {
+    "repos": 111,
+    "lists": 6
+  }
+}
