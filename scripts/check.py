@@ -14,6 +14,9 @@ required = [
     'data/chunks.ko.json',
     'lib/retrieval.js',
     'api/chat.js',
+    'scripts/build-pages.js',
+    'sitemap.xml',
+    'robots.txt',
 ]
 missing = [p for p in required if not (root / p).exists()]
 if missing:

@@ -24,3 +24,13 @@
 .askCitations{display:flex;flex-wrap:wrap;gap:8px;margin-top:14px}
 .askCitations a{font-size:12px;text-decoration:none;border:1px solid var(--line);border-radius:999px;padding:6px 9px;color:var(--accent2);background:var(--surface)}
 @media (max-width:700px){.askForm{flex-direction:column}.askForm button{padding:13px 18px}}
+
+.pageMain{width:min(1040px,calc(100% - 40px));margin:0 auto;padding:48px 0}
+.pageHero{padding:44px 0 28px;border-bottom:1px solid var(--line)}
+.pageHero h1{font-size:clamp(38px,6vw,72px);line-height:.95;letter-spacing:-.06em;margin:12px 0 18px;word-break:break-word}
+.pageSection{padding:28px 0;border-bottom:1px solid var(--line)}
+.pageSection h2{font-size:24px;letter-spacing:-.03em;margin:0 0 12px}
+.pageSection p,.pageSection li{color:var(--muted);word-break:keep-all}
+.pageGrid{display:grid;grid-template-columns:repeat(auto-fit,minmax(260px,1fr));gap:16px;padding:28px 0}
+.pageCard{border:1px solid var(--line);border-radius:20px;background:var(--surface);padding:18px;box-shadow:var(--shadow)}
+.pageCard a{text-decoration:none}.pageCard h3{margin:0 0 10px;letter-spacing:-.03em}.pageCard p{color:var(--muted);word-break:keep-all}

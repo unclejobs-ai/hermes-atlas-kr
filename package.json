@@ -8,11 +8,12 @@
     "serve": "python3 -m http.server 4181",
     "sync": "node scripts/sync-upstream.js",
     "localize": "node scripts/localize-repos.js",
-    "check": "node --check assets/app.js && node --check lib/retrieval.js && node --check api/chat.js && node --check scripts/sync-upstream.js && node --check scripts/localize-repos.js && node --check scripts/generate-repo-summaries.js && node --check scripts/build-rag-index.js && node --check scripts/check-localization-quality.js && npm test && python3 scripts/check.py && node scripts/check-localization-quality.js",
-    "build": "npm run localize && npm run rag",
+    "check": "node --check assets/app.js && node --check lib/retrieval.js && node --check api/chat.js && node --check scripts/sync-upstream.js && node --check scripts/localize-repos.js && node --check scripts/generate-repo-summaries.js && node --check scripts/build-rag-index.js && node --check scripts/build-pages.js && node --check scripts/check-localization-quality.js && npm test && python3 scripts/check.py && node scripts/check-localization-quality.js",
+    "build": "npm run localize && npm run rag && npm run pages",
     "summaries": "node scripts/generate-repo-summaries.js",
     "rag": "node scripts/build-rag-index.js",
     "rag:embeddings": "node scripts/build-rag-index.js --embeddings",
-    "test": "node --test tests/*.test.js"
+    "test": "node --test tests/*.test.js",
+    "pages": "node scripts/build-pages.js"
   }
 }
