@@ -19,6 +19,15 @@ test('build-pages generates Korean project detail pages with canonical source li
   assert.match(html, /Ask Atlas/);
 });
 
+test('home links to generated list pages and project detail pages', () => {
+  const index = read('index.html');
+  const app = read('assets/app.js');
+  assert.match(index, /href="\/lists\/best-memory-providers"/);
+  assert.match(index, /추천 리스트/);
+  assert.match(app, /projectPath\(/);
+  assert.match(app, /상세 페이지/);
+});
+
 test('build-pages generates Korean list pages, sitemap and robots', () => {
   execFileSync('node', ['scripts/build-pages.js'], { cwd: root, stdio: 'pipe' });
   const list = read('lists/best-memory-providers/index.html');

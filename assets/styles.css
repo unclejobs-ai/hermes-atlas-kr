@@ -34,3 +34,9 @@
 .pageGrid{display:grid;grid-template-columns:repeat(auto-fit,minmax(260px,1fr));gap:16px;padding:28px 0}
 .pageCard{border:1px solid var(--line);border-radius:20px;background:var(--surface);padding:18px;box-shadow:var(--shadow)}
 .pageCard a{text-decoration:none}.pageCard h3{margin:0 0 10px;letter-spacing:-.03em}.pageCard p{color:var(--muted);word-break:keep-all}
+
+.listLinks{margin:28px 0;padding:22px;border:1px solid var(--line);border-radius:var(--radius);background:var(--surface)}
+.listLinkGrid{display:grid;grid-template-columns:repeat(auto-fit,minmax(180px,1fr));gap:10px}
+.listLinkGrid a{display:block;text-decoration:none;border:1px solid var(--line);border-radius:16px;padding:13px 14px;background:var(--bg);color:var(--ink);font-weight:750}
+.listLinkGrid a:hover{border-color:var(--accent);color:var(--accent)}
+.detailActions{display:flex;flex-wrap:wrap;gap:8px;margin-top:14px}.secondaryVisit{background:var(--surface)!important;color:var(--ink)!important;border:1px solid var(--line)!important}

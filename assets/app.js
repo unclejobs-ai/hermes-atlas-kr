@@ -134,6 +134,7 @@ function render(){
   }
   renderDetail();
 }
+function projectPath(repo){ return `/projects/${encodeURIComponent(repo.owner)}/${encodeURIComponent(repo.repo)}`; }
 function renderDetail(){
   const r=state.selected; const el=$('#detailPanel');
   if(!r){ el.innerHTML='<p class="empty">표시할 프로젝트가 없습니다.</p>'; return; }
@@ -147,7 +148,7 @@ function renderDetail(){
   const keywords = Array.isArray(r.keywordsKo) && r.keywordsKo.length
     ? `<div class="keywordRow">${r.keywordsKo.slice(0, 6).map(item => `<span>${escapeHtml(item)}</span>`).join('')}</div>`
     : '';
-  el.innerHTML = `<h3>${escapeHtml(r.owner)} / ${escapeHtml(r.repo)}</h3><p>${escapeHtml(summary)}</p><div class="detailMeta"><span class="pill">${escapeHtml(r.categoryKo || r.category)}</span><span class="pill">★ ${fmt(r.stars||0)}</span>${r.official?'<span class="pill">공식</span>':''}</div>${keywords}${useCases}${audience}<p class="source">원문 설명: ${escapeHtml(r.description || '')}</p><a class="visit" href="${escapeAttr(r.url)}" target="_blank" rel="noreferrer">GitHub에서 보기</a>`;
+  el.innerHTML = `<h3>${escapeHtml(r.owner)} / ${escapeHtml(r.repo)}</h3><p>${escapeHtml(summary)}</p><div class="detailMeta"><span class="pill">${escapeHtml(r.categoryKo || r.category)}</span><span class="pill">★ ${fmt(r.stars||0)}</span>${r.official?'<span class="pill">공식</span>':''}</div>${keywords}${useCases}${audience}<p class="source">원문 설명: ${escapeHtml(r.description || '')}</p><div class="detailActions"><a class="visit" href="${escapeAttr(projectPath(r))}">상세 페이지</a><a class="visit secondaryVisit" href="${escapeAttr(r.url)}" target="_blank" rel="noreferrer">GitHub에서 보기</a></div>`;
 }
 function escapeHtml(s=''){ return String(s).replace(/[&<>'"]/g, ch => ({'&':'&amp;','<':'&lt;','>':'&gt;',"'":'&#39;','"':'&quot;'}[ch])); }
 function escapeAttr(s=''){ return escapeHtml(s); }
