@@ -1,15 +1,19 @@
+import { retrieve, answerFromContext } from '../lib/retrieval.js?v=2';
+
 const categoryOrder = ['Core & Official','Workspaces & GUIs','Skills & Skill Registries','Memory & Context','Plugins & Extensions','Multi-Agent & Orchestration','Deployment & Infra','Integrations & Bridges','Developer Tools','Domain Applications','Guides & Docs','Forks & Derivatives'];
-const state = { repos: [], query: '', category: 'all', sort: 'stars', selected: null };
+const state = { repos: [], chunks: [], query: '', category: 'all', sort: 'stars', selected: null };
 const $ = (sel) => document.querySelector(sel);
 const fmt = (n) => n >= 1000 ? (n/1000).toFixed(n >= 10000 ? 1 : 1) + 'K' : String(n);
 
 async function init(){
   state.repos = await fetch('./data/repos.ko.json', { cache: 'no-store' }).then(r => r.json());
+  state.chunks = await fetch('./data/chunks.ko.json', { cache: 'no-store' }).then(r => r.json()).then(data => data.chunks || []).catch(() => []);
   state.selected = state.repos[0];
   setupTheme();
   renderStats();
   renderFilters();
   bindControls();
+  bindAsk();
   render();
 }
 
@@ -48,6 +52,43 @@ function bindControls(){
   $('#searchInput').addEventListener('input', e => { state.query = e.target.value.trim().toLowerCase(); render(); });
   $('#categorySelect').addEventListener('change', e => { state.category = e.target.value; render(); });
   $('#sortSelect').addEventListener('change', e => { state.sort = e.target.value; render(); });
+}
+function bindAsk(){
+  const form = $('#askForm');
+  if (!form) return;
+  form.addEventListener('submit', async (event) => {
+    event.preventDefault();
+    const input = $('#askInput');
+    const question = input.value.trim();
+    if (!question) return;
+    const answer = $('#askAnswer');
+    answer.textContent = 'Atlas가 한국어 인덱스에서 찾는 중입니다…';
+    try {
+      const response = await fetch('/api/chat', {
+        method: 'POST',
+        headers: { 'Content-Type': 'application/json' },
+        body: JSON.stringify({ question })
+      });
+      if (response.ok) {
+        const data = await response.json();
+        answer.innerHTML = renderAnswer(data.answer, data.citations || []);
+        return;
+      }
+    } catch (_) {
+      // Local static server has no /api route. Fall back to in-browser retrieval.
+    }
+    const contexts = retrieve(question, state.chunks, { limit: 5 });
+    answer.innerHTML = renderAnswer(answerFromContext(question, contexts), contexts);
+  });
+}
+function renderAnswer(answer, citations = []){
+  const safe = escapeHtml(answer || '답변을 만들지 못했습니다.').replace(/\n/g, '<br>');
+  const links = citations.slice(0, 5).map(c => {
+    const url = c.sourceUrl || '';
+    const label = c.repoId || c.title || url;
+    return url ? `<a href="${escapeAttr(url)}" target="_blank" rel="noreferrer">${escapeHtml(label)}</a>` : '';
+  }).filter(Boolean).join('');
+  return `${safe}${links ? `<div class="askCitations">${links}</div>` : ''}`;
 }
 function filtered(){
   let list = state.repos.filter(r => state.category === 'all' || r.category === state.category);

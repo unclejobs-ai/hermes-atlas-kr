@@ -11,6 +11,9 @@ required = [
     'data/repos.ko.json',
     'data/category-map.ko.json',
     'data/overrides.ko.json',
+    'data/chunks.ko.json',
+    'lib/retrieval.js',
+    'api/chat.js',
 ]
 missing = [p for p in required if not (root / p).exists()]
 if missing:
@@ -18,7 +21,7 @@ if missing:
     sys.exit(1)
 
 html = (root / 'index.html').read_text(encoding='utf-8')
-for token in ['lang="ko"', 'Hermes Atlas 한국어판', '검색', '카테고리', '프로젝트']:
+for token in ['lang="ko"', 'Hermes Atlas 한국어판', '검색', '카테고리', '프로젝트', 'Ask Atlas']:
     assert token in html, token
 
 repos = json.loads((root / 'data/repos.ko.json').read_text(encoding='utf-8'))

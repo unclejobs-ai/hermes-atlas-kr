@@ -15,7 +15,7 @@
     </a>
     <nav aria-label="주요 메뉴">
       <a href="#catalog">지도</a>
-      <a href="#categories">카테고리</a>
+      <a href="#ask">Ask Atlas</a>
       <a href="#about">소개</a>
       <a href="https://github.com/ksimback/hermes-ecosystem" target="_blank" rel="noreferrer">원본</a>
     </nav>
@@ -42,7 +42,20 @@
 
     <section class="notice" id="about">
       <b>완전 한글판 기준</b>
-      <span>현재 구현은 한국어 UI + 한국어 카테고리 + 일부 한국어 요약입니다. 각 프로젝트 README 전문과 RAG 지식베이스까지 모두 한국어화하려면 다음 단계에서 데이터 번역 파이프라인을 붙여야 합니다.</span>
+      <span>현재 구현은 한국어 UI + 한국어 카테고리 + 한국어 요약 + Ask Atlas RAG MVP입니다. README 전문 번역과 자동 검수 파이프라인은 계속 확장합니다.</span>
+    </section>
+
+    <section class="ask" id="ask" aria-label="Ask Atlas 한국어 질문">
+      <div>
+        <p class="eyebrow">Ask Atlas</p>
+        <h2>한국어로 물어보세요</h2>
+        <p>예: “메모리 provider 뭐가 좋아?”, “Telegram 연동 프로젝트 찾아줘”, “사이버보안 스킬은 뭐가 있어?”</p>
+      </div>
+      <form id="askForm" class="askForm">
+        <input id="askInput" type="search" placeholder="Hermes 생태계에 대해 질문하기" autocomplete="off" />
+        <button type="submit">질문</button>
+      </form>
+      <div id="askAnswer" class="askAnswer" aria-live="polite">질문하면 한국어 RAG 인덱스에서 관련 프로젝트와 출처를 찾아 답합니다.</div>
     </section>
 
     <section class="controls" id="catalog" aria-label="프로젝트 검색과 필터">
@@ -85,6 +98,6 @@
     <span>데이터 출처: <a href="https://github.com/ksimback/hermes-ecosystem" target="_blank" rel="noreferrer">hermes-ecosystem</a></span>
   </footer>
 
-  <script type="module" src="./assets/app.js"></script>
+  <script type="module" src="./assets/app.js?v=2"></script>
 </body>
 </html>
