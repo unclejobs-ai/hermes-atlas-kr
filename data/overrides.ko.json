@@ -1,1 +1,312 @@
-{}
+{
+  "NousResearch/hermes-agent": {
+    "oneLineKo": "Hermes Agent의 공식 본체입니다. 메모리, 스킬, 도구 실행, 멀티 플랫폼 게이트웨이를 포함합니다.",
+    "summaryKo": "Nous Research가 만든 자기개선형 AI 에이전트입니다. 터미널, 파일, 브라우저, 코드 실행 같은 도구를 직접 사용하고, 작업 경험을 스킬로 저장해 다음 세션에서 재사용합니다. CLI뿐 아니라 Telegram, Discord, Slack 같은 메시징 환경에서도 쓸 수 있는 것이 특징입니다.",
+    "useCasesKo": [
+      "개발 자동화",
+      "터미널 기반 에이전트 작업",
+      "메시징 플랫폼 AI 봇",
+      "장기 메모리 기반 반복 작업"
+    ],
+    "audienceKo": [
+      "개발자",
+      "AI 에이전트 빌더",
+      "자동화 파워유저"
+    ],
+    "tagsKo": [
+      "에이전트",
+      "메모리",
+      "스킬",
+      "도구 실행",
+      "멀티 플랫폼"
+    ],
+    "localizationStatus": "human_reviewed"
+  },
+  "mem0ai/mem0": {
+    "oneLineKo": "AI 에이전트를 위한 범용 메모리 계층으로, Hermes Agent의 공식 메모리 provider 중 하나입니다.",
+    "summaryKo": "mem0는 에이전트가 사용자 정보와 과거 상호작용을 기억하게 해주는 메모리 계층입니다. 관리형 클라우드로 쓰거나 Apache-2.0 기반 오픈소스로 직접 운영할 수 있습니다. Hermes를 장기 기억 중심으로 쓰려는 경우 우선 검토할 만한 프로젝트입니다.",
+    "useCasesKo": [
+      "장기 사용자 메모리",
+      "에이전트 개인화",
+      "셀프호스팅 메모리 백엔드"
+    ],
+    "audienceKo": [
+      "AI 앱 개발자",
+      "에이전트 서비스 운영자"
+    ],
+    "tagsKo": [
+      "메모리",
+      "개인화",
+      "셀프호스팅",
+      "provider"
+    ],
+    "localizationStatus": "human_reviewed"
+  },
+  "garrytan/gbrain": {
+    "oneLineKo": "Garry Tan이 운영하는 OpenClaw/Hermes용 개인 지식 브레인 프로젝트입니다.",
+    "summaryKo": "gbrain은 개인의 지식과 작업 맥락을 에이전트가 활용할 수 있게 정리한 opinionated brain 프로젝트입니다. 일반-purpose 라이브러리라기보다, 실제 사용자가 어떤 방식으로 Hermes/OpenClaw 기억 체계를 구성하는지 참고하기 좋은 사례에 가깝습니다.",
+    "useCasesKo": [
+      "개인 지식 베이스 참고",
+      "메모리 설계 사례 분석"
+    ],
+    "audienceKo": [
+      "Hermes 고급 사용자",
+      "개인 자동화 설계자"
+    ],
+    "tagsKo": [
+      "브레인",
+      "메모리",
+      "개인지식",
+      "사례"
+    ],
+    "localizationStatus": "human_reviewed"
+  },
+  "vectorize-io/hindsight": {
+    "oneLineKo": "에이전트가 경험을 저장하고 회상하며 반성하도록 돕는 장기 메모리 시스템입니다.",
+    "summaryKo": "Hindsight는 retain, recall, reflect 흐름을 통해 에이전트가 장기적으로 학습하는 구조를 제공합니다. 단순 대화 저장소보다, 작업 결과를 다시 불러오고 개선 루프에 활용하는 메모리 계층에 가깝습니다. Hermes의 자기개선 개념과 잘 맞는 메모리 후보입니다.",
+    "useCasesKo": [
+      "장기 작업 기억",
+      "회고 기반 개선",
+      "에이전트 학습 루프"
+    ],
+    "audienceKo": [
+      "에이전트 빌더",
+      "메모리 시스템 개발자"
+    ],
+    "tagsKo": [
+      "메모리",
+      "회상",
+      "반성",
+      "장기학습"
+    ],
+    "localizationStatus": "human_reviewed"
+  },
+  "mukul975/Anthropic-Cybersecurity-Skills": {
+    "oneLineKo": "AI 에이전트가 보안 분석을 수행하도록 돕는 대규모 사이버보안 스킬 레지스트리입니다.",
+    "summaryKo": "754개의 구조화된 보안 스킬을 MITRE ATT&CK, NIST CSF, ATLAS, D3FEND, NIST AI RMF 같은 프레임워크에 매핑한 프로젝트입니다. SOC, 위협 헌팅, 인시던트 대응처럼 절차가 중요한 보안 업무를 에이전트에게 맡길 때 참고할 수 있습니다.",
+    "useCasesKo": [
+      "보안 분석 스킬",
+      "위협 헌팅",
+      "인시던트 대응",
+      "프레임워크 매핑"
+    ],
+    "audienceKo": [
+      "보안 담당자",
+      "SOC 분석가",
+      "에이전트 스킬 제작자"
+    ],
+    "tagsKo": [
+      "보안",
+      "스킬",
+      "MITRE ATT&CK",
+      "NIST"
+    ],
+    "localizationStatus": "human_reviewed"
+  },
+  "builderz-labs/mission-control": {
+    "oneLineKo": "여러 AI 에이전트 작업을 배정하고 실행 비용까지 관리하는 셀프호스팅 오케스트레이션 도구입니다.",
+    "summaryKo": "mission-control은 멀티 에이전트 작업을 dispatch하고 workflow로 묶어 실행하며 spend를 모니터링하는 도구입니다. 단일 Hermes 세션을 넘어 여러 에이전트에게 일을 나누고 운영 관점에서 통제하려는 경우 볼 만합니다.",
+    "useCasesKo": [
+      "멀티 에이전트 운영",
+      "작업 분배",
+      "비용 모니터링"
+    ],
+    "audienceKo": [
+      "에이전트 운영자",
+      "자동화 팀"
+    ],
+    "tagsKo": [
+      "오케스트레이션",
+      "멀티 에이전트",
+      "셀프호스팅",
+      "비용관리"
+    ],
+    "localizationStatus": "human_reviewed"
+  },
+  "plastic-labs/honcho": {
+    "oneLineKo": "상태를 가진 에이전트를 만들기 위한 메모리 라이브러리로, Hermes 메모리 wrapper의 기반이 됩니다.",
+    "summaryKo": "Honcho는 stateful agent를 만들기 위한 메모리 라이브러리입니다. Hermes 생태계에서는 honcho-self-hosted 같은 wrapper가 이 upstream 라이브러리를 기반으로 합니다. 메모리 provider를 직접 이해하거나 확장하려는 개발자에게 중요합니다.",
+    "useCasesKo": [
+      "상태ful 에이전트",
+      "메모리 라이브러리",
+      "provider 기반 이해"
+    ],
+    "audienceKo": [
+      "에이전트 개발자",
+      "메모리 인프라 개발자"
+    ],
+    "tagsKo": [
+      "메모리",
+      "라이브러리",
+      "stateful agent"
+    ],
+    "localizationStatus": "human_reviewed"
+  },
+  "nesquena/hermes-webui": {
+    "oneLineKo": "웹과 모바일 브라우저에서 Hermes Agent를 쓰기 위한 Web UI 프로젝트입니다.",
+    "summaryKo": "hermes-webui는 Hermes Agent를 터미널 밖에서 쓰고 싶은 사용자를 위한 웹 인터페이스입니다. 휴대폰이나 브라우저에서 접근하는 사용 경험을 중시하는 프로젝트로, CLI보다 GUI 환경을 선호한다면 먼저 확인할 만합니다.",
+    "useCasesKo": [
+      "웹 기반 Hermes 사용",
+      "모바일 브라우저 접근",
+      "GUI 작업 환경"
+    ],
+    "audienceKo": [
+      "비CLI 사용자",
+      "모바일 사용자",
+      "Hermes 입문자"
+    ],
+    "tagsKo": [
+      "웹 UI",
+      "모바일",
+      "GUI",
+      "워크스페이스"
+    ],
+    "localizationStatus": "human_reviewed"
+  },
+  "EKKOLearnAI/hermes-web-ui": {
+    "oneLineKo": "채팅, 세션, 예약 작업, 사용량 분석, 채널 설정을 다루는 Hermes 웹 대시보드입니다.",
+    "summaryKo": "hermes-web-ui는 Hermes Agent를 여러 플랫폼 채널과 함께 운영하기 위한 웹 대시보드입니다. Telegram, Discord, Slack, WhatsApp 같은 채널 설정과 세션 관리, 예약 작업, 사용량 분석을 한 화면에서 다루는 방향입니다.",
+    "useCasesKo": [
+      "멀티 플랫폼 채널 관리",
+      "세션 관리",
+      "예약 작업",
+      "사용량 분석"
+    ],
+    "audienceKo": [
+      "Hermes 운영자",
+      "봇 관리자",
+      "팀 자동화 담당자"
+    ],
+    "tagsKo": [
+      "웹 대시보드",
+      "Telegram",
+      "Discord",
+      "예약작업",
+      "분석"
+    ],
+    "localizationStatus": "human_reviewed"
+  },
+  "junhoyeo/tokscale": {
+    "oneLineKo": "Claude Code, Hermes, Codex, Gemini 등의 토큰 사용량을 추적하는 CLI 도구입니다.",
+    "summaryKo": "tokscale은 여러 AI 코딩 에이전트와 모델 사용량을 CLI에서 추적하는 도구입니다. Hermes뿐 아니라 Claude Code, OpenClaw, Codex, Gemini 같은 도구를 함께 쓰는 환경에서 비용과 사용량을 파악하는 데 유용합니다.",
+    "useCasesKo": [
+      "토큰 사용량 추적",
+      "비용 관리",
+      "멀티 에이전트 사용량 비교"
+    ],
+    "audienceKo": [
+      "AI 도구 파워유저",
+      "팀 관리자",
+      "개발자"
+    ],
+    "tagsKo": [
+      "CLI",
+      "토큰",
+      "비용관리",
+      "사용량"
+    ],
+    "localizationStatus": "human_reviewed"
+  },
+  "NousResearch/Hermes-Function-Calling": {
+    "oneLineKo": "Hermes LLM 모델의 함수 호출 예제와 학습 데이터를 제공하는 공식 저장소입니다.",
+    "summaryKo": "Hermes-Function-Calling은 Hermes 계열 모델이 도구나 함수를 호출하는 방식을 학습하고 실험하기 위한 자료를 제공합니다. 에이전트 런타임보다는 LLM의 function calling 능력과 데이터셋 측면을 이해할 때 보는 공식 자료입니다.",
+    "useCasesKo": [
+      "함수 호출 학습",
+      "도구 호출 예제",
+      "모델 데이터셋 참고"
+    ],
+    "audienceKo": [
+      "LLM 연구자",
+      "모델 튜닝 개발자",
+      "에이전트 프레임워크 개발자"
+    ],
+    "tagsKo": [
+      "함수호출",
+      "학습데이터",
+      "Hermes LLM",
+      "공식"
+    ],
+    "localizationStatus": "human_reviewed"
+  },
+  "AMAP-ML/SkillClaw": {
+    "oneLineKo": "에이전트 스킬이 집단적으로 진화하도록 돕는 스킬 진화 실험 프로젝트입니다.",
+    "summaryKo": "SkillClaw는 Agentic Evolver를 통해 스킬을 개선하고 발전시키는 방향의 프로젝트입니다. 단순 스킬 모음이라기보다, 스킬 자체를 어떻게 평가하고 진화시킬지에 관심 있는 사용자에게 맞습니다.",
+    "useCasesKo": [
+      "스킬 진화",
+      "스킬 평가",
+      "에이전트 개선 실험"
+    ],
+    "audienceKo": [
+      "스킬 제작자",
+      "에이전트 연구자"
+    ],
+    "tagsKo": [
+      "스킬",
+      "진화",
+      "Agentic Evolver"
+    ],
+    "localizationStatus": "human_reviewed"
+  },
+  "NousResearch/atropos": {
+    "oneLineKo": "도구 호출 모델을 학습시키기 위한 RL 환경 프레임워크입니다.",
+    "summaryKo": "atropos는 tool-calling 모델을 위한 강화학습 환경을 구성하는 공식 프로젝트입니다. Hermes Agent 앱 사용보다는 모델 학습, 평가, 도구 호출 능력 개선에 관심 있는 연구자와 개발자가 볼 만합니다.",
+    "useCasesKo": [
+      "강화학습 환경",
+      "도구 호출 모델 학습",
+      "모델 평가"
+    ],
+    "audienceKo": [
+      "ML 연구자",
+      "LLM 학습 엔지니어"
+    ],
+    "tagsKo": [
+      "RL",
+      "도구호출",
+      "학습환경",
+      "공식"
+    ],
+    "localizationStatus": "human_reviewed"
+  },
+  "numtide/llm-agents.nix": {
+    "oneLineKo": "Hermes를 포함한 AI 코딩 에이전트들을 Nix 패키지로 관리하는 배포 프로젝트입니다.",
+    "summaryKo": "llm-agents.nix는 Hermes 같은 AI 코딩 에이전트를 Nix 환경에서 재현 가능하게 설치하고 관리하려는 프로젝트입니다. Nix를 쓰는 개발팀이나 서버 환경에서 에이전트 도구 체인을 일관되게 배포하고 싶을 때 유용합니다.",
+    "useCasesKo": [
+      "Nix 기반 설치",
+      "재현 가능한 개발환경",
+      "에이전트 도구 배포"
+    ],
+    "audienceKo": [
+      "Nix 사용자",
+      "DevOps 엔지니어",
+      "개발 인프라 담당자"
+    ],
+    "tagsKo": [
+      "Nix",
+      "배포",
+      "패키지",
+      "개발환경"
+    ],
+    "localizationStatus": "human_reviewed"
+  },
+  "0xNyk/awesome-hermes-agent": {
+    "oneLineKo": "Hermes Agent 관련 스킬, 도구, 통합, 자료를 모아둔 curated awesome list입니다.",
+    "summaryKo": "awesome-hermes-agent는 Hermes 생태계 자료를 빠르게 훑기 좋은 링크 모음입니다. 특정 구현체라기보다, 어떤 스킬과 도구, 통합이 있는지 탐색할 때 출발점으로 쓰기 좋습니다.",
+    "useCasesKo": [
+      "생태계 탐색",
+      "자료 모음",
+      "프로젝트 발견"
+    ],
+    "audienceKo": [
+      "Hermes 입문자",
+      "큐레이터",
+      "콘텐츠 제작자"
+    ],
+    "tagsKo": [
+      "awesome list",
+      "가이드",
+      "자료모음",
+      "탐색"
+    ],
+    "localizationStatus": "human_reviewed"
+  }
+}

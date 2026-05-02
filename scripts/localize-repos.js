@@ -28,6 +28,7 @@ const hashRepo = (repo) => crypto
 const categoryMap = readJson('data/category-map.ko.json', {});
 const rawRepos = readJson('data/repos.raw.json', []);
 const overrides = readJson('data/overrides.ko.json', {});
+const translationCache = readJson('data/translation-cache.json', {});
 const previous = readJson('data/repos.ko.json', []);
 const previousById = new Map(previous.map((repo) => [repo.id, repo]));
 
@@ -42,7 +43,9 @@ const localized = rawRepos.map((repo) => {
   const sourceHash = hashRepo(repo);
   const category = categoryMap[repo.category] || { ko: repo.category, descKo: '' };
   const old = previousById.get(id) || {};
+  const cached = translationCache[`${id}:${sourceHash}`]?.result || null;
   const isStale = old.sourceHash && old.sourceHash !== sourceHash && old.localizationStatus === 'human_reviewed';
+  const generatedAt = translationCache[`${id}:${sourceHash}`]?.generatedAt;
   const base = {
     id,
     owner: repo.owner,
@@ -54,15 +57,16 @@ const localized = rawRepos.map((repo) => {
     category: repo.category,
     categoryKo: category.ko,
     categoryDescriptionKo: category.descKo,
-    oneLineKo: old.oneLineKo || fallbackSentence(repo, category.ko),
-    summaryKo: old.summaryKo || `${fallbackSentence(repo, category.ko)} 상세 설명은 원문 설명과 GitHub 링크를 함께 확인하세요.`,
-    useCasesKo: old.useCasesKo || [],
-    audienceKo: old.audienceKo || [],
-    tagsKo: old.tagsKo || [category.ko],
+    oneLineKo: cached?.oneLineKo || old.oneLineKo || fallbackSentence(repo, category.ko),
+    summaryKo: cached?.summaryKo || old.summaryKo || `${fallbackSentence(repo, category.ko)} 상세 설명은 원문 설명과 GitHub 링크를 함께 확인하세요.`,
+    useCasesKo: cached?.useCasesKo || old.useCasesKo || [],
+    audienceKo: cached?.audienceKo || old.audienceKo || [],
+    tagsKo: cached?.tagsKo || old.tagsKo || [category.ko],
+    riskNoteKo: cached?.riskNoteKo || old.riskNoteKo || '',
     sourceDescription: repo.description || '',
     sourceHash,
-    localizedAt: old.localizedAt || new Date().toISOString(),
-    localizationStatus: isStale ? 'stale' : (old.localizationStatus || 'machine_review_needed'),
+    localizedAt: generatedAt || old.localizedAt || new Date().toISOString(),
+    localizationStatus: isStale ? 'stale' : (cached ? 'machine_review_needed' : (old.localizationStatus || 'machine_review_needed')),
   };
   return { ...base, ...(overrides[id] || {}), id, sourceHash, sourceDescription: repo.description || '' };
 });

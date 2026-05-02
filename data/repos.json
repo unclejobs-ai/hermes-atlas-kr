@@ -10,17 +10,31 @@
     "category": "Core & Official",
     "categoryKo": "코어·공식",
     "categoryDescriptionKo": "Hermes Agent의 공식 핵심 저장소와 Nous Research가 직접 관리하는 프로젝트입니다.",
-    "oneLineKo": "NousResearch/hermes-agent는 Hermes 생태계의 코어·공식 영역에 속한 공식 프로젝트입니다.",
-    "summaryKo": "NousResearch/hermes-agent는 Hermes 생태계의 코어·공식 영역에 속한 공식 프로젝트입니다. 상세 설명은 원문 설명과 GitHub 링크를 함께 확인하세요.",
-    "useCasesKo": [],
-    "audienceKo": [],
-    "tagsKo": [
-      "코어·공식"
+    "oneLineKo": "Hermes Agent의 공식 본체입니다. 메모리, 스킬, 도구 실행, 멀티 플랫폼 게이트웨이를 포함합니다.",
+    "summaryKo": "Nous Research가 만든 자기개선형 AI 에이전트입니다. 터미널, 파일, 브라우저, 코드 실행 같은 도구를 직접 사용하고, 작업 경험을 스킬로 저장해 다음 세션에서 재사용합니다. CLI뿐 아니라 Telegram, Discord, Slack 같은 메시징 환경에서도 쓸 수 있는 것이 특징입니다.",
+    "useCasesKo": [
+      "개발 자동화",
+      "터미널 기반 에이전트 작업",
+      "메시징 플랫폼 AI 봇",
+      "장기 메모리 기반 반복 작업"
     ],
+    "audienceKo": [
+      "개발자",
+      "AI 에이전트 빌더",
+      "자동화 파워유저"
+    ],
+    "tagsKo": [
+      "에이전트",
+      "메모리",
+      "스킬",
+      "도구 실행",
+      "멀티 플랫폼"
+    ],
+    "riskNoteKo": "",
     "sourceDescription": "The self-improving AI agent that grows with you — persistent memory, auto-generated skills, 14 platforms, 6 execution backends",
     "sourceHash": "d8a584717fa78e1025358c342aea69bbfb6bd35d7843f3658873e76e9bee173e",
     "localizedAt": "2026-05-02T01:30:24.660Z",
-    "localizationStatus": "machine_review_needed"
+    "localizationStatus": "human_reviewed"
   },
   {
     "id": "NousResearch/Hermes-Function-Calling",
@@ -33,17 +47,29 @@
     "category": "Core & Official",
     "categoryKo": "코어·공식",
     "categoryDescriptionKo": "Hermes Agent의 공식 핵심 저장소와 Nous Research가 직접 관리하는 프로젝트입니다.",
-    "oneLineKo": "NousResearch/Hermes-Function-Calling는 Hermes 생태계의 코어·공식 영역에 속한 공식 프로젝트입니다.",
-    "summaryKo": "NousResearch/Hermes-Function-Calling는 Hermes 생태계의 코어·공식 영역에 속한 공식 프로젝트입니다. 상세 설명은 원문 설명과 GitHub 링크를 함께 확인하세요.",
-    "useCasesKo": [],
-    "audienceKo": [],
-    "tagsKo": [
-      "코어·공식"
+    "oneLineKo": "Hermes LLM 모델의 함수 호출 예제와 학습 데이터를 제공하는 공식 저장소입니다.",
+    "summaryKo": "Hermes-Function-Calling은 Hermes 계열 모델이 도구나 함수를 호출하는 방식을 학습하고 실험하기 위한 자료를 제공합니다. 에이전트 런타임보다는 LLM의 function calling 능력과 데이터셋 측면을 이해할 때 보는 공식 자료입니다.",
+    "useCasesKo": [
+      "함수 호출 학습",
+      "도구 호출 예제",
+      "모델 데이터셋 참고"
     ],
+    "audienceKo": [
+      "LLM 연구자",
+      "모델 튜닝 개발자",
+      "에이전트 프레임워크 개발자"
+    ],
+    "tagsKo": [
+      "함수호출",
+      "학습데이터",
+      "Hermes LLM",
+      "공식"
+    ],
+    "riskNoteKo": "",
     "sourceDescription": "Function calling examples and training data for Hermes LLM models",
     "sourceHash": "f62f7181a20f996cfb879593d15166cf22fb35d35ed83c4eb989159aed6131db",
     "localizedAt": "2026-05-02T01:30:24.660Z",
-    "localizationStatus": "machine_review_needed"
+    "localizationStatus": "human_reviewed"
   },
   {
     "id": "NousResearch/atropos",
@@ -56,17 +82,28 @@
     "category": "Core & Official",
     "categoryKo": "코어·공식",
     "categoryDescriptionKo": "Hermes Agent의 공식 핵심 저장소와 Nous Research가 직접 관리하는 프로젝트입니다.",
-    "oneLineKo": "NousResearch/atropos는 Hermes 생태계의 코어·공식 영역에 속한 공식 프로젝트입니다.",
-    "summaryKo": "NousResearch/atropos는 Hermes 생태계의 코어·공식 영역에 속한 공식 프로젝트입니다. 상세 설명은 원문 설명과 GitHub 링크를 함께 확인하세요.",
-    "useCasesKo": [],
-    "audienceKo": [],
-    "tagsKo": [
-      "코어·공식"
+    "oneLineKo": "도구 호출 모델을 학습시키기 위한 RL 환경 프레임워크입니다.",
+    "summaryKo": "atropos는 tool-calling 모델을 위한 강화학습 환경을 구성하는 공식 프로젝트입니다. Hermes Agent 앱 사용보다는 모델 학습, 평가, 도구 호출 능력 개선에 관심 있는 연구자와 개발자가 볼 만합니다.",
+    "useCasesKo": [
+      "강화학습 환경",
+      "도구 호출 모델 학습",
+      "모델 평가"
     ],
+    "audienceKo": [
+      "ML 연구자",
+      "LLM 학습 엔지니어"
+    ],
+    "tagsKo": [
+      "RL",
+      "도구호출",
+      "학습환경",
+      "공식"
+    ],
+    "riskNoteKo": "",
     "sourceDescription": "RL training environments framework for tool-calling models",
     "sourceHash": "1d29c962e4821101d5bf19cab6c452667f3ebfb8aa0d97e32d0767c40e23bed3",
     "localizedAt": "2026-05-02T01:30:24.660Z",
-    "localizationStatus": "machine_review_needed"
+    "localizationStatus": "human_reviewed"
   },
   {
     "id": "NousResearch/hermes-agent-self-evolution",
@@ -86,6 +123,7 @@
     "tagsKo": [
       "코어·공식"
     ],
+    "riskNoteKo": "",
     "sourceDescription": "Evolutionary self-improvement using DSPy + GEPA — optimizes skills, prompts, and code",
     "sourceHash": "5b76f933b681e309cdea624423f8779d2ebb6c0b08f49a89b21119b47d2ca89b",
     "localizedAt": "2026-05-02T01:30:24.660Z",
@@ -109,6 +147,7 @@
     "tagsKo": [
       "코어·공식"
     ],
+    "riskNoteKo": "",
     "sourceDescription": "Run Hermes as a managed employee in Paperclip company systems",
     "sourceHash": "3932dd9b99f6397a326b9d6dd852242db15248bb8a9e4b9df535f0bb4edcb31c",
     "localizedAt": "2026-05-02T01:30:24.660Z",
@@ -132,6 +171,7 @@
     "tagsKo": [
       "코어·공식"
     ],
+    "riskNoteKo": "",
     "sourceDescription": "Autonomous novel-writing pipeline generating 100k+ word manuscripts",
     "sourceHash": "5acca4e25206c049ba57128138664dcaf1d9f5dd05669470243e2d06fdec7de8",
     "localizedAt": "2026-05-02T01:30:24.660Z",
@@ -155,6 +195,7 @@
     "tagsKo": [
       "워크스페이스·GUI"
     ],
+    "riskNoteKo": "",
     "sourceDescription": "Native web workspace — chat, terminal, memory browser, skills manager, and inspector panel",
     "sourceHash": "bb49400d249b80b152cf989ccba59abe0e9bf069ff350ececf88988015b5c6f1",
     "localizedAt": "2026-05-02T01:30:24.660Z",
@@ -178,6 +219,7 @@
     "tagsKo": [
       "워크스페이스·GUI"
     ],
+    "riskNoteKo": "",
     "sourceDescription": "Desktop companion app for installing, configuring, and chatting with Hermes Agent",
     "sourceHash": "a1999216401ec3b600e49f3c9e2592730a694d9076b66bae5bb2c20881e1d81e",
     "localizedAt": "2026-05-02T01:30:24.660Z",
@@ -201,6 +243,7 @@
     "tagsKo": [
       "워크스페이스·GUI"
     ],
+    "riskNoteKo": "",
     "sourceDescription": "Process monitoring and configuration dashboard for Hermes",
     "sourceHash": "dfc403f199b7be512c5547fbad818cbf8f1a3ae3a5eea4b5864055d61f304a93",
     "localizedAt": "2026-05-02T01:30:24.660Z",
@@ -224,6 +267,7 @@
     "tagsKo": [
       "워크스페이스·GUI"
     ],
+    "riskNoteKo": "",
     "sourceDescription": "Self-hosted AI workspace with chat, skills, extensions, memory, profiles, and runtime controls",
     "sourceHash": "e0873fe1fd279abb79b64624e3f8bbda741fea8f02d778a40305ee344fdafb8a",
     "localizedAt": "2026-05-02T01:30:24.660Z",
@@ -240,17 +284,30 @@
     "category": "Skills & Skill Registries",
     "categoryKo": "스킬·레지스트리",
     "categoryDescriptionKo": "에이전트가 반복 작업을 잘 수행하도록 돕는 재사용 스킬과 스킬 저장소입니다.",
-    "oneLineKo": "mukul975/Anthropic-Cybersecurity-Skills는 Hermes 생태계의 스킬·레지스트리 영역에 속한 프로젝트입니다.",
-    "summaryKo": "mukul975/Anthropic-Cybersecurity-Skills는 Hermes 생태계의 스킬·레지스트리 영역에 속한 프로젝트입니다. 상세 설명은 원문 설명과 GitHub 링크를 함께 확인하세요.",
-    "useCasesKo": [],
-    "audienceKo": [],
-    "tagsKo": [
-      "스킬·레지스트리"
+    "oneLineKo": "AI 에이전트가 보안 분석을 수행하도록 돕는 대규모 사이버보안 스킬 레지스트리입니다.",
+    "summaryKo": "754개의 구조화된 보안 스킬을 MITRE ATT&CK, NIST CSF, ATLAS, D3FEND, NIST AI RMF 같은 프레임워크에 매핑한 프로젝트입니다. SOC, 위협 헌팅, 인시던트 대응처럼 절차가 중요한 보안 업무를 에이전트에게 맡길 때 참고할 수 있습니다.",
+    "useCasesKo": [
+      "보안 분석 스킬",
+      "위협 헌팅",
+      "인시던트 대응",
+      "프레임워크 매핑"
     ],
+    "audienceKo": [
+      "보안 담당자",
+      "SOC 분석가",
+      "에이전트 스킬 제작자"
+    ],
+    "tagsKo": [
+      "보안",
+      "스킬",
+      "MITRE ATT&CK",
+      "NIST"
+    ],
+    "riskNoteKo": "",
     "sourceDescription": "754 structured cybersecurity skills mapped to MITRE ATT&CK, NIST CSF 2.0, ATLAS, D3FEND & NIST AI RMF",
     "sourceHash": "79311301faae940443bdf16e5ab5e7b6530115661c935d26bd57e9986fac3c22",
     "localizedAt": "2026-05-02T01:30:24.660Z",
-    "localizationStatus": "machine_review_needed"
+    "localizationStatus": "human_reviewed"
   },
   {
     "id": "conorbronsdon/avoid-ai-writing",
@@ -270,6 +327,7 @@
     "tagsKo": [
       "스킬·레지스트리"
     ],
+    "riskNoteKo": "",
     "sourceDescription": "Audits and rewrites content to eliminate detectable AI writing patterns",
     "sourceHash": "41233f388f64f0e00a2596824499d9b10987f58bb488d51e32224ebcfe1db2f7",
     "localizedAt": "2026-05-02T01:30:24.660Z",
@@ -293,6 +351,7 @@
     "tagsKo": [
       "스킬·레지스트리"
     ],
+    "riskNoteKo": "",
     "sourceDescription": "Cross-platform skills library for Claude Code and agentskills.io-compatible agents",
     "sourceHash": "15d81a5477da3edf9275b1d2045206e8ba7c0d5378269db4a3d755732cec3049",
     "localizedAt": "2026-05-02T01:30:24.660Z",
@@ -316,6 +375,7 @@
     "tagsKo": [
       "스킬·레지스트리"
     ],
+    "riskNoteKo": "",
     "sourceDescription": "Type-safe agentskills.io support with progressive disclosure for Pydantic AI",
     "sourceHash": "31f0eca5b4101163fefd141ed10ae6203e328288c13d09d389e02f8fa80552dd",
     "localizedAt": "2026-05-02T01:30:24.660Z",
@@ -339,6 +399,7 @@
     "tagsKo": [
       "스킬·레지스트리"
     ],
+    "riskNoteKo": "",
     "sourceDescription": "Generate draw.io diagrams from natural language descriptions",
     "sourceHash": "abe13107f0d8a40780b09392c2a7eb164c14b1c47aa4ca8089fa388666b4140d",
     "localizedAt": "2026-05-02T01:30:24.660Z",
@@ -362,6 +423,7 @@
     "tagsKo": [
       "스킬·레지스트리"
     ],
+    "riskNoteKo": "",
     "sourceDescription": "Oracle network and smart contract interaction skills (agentskills.io spec)",
     "sourceHash": "64a1f7dc543f1dab3e65249c3ce793a89096b208972aae99bb50959b8f1cacae",
     "localizedAt": "2026-05-02T01:30:24.660Z",
@@ -385,6 +447,7 @@
     "tagsKo": [
       "스킬·레지스트리"
     ],
+    "riskNoteKo": "",
     "sourceDescription": "Literate programming skill — weave code and documentation across agents",
     "sourceHash": "b528a7173f7f551c26c6b4631c16ed51da1a3aeeeb8106c3fe42e9b86c5ad936",
     "localizedAt": "2026-05-02T01:30:24.660Z",
@@ -408,6 +471,7 @@
     "tagsKo": [
       "스킬·레지스트리"
     ],
+    "riskNoteKo": "",
     "sourceDescription": "Self-memory and replacement models — remember your work, train your replacement",
     "sourceHash": "6fd75ebc059aae4ec46b9835d7855e4cfb4a6cdee243e991169e96f6ccc988b7",
     "localizedAt": "2026-05-02T01:30:24.660Z",
@@ -431,6 +495,7 @@
     "tagsKo": [
       "스킬·레지스트리"
     ],
+    "riskNoteKo": "",
     "sourceDescription": "Registry of reusable AI skills based on AgentSkills specification",
     "sourceHash": "960d3d5d801010fbc508445ed059b5911df34bd8ef617737ce6724335f33633e",
     "localizedAt": "2026-05-02T01:30:24.660Z",
@@ -454,6 +519,7 @@
     "tagsKo": [
       "스킬·레지스트리"
     ],
+    "riskNoteKo": "",
     "sourceDescription": "Official FLUX image generation skills — prompting guidelines and API integration",
     "sourceHash": "28282f9f0ab09fb20894e9f66584b5cc57417e71f7ffa75fdccf51573c493c2e",
     "localizedAt": "2026-05-02T01:30:24.660Z",
@@ -477,6 +543,7 @@
     "tagsKo": [
       "스킬·레지스트리"
     ],
+    "riskNoteKo": "",
     "sourceDescription": "Meta-skill plugin that watches workflows and auto-generates reusable skills",
     "sourceHash": "c45243250e58b015331807baa0c5b32b8460c4a503b003cadc442d70004ef5a0",
     "localizedAt": "2026-05-02T01:30:24.660Z",
@@ -500,6 +567,7 @@
     "tagsKo": [
       "스킬·레지스트리"
     ],
+    "riskNoteKo": "",
     "sourceDescription": "Harness for long-running AI agents — structured memory, cross-feature learning, plan-approve-execute",
     "sourceHash": "f9dc24d61ef11a47cdeb15a899c37a820b3246b470ebf4d3c459d14a0819a264",
     "localizedAt": "2026-05-02T01:30:24.660Z",
@@ -523,6 +591,7 @@
     "tagsKo": [
       "스킬·레지스트리"
     ],
+    "riskNoteKo": "",
     "sourceDescription": "Complex multi-step task execution with checkpoints and recovery",
     "sourceHash": "479bb5d3f3bba28108ef848bb7fe90f7d7eed550bca5dab1aab12d9a184b900d",
     "localizedAt": "2026-05-02T01:30:24.660Z",
@@ -546,6 +615,7 @@
     "tagsKo": [
       "스킬·레지스트리"
     ],
+    "riskNoteKo": "",
     "sourceDescription": "Progressive MCP client with three-layer lazy loading — validates agentskills.io pattern",
     "sourceHash": "99d046baf5b7523c3eb2fa0ca63d4a5a217ace08ad99e88aed2e9f851d9acf7f",
     "localizedAt": "2026-05-02T01:30:24.660Z",
@@ -569,6 +639,7 @@
     "tagsKo": [
       "스킬·레지스트리"
     ],
+    "riskNoteKo": "",
     "sourceDescription": "Converts repos, docs, and developer discourse into agentskills.io-compliant skills",
     "sourceHash": "1fec2ba6132bd421f9cda347ff432afc9e275499c3ab6429afae4d88fccd5c60",
     "localizedAt": "2026-05-02T01:30:24.660Z",
@@ -592,6 +663,7 @@
     "tagsKo": [
       "스킬·레지스트리"
     ],
+    "riskNoteKo": "",
     "sourceDescription": "Community skill browsing, search, and one-click installation hub",
     "sourceHash": "d7d1d011cf8c42c54b1002ebd06bd2b4040e80952b7fcc83fc73b1c7f4f7c4ab",
     "localizedAt": "2026-05-02T01:30:24.660Z",
@@ -615,6 +687,7 @@
     "tagsKo": [
       "스킬·레지스트리"
     ],
+    "riskNoteKo": "",
     "sourceDescription": "C# / .NET implementation of agentskills.io with MCP integration",
     "sourceHash": "5f97a0293d764acf34e7d8812f677f796fd559b8c6795ca87aeee9387da8bf8a",
     "localizedAt": "2026-05-02T01:30:24.660Z",
@@ -631,17 +704,28 @@
     "category": "Memory & Context",
     "categoryKo": "메모리·컨텍스트",
     "categoryDescriptionKo": "세션을 넘어 기억하고, 검색하고, 맥락을 유지하게 해주는 메모리 계층입니다.",
-    "oneLineKo": "mem0ai/mem0는 Hermes 생태계의 메모리·컨텍스트 영역에 속한 프로젝트입니다.",
-    "summaryKo": "mem0ai/mem0는 Hermes 생태계의 메모리·컨텍스트 영역에 속한 프로젝트입니다. 상세 설명은 원문 설명과 GitHub 링크를 함께 확인하세요.",
-    "useCasesKo": [],
-    "audienceKo": [],
-    "tagsKo": [
-      "메모리·컨텍스트"
+    "oneLineKo": "AI 에이전트를 위한 범용 메모리 계층으로, Hermes Agent의 공식 메모리 provider 중 하나입니다.",
+    "summaryKo": "mem0는 에이전트가 사용자 정보와 과거 상호작용을 기억하게 해주는 메모리 계층입니다. 관리형 클라우드로 쓰거나 Apache-2.0 기반 오픈소스로 직접 운영할 수 있습니다. Hermes를 장기 기억 중심으로 쓰려는 경우 우선 검토할 만한 프로젝트입니다.",
+    "useCasesKo": [
+      "장기 사용자 메모리",
+      "에이전트 개인화",
+      "셀프호스팅 메모리 백엔드"
     ],
+    "audienceKo": [
+      "AI 앱 개발자",
+      "에이전트 서비스 운영자"
+    ],
+    "tagsKo": [
+      "메모리",
+      "개인화",
+      "셀프호스팅",
+      "provider"
+    ],
+    "riskNoteKo": "",
     "sourceDescription": "Universal memory layer for AI Agents — official Hermes Agent memory provider, available as managed cloud or Apache-2.0 self-hosted OSS",
     "sourceHash": "6fc59c9bd25b3a1fa47429abf119f6ff17367a9daef7d52b81dd946633e823f3",
     "localizedAt": "2026-05-02T01:30:37.266Z",
-    "localizationStatus": "machine_review_needed"
+    "localizationStatus": "human_reviewed"
   },
   {
     "id": "vectorize-io/hindsight",
@@ -654,17 +738,28 @@
     "category": "Memory & Context",
     "categoryKo": "메모리·컨텍스트",
     "categoryDescriptionKo": "세션을 넘어 기억하고, 검색하고, 맥락을 유지하게 해주는 메모리 계층입니다.",
-    "oneLineKo": "vectorize-io/hindsight는 Hermes 생태계의 메모리·컨텍스트 영역에 속한 공식 프로젝트입니다.",
-    "summaryKo": "vectorize-io/hindsight는 Hermes 생태계의 메모리·컨텍스트 영역에 속한 공식 프로젝트입니다. 상세 설명은 원문 설명과 GitHub 링크를 함께 확인하세요.",
-    "useCasesKo": [],
-    "audienceKo": [],
-    "tagsKo": [
-      "메모리·컨텍스트"
+    "oneLineKo": "에이전트가 경험을 저장하고 회상하며 반성하도록 돕는 장기 메모리 시스템입니다.",
+    "summaryKo": "Hindsight는 retain, recall, reflect 흐름을 통해 에이전트가 장기적으로 학습하는 구조를 제공합니다. 단순 대화 저장소보다, 작업 결과를 다시 불러오고 개선 루프에 활용하는 메모리 계층에 가깝습니다. Hermes의 자기개선 개념과 잘 맞는 메모리 후보입니다.",
+    "useCasesKo": [
+      "장기 작업 기억",
+      "회고 기반 개선",
+      "에이전트 학습 루프"
     ],
+    "audienceKo": [
+      "에이전트 빌더",
+      "메모리 시스템 개발자"
+    ],
+    "tagsKo": [
+      "메모리",
+      "회상",
+      "반성",
+      "장기학습"
+    ],
+    "riskNoteKo": "",
     "sourceDescription": "Agent memory that learns — long-term retain/recall/reflect workflows",
     "sourceHash": "3ffdfb55619bd8e397c8544f686ca2705bdcae28eb34d1dee1a3fc16fc645d79",
     "localizedAt": "2026-05-02T01:30:24.660Z",
-    "localizationStatus": "machine_review_needed"
+    "localizationStatus": "human_reviewed"
   },
   {
     "id": "greyhaven-ai/autocontext",
@@ -684,6 +779,7 @@
     "tagsKo": [
       "메모리·컨텍스트"
     ],
+    "riskNoteKo": "",
     "sourceDescription": "Recursive self-improving context harness — helps agents succeed on complex tasks",
     "sourceHash": "ee6db88cf7e640cda0f9bd1d1d99f784d9b260ea1ad7193c0c76a0194f6da3c8",
     "localizedAt": "2026-05-02T01:30:24.660Z",
@@ -707,6 +803,7 @@
     "tagsKo": [
       "메모리·컨텍스트"
     ],
+    "riskNoteKo": "",
     "sourceDescription": "Self-hosted Honcho memory backend for cross-session persistence",
     "sourceHash": "5831375d4380322d38e14105b5ad7d6dbbfe33812ddd03d1125d03cf424c2a29",
     "localizedAt": "2026-05-02T01:30:24.660Z",
@@ -730,6 +827,7 @@
     "tagsKo": [
       "메모리·컨텍스트"
     ],
+    "riskNoteKo": "",
     "sourceDescription": "On-device memory and context engine for agents — local-first, no cloud dependencies",
     "sourceHash": "fa738662e60ad0efb66cf1dc1d538c8a6460b5b7e1914da9f2329fb991a3b9b0",
     "localizedAt": "2026-05-02T01:30:24.661Z",
@@ -753,6 +851,7 @@
     "tagsKo": [
       "메모리·컨텍스트"
     ],
+    "riskNoteKo": "",
     "sourceDescription": "Shared memory layer with open engram YAML format for multi-agent systems",
     "sourceHash": "c16f3ebcf0266033c85123e92f9c20781f867bf35ca510fab1e2d768bd48a2f9",
     "localizedAt": "2026-05-02T01:30:24.661Z",
@@ -776,6 +875,7 @@
     "tagsKo": [
       "메모리·컨텍스트"
     ],
+    "riskNoteKo": "",
     "sourceDescription": "Anticipatory memory with RAG and vector search — Hermes 2026 Hackathon entry",
     "sourceHash": "1a527427ca21127bc0590819cc5c944f6e4612aaac7885d728e58817fdffe415",
     "localizedAt": "2026-05-02T01:30:24.661Z",
@@ -799,6 +899,7 @@
     "tagsKo": [
       "플러그인·확장"
     ],
+    "riskNoteKo": "",
     "sourceDescription": "Multi-provider web search (Serper, Tavily, Exa, Querit, Perplexity) with auto-routing",
     "sourceHash": "6e37ba8f62250ddf63394615ffac814cfc581a9f17cbf11dd99f7980865477e0",
     "localizedAt": "2026-05-02T01:30:24.661Z",
@@ -822,6 +923,7 @@
     "tagsKo": [
       "플러그인·확장"
     ],
+    "riskNoteKo": "",
     "sourceDescription": "Goal management, inter-agent bridge, model selection, and cost control plugins",
     "sourceHash": "02afac2c8ee56c2f011d1f395c5cf1963b8edf991852001418a0360fd8d99fe6",
     "localizedAt": "2026-05-02T01:30:24.661Z",
@@ -845,6 +947,7 @@
     "tagsKo": [
       "플러그인·확장"
     ],
+    "riskNoteKo": "",
     "sourceDescription": "NWS-grade model imagery, NEXRAD radar, and verified meteorological calculations. Pure Rust.",
     "sourceHash": "1390067d3dfa295a62952c61f67dbccb71c6e46b00bc8a6fc99fc2826864f07e",
     "localizedAt": "2026-05-02T01:30:24.661Z",
@@ -868,6 +971,7 @@
     "tagsKo": [
       "플러그인·확장"
     ],
+    "riskNoteKo": "",
     "sourceDescription": "Claude Code and Hermes context sharing bridge — auto-checks messages, Mother Mode loop",
     "sourceHash": "2f327d23875a15b3660c4126355aeaa8b17de52bfc44d64a9146617303a89b57",
     "localizedAt": "2026-05-02T01:30:24.661Z",
@@ -891,6 +995,7 @@
     "tagsKo": [
       "플러그인·확장"
     ],
+    "riskNoteKo": "",
     "sourceDescription": "Safe-by-design USDC and x402 payment plugin for Hermes Agent",
     "sourceHash": "81ec50a4476b188a2f4df9133dec590224a34fba2ece902eb61bc83fd9560207",
     "localizedAt": "2026-05-02T01:30:24.661Z",
@@ -914,6 +1019,7 @@
     "tagsKo": [
       "플러그인·확장"
     ],
+    "riskNoteKo": "",
     "sourceDescription": "Cloudflare Browser Rendering plugin — crawl, scrape, extract content from web pages",
     "sourceHash": "fe95ba323b87200b61fbebc24be00e33198eb0606ee90dc364d4dd3f75d1d61e",
     "localizedAt": "2026-05-02T01:30:24.661Z",
@@ -930,17 +1036,28 @@
     "category": "Multi-Agent & Orchestration",
     "categoryKo": "멀티 에이전트·오케스트레이션",
     "categoryDescriptionKo": "여러 에이전트를 역할별로 나누고 함께 실행하는 오케스트레이션 도구입니다.",
-    "oneLineKo": "builderz-labs/mission-control는 Hermes 생태계의 멀티 에이전트·오케스트레이션 영역에 속한 프로젝트입니다.",
-    "summaryKo": "builderz-labs/mission-control는 Hermes 생태계의 멀티 에이전트·오케스트레이션 영역에 속한 프로젝트입니다. 상세 설명은 원문 설명과 GitHub 링크를 함께 확인하세요.",
-    "useCasesKo": [],
-    "audienceKo": [],
-    "tagsKo": [
-      "멀티 에이전트·오케스트레이션"
+    "oneLineKo": "여러 AI 에이전트 작업을 배정하고 실행 비용까지 관리하는 셀프호스팅 오케스트레이션 도구입니다.",
+    "summaryKo": "mission-control은 멀티 에이전트 작업을 dispatch하고 workflow로 묶어 실행하며 spend를 모니터링하는 도구입니다. 단일 Hermes 세션을 넘어 여러 에이전트에게 일을 나누고 운영 관점에서 통제하려는 경우 볼 만합니다.",
+    "useCasesKo": [
+      "멀티 에이전트 운영",
+      "작업 분배",
+      "비용 모니터링"
     ],
+    "audienceKo": [
+      "에이전트 운영자",
+      "자동화 팀"
+    ],
+    "tagsKo": [
+      "오케스트레이션",
+      "멀티 에이전트",
+      "셀프호스팅",
+      "비용관리"
+    ],
+    "riskNoteKo": "",
     "sourceDescription": "Self-hosted AI agent orchestration — dispatch tasks, run multi-agent workflows, monitor spend",
     "sourceHash": "0c3e07e8c66c860340b9bae095e3c838821db5c9d9ae1e84efd7095b7c4a2672",
     "localizedAt": "2026-05-02T01:30:24.661Z",
-    "localizationStatus": "machine_review_needed"
+    "localizationStatus": "human_reviewed"
   },
   {
     "id": "swarmclawai/swarmclaw",
@@ -960,6 +1077,7 @@
     "tagsKo": [
       "멀티 에이전트·오케스트레이션"
     ],
+    "riskNoteKo": "",
     "sourceDescription": "Build autonomous AI agent swarms with orchestration, skills, and multiple model providers",
     "sourceHash": "34524733a302f768531d1190cc1e8b43e77da8a0bd0f34bef5d7d4a0c2230e10",
     "localizedAt": "2026-05-02T01:30:24.661Z",
@@ -983,6 +1101,7 @@
     "tagsKo": [
       "멀티 에이전트·오케스트레이션"
     ],
+    "riskNoteKo": "",
     "sourceDescription": "Meta-harness for Hermes Agent — meta-optimization with arxiv paper reference",
     "sourceHash": "d8c5ec7fea36150a849e0975092e3456bb487e6c2d1f2c51fbfebf162e6ef314",
     "localizedAt": "2026-05-02T01:30:24.661Z",
@@ -1006,6 +1125,7 @@
     "tagsKo": [
       "멀티 에이전트·오케스트레이션"
     ],
+    "riskNoteKo": "",
     "sourceDescription": "Autonomous AI companies competing for GitHub stars — agent-vs-agent arena",
     "sourceHash": "f73574ded8e871a93cb442619105cd8738728c9fdc8f7a3a60842e00c8d9a5ba",
     "localizedAt": "2026-05-02T01:30:24.661Z",
@@ -1029,6 +1149,7 @@
     "tagsKo": [
       "멀티 에이전트·오케스트레이션"
     ],
+    "riskNoteKo": "",
     "sourceDescription": "17 specialized agents for research, planning, implementation, quality, and infrastructure",
     "sourceHash": "22154d8b8ba25a10fb33aef4b0ec56b2fc4620eb1a280dcda2cf70bd381447f8",
     "localizedAt": "2026-05-02T01:30:24.661Z",
@@ -1052,6 +1173,7 @@
     "tagsKo": [
       "멀티 에이전트·오케스트레이션"
     ],
+    "riskNoteKo": "",
     "sourceDescription": "AI-native SDLC — Hermes Agent + Supermodel code graph, graph-gated at every phase",
     "sourceHash": "6dfe8fb65804894eca4e52812d81fcffcb067b3dd0466befa16be704b29f570d",
     "localizedAt": "2026-05-02T01:30:24.661Z",
@@ -1075,6 +1197,7 @@
     "tagsKo": [
       "멀티 에이전트·오케스트레이션"
     ],
+    "riskNoteKo": "",
     "sourceDescription": "ACP-style multi-agent delegation — routes tasks to Hermes, Codex, or Claude Code",
     "sourceHash": "bdee8845c8568bc0e516c425c71155a4acdee2351b9deca5ec24ef0e3d2052ca",
     "localizedAt": "2026-05-02T01:30:24.661Z",
@@ -1091,17 +1214,29 @@
     "category": "Deployment & Infra",
     "categoryKo": "배포·인프라",
     "categoryDescriptionKo": "VPS, Docker, Nix, systemd, 클라우드에 Hermes를 배포하기 위한 인프라입니다.",
-    "oneLineKo": "numtide/llm-agents.nix는 Hermes 생태계의 배포·인프라 영역에 속한 프로젝트입니다.",
-    "summaryKo": "numtide/llm-agents.nix는 Hermes 생태계의 배포·인프라 영역에 속한 프로젝트입니다. 상세 설명은 원문 설명과 GitHub 링크를 함께 확인하세요.",
-    "useCasesKo": [],
-    "audienceKo": [],
-    "tagsKo": [
-      "배포·인프라"
+    "oneLineKo": "Hermes를 포함한 AI 코딩 에이전트들을 Nix 패키지로 관리하는 배포 프로젝트입니다.",
+    "summaryKo": "llm-agents.nix는 Hermes 같은 AI 코딩 에이전트를 Nix 환경에서 재현 가능하게 설치하고 관리하려는 프로젝트입니다. Nix를 쓰는 개발팀이나 서버 환경에서 에이전트 도구 체인을 일관되게 배포하고 싶을 때 유용합니다.",
+    "useCasesKo": [
+      "Nix 기반 설치",
+      "재현 가능한 개발환경",
+      "에이전트 도구 배포"
     ],
+    "audienceKo": [
+      "Nix 사용자",
+      "DevOps 엔지니어",
+      "개발 인프라 담당자"
+    ],
+    "tagsKo": [
+      "Nix",
+      "배포",
+      "패키지",
+      "개발환경"
+    ],
+    "riskNoteKo": "",
     "sourceDescription": "Nix packages for AI coding agents including Hermes",
     "sourceHash": "194ec2fd4aec070b5f94e9b704d03a1a4fff877767e45fe9e7a2a8d0e8b3c3df",
     "localizedAt": "2026-05-02T01:30:24.661Z",
-    "localizationStatus": "machine_review_needed"
+    "localizationStatus": "human_reviewed"
   },
   {
     "id": "TheAiSingularity/hermesclaw",
@@ -1121,6 +1256,7 @@
     "tagsKo": [
       "배포·인프라"
     ],
+    "riskNoteKo": "",
     "sourceDescription": "Hermes Agent sandboxed with hardware-level enforcement",
     "sourceHash": "6f19610365026339307127770e5972222c988d7a5429329a462f72f4d8931470",
     "localizedAt": "2026-05-02T01:30:24.661Z",
@@ -1144,6 +1280,7 @@
     "tagsKo": [
       "배포·인프라"
     ],
+    "riskNoteKo": "",
     "sourceDescription": "Nix package and NixOS module for reproducible Hermes deployment",
     "sourceHash": "ec9b60aa82988ed4d8a4e8e2482ca81c063cde6a8da113f3c6adaa143a3a4628",
     "localizedAt": "2026-05-02T01:30:24.661Z",
@@ -1167,6 +1304,7 @@
     "tagsKo": [
       "배포·인프라"
     ],
+    "riskNoteKo": "",
     "sourceDescription": "Windows desktop agent — 100 tools, GUI, local models, TTS, ComfyUI. No install, no Docker.",
     "sourceHash": "12543417d628cac0be75b5bbf8353b6585411670f7e1000b940670cb98b92d66",
     "localizedAt": "2026-05-02T01:30:24.661Z",
@@ -1190,6 +1328,7 @@
     "tagsKo": [
       "배포·인프라"
     ],
+    "riskNoteKo": "",
     "sourceDescription": "Simple Docker sandbox image for Hermes Agent",
     "sourceHash": "2ea20913f0b46e4af29b1c049d80b25c6c39e6746025346542448a6dc08fc3e6",
     "localizedAt": "2026-05-02T01:30:24.661Z",
@@ -1213,6 +1352,7 @@
     "tagsKo": [
       "배포·인프라"
     ],
+    "riskNoteKo": "",
     "sourceDescription": "Headless systemd deployment with Nous Portal integration — production-ready",
     "sourceHash": "8aeb5d172c635aa6e6e93c6cc378260341aa0039b1e3746cfda728a83a9d60dc",
     "localizedAt": "2026-05-02T01:30:24.661Z",
@@ -1236,6 +1376,7 @@
     "tagsKo": [
       "배포·인프라"
     ],
+    "riskNoteKo": "",
     "sourceDescription": "Docker Compose stack with Portainer UI and ttyd web terminal",
     "sourceHash": "1a4ae74e6f89e0db877c7e246c4bfeb07224853c00d780c501dab7ca0ccad21b",
     "localizedAt": "2026-05-02T01:30:24.661Z",
@@ -1259,6 +1400,7 @@
     "tagsKo": [
       "통합·브리지"
     ],
+    "riskNoteKo": "",
     "sourceDescription": "Android device control — bridge app + Python toolset for mobile automation",
     "sourceHash": "2992ac14cbc770afbb2413cc1f77d1f9f04ab17a423530368454d42a5b9ae245",
     "localizedAt": "2026-05-02T01:30:24.661Z",
@@ -1282,6 +1424,7 @@
     "tagsKo": [
       "통합·브리지"
     ],
+    "riskNoteKo": "",
     "sourceDescription": "Bridge Hermes to Miniverse pixel worlds — agent embodiment in virtual environments",
     "sourceHash": "c67416ccf8d4181a5bfe534fc93fa3216bbadc8d1624df53355c32d28cb02d7e",
     "localizedAt": "2026-05-02T01:30:24.661Z",
@@ -1305,6 +1448,7 @@
     "tagsKo": [
       "통합·브리지"
     ],
+    "riskNoteKo": "",
     "sourceDescription": "Adversarial multi-perspective council MCP server for decision-making",
     "sourceHash": "405df9345273579cf91aabbcd82926ddf5c21f7bac9e906c8f67454678c1faea",
     "localizedAt": "2026-05-02T01:30:24.661Z",
@@ -1328,6 +1472,7 @@
     "tagsKo": [
       "통합·브리지"
     ],
+    "riskNoteKo": "",
     "sourceDescription": "Claude Code and Hermes task handoff bridge for zo-swarm-orchestrator",
     "sourceHash": "d259452107411d331e7da553ad0c9113a5b29fc79cba29c6b71c1641204ccc22",
     "localizedAt": "2026-05-02T01:30:24.661Z",
@@ -1351,6 +1496,7 @@
     "tagsKo": [
       "통합·브리지"
     ],
+    "riskNoteKo": "",
     "sourceDescription": "Solana blockchain intelligence MCP server — wallets, whales, tokens, NFTs, network health",
     "sourceHash": "e8d0f6103bf420660ae9a296dbcba25c9f8b8a2c8c01d5cc2a6490c64b66a542",
     "localizedAt": "2026-05-02T01:30:24.661Z",
@@ -1367,17 +1513,29 @@
     "category": "Developer Tools",
     "categoryKo": "개발자 도구",
     "categoryDescriptionKo": "Hermes 개발과 운영을 편하게 만드는 CLI, 린터, 마이그레이션, 유틸리티입니다.",
-    "oneLineKo": "junhoyeo/tokscale는 Hermes 생태계의 개발자 도구 영역에 속한 프로젝트입니다.",
-    "summaryKo": "junhoyeo/tokscale는 Hermes 생태계의 개발자 도구 영역에 속한 프로젝트입니다. 상세 설명은 원문 설명과 GitHub 링크를 함께 확인하세요.",
-    "useCasesKo": [],
-    "audienceKo": [],
-    "tagsKo": [
-      "개발자 도구"
+    "oneLineKo": "Claude Code, Hermes, Codex, Gemini 등의 토큰 사용량을 추적하는 CLI 도구입니다.",
+    "summaryKo": "tokscale은 여러 AI 코딩 에이전트와 모델 사용량을 CLI에서 추적하는 도구입니다. Hermes뿐 아니라 Claude Code, OpenClaw, Codex, Gemini 같은 도구를 함께 쓰는 환경에서 비용과 사용량을 파악하는 데 유용합니다.",
+    "useCasesKo": [
+      "토큰 사용량 추적",
+      "비용 관리",
+      "멀티 에이전트 사용량 비교"
     ],
+    "audienceKo": [
+      "AI 도구 파워유저",
+      "팀 관리자",
+      "개발자"
+    ],
+    "tagsKo": [
+      "CLI",
+      "토큰",
+      "비용관리",
+      "사용량"
+    ],
+    "riskNoteKo": "",
     "sourceDescription": "CLI tool for tracking token usage from Claude Code, OpenClaw, Hermes, Codex, Gemini, and more",
     "sourceHash": "a803974ded42c9cf8d8b1417875ae2d1c5e7fcec465f9cdc490b9b55b185fda5",
     "localizedAt": "2026-05-02T01:30:24.661Z",
-    "localizationStatus": "machine_review_needed"
+    "localizationStatus": "human_reviewed"
   },
   {
     "id": "joeynyc/hermes-skins",
@@ -1397,6 +1555,7 @@
     "tagsKo": [
       "개발자 도구"
     ],
+    "riskNoteKo": "",
     "sourceDescription": "Community CLI skins and themes for Hermes terminal UI",
     "sourceHash": "4b5625300174986e8b44ac719ce985a76367c58e30464f81e81afc32e3a04661",
     "localizedAt": "2026-05-02T01:30:24.661Z",
@@ -1420,6 +1579,7 @@
     "tagsKo": [
       "개발자 도구"
     ],
+    "riskNoteKo": "",
     "sourceDescription": "Hermes Agent ported to Claude Code Channel — 46 native skills, no OAuth, no external process",
     "sourceHash": "79b12c9f3a07ce1823dcf97d7bb6f8070bd53571905870a8964991ec476e0443",
     "localizedAt": "2026-05-02T01:30:24.661Z",
@@ -1443,6 +1603,7 @@
     "tagsKo": [
       "개발자 도구"
     ],
+    "riskNoteKo": "",
     "sourceDescription": "AI-native browser built for autonomous agent control via MCP",
     "sourceHash": "e715c794777933a7f6fbb847b997694a7430841f24567ea43decd09c8dd828e2",
     "localizedAt": "2026-05-02T01:30:24.661Z",
@@ -1466,6 +1627,7 @@
     "tagsKo": [
       "개발자 도구"
     ],
+    "riskNoteKo": "",
     "sourceDescription": "TAW Agent framework for creating scoped Hermes Agents",
     "sourceHash": "4646262babfa3a7a3d7d6c59e8c0aaed1285a6e120e0e1fdbcdfe7518a9461e7",
     "localizedAt": "2026-05-02T01:30:24.661Z",
@@ -1489,6 +1651,7 @@
     "tagsKo": [
       "개발자 도구"
     ],
+    "riskNoteKo": "",
     "sourceDescription": "Static linter for AI agent configs, tool descriptions, and system prompts. HERM v1.1 scoring.",
     "sourceHash": "5eb6cb8d9d9811e58a4bf8d9f5e0e62a23fdfd1956aeb071bc5659688e8edcab",
     "localizedAt": "2026-05-02T01:30:24.661Z",
@@ -1512,6 +1675,7 @@
     "tagsKo": [
       "개발자 도구"
     ],
+    "riskNoteKo": "",
     "sourceDescription": "Migration tool from OpenClaw to Hermes Agent",
     "sourceHash": "2e881c39433bc6402361d8a238e7cc21853e2bf15fd9967f5c616ea3ae2008ae",
     "localizedAt": "2026-05-02T01:30:24.661Z",
@@ -1535,6 +1699,7 @@
     "tagsKo": [
       "개발자 도구"
     ],
+    "riskNoteKo": "",
     "sourceDescription": "Get a hermes-agent stack running in minutes — free models, 29 plugins, zero cost",
     "sourceHash": "11745dc3524b7489752352c048a2f73e7e0e6001d642d003122104ea57b52aed",
     "localizedAt": "2026-05-02T01:30:24.661Z",
@@ -1558,6 +1723,7 @@
     "tagsKo": [
       "도메인 앱"
     ],
+    "riskNoteKo": "",
     "sourceDescription": "Decision infrastructure with guard policies and risk assessment for agents",
     "sourceHash": "727fbc096ea4fc6027b7ea5b0a55fd8beb63c12974da286d0a4222ebc6fd1a98",
     "localizedAt": "2026-05-02T01:30:24.661Z",
@@ -1581,6 +1747,7 @@
     "tagsKo": [
       "도메인 앱"
     ],
+    "riskNoteKo": "",
     "sourceDescription": "Autonomous SRE agent — detects, heals, and learns from production incidents",
     "sourceHash": "40145ece1592322f535fb05aa09441e910a68f27c21c79daf4afedaa1cab635a",
     "localizedAt": "2026-05-02T01:30:24.661Z",
@@ -1604,6 +1771,7 @@
     "tagsKo": [
       "도메인 앱"
     ],
+    "riskNoteKo": "",
     "sourceDescription": "Autonomous job hunting — scans listings, writes cover letters, tracks applications",
     "sourceHash": "f891635e67a270a24bd7bc8c1f45892d2ffed29f211d7164b75a52909da24452",
     "localizedAt": "2026-05-02T01:30:24.661Z",
@@ -1627,6 +1795,7 @@
     "tagsKo": [
       "도메인 앱"
     ],
+    "riskNoteKo": "",
     "sourceDescription": "Local anime server and tracker via natural language for Hermes Agent",
     "sourceHash": "2a9482465d49e7703ee5deaa283992d35b38bf6e72b71a9cd6820146d8026790",
     "localizedAt": "2026-05-02T01:30:24.661Z",
@@ -1650,6 +1819,7 @@
     "tagsKo": [
       "도메인 앱"
     ],
+    "riskNoteKo": "",
     "sourceDescription": "Autonomous monitoring — cron-based research ingestion, cost forecasting, headless systemd",
     "sourceHash": "23cc67830de14d517415b30174db6ed0361257f18f8a2e499801a6aabc4dd01e",
     "localizedAt": "2026-05-02T01:30:24.661Z",
@@ -1673,6 +1843,7 @@
     "tagsKo": [
       "도메인 앱"
     ],
+    "riskNoteKo": "",
     "sourceDescription": "Embodied AI companion for Minecraft — persistent memory, vision, learning, multi-agent",
     "sourceHash": "3a74da2f13276e3118675a417b2dfd441db24f70a23b0633583018c6e38cd5f8",
     "localizedAt": "2026-05-02T01:30:24.661Z",
@@ -1696,6 +1867,7 @@
     "tagsKo": [
       "도메인 앱"
     ],
+    "riskNoteKo": "",
     "sourceDescription": "Blockchain cash flow analyzer — multi-chain analysis, fraud detection, WebGL dashboard",
     "sourceHash": "2eafb0b426b88d5ea42ccdab3971dfae0d6dc407331cb9a53a1cb33f827585a7",
     "localizedAt": "2026-05-02T01:30:24.661Z",
@@ -1719,6 +1891,7 @@
     "tagsKo": [
       "도메인 앱"
     ],
+    "riskNoteKo": "",
     "sourceDescription": "Self-improving robotics via VLA model fine-tuning on cloud GPUs",
     "sourceHash": "a2a985c6a42b641306ebd478ceb9960ce453584ac2f593c756c2e39d0e71eee8",
     "localizedAt": "2026-05-02T01:30:24.661Z",
@@ -1735,17 +1908,29 @@
     "category": "Guides & Docs",
     "categoryKo": "가이드·문서",
     "categoryDescriptionKo": "설치, 운영, 최적화, 비교, 커뮤니티 지식을 정리한 문서와 가이드입니다.",
-    "oneLineKo": "0xNyk/awesome-hermes-agent는 Hermes 생태계의 가이드·문서 영역에 속한 프로젝트입니다.",
-    "summaryKo": "0xNyk/awesome-hermes-agent는 Hermes 생태계의 가이드·문서 영역에 속한 프로젝트입니다. 상세 설명은 원문 설명과 GitHub 링크를 함께 확인하세요.",
-    "useCasesKo": [],
-    "audienceKo": [],
-    "tagsKo": [
-      "가이드·문서"
+    "oneLineKo": "Hermes Agent 관련 스킬, 도구, 통합, 자료를 모아둔 curated awesome list입니다.",
+    "summaryKo": "awesome-hermes-agent는 Hermes 생태계 자료를 빠르게 훑기 좋은 링크 모음입니다. 특정 구현체라기보다, 어떤 스킬과 도구, 통합이 있는지 탐색할 때 출발점으로 쓰기 좋습니다.",
+    "useCasesKo": [
+      "생태계 탐색",
+      "자료 모음",
+      "프로젝트 발견"
     ],
+    "audienceKo": [
+      "Hermes 입문자",
+      "큐레이터",
+      "콘텐츠 제작자"
+    ],
+    "tagsKo": [
+      "awesome list",
+      "가이드",
+      "자료모음",
+      "탐색"
+    ],
+    "riskNoteKo": "",
     "sourceDescription": "Curated list of awesome skills, tools, integrations, and resources for Hermes Agent",
     "sourceHash": "6a2aa3cb76c058cc28cb6a4fd67e6946cd3f1943915f65e018b539566b580a22",
     "localizedAt": "2026-05-02T01:30:24.661Z",
-    "localizationStatus": "machine_review_needed"
+    "localizationStatus": "human_reviewed"
   },
   {
     "id": "alchaincyf/hermes-agent-orange-book",
@@ -1765,6 +1950,7 @@
     "tagsKo": [
       "가이드·문서"
     ],
+    "riskNoteKo": "",
     "sourceDescription": "Hermes Agent practical guide — Orange Book series (Chinese language)",
     "sourceHash": "e08f8f67d0bc26340f1fee0b7ef3df33af4b1fdfed2f394b5b73a6aaf7f41aa7",
     "localizedAt": "2026-05-02T01:30:24.661Z",
@@ -1788,6 +1974,7 @@
     "tagsKo": [
       "가이드·문서"
     ],
+    "riskNoteKo": "",
     "sourceDescription": "Performance optimization guide for Hermes deployments",
     "sourceHash": "d75f82fc1bc11a9e8175feb1ed1f8013e74aeea9ff5d8f0894690b2c8ffd6271",
     "localizedAt": "2026-05-02T01:30:24.661Z",
@@ -1811,6 +1998,7 @@
     "tagsKo": [
       "가이드·문서"
     ],
+    "riskNoteKo": "",
     "sourceDescription": "Step-by-step WSL2 Ubuntu setup guide for Windows users",
     "sourceHash": "27ea3ab9a8e6f1a85ce4916fa186403b49262d4e5ef667e7990f30acd346751f",
     "localizedAt": "2026-05-02T01:30:24.661Z",
@@ -1834,6 +2022,7 @@
     "tagsKo": [
       "가이드·문서"
     ],
+    "riskNoteKo": "",
     "sourceDescription": "Community documentation covering deployment patterns and v0.2.0+ workflows",
     "sourceHash": "154e98ab8f8085801977ee96f83ac65aff373ae56362de24d7ce5fba62b3e76e",
     "localizedAt": "2026-05-02T01:30:24.661Z",
@@ -1857,6 +2046,7 @@
     "tagsKo": [
       "가이드·문서"
     ],
+    "riskNoteKo": "",
     "sourceDescription": "Community wiki with deployment patterns and recipes",
     "sourceHash": "e81a7b6574b623f7e19e86793eceeb0ba430f828268bbce8981af191c073bf20",
     "localizedAt": "2026-05-02T01:30:24.661Z",
@@ -1880,6 +2070,7 @@
     "tagsKo": [
       "포크·파생"
     ],
+    "riskNoteKo": "",
     "sourceDescription": "Hermes with integrated CaMeL trust boundaries for safer autonomous execution",
     "sourceHash": "6c0d456f4075492a239841b7f2d24d745b1c1275f52db739ed7bebdbb57478a8",
     "localizedAt": "2026-05-02T01:30:24.661Z",
@@ -1903,6 +2094,7 @@
     "tagsKo": [
       "포크·파생"
     ],
+    "riskNoteKo": "",
     "sourceDescription": "Cloud-deployed Hermes with pre-configured templates and managed infrastructure",
     "sourceHash": "3fcb99e6213044c3240f36c35c417e2fcbbf175dfaa3292df0d68c6502bab46e",
     "localizedAt": "2026-05-02T01:30:24.661Z",
@@ -1926,6 +2118,7 @@
     "tagsKo": [
       "포크·파생"
     ],
+    "riskNoteKo": "",
     "sourceDescription": "Generate agentic training trajectories from real-world tasks for Hermes 4 fine-tuning",
     "sourceHash": "4b2d4f40cdc7d3efcca48c3e6f54a40aba4f975acf64e62a511692b5b7e9b06c",
     "localizedAt": "2026-05-02T01:30:24.661Z",
@@ -1949,6 +2142,7 @@
     "tagsKo": [
       "워크스페이스·GUI"
     ],
+    "riskNoteKo": "",
     "sourceDescription": "A self-hosted web dashboard for the Hermes AI agent stack. Provides a browser-based terminal, file explorer, session overview, cron management, system metrics, and an agent status panel — all behind a",
     "sourceHash": "ca4921f1bd48284a4fe7232955bf05291c53056118adb93e7e8a51f0adaf54d1",
     "localizedAt": "2026-05-02T01:30:24.661Z",
@@ -1972,6 +2166,7 @@
     "tagsKo": [
       "가이드·문서"
     ],
+    "riskNoteKo": "",
     "sourceDescription": "Hermes Atlas — the community map of every tool, skill, and integration for Hermes Agent by Nous Research",
     "sourceHash": "e73b3772b463825d558da1e8475f6be8346a61872f12340a5713850640b93431",
     "localizedAt": "2026-05-02T01:30:24.661Z",
@@ -1995,6 +2190,7 @@
     "tagsKo": [
       "워크스페이스·GUI"
     ],
+    "riskNoteKo": "",
     "sourceDescription": "A native Mac workspace for Hermes: real SSH, real terminal, real session data.",
     "sourceHash": "bb018a21bb7f2a971e41b692bf0b619e4697931fe8ef631a99d98e0846c68b4a",
     "localizedAt": "2026-05-02T01:30:24.661Z",
@@ -2018,6 +2214,7 @@
     "tagsKo": [
       "플러그인·확장"
     ],
+    "riskNoteKo": "",
     "sourceDescription": "The Runtime Security Layer for OpenClaw/Hermes-agent, the essential safety harness for PII & sensitive credentials protection.",
     "sourceHash": "85c67b168e0f727858f7e66012d5c40342ecec59dfa9409ee3529595716b976e",
     "localizedAt": "2026-05-02T01:30:24.661Z",
@@ -2034,17 +2231,29 @@
     "category": "Workspaces & GUIs",
     "categoryKo": "워크스페이스·GUI",
     "categoryDescriptionKo": "웹·데스크톱에서 Hermes를 쓰기 쉽게 만든 화면, 대시보드, 작업 공간입니다.",
-    "oneLineKo": "nesquena/hermes-webui는 Hermes 생태계의 워크스페이스·GUI 영역에 속한 프로젝트입니다.",
-    "summaryKo": "nesquena/hermes-webui는 Hermes 생태계의 워크스페이스·GUI 영역에 속한 프로젝트입니다. 상세 설명은 원문 설명과 GitHub 링크를 함께 확인하세요.",
-    "useCasesKo": [],
-    "audienceKo": [],
-    "tagsKo": [
-      "워크스페이스·GUI"
+    "oneLineKo": "웹과 모바일 브라우저에서 Hermes Agent를 쓰기 위한 Web UI 프로젝트입니다.",
+    "summaryKo": "hermes-webui는 Hermes Agent를 터미널 밖에서 쓰고 싶은 사용자를 위한 웹 인터페이스입니다. 휴대폰이나 브라우저에서 접근하는 사용 경험을 중시하는 프로젝트로, CLI보다 GUI 환경을 선호한다면 먼저 확인할 만합니다.",
+    "useCasesKo": [
+      "웹 기반 Hermes 사용",
+      "모바일 브라우저 접근",
+      "GUI 작업 환경"
     ],
+    "audienceKo": [
+      "비CLI 사용자",
+      "모바일 사용자",
+      "Hermes 입문자"
+    ],
+    "tagsKo": [
+      "웹 UI",
+      "모바일",
+      "GUI",
+      "워크스페이스"
+    ],
+    "riskNoteKo": "",
     "sourceDescription": "Hermes WebUI: The best way to use Hermes Agent from the web or from your phone!",
     "sourceHash": "b6cf926c89caa5868d924f5120cf2700c3982625f8e04c96b1457e0f511a2de7",
     "localizedAt": "2026-05-02T01:30:24.661Z",
-    "localizationStatus": "machine_review_needed"
+    "localizationStatus": "human_reviewed"
   },
   {
     "id": "garrytan/gbrain",
@@ -2057,17 +2266,27 @@
     "category": "Memory & Context",
     "categoryKo": "메모리·컨텍스트",
     "categoryDescriptionKo": "세션을 넘어 기억하고, 검색하고, 맥락을 유지하게 해주는 메모리 계층입니다.",
-    "oneLineKo": "garrytan/gbrain는 Hermes 생태계의 메모리·컨텍스트 영역에 속한 프로젝트입니다.",
-    "summaryKo": "garrytan/gbrain는 Hermes 생태계의 메모리·컨텍스트 영역에 속한 프로젝트입니다. 상세 설명은 원문 설명과 GitHub 링크를 함께 확인하세요.",
-    "useCasesKo": [],
-    "audienceKo": [],
-    "tagsKo": [
-      "메모리·컨텍스트"
+    "oneLineKo": "Garry Tan이 운영하는 OpenClaw/Hermes용 개인 지식 브레인 프로젝트입니다.",
+    "summaryKo": "gbrain은 개인의 지식과 작업 맥락을 에이전트가 활용할 수 있게 정리한 opinionated brain 프로젝트입니다. 일반-purpose 라이브러리라기보다, 실제 사용자가 어떤 방식으로 Hermes/OpenClaw 기억 체계를 구성하는지 참고하기 좋은 사례에 가깝습니다.",
+    "useCasesKo": [
+      "개인 지식 베이스 참고",
+      "메모리 설계 사례 분석"
     ],
+    "audienceKo": [
+      "Hermes 고급 사용자",
+      "개인 자동화 설계자"
+    ],
+    "tagsKo": [
+      "브레인",
+      "메모리",
+      "개인지식",
+      "사례"
+    ],
+    "riskNoteKo": "",
     "sourceDescription": "Garry's Opinionated OpenClaw/Hermes Agent Brain",
     "sourceHash": "d9715d8765a4d3faa9b199b0e892a7331b4497cc8c3fd2aea9fd6859928199e4",
     "localizedAt": "2026-05-02T01:30:24.661Z",
-    "localizationStatus": "machine_review_needed"
+    "localizationStatus": "human_reviewed"
   },
   {
     "id": "pyrate-llama/hermes-ui",
@@ -2087,6 +2306,7 @@
     "tagsKo": [
       "워크스페이스·GUI"
     ],
+    "riskNoteKo": "",
     "sourceDescription": "Glassmorphic web interface for Hermes Agent — your self-hosted AI assistant",
     "sourceHash": "ed2f1f581f187c6e7d538487aa7ac024d718b296548e22b740b1b2ce71ecdcc3",
     "localizedAt": "2026-05-02T01:30:24.661Z",
@@ -2110,6 +2330,7 @@
     "tagsKo": [
       "통합·브리지"
     ],
+    "riskNoteKo": "",
     "sourceDescription": "Hermes Agent plugin for remote controlling Claude Code sessions via Telegram",
     "sourceHash": "a86fc641779cc36cb2667095ac90d04d210abe62e6bcee9409ae38b766880aaa",
     "localizedAt": "2026-05-02T01:30:24.661Z",
@@ -2133,6 +2354,7 @@
     "tagsKo": [
       "통합·브리지"
     ],
+    "riskNoteKo": "",
     "sourceDescription": "Run Hermes Agent and OpenClaw on the same WeChat account",
     "sourceHash": "517ca94b56482f6982c1de9f6632516970c8ca8f8137eaa9d45723ea0adac5d7",
     "localizedAt": "2026-05-02T01:30:24.661Z",
@@ -2156,6 +2378,7 @@
     "tagsKo": [
       "메모리·컨텍스트"
     ],
+    "riskNoteKo": "",
     "sourceDescription": "Lossless Context Management plugin for Hermes Agent — DAG-based context engine that never loses a message",
     "sourceHash": "1644a87394ba171637622fce8ec748d4c59a617350731bc99e19e5e99e433ee5",
     "localizedAt": "2026-05-02T01:30:24.661Z",
@@ -2179,6 +2402,7 @@
     "tagsKo": [
       "통합·브리지"
     ],
+    "riskNoteKo": "",
     "sourceDescription": "Hermes Companion — Android app for Hermes agent platform. Chat, terminal, and device control over WSS.",
     "sourceHash": "1e31a9762513ad3b6b5879c0fdd153cae745b0516066ca346685bfbdc5030c56",
     "localizedAt": "2026-05-02T01:30:24.661Z",
@@ -2202,6 +2426,7 @@
     "tagsKo": [
       "워크스페이스·GUI"
     ],
+    "riskNoteKo": "",
     "sourceDescription": "React SPA dashboard for Telegram Mini App v2.0 — 10-page mobile-first UI. Runs locally.",
     "sourceHash": "38787041345b3984a2e0d4d8732d0e85a6ebffe56edb5799837f4ee0e7827065",
     "localizedAt": "2026-05-02T01:30:24.661Z",
@@ -2225,6 +2450,7 @@
     "tagsKo": [
       "플러그인·확장"
     ],
+    "riskNoteKo": "",
     "sourceDescription": "OTel Plugin for Hermes Agent",
     "sourceHash": "64ba00278f9b99ae0050a12e25367751d49084d72268958955a2665e28fd29ba",
     "localizedAt": "2026-05-02T01:30:24.661Z",
@@ -2241,17 +2467,31 @@
     "category": "Workspaces & GUIs",
     "categoryKo": "워크스페이스·GUI",
     "categoryDescriptionKo": "웹·데스크톱에서 Hermes를 쓰기 쉽게 만든 화면, 대시보드, 작업 공간입니다.",
-    "oneLineKo": "EKKOLearnAI/hermes-web-ui는 Hermes 생태계의 워크스페이스·GUI 영역에 속한 프로젝트입니다.",
-    "summaryKo": "EKKOLearnAI/hermes-web-ui는 Hermes 생태계의 워크스페이스·GUI 영역에 속한 프로젝트입니다. 상세 설명은 원문 설명과 GitHub 링크를 함께 확인하세요.",
-    "useCasesKo": [],
-    "audienceKo": [],
-    "tagsKo": [
-      "워크스페이스·GUI"
+    "oneLineKo": "채팅, 세션, 예약 작업, 사용량 분석, 채널 설정을 다루는 Hermes 웹 대시보드입니다.",
+    "summaryKo": "hermes-web-ui는 Hermes Agent를 여러 플랫폼 채널과 함께 운영하기 위한 웹 대시보드입니다. Telegram, Discord, Slack, WhatsApp 같은 채널 설정과 세션 관리, 예약 작업, 사용량 분석을 한 화면에서 다루는 방향입니다.",
+    "useCasesKo": [
+      "멀티 플랫폼 채널 관리",
+      "세션 관리",
+      "예약 작업",
+      "사용량 분석"
     ],
+    "audienceKo": [
+      "Hermes 운영자",
+      "봇 관리자",
+      "팀 자동화 담당자"
+    ],
+    "tagsKo": [
+      "웹 대시보드",
+      "Telegram",
+      "Discord",
+      "예약작업",
+      "분석"
+    ],
+    "riskNoteKo": "",
     "sourceDescription": "Web dashboard for Hermes Agent — multi-platform AI chat, session management, scheduled jobs, usage analytics & channel configuration (Telegram, Discord, Slack, WhatsApp)",
     "sourceHash": "7eccb441e29e31f96607f5073364d8e616e34fce8650ef653f0894c318e73417",
     "localizedAt": "2026-05-02T01:30:24.661Z",
-    "localizationStatus": "machine_review_needed"
+    "localizationStatus": "human_reviewed"
   },
   {
     "id": "keepnotes-ai/keep",
@@ -2271,6 +2511,7 @@
     "tagsKo": [
       "메모리·컨텍스트"
     ],
+    "riskNoteKo": "",
     "sourceDescription": "Reflective memory for AI agents",
     "sourceHash": "54f83877c631a743e1cf7862bbb4c8780f00efcad29a063bf16ad444df2c44ad",
     "localizedAt": "2026-05-02T01:30:24.661Z",
@@ -2294,6 +2535,7 @@
     "tagsKo": [
       "메모리·컨텍스트"
     ],
+    "riskNoteKo": "",
     "sourceDescription": "The Zero-Dependency, Sub-Millisecond AI Memory System for Hermes Agents",
     "sourceHash": "8c19c6259b41e8429e2b5743bf489e8608edc112660ed49b74b63897322a644a",
     "localizedAt": "2026-05-02T01:30:24.661Z",
@@ -2310,17 +2552,27 @@
     "category": "Skills & Skill Registries",
     "categoryKo": "스킬·레지스트리",
     "categoryDescriptionKo": "에이전트가 반복 작업을 잘 수행하도록 돕는 재사용 스킬과 스킬 저장소입니다.",
-    "oneLineKo": "AMAP-ML/SkillClaw는 Hermes 생태계의 스킬·레지스트리 영역에 속한 프로젝트입니다.",
-    "summaryKo": "AMAP-ML/SkillClaw는 Hermes 생태계의 스킬·레지스트리 영역에 속한 프로젝트입니다. 상세 설명은 원문 설명과 GitHub 링크를 함께 확인하세요.",
-    "useCasesKo": [],
-    "audienceKo": [],
-    "tagsKo": [
-      "스킬·레지스트리"
+    "oneLineKo": "에이전트 스킬이 집단적으로 진화하도록 돕는 스킬 진화 실험 프로젝트입니다.",
+    "summaryKo": "SkillClaw는 Agentic Evolver를 통해 스킬을 개선하고 발전시키는 방향의 프로젝트입니다. 단순 스킬 모음이라기보다, 스킬 자체를 어떻게 평가하고 진화시킬지에 관심 있는 사용자에게 맞습니다.",
+    "useCasesKo": [
+      "스킬 진화",
+      "스킬 평가",
+      "에이전트 개선 실험"
     ],
+    "audienceKo": [
+      "스킬 제작자",
+      "에이전트 연구자"
+    ],
+    "tagsKo": [
+      "스킬",
+      "진화",
+      "Agentic Evolver"
+    ],
+    "riskNoteKo": "",
     "sourceDescription": "Let Skills Evolve Collectively with Agentic Evolver",
     "sourceHash": "6bb1423d2824e39cf09a41a669f126d661cf87b24d4fa8a56a8744155276b0ac",
     "localizedAt": "2026-05-02T01:30:37.267Z",
-    "localizationStatus": "machine_review_needed"
+    "localizationStatus": "human_reviewed"
   },
   {
     "id": "aivrar/portable-hermes-agent",
@@ -2340,6 +2592,7 @@
     "tagsKo": [
       "워크스페이스·GUI"
     ],
+    "riskNoteKo": "",
     "sourceDescription": "Hermes Agent made portable desktop for Windows — 100 tools, GUI, local models via LM Studio, TTS, Music, ComfyUI, workflows, tool maker. No install. No Docker. No admin rights.",
     "sourceHash": "9790321a00217ccc3739917730c899f79d6fdd02a9082b6f05fe882619d7b6aa",
     "localizedAt": "2026-05-02T01:30:37.267Z",
@@ -2363,6 +2616,7 @@
     "tagsKo": [
       "플러그인·확장"
     ],
+    "riskNoteKo": "",
     "sourceDescription": "A2A (Agent-to-Agent) protocol plugin for Hermes Agent — zero-patch, instant wake, session injection",
     "sourceHash": "498e901b9186cec7e327b2882fa16afe3c8d1d9faf8de9fec1311bff7434d25c",
     "localizedAt": "2026-05-02T01:30:37.267Z",
@@ -2386,6 +2640,7 @@
     "tagsKo": [
       "스킬·레지스트리"
     ],
+    "riskNoteKo": "",
     "sourceDescription": "Skills that teach Hermes Agent to write its own analytical prompts",
     "sourceHash": "2926f699a29e9e6e5e822d2a1207e5ec8860a388240c6a0b5dfc79d381915170",
     "localizedAt": "2026-05-02T01:30:37.267Z",
@@ -2409,6 +2664,7 @@
     "tagsKo": [
       "메모리·컨텍스트"
     ],
+    "riskNoteKo": "",
     "sourceDescription": "Accelerating Long Context LLM Inference with Accuracy-Preserving Context Optimization in SGLang, vLLM, llama.cpp, OpenClaw, RAG, and Agentic AI.",
     "sourceHash": "e5102975b7fe3cc60dbb9d25d824dd9baeef2028ce542e057db60eb499df0bc2",
     "localizedAt": "2026-05-02T01:30:37.267Z",
@@ -2432,6 +2688,7 @@
     "tagsKo": [
       "플러그인·확장"
     ],
+    "riskNoteKo": "",
     "sourceDescription": "让 Agent 直接操作真实 Chrome 的 MCP 服务，支持页面扫描、CDP、截图与物理输入",
     "sourceHash": "8404c08881da058754a672a780377127b8b2d82ace1d8783579daa9f396c6b7a",
     "localizedAt": "2026-05-02T01:30:37.267Z",
@@ -2455,6 +2712,7 @@
     "tagsKo": [
       "가이드·문서"
     ],
+    "riskNoteKo": "",
     "sourceDescription": "A systematic Chinese-language guide to Hermes Agent — 16 books, 300K+ words, covering installation, advanced development, single- and multi-agent orchestration.",
     "sourceHash": "a5c9cd56ee67072e135407d6942bc8aead6bb584eb94c87bbfd2ed38e7c85d92",
     "localizedAt": "2026-05-02T01:30:37.267Z",
@@ -2478,6 +2736,7 @@
     "tagsKo": [
       "가이드·문서"
     ],
+    "riskNoteKo": "",
     "sourceDescription": "A 27-chapter hands-on tutorial for building an autonomous AI agent from zero in Python — agent loop, tool system, memory, skills, MCP, multi-platform gateway, and self-evolution.",
     "sourceHash": "e1b5904b6beb262585472e411a300e75cd66aaf439f50fbbd7653c830da4a404",
     "localizedAt": "2026-05-02T01:30:37.267Z",
@@ -2501,6 +2760,7 @@
     "tagsKo": [
       "배포·인프라"
     ],
+    "riskNoteKo": "",
     "sourceDescription": "HermesHQ is a Docker-first control plane for running and operating multiple Hermes Agent instances from one web application.",
     "sourceHash": "40595a0afb867196611553812e605f45cf23fa0f2092a53a7a46290c8c720346",
     "localizedAt": "2026-05-02T01:30:37.267Z",
@@ -2517,17 +2777,27 @@
     "category": "Memory & Context",
     "categoryKo": "메모리·컨텍스트",
     "categoryDescriptionKo": "세션을 넘어 기억하고, 검색하고, 맥락을 유지하게 해주는 메모리 계층입니다.",
-    "oneLineKo": "plastic-labs/honcho는 Hermes 생태계의 메모리·컨텍스트 영역에 속한 공식 프로젝트입니다.",
-    "summaryKo": "plastic-labs/honcho는 Hermes 생태계의 메모리·컨텍스트 영역에 속한 공식 프로젝트입니다. 상세 설명은 원문 설명과 GitHub 링크를 함께 확인하세요.",
-    "useCasesKo": [],
-    "audienceKo": [],
-    "tagsKo": [
-      "메모리·컨텍스트"
+    "oneLineKo": "상태를 가진 에이전트를 만들기 위한 메모리 라이브러리로, Hermes 메모리 wrapper의 기반이 됩니다.",
+    "summaryKo": "Honcho는 stateful agent를 만들기 위한 메모리 라이브러리입니다. Hermes 생태계에서는 honcho-self-hosted 같은 wrapper가 이 upstream 라이브러리를 기반으로 합니다. 메모리 provider를 직접 이해하거나 확장하려는 개발자에게 중요합니다.",
+    "useCasesKo": [
+      "상태ful 에이전트",
+      "메모리 라이브러리",
+      "provider 기반 이해"
     ],
+    "audienceKo": [
+      "에이전트 개발자",
+      "메모리 인프라 개발자"
+    ],
+    "tagsKo": [
+      "메모리",
+      "라이브러리",
+      "stateful agent"
+    ],
+    "riskNoteKo": "",
     "sourceDescription": "Memory library for building stateful agents — the upstream library that the elkimek/honcho-self-hosted Hermes wrapper builds on.",
     "sourceHash": "08eaf4a3d23bc207d81dff913feb18a15ad4cb34ecf62f809060cba4b4a79ca9",
     "localizedAt": "2026-05-02T01:30:37.267Z",
-    "localizationStatus": "machine_review_needed"
+    "localizationStatus": "human_reviewed"
   },
   {
     "id": "adnw-vinc/hermes-nextcloud",
@@ -2547,6 +2817,7 @@
     "tagsKo": [
       "스킬·레지스트리"
     ],
+    "riskNoteKo": "",
     "sourceDescription": "Hermes Agent skill for Nextcloud — manage files, notes, calendar, tasks, and contacts via WebDAV and CalDAV.",
     "sourceHash": "e8a0c4a346eb4099c718bf3f0380df8fcce7ef05fb33f5d81e142cc65e307721",
     "localizedAt": "2026-05-02T01:30:37.267Z",
