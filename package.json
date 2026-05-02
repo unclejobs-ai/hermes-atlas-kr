@@ -1,0 +1,11 @@
+{
+  "name": "hermes-atlas-kr",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "description": "Korean-first Hermes Agent ecosystem atlas",
+  "scripts": {
+    "serve": "python3 -m http.server 4181",
+    "check": "node --check assets/app.js && python3 scripts/check.py"
+  }
+}
