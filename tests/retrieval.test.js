@@ -1,6 +1,7 @@
 import test from 'node:test';
 import assert from 'node:assert/strict';
 import { retrieve, answerFromContext } from '../lib/retrieval.js';
+import realIndex from '../data/chunks.ko.json' with { type: 'json' };
 
 const chunks = [
   {
@@ -44,6 +45,11 @@ test('retrieve returns one best result per repo by default', () => {
   ];
   const results = retrieve('메모리 provider', duplicated, { limit: 5 });
   assert.equal(results.filter(r => r.repoId === 'mem0ai/mem0').length, 1);
+});
+
+test('retrieve ranks Telegram project first in real Atlas index', () => {
+  const results = retrieve('telegram 연동 프로젝트', realIndex.chunks, { limit: 3 });
+  assert.equal(results[0].repoId, 'clawvader-tech/hermes-telegram-miniapp');
 });
 
 test('answerFromContext returns Korean answer with citations and repo names', () => {
