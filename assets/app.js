@@ -65,6 +65,10 @@ function filtered(){
 function render(){
   document.querySelectorAll('.chip').forEach(c => c.classList.toggle('active', c.dataset.category === state.category));
   const list = filtered();
+  if (list.length && (!state.selected || !list.some(r => r.owner === state.selected.owner && r.repo === state.selected.repo))) {
+    state.selected = list[0];
+  }
+  if (!list.length) state.selected = null;
   $('#resultCount').textContent = `${list.length}개 표시`;
   const grid = $('#projectGrid'); grid.innerHTML='';
   for(const repo of list){
