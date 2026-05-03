@@ -32,6 +32,8 @@ function setupTheme(){
 function renderStats(){
   $('#totalRepos').textContent = state.repos.length;
   $('#totalStars').textContent = fmt(state.repos.reduce((sum,r)=>sum+(r.stars||0),0));
+  const reviewedRepos = state.repos.filter(r => r.localizationStatus === 'human_reviewed').length;
+  $('#reviewedRepos').textContent = `${reviewedRepos}/${state.repos.length}`;
 }
 
 function renderFilters(){

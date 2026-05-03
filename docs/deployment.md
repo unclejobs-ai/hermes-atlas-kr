@@ -49,6 +49,7 @@ npm run sync
 npm run localize
 npm run rag
 npm run pages
+npm run report
 npm run check
 ```
 

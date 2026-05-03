@@ -59,6 +59,7 @@ npm run build
 npm run localize
 npm run rag
 npm run pages
+npm run report
 ```
 
 ## 데이터 갱신
@@ -68,6 +69,7 @@ npm run sync
 npm run localize
 npm run rag
 npm run pages
+npm run report
 npm run check
 ```
 

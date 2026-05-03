@@ -1,0 +1,222 @@
+{
+  "generatedAt": "2026-05-02T01:30:37.108Z",
+  "upstreamSyncedAt": "2026-05-02T01:30:37.108Z",
+  "total": 111,
+  "statusCounts": {
+    "human_reviewed": 15,
+    "machine_review_needed": 96
+  },
+  "reviewedRatio": 0.1351,
+  "priorityBacklog": [
+    {
+      "id": "outsourc-e/hermes-workspace",
+      "categoryKo": "워크스페이스·GUI",
+      "stars": 830,
+      "url": "https://github.com/outsourc-e/hermes-workspace",
+      "reason": "스타 수가 높고 아직 사람 검수 한국어 요약이 없습니다."
+    },
+    {
+      "id": "NousResearch/hermes-agent-self-evolution",
+      "categoryKo": "코어·공식",
+      "stars": 778,
+      "url": "https://github.com/NousResearch/hermes-agent-self-evolution",
+      "reason": "스타 수가 높고 아직 사람 검수 한국어 요약이 없습니다."
+    },
+    {
+      "id": "conorbronsdon/avoid-ai-writing",
+      "categoryKo": "스킬·레지스트리",
+      "stars": 759,
+      "url": "https://github.com/conorbronsdon/avoid-ai-writing",
+      "reason": "스타 수가 높고 아직 사람 검수 한국어 요약이 없습니다."
+    },
+    {
+      "id": "greyhaven-ai/autocontext",
+      "categoryKo": "메모리·컨텍스트",
+      "stars": 711,
+      "url": "https://github.com/greyhaven-ai/autocontext",
+      "reason": "스타 수가 높고 아직 사람 검수 한국어 요약이 없습니다."
+    },
+    {
+      "id": "NousResearch/hermes-paperclip-adapter",
+      "categoryKo": "코어·공식",
+      "stars": 663,
+      "url": "https://github.com/NousResearch/hermes-paperclip-adapter",
+      "reason": "스타 수가 높고 아직 사람 검수 한국어 요약이 없습니다."
+    },
+    {
+      "id": "wondelai/skills",
+      "categoryKo": "스킬·레지스트리",
+      "stars": 480,
+      "url": "https://github.com/wondelai/skills",
+      "reason": "스타 수가 높고 아직 사람 검수 한국어 요약이 없습니다."
+    },
+    {
+      "id": "NousResearch/autonovel",
+      "categoryKo": "코어·공식",
+      "stars": 401,
+      "url": "https://github.com/NousResearch/autonovel",
+      "reason": "스타 수가 높고 아직 사람 검수 한국어 요약이 없습니다."
+    },
+    {
+      "id": "xaspx/hermes-control-interface",
+      "categoryKo": "워크스페이스·GUI",
+      "stars": 323,
+      "url": "https://github.com/xaspx/hermes-control-interface",
+      "reason": "스타 수가 높고 아직 사람 검수 한국어 요약이 없습니다."
+    },
+    {
+      "id": "alchaincyf/hermes-agent-orange-book",
+      "categoryKo": "가이드·문서",
+      "stars": 315,
+      "url": "https://github.com/alchaincyf/hermes-agent-orange-book",
+      "reason": "스타 수가 높고 아직 사람 검수 한국어 요약이 없습니다."
+    },
+    {
+      "id": "dodo-reach/hermes-desktop",
+      "categoryKo": "워크스페이스·GUI",
+      "stars": 313,
+      "url": "https://github.com/dodo-reach/hermes-desktop",
+      "reason": "스타 수가 높고 아직 사람 검수 한국어 요약이 없습니다."
+    },
+    {
+      "id": "swarmclawai/swarmclaw",
+      "categoryKo": "멀티 에이전트·오케스트레이션",
+      "stars": 285,
+      "url": "https://github.com/swarmclawai/swarmclaw",
+      "reason": "스타 수가 높고 아직 사람 검수 한국어 요약이 없습니다."
+    },
+    {
+      "id": "ksimback/hermes-ecosystem",
+      "categoryKo": "가이드·문서",
+      "stars": 263,
+      "url": "https://github.com/ksimback/hermes-ecosystem",
+      "reason": "스타 수가 높고 아직 사람 검수 한국어 요약이 없습니다."
+    },
+    {
+      "id": "clawshell/clawshell",
+      "categoryKo": "플러그인·확장",
+      "stars": 255,
+      "url": "https://github.com/clawshell/clawshell",
+      "reason": "스타 수가 높고 아직 사람 검수 한국어 요약이 없습니다."
+    },
+    {
+      "id": "DougTrajano/pydantic-ai-skills",
+      "categoryKo": "스킬·레지스트리",
+      "stars": 220,
+      "url": "https://github.com/DougTrajano/pydantic-ai-skills",
+      "reason": "스타 수가 높고 아직 사람 검수 한국어 요약이 없습니다."
+    },
+    {
+      "id": "ucsandman/DashClaw",
+      "categoryKo": "도메인 앱",
+      "stars": 204,
+      "url": "https://github.com/ucsandman/DashClaw",
+      "reason": "스타 수가 높고 아직 사람 검수 한국어 요약이 없습니다."
+    },
+    {
+      "id": "clawvader-tech/hermes-telegram-miniapp",
+      "categoryKo": "워크스페이스·GUI",
+      "stars": 194,
+      "url": "https://github.com/clawvader-tech/hermes-telegram-miniapp",
+      "reason": "스타 수가 높고 아직 사람 검수 한국어 요약이 없습니다."
+    },
+    {
+      "id": "stephenschoettler/hermes-lcm",
+      "categoryKo": "메모리·컨텍스트",
+      "stars": 178,
+      "url": "https://github.com/stephenschoettler/hermes-lcm",
+      "reason": "스타 수가 높고 아직 사람 검수 한국어 요약이 없습니다."
+    },
+    {
+      "id": "335234131/agent-browser-mcp",
+      "categoryKo": "플러그인·확장",
+      "stars": 167,
+      "url": "https://github.com/335234131/agent-browser-mcp",
+      "reason": "스타 수가 높고 아직 사람 검수 한국어 요약이 없습니다."
+    },
+    {
+      "id": "Agents365-ai/drawio-skill",
+      "categoryKo": "스킬·레지스트리",
+      "stars": 131,
+      "url": "https://github.com/Agents365-ai/drawio-skill",
+      "reason": "스타 수가 높고 아직 사람 검수 한국어 요약이 없습니다."
+    },
+    {
+      "id": "jwangkun/hermes-agent-guide",
+      "categoryKo": "가이드·문서",
+      "stars": 130,
+      "url": "https://github.com/jwangkun/hermes-agent-guide",
+      "reason": "스타 수가 높고 아직 사람 검수 한국어 요약이 없습니다."
+    },
+    {
+      "id": "elkimek/honcho-self-hosted",
+      "categoryKo": "메모리·컨텍스트",
+      "stars": 126,
+      "url": "https://github.com/elkimek/honcho-self-hosted",
+      "reason": "스타 수가 높고 아직 사람 검수 한국어 요약이 없습니다."
+    },
+    {
+      "id": "Cranot/super-hermes",
+      "categoryKo": "스킬·레지스트리",
+      "stars": 122,
+      "url": "https://github.com/Cranot/super-hermes",
+      "reason": "스타 수가 높고 아직 사람 검수 한국어 요약이 없습니다."
+    },
+    {
+      "id": "AaronWong1999/hermesclaw",
+      "categoryKo": "통합·브리지",
+      "stars": 112,
+      "url": "https://github.com/AaronWong1999/hermesclaw",
+      "reason": "스타 수가 높고 아직 사람 검수 한국어 요약이 없습니다."
+    },
+    {
+      "id": "iamagenius00/hermes-a2a",
+      "categoryKo": "플러그인·확장",
+      "stars": 110,
+      "url": "https://github.com/iamagenius00/hermes-a2a",
+      "reason": "스타 수가 높고 아직 사람 검수 한국어 요약이 없습니다."
+    },
+    {
+      "id": "yoloshii/ClawMem",
+      "categoryKo": "메모리·컨텍스트",
+      "stars": 86,
+      "url": "https://github.com/yoloshii/ClawMem",
+      "reason": "스타 수가 높고 아직 사람 검수 한국어 요약이 없습니다."
+    },
+    {
+      "id": "smartcontractkit/chainlink-agent-skills",
+      "categoryKo": "스킬·레지스트리",
+      "stars": 85,
+      "url": "https://github.com/smartcontractkit/chainlink-agent-skills",
+      "reason": "스타 수가 높고 아직 사람 검수 한국어 요약이 없습니다."
+    },
+    {
+      "id": "EfficientContext/ContextPilot",
+      "categoryKo": "메모리·컨텍스트",
+      "stars": 82,
+      "url": "https://github.com/EfficientContext/ContextPilot",
+      "reason": "스타 수가 높고 아직 사람 검수 한국어 요약이 없습니다."
+    },
+    {
+      "id": "tlehman/litprog-skill",
+      "categoryKo": "스킬·레지스트리",
+      "stars": 81,
+      "url": "https://github.com/tlehman/litprog-skill",
+      "reason": "스타 수가 높고 아직 사람 검수 한국어 요약이 없습니다."
+    },
+    {
+      "id": "aivrar/portable-hermes-agent",
+      "categoryKo": "워크스페이스·GUI",
+      "stars": 81,
+      "url": "https://github.com/aivrar/portable-hermes-agent",
+      "reason": "스타 수가 높고 아직 사람 검수 한국어 요약이 없습니다."
+    },
+    {
+      "id": "joeynyc/hermes-skins",
+      "categoryKo": "개발자 도구",
+      "stars": 76,
+      "url": "https://github.com/joeynyc/hermes-skins",
+      "reason": "스타 수가 높고 아직 사람 검수 한국어 요약이 없습니다."
+    }
+  ]
+}

@@ -17,6 +17,8 @@ required = [
     'scripts/build-pages.js',
     'sitemap.xml',
     'robots.txt',
+    'data/localization-report.json',
+    'docs/localization-report.md',
 ]
 missing = [p for p in required if not (root / p).exists()]
 if missing:

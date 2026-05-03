@@ -16,6 +16,7 @@ test('nightly sync workflow refreshes upstream data and opens review PR', () => 
   assert.match(yml, /npm run localize/);
   assert.match(yml, /npm run rag/);
   assert.match(yml, /npm run pages/);
+  assert.match(yml, /npm run report/);
   assert.match(yml, /npm run check/);
   assert.match(yml, /peter-evans\/create-pull-request@v7/);
   assert.match(yml, /data\/repos.raw.json/);

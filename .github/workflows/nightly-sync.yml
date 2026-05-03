@@ -23,6 +23,7 @@ jobs:
           npm run localize
           npm run rag
           npm run pages
+          npm run report
           npm run check
       - name: Create review PR when upstream data changes
         uses: peter-evans/create-pull-request@v7
