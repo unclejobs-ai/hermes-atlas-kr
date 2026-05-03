@@ -1,6 +1,7 @@
 #!/usr/bin/env node
 import fs from 'fs';
 import crypto from 'crypto';
+import './sync-upstream-docs.js';
 
 const SOURCES = {
   repos: 'https://raw.githubusercontent.com/ksimback/hermes-ecosystem/main/data/repos.json',

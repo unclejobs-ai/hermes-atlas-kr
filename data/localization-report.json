@@ -2,9 +2,11 @@
   "generatedAt": "2026-05-02T01:30:37.108Z",
   "upstreamSyncedAt": "2026-05-02T01:30:37.108Z",
   "total": 111,
+  "summaryCovered": 111,
+  "summaryCoverageRatio": 1,
   "statusCounts": {
     "human_reviewed": 15,
-    "machine_review_needed": 96
+    "editorial_seeded": 96
   },
   "reviewedRatio": 0.1351,
   "priorityBacklog": [

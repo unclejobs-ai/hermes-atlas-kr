@@ -45,6 +45,8 @@ function pageShell({ title, description, canonical, body }) {
   <meta property="og:description" content="${esc(description)}" />
   <meta property="og:type" content="website" />
   <meta property="og:url" content="${esc(canonical)}" />
+  <meta property="og:image" content="${esc(abs('/assets/og/atlas-card.svg'))}" />
+  <meta name="twitter:card" content="summary_large_image" />
   <link rel="stylesheet" href="/assets/styles.css" />
 </head>
 <body>

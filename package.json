@@ -8,7 +8,7 @@
     "serve": "python3 -m http.server 4181",
     "sync": "node scripts/sync-upstream.js",
     "localize": "node scripts/localize-repos.js",
-    "check": "node --check assets/app.js && node --check lib/retrieval.js && node --check api/chat.js && node --check scripts/sync-upstream.js && node --check scripts/localize-repos.js && node --check scripts/generate-repo-summaries.js && node --check scripts/build-rag-index.js && node --check scripts/build-pages.js && node --check scripts/build-localization-report.js && node --check scripts/check-localization-quality.js && npm test && npm run report && python3 scripts/check.py && node scripts/check-localization-quality.js",
+    "check": "node --check assets/app.js && node --check lib/retrieval.js && node --check api/chat.js && node --check scripts/sync-upstream.js && node --check scripts/sync-upstream-docs.js && node --check scripts/localize-repos.js && node --check scripts/generate-repo-summaries.js && node --check scripts/build-rag-index.js && node --check scripts/build-pages.js && node --check scripts/build-localization-report.js && node --check scripts/check-localization-quality.js && npm test && npm run report && python3 scripts/check.py && node scripts/check-localization-quality.js",
     "build": "npm run localize && npm run rag && npm run pages && npm run report",
     "summaries": "node scripts/generate-repo-summaries.js",
     "rag": "node scripts/build-rag-index.js",

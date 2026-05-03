@@ -34,6 +34,11 @@ function renderStats(){
   $('#totalStars').textContent = fmt(state.repos.reduce((sum,r)=>sum+(r.stars||0),0));
   const reviewedRepos = state.repos.filter(r => r.localizationStatus === 'human_reviewed').length;
   $('#reviewedRepos').textContent = `${reviewedRepos}/${state.repos.length}`;
+  const summaryCoverage = $('#summaryCoverage');
+  if (summaryCoverage) {
+    const covered = state.repos.filter(r => (r.summaryKo || '').length >= 45).length;
+    summaryCoverage.textContent = `${covered}/${state.repos.length}`;
+  }
 }
 
 function renderFilters(){

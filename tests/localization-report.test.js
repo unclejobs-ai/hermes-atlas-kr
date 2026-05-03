@@ -15,7 +15,9 @@ test('localization report summarizes review status and priority backlog', () => 
   const json = JSON.parse(read('data/localization-report.json'));
   assert.equal(json.total, 111);
   assert.ok(json.statusCounts.human_reviewed >= 15);
-  assert.ok(json.statusCounts.machine_review_needed > 0);
+  assert.ok(json.statusCounts.editorial_seeded > 0);
+  assert.equal(json.summaryCovered, json.total);
+  assert.equal(json.summaryCoverageRatio, 1);
   assert.ok(Array.isArray(json.priorityBacklog));
   assert.ok(json.priorityBacklog.length > 0);
   assert.ok(json.priorityBacklog[0].id);
@@ -31,5 +33,6 @@ test('home page exposes localization status metric', () => {
   const app = read('assets/app.js');
   assert.match(html, /id="reviewedRepos"/);
   assert.match(app, /reviewedRepos/);
-  assert.match(app, /human_reviewed/);
+  assert.match(html, /id="summaryCoverage"/);
+  assert.match(app, /summaryCoverage/);
 });

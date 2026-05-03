@@ -24,10 +24,13 @@ const priorityBacklog = repos
     reason: '스타 수가 높고 아직 사람 검수 한국어 요약이 없습니다.'
   }));
 
+const summaryCovered = repos.filter(repo => (repo.summaryKo || '').length >= 45 && Array.isArray(repo.useCasesKo) && repo.useCasesKo.length >= 2).length;
 const report = {
   generatedAt: manifest.syncedAt || '2026-05-02T00:00:00.000Z',
   upstreamSyncedAt: manifest.syncedAt || null,
   total: repos.length,
+  summaryCovered,
+  summaryCoverageRatio: Number((summaryCovered / Math.max(1, repos.length)).toFixed(4)),
   statusCounts,
   reviewedRatio: Number(((statusCounts.human_reviewed || 0) / Math.max(1, repos.length)).toFixed(4)),
   priorityBacklog,
@@ -41,6 +44,7 @@ const md = `# Hermes Atlas KR 한국어화 현황
 
 - 기준 시각: ${report.generatedAt}
 - 전체 프로젝트: ${repos.length}
+- 한국어 요약 커버리지: ${summaryCovered}/${repos.length} (${(report.summaryCoverageRatio * 100).toFixed(1)}%)
 - 사람 검수 완료: ${reviewed}
 - 추가 검수 필요: ${needReview}
 - 검수율: ${(report.reviewedRatio * 100).toFixed(1)}%

@@ -116,18 +116,30 @@
     "category": "Core & Official",
     "categoryKo": "코어·공식",
     "categoryDescriptionKo": "Hermes Agent의 공식 핵심 저장소와 Nous Research가 직접 관리하는 프로젝트입니다.",
-    "oneLineKo": "NousResearch/hermes-agent-self-evolution는 Hermes 생태계의 코어·공식 영역에 속한 공식 프로젝트입니다.",
-    "summaryKo": "NousResearch/hermes-agent-self-evolution는 Hermes 생태계의 코어·공식 영역에 속한 공식 프로젝트입니다. 상세 설명은 원문 설명과 GitHub 링크를 함께 확인하세요.",
-    "useCasesKo": [],
-    "audienceKo": [],
+    "oneLineKo": "NousResearch/hermes-agent-self-evolution: Evolutionary self — improvement using DSPy + GEPA — optimizes skills, prompts, and code을 한국어 Atlas 기준으로 분류한 프로젝트입니다.",
+    "summaryKo": "NousResearch/hermes-agent-self-evolution는 코어·공식 범주에서 볼 만한 프로젝트입니다. 원문 설명 기준으로는 “Evolutionary self — improvement using DSPy + GEPA — optimizes skills, prompts, and code”에 초점이 있습니다. 한국어 사용자는 Hermes Agent 기본 설치와 운영이나 공식 기능 확인이 필요할 때 우선 살펴보면 됩니다. repo 이름과 명령어, 원본 링크는 검색성과 재현성을 위해 그대로 유지했습니다.",
+    "useCasesKo": [
+      "Hermes Agent 기본 설치와 운영",
+      "공식 기능 확인",
+      "생태계 기준점 파악",
+      "스킬"
+    ],
+    "audienceKo": [
+      "Hermes 신규 사용자",
+      "에이전트 빌더",
+      "자동화 파워유저"
+    ],
     "tagsKo": [
-      "코어·공식"
+      "코어·공식",
+      "스킬",
+      "재사용 가능한 작업 절차",
+      "hermes agent self evolution"
     ],
     "riskNoteKo": "",
     "sourceDescription": "Evolutionary self-improvement using DSPy + GEPA — optimizes skills, prompts, and code",
     "sourceHash": "5b76f933b681e309cdea624423f8779d2ebb6c0b08f49a89b21119b47d2ca89b",
     "localizedAt": "2026-05-02T01:30:24.660Z",
-    "localizationStatus": "machine_review_needed"
+    "localizationStatus": "editorial_seeded"
   },
   {
     "id": "NousResearch/hermes-paperclip-adapter",
@@ -140,18 +152,27 @@
     "category": "Core & Official",
     "categoryKo": "코어·공식",
     "categoryDescriptionKo": "Hermes Agent의 공식 핵심 저장소와 Nous Research가 직접 관리하는 프로젝트입니다.",
-    "oneLineKo": "NousResearch/hermes-paperclip-adapter는 Hermes 생태계의 코어·공식 영역에 속한 공식 프로젝트입니다.",
-    "summaryKo": "NousResearch/hermes-paperclip-adapter는 Hermes 생태계의 코어·공식 영역에 속한 공식 프로젝트입니다. 상세 설명은 원문 설명과 GitHub 링크를 함께 확인하세요.",
-    "useCasesKo": [],
-    "audienceKo": [],
+    "oneLineKo": "NousResearch/hermes-paperclip-adapter: Run Hermes as a managed employee in Paperclip company systems을 한국어 Atlas 기준으로 분류한 프로젝트입니다.",
+    "summaryKo": "NousResearch/hermes-paperclip-adapter는 코어·공식 범주에서 볼 만한 프로젝트입니다. 원문 설명 기준으로는 “Run Hermes as a managed employee in Paperclip company systems”에 초점이 있습니다. 한국어 사용자는 Hermes Agent 기본 설치와 운영이나 공식 기능 확인이 필요할 때 우선 살펴보면 됩니다. repo 이름과 명령어, 원본 링크는 검색성과 재현성을 위해 그대로 유지했습니다.",
+    "useCasesKo": [
+      "Hermes Agent 기본 설치와 운영",
+      "공식 기능 확인",
+      "생태계 기준점 파악"
+    ],
+    "audienceKo": [
+      "Hermes 신규 사용자",
+      "에이전트 빌더",
+      "자동화 파워유저"
+    ],
     "tagsKo": [
-      "코어·공식"
+      "코어·공식",
+      "hermes paperclip adapter"
     ],
     "riskNoteKo": "",
     "sourceDescription": "Run Hermes as a managed employee in Paperclip company systems",
     "sourceHash": "3932dd9b99f6397a326b9d6dd852242db15248bb8a9e4b9df535f0bb4edcb31c",
     "localizedAt": "2026-05-02T01:30:24.660Z",
-    "localizationStatus": "machine_review_needed"
+    "localizationStatus": "editorial_seeded"
   },
   {
     "id": "NousResearch/autonovel",
@@ -164,18 +185,27 @@
     "category": "Core & Official",
     "categoryKo": "코어·공식",
     "categoryDescriptionKo": "Hermes Agent의 공식 핵심 저장소와 Nous Research가 직접 관리하는 프로젝트입니다.",
-    "oneLineKo": "NousResearch/autonovel는 Hermes 생태계의 코어·공식 영역에 속한 공식 프로젝트입니다.",
-    "summaryKo": "NousResearch/autonovel는 Hermes 생태계의 코어·공식 영역에 속한 공식 프로젝트입니다. 상세 설명은 원문 설명과 GitHub 링크를 함께 확인하세요.",
-    "useCasesKo": [],
-    "audienceKo": [],
+    "oneLineKo": "NousResearch/autonovel: Autonomous novel — writing pipeline generating 100k+ word manuscripts을 한국어 Atlas 기준으로 분류한 프로젝트입니다.",
+    "summaryKo": "NousResearch/autonovel는 코어·공식 범주에서 볼 만한 프로젝트입니다. 원문 설명 기준으로는 “Autonomous novel — writing pipeline generating 100k+ word manuscripts”에 초점이 있습니다. 한국어 사용자는 Hermes Agent 기본 설치와 운영이나 공식 기능 확인이 필요할 때 우선 살펴보면 됩니다. repo 이름과 명령어, 원본 링크는 검색성과 재현성을 위해 그대로 유지했습니다.",
+    "useCasesKo": [
+      "Hermes Agent 기본 설치와 운영",
+      "공식 기능 확인",
+      "생태계 기준점 파악"
+    ],
+    "audienceKo": [
+      "Hermes 신규 사용자",
+      "에이전트 빌더",
+      "자동화 파워유저"
+    ],
     "tagsKo": [
-      "코어·공식"
+      "코어·공식",
+      "autonovel"
     ],
     "riskNoteKo": "",
     "sourceDescription": "Autonomous novel-writing pipeline generating 100k+ word manuscripts",
     "sourceHash": "5acca4e25206c049ba57128138664dcaf1d9f5dd05669470243e2d06fdec7de8",
     "localizedAt": "2026-05-02T01:30:24.660Z",
-    "localizationStatus": "machine_review_needed"
+    "localizationStatus": "editorial_seeded"
   },
   {
     "id": "outsourc-e/hermes-workspace",
@@ -188,18 +218,32 @@
     "category": "Workspaces & GUIs",
     "categoryKo": "워크스페이스·GUI",
     "categoryDescriptionKo": "웹·데스크톱에서 Hermes를 쓰기 쉽게 만든 화면, 대시보드, 작업 공간입니다.",
-    "oneLineKo": "outsourc-e/hermes-workspace는 Hermes 생태계의 워크스페이스·GUI 영역에 속한 프로젝트입니다.",
-    "summaryKo": "outsourc-e/hermes-workspace는 Hermes 생태계의 워크스페이스·GUI 영역에 속한 프로젝트입니다. 상세 설명은 원문 설명과 GitHub 링크를 함께 확인하세요.",
-    "useCasesKo": [],
-    "audienceKo": [],
+    "oneLineKo": "outsourc-e/hermes-workspace: Native web workspace — chat, terminal, memory browser, skills manager, and inspector panel을 한국어 Atlas 기준으로 분류한 프로젝트입니다.",
+    "summaryKo": "outsourc-e/hermes-workspace는 워크스페이스·GUI 범주에서 볼 만한 프로젝트입니다. 원문 설명 기준으로는 “Native web workspace — chat, terminal, memory browser, skills manager, and inspector panel”에 초점이 있습니다. 한국어 사용자는 시각적인 작업 공간 구성이나 에이전트 작업 흐름 모니터링이 필요할 때 우선 살펴보면 됩니다. repo 이름과 명령어, 원본 링크는 검색성과 재현성을 위해 그대로 유지했습니다.",
+    "useCasesKo": [
+      "시각적인 작업 공간 구성",
+      "에이전트 작업 흐름 모니터링",
+      "비개발자 친화 UI 제공",
+      "메모리"
+    ],
+    "audienceKo": [
+      "제품 기획자",
+      "비개발자 운영자",
+      "에이전트 작업을 눈으로 보고 싶은 사용자"
+    ],
     "tagsKo": [
-      "워크스페이스·GUI"
+      "워크스페이스·GUI",
+      "메모리",
+      "컨텍스트 유지",
+      "스킬",
+      "재사용 가능한 작업 절차",
+      "GUI"
     ],
     "riskNoteKo": "",
     "sourceDescription": "Native web workspace — chat, terminal, memory browser, skills manager, and inspector panel",
     "sourceHash": "bb49400d249b80b152cf989ccba59abe0e9bf069ff350ececf88988015b5c6f1",
     "localizedAt": "2026-05-02T01:30:24.660Z",
-    "localizationStatus": "machine_review_needed"
+    "localizationStatus": "editorial_seeded"
   },
   {
     "id": "fathah/hermes-desktop",
@@ -212,18 +256,27 @@
     "category": "Workspaces & GUIs",
     "categoryKo": "워크스페이스·GUI",
     "categoryDescriptionKo": "웹·데스크톱에서 Hermes를 쓰기 쉽게 만든 화면, 대시보드, 작업 공간입니다.",
-    "oneLineKo": "fathah/hermes-desktop는 Hermes 생태계의 워크스페이스·GUI 영역에 속한 프로젝트입니다.",
-    "summaryKo": "fathah/hermes-desktop는 Hermes 생태계의 워크스페이스·GUI 영역에 속한 프로젝트입니다. 상세 설명은 원문 설명과 GitHub 링크를 함께 확인하세요.",
-    "useCasesKo": [],
-    "audienceKo": [],
+    "oneLineKo": "fathah/hermes-desktop: Desktop companion app for installing, configuring, and chatting with Hermes Agent을 한국어 Atlas 기준으로 분류한 프로젝트입니다.",
+    "summaryKo": "fathah/hermes-desktop는 워크스페이스·GUI 범주에서 볼 만한 프로젝트입니다. 원문 설명 기준으로는 “Desktop companion app for installing, configuring, and chatting with Hermes Agent”에 초점이 있습니다. 한국어 사용자는 시각적인 작업 공간 구성이나 에이전트 작업 흐름 모니터링이 필요할 때 우선 살펴보면 됩니다. repo 이름과 명령어, 원본 링크는 검색성과 재현성을 위해 그대로 유지했습니다.",
+    "useCasesKo": [
+      "시각적인 작업 공간 구성",
+      "에이전트 작업 흐름 모니터링",
+      "비개발자 친화 UI 제공"
+    ],
+    "audienceKo": [
+      "제품 기획자",
+      "비개발자 운영자",
+      "에이전트 작업을 눈으로 보고 싶은 사용자"
+    ],
     "tagsKo": [
-      "워크스페이스·GUI"
+      "워크스페이스·GUI",
+      "hermes desktop"
     ],
     "riskNoteKo": "",
     "sourceDescription": "Desktop companion app for installing, configuring, and chatting with Hermes Agent",
     "sourceHash": "a1999216401ec3b600e49f3c9e2592730a694d9076b66bae5bb2c20881e1d81e",
     "localizedAt": "2026-05-02T01:30:24.660Z",
-    "localizationStatus": "machine_review_needed"
+    "localizationStatus": "editorial_seeded"
   },
   {
     "id": "sanchomuzax/hermes-webui",
@@ -236,18 +289,30 @@
     "category": "Workspaces & GUIs",
     "categoryKo": "워크스페이스·GUI",
     "categoryDescriptionKo": "웹·데스크톱에서 Hermes를 쓰기 쉽게 만든 화면, 대시보드, 작업 공간입니다.",
-    "oneLineKo": "sanchomuzax/hermes-webui는 Hermes 생태계의 워크스페이스·GUI 영역에 속한 프로젝트입니다.",
-    "summaryKo": "sanchomuzax/hermes-webui는 Hermes 생태계의 워크스페이스·GUI 영역에 속한 프로젝트입니다. 상세 설명은 원문 설명과 GitHub 링크를 함께 확인하세요.",
-    "useCasesKo": [],
-    "audienceKo": [],
+    "oneLineKo": "sanchomuzax/hermes-webui: Process monitoring and configuration dashboard for Hermes을 한국어 Atlas 기준으로 분류한 프로젝트입니다.",
+    "summaryKo": "sanchomuzax/hermes-webui는 워크스페이스·GUI 범주에서 볼 만한 프로젝트입니다. 원문 설명 기준으로는 “Process monitoring and configuration dashboard for Hermes”에 초점이 있습니다. 한국어 사용자는 시각적인 작업 공간 구성이나 에이전트 작업 흐름 모니터링이 필요할 때 우선 살펴보면 됩니다. repo 이름과 명령어, 원본 링크는 검색성과 재현성을 위해 그대로 유지했습니다.",
+    "useCasesKo": [
+      "시각적인 작업 공간 구성",
+      "에이전트 작업 흐름 모니터링",
+      "비개발자 친화 UI 제공",
+      "GUI"
+    ],
+    "audienceKo": [
+      "제품 기획자",
+      "비개발자 운영자",
+      "에이전트 작업을 눈으로 보고 싶은 사용자"
+    ],
     "tagsKo": [
-      "워크스페이스·GUI"
+      "워크스페이스·GUI",
+      "GUI",
+      "워크스페이스",
+      "hermes webui"
     ],
     "riskNoteKo": "",
     "sourceDescription": "Process monitoring and configuration dashboard for Hermes",
     "sourceHash": "dfc403f199b7be512c5547fbad818cbf8f1a3ae3a5eea4b5864055d61f304a93",
     "localizedAt": "2026-05-02T01:30:24.660Z",
-    "localizationStatus": "machine_review_needed"
+    "localizationStatus": "editorial_seeded"
   },
   {
     "id": "Euraika-Labs/pan-ui",
@@ -260,18 +325,32 @@
     "category": "Workspaces & GUIs",
     "categoryKo": "워크스페이스·GUI",
     "categoryDescriptionKo": "웹·데스크톱에서 Hermes를 쓰기 쉽게 만든 화면, 대시보드, 작업 공간입니다.",
-    "oneLineKo": "Euraika-Labs/pan-ui는 Hermes 생태계의 워크스페이스·GUI 영역에 속한 프로젝트입니다.",
-    "summaryKo": "Euraika-Labs/pan-ui는 Hermes 생태계의 워크스페이스·GUI 영역에 속한 프로젝트입니다. 상세 설명은 원문 설명과 GitHub 링크를 함께 확인하세요.",
-    "useCasesKo": [],
-    "audienceKo": [],
+    "oneLineKo": "Euraika-Labs/pan-ui: Self — hosted AI workspace with chat, skills, extensions, memory, profiles, and runtime controls을 한국어 Atlas 기준으로 분류한 프로젝트입니다.",
+    "summaryKo": "Euraika-Labs/pan-ui는 워크스페이스·GUI 범주에서 볼 만한 프로젝트입니다. 원문 설명 기준으로는 “Self — hosted AI workspace with chat, skills, extensions, memory, profiles, and runtime controls”에 초점이 있습니다. 한국어 사용자는 시각적인 작업 공간 구성이나 에이전트 작업 흐름 모니터링이 필요할 때 우선 살펴보면 됩니다. repo 이름과 명령어, 원본 링크는 검색성과 재현성을 위해 그대로 유지했습니다.",
+    "useCasesKo": [
+      "시각적인 작업 공간 구성",
+      "에이전트 작업 흐름 모니터링",
+      "비개발자 친화 UI 제공",
+      "메모리"
+    ],
+    "audienceKo": [
+      "제품 기획자",
+      "비개발자 운영자",
+      "에이전트 작업을 눈으로 보고 싶은 사용자"
+    ],
     "tagsKo": [
-      "워크스페이스·GUI"
+      "워크스페이스·GUI",
+      "메모리",
+      "컨텍스트 유지",
+      "스킬",
+      "재사용 가능한 작업 절차",
+      "GUI"
     ],
     "riskNoteKo": "",
     "sourceDescription": "Self-hosted AI workspace with chat, skills, extensions, memory, profiles, and runtime controls",
     "sourceHash": "e0873fe1fd279abb79b64624e3f8bbda741fea8f02d778a40305ee344fdafb8a",
     "localizedAt": "2026-05-02T01:30:24.660Z",
-    "localizationStatus": "machine_review_needed"
+    "localizationStatus": "editorial_seeded"
   },
   {
     "id": "mukul975/Anthropic-Cybersecurity-Skills",
@@ -320,18 +399,27 @@
     "category": "Skills & Skill Registries",
     "categoryKo": "스킬·레지스트리",
     "categoryDescriptionKo": "에이전트가 반복 작업을 잘 수행하도록 돕는 재사용 스킬과 스킬 저장소입니다.",
-    "oneLineKo": "conorbronsdon/avoid-ai-writing는 Hermes 생태계의 스킬·레지스트리 영역에 속한 프로젝트입니다.",
-    "summaryKo": "conorbronsdon/avoid-ai-writing는 Hermes 생태계의 스킬·레지스트리 영역에 속한 프로젝트입니다. 상세 설명은 원문 설명과 GitHub 링크를 함께 확인하세요.",
-    "useCasesKo": [],
-    "audienceKo": [],
+    "oneLineKo": "conorbronsdon/avoid-ai-writing: Audits and rewrites content to eliminate detectable AI writing patterns을 한국어 Atlas 기준으로 분류한 프로젝트입니다.",
+    "summaryKo": "conorbronsdon/avoid-ai-writing는 스킬·레지스트리 범주에서 볼 만한 프로젝트입니다. 원문 설명 기준으로는 “Audits and rewrites content to eliminate detectable AI writing patterns”에 초점이 있습니다. 한국어 사용자는 반복 작업을 재사용 가능한 스킬로 정리이나 도메인별 스킬 탐색이 필요할 때 우선 살펴보면 됩니다. repo 이름과 명령어, 원본 링크는 검색성과 재현성을 위해 그대로 유지했습니다.",
+    "useCasesKo": [
+      "반복 작업을 재사용 가능한 스킬로 정리",
+      "도메인별 스킬 탐색",
+      "팀 단위 작업 표준화"
+    ],
+    "audienceKo": [
+      "스킬 제작자",
+      "팀 리드",
+      "반복 업무가 많은 사용자"
+    ],
     "tagsKo": [
-      "스킬·레지스트리"
+      "스킬·레지스트리",
+      "avoid ai writing"
     ],
     "riskNoteKo": "",
     "sourceDescription": "Audits and rewrites content to eliminate detectable AI writing patterns",
     "sourceHash": "41233f388f64f0e00a2596824499d9b10987f58bb488d51e32224ebcfe1db2f7",
     "localizedAt": "2026-05-02T01:30:24.660Z",
-    "localizationStatus": "machine_review_needed"
+    "localizationStatus": "editorial_seeded"
   },
   {
     "id": "wondelai/skills",
@@ -344,18 +432,30 @@
     "category": "Skills & Skill Registries",
     "categoryKo": "스킬·레지스트리",
     "categoryDescriptionKo": "에이전트가 반복 작업을 잘 수행하도록 돕는 재사용 스킬과 스킬 저장소입니다.",
-    "oneLineKo": "wondelai/skills는 Hermes 생태계의 스킬·레지스트리 영역에 속한 프로젝트입니다.",
-    "summaryKo": "wondelai/skills는 Hermes 생태계의 스킬·레지스트리 영역에 속한 프로젝트입니다. 상세 설명은 원문 설명과 GitHub 링크를 함께 확인하세요.",
-    "useCasesKo": [],
-    "audienceKo": [],
+    "oneLineKo": "wondelai/skills: Cross — platform skills library for Claude Code and agentskills.io — compatible agents을 한국어 Atlas 기준으로 분류한 프로젝트입니다.",
+    "summaryKo": "wondelai/skills는 스킬·레지스트리 범주에서 볼 만한 프로젝트입니다. 원문 설명 기준으로는 “Cross — platform skills library for Claude Code and agentskills.io — compatible agents”에 초점이 있습니다. 한국어 사용자는 반복 작업을 재사용 가능한 스킬로 정리이나 도메인별 스킬 탐색이 필요할 때 우선 살펴보면 됩니다. repo 이름과 명령어, 원본 링크는 검색성과 재현성을 위해 그대로 유지했습니다.",
+    "useCasesKo": [
+      "반복 작업을 재사용 가능한 스킬로 정리",
+      "도메인별 스킬 탐색",
+      "팀 단위 작업 표준화",
+      "스킬"
+    ],
+    "audienceKo": [
+      "스킬 제작자",
+      "팀 리드",
+      "반복 업무가 많은 사용자"
+    ],
     "tagsKo": [
-      "스킬·레지스트리"
+      "스킬·레지스트리",
+      "스킬",
+      "재사용 가능한 작업 절차",
+      "skills"
     ],
     "riskNoteKo": "",
     "sourceDescription": "Cross-platform skills library for Claude Code and agentskills.io-compatible agents",
     "sourceHash": "15d81a5477da3edf9275b1d2045206e8ba7c0d5378269db4a3d755732cec3049",
     "localizedAt": "2026-05-02T01:30:24.660Z",
-    "localizationStatus": "machine_review_needed"
+    "localizationStatus": "editorial_seeded"
   },
   {
     "id": "DougTrajano/pydantic-ai-skills",
@@ -368,18 +468,30 @@
     "category": "Skills & Skill Registries",
     "categoryKo": "스킬·레지스트리",
     "categoryDescriptionKo": "에이전트가 반복 작업을 잘 수행하도록 돕는 재사용 스킬과 스킬 저장소입니다.",
-    "oneLineKo": "DougTrajano/pydantic-ai-skills는 Hermes 생태계의 스킬·레지스트리 영역에 속한 프로젝트입니다.",
-    "summaryKo": "DougTrajano/pydantic-ai-skills는 Hermes 생태계의 스킬·레지스트리 영역에 속한 프로젝트입니다. 상세 설명은 원문 설명과 GitHub 링크를 함께 확인하세요.",
-    "useCasesKo": [],
-    "audienceKo": [],
+    "oneLineKo": "DougTrajano/pydantic-ai-skills: Type — safe agentskills.io support with progressive disclosure for Pydantic AI을 한국어 Atlas 기준으로 분류한 프로젝트입니다.",
+    "summaryKo": "DougTrajano/pydantic-ai-skills는 스킬·레지스트리 범주에서 볼 만한 프로젝트입니다. 원문 설명 기준으로는 “Type — safe agentskills.io support with progressive disclosure for Pydantic AI”에 초점이 있습니다. 한국어 사용자는 반복 작업을 재사용 가능한 스킬로 정리이나 도메인별 스킬 탐색이 필요할 때 우선 살펴보면 됩니다. repo 이름과 명령어, 원본 링크는 검색성과 재현성을 위해 그대로 유지했습니다.",
+    "useCasesKo": [
+      "반복 작업을 재사용 가능한 스킬로 정리",
+      "도메인별 스킬 탐색",
+      "팀 단위 작업 표준화",
+      "스킬"
+    ],
+    "audienceKo": [
+      "스킬 제작자",
+      "팀 리드",
+      "반복 업무가 많은 사용자"
+    ],
     "tagsKo": [
-      "스킬·레지스트리"
+      "스킬·레지스트리",
+      "스킬",
+      "재사용 가능한 작업 절차",
+      "pydantic ai skills"
     ],
     "riskNoteKo": "",
     "sourceDescription": "Type-safe agentskills.io support with progressive disclosure for Pydantic AI",
     "sourceHash": "31f0eca5b4101163fefd141ed10ae6203e328288c13d09d389e02f8fa80552dd",
     "localizedAt": "2026-05-02T01:30:24.660Z",
-    "localizationStatus": "machine_review_needed"
+    "localizationStatus": "editorial_seeded"
   },
   {
     "id": "Agents365-ai/drawio-skill",
@@ -392,18 +504,30 @@
     "category": "Skills & Skill Registries",
     "categoryKo": "스킬·레지스트리",
     "categoryDescriptionKo": "에이전트가 반복 작업을 잘 수행하도록 돕는 재사용 스킬과 스킬 저장소입니다.",
-    "oneLineKo": "Agents365-ai/drawio-skill는 Hermes 생태계의 스킬·레지스트리 영역에 속한 프로젝트입니다.",
-    "summaryKo": "Agents365-ai/drawio-skill는 Hermes 생태계의 스킬·레지스트리 영역에 속한 프로젝트입니다. 상세 설명은 원문 설명과 GitHub 링크를 함께 확인하세요.",
-    "useCasesKo": [],
-    "audienceKo": [],
+    "oneLineKo": "Agents365-ai/drawio-skill: Generate draw.io diagrams from natural language descriptions을 한국어 Atlas 기준으로 분류한 프로젝트입니다.",
+    "summaryKo": "Agents365-ai/drawio-skill는 스킬·레지스트리 범주에서 볼 만한 프로젝트입니다. 원문 설명 기준으로는 “Generate draw.io diagrams from natural language descriptions”에 초점이 있습니다. 한국어 사용자는 반복 작업을 재사용 가능한 스킬로 정리이나 도메인별 스킬 탐색이 필요할 때 우선 살펴보면 됩니다. repo 이름과 명령어, 원본 링크는 검색성과 재현성을 위해 그대로 유지했습니다.",
+    "useCasesKo": [
+      "반복 작업을 재사용 가능한 스킬로 정리",
+      "도메인별 스킬 탐색",
+      "팀 단위 작업 표준화",
+      "스킬"
+    ],
+    "audienceKo": [
+      "스킬 제작자",
+      "팀 리드",
+      "반복 업무가 많은 사용자"
+    ],
     "tagsKo": [
-      "스킬·레지스트리"
+      "스킬·레지스트리",
+      "스킬",
+      "재사용 가능한 작업 절차",
+      "drawio skill"
     ],
     "riskNoteKo": "",
     "sourceDescription": "Generate draw.io diagrams from natural language descriptions",
     "sourceHash": "abe13107f0d8a40780b09392c2a7eb164c14b1c47aa4ca8089fa388666b4140d",
     "localizedAt": "2026-05-02T01:30:24.660Z",
-    "localizationStatus": "machine_review_needed"
+    "localizationStatus": "editorial_seeded"
   },
   {
     "id": "smartcontractkit/chainlink-agent-skills",
@@ -416,18 +540,30 @@
     "category": "Skills & Skill Registries",
     "categoryKo": "스킬·레지스트리",
     "categoryDescriptionKo": "에이전트가 반복 작업을 잘 수행하도록 돕는 재사용 스킬과 스킬 저장소입니다.",
-    "oneLineKo": "smartcontractkit/chainlink-agent-skills는 Hermes 생태계의 스킬·레지스트리 영역에 속한 프로젝트입니다.",
-    "summaryKo": "smartcontractkit/chainlink-agent-skills는 Hermes 생태계의 스킬·레지스트리 영역에 속한 프로젝트입니다. 상세 설명은 원문 설명과 GitHub 링크를 함께 확인하세요.",
-    "useCasesKo": [],
-    "audienceKo": [],
+    "oneLineKo": "smartcontractkit/chainlink-agent-skills: Oracle network and smart contract interaction skills (agentskills.io spec)을 한국어 Atlas 기준으로 분류한 프로젝트입니다.",
+    "summaryKo": "smartcontractkit/chainlink-agent-skills는 스킬·레지스트리 범주에서 볼 만한 프로젝트입니다. 원문 설명 기준으로는 “Oracle network and smart contract interaction skills (agentskills.io spec)”에 초점이 있습니다. 한국어 사용자는 반복 작업을 재사용 가능한 스킬로 정리이나 도메인별 스킬 탐색이 필요할 때 우선 살펴보면 됩니다. repo 이름과 명령어, 원본 링크는 검색성과 재현성을 위해 그대로 유지했습니다.",
+    "useCasesKo": [
+      "반복 작업을 재사용 가능한 스킬로 정리",
+      "도메인별 스킬 탐색",
+      "팀 단위 작업 표준화",
+      "스킬"
+    ],
+    "audienceKo": [
+      "스킬 제작자",
+      "팀 리드",
+      "반복 업무가 많은 사용자"
+    ],
     "tagsKo": [
-      "스킬·레지스트리"
+      "스킬·레지스트리",
+      "스킬",
+      "재사용 가능한 작업 절차",
+      "chainlink agent skills"
     ],
     "riskNoteKo": "",
     "sourceDescription": "Oracle network and smart contract interaction skills (agentskills.io spec)",
     "sourceHash": "64a1f7dc543f1dab3e65249c3ce793a89096b208972aae99bb50959b8f1cacae",
     "localizedAt": "2026-05-02T01:30:24.660Z",
-    "localizationStatus": "machine_review_needed"
+    "localizationStatus": "editorial_seeded"
   },
   {
     "id": "tlehman/litprog-skill",
@@ -440,18 +576,30 @@
     "category": "Skills & Skill Registries",
     "categoryKo": "스킬·레지스트리",
     "categoryDescriptionKo": "에이전트가 반복 작업을 잘 수행하도록 돕는 재사용 스킬과 스킬 저장소입니다.",
-    "oneLineKo": "tlehman/litprog-skill는 Hermes 생태계의 스킬·레지스트리 영역에 속한 프로젝트입니다.",
-    "summaryKo": "tlehman/litprog-skill는 Hermes 생태계의 스킬·레지스트리 영역에 속한 프로젝트입니다. 상세 설명은 원문 설명과 GitHub 링크를 함께 확인하세요.",
-    "useCasesKo": [],
-    "audienceKo": [],
+    "oneLineKo": "tlehman/litprog-skill: Literate programming skill — weave code and documentation across agents을 한국어 Atlas 기준으로 분류한 프로젝트입니다.",
+    "summaryKo": "tlehman/litprog-skill는 스킬·레지스트리 범주에서 볼 만한 프로젝트입니다. 원문 설명 기준으로는 “Literate programming skill — weave code and documentation across agents”에 초점이 있습니다. 한국어 사용자는 반복 작업을 재사용 가능한 스킬로 정리이나 도메인별 스킬 탐색이 필요할 때 우선 살펴보면 됩니다. repo 이름과 명령어, 원본 링크는 검색성과 재현성을 위해 그대로 유지했습니다.",
+    "useCasesKo": [
+      "반복 작업을 재사용 가능한 스킬로 정리",
+      "도메인별 스킬 탐색",
+      "팀 단위 작업 표준화",
+      "스킬"
+    ],
+    "audienceKo": [
+      "스킬 제작자",
+      "팀 리드",
+      "반복 업무가 많은 사용자"
+    ],
     "tagsKo": [
-      "스킬·레지스트리"
+      "스킬·레지스트리",
+      "스킬",
+      "재사용 가능한 작업 절차",
+      "litprog skill"
     ],
     "riskNoteKo": "",
     "sourceDescription": "Literate programming skill — weave code and documentation across agents",
     "sourceHash": "b528a7173f7f551c26c6b4631c16ed51da1a3aeeeb8106c3fe42e9b86c5ad936",
     "localizedAt": "2026-05-02T01:30:24.660Z",
-    "localizationStatus": "machine_review_needed"
+    "localizationStatus": "editorial_seeded"
   },
   {
     "id": "esaradev/icarus-plugin",
@@ -464,18 +612,30 @@
     "category": "Skills & Skill Registries",
     "categoryKo": "스킬·레지스트리",
     "categoryDescriptionKo": "에이전트가 반복 작업을 잘 수행하도록 돕는 재사용 스킬과 스킬 저장소입니다.",
-    "oneLineKo": "esaradev/icarus-plugin는 Hermes 생태계의 스킬·레지스트리 영역에 속한 프로젝트입니다.",
-    "summaryKo": "esaradev/icarus-plugin는 Hermes 생태계의 스킬·레지스트리 영역에 속한 프로젝트입니다. 상세 설명은 원문 설명과 GitHub 링크를 함께 확인하세요.",
-    "useCasesKo": [],
-    "audienceKo": [],
+    "oneLineKo": "esaradev/icarus-plugin: Self — memory and replacement models — remember your work, train your replacement을 한국어 Atlas 기준으로 분류한 프로젝트입니다.",
+    "summaryKo": "esaradev/icarus-plugin는 스킬·레지스트리 범주에서 볼 만한 프로젝트입니다. 원문 설명 기준으로는 “Self — memory and replacement models — remember your work, train your replacement”에 초점이 있습니다. 한국어 사용자는 반복 작업을 재사용 가능한 스킬로 정리이나 도메인별 스킬 탐색이 필요할 때 우선 살펴보면 됩니다. repo 이름과 명령어, 원본 링크는 검색성과 재현성을 위해 그대로 유지했습니다.",
+    "useCasesKo": [
+      "반복 작업을 재사용 가능한 스킬로 정리",
+      "도메인별 스킬 탐색",
+      "팀 단위 작업 표준화",
+      "메모리"
+    ],
+    "audienceKo": [
+      "스킬 제작자",
+      "팀 리드",
+      "반복 업무가 많은 사용자"
+    ],
     "tagsKo": [
-      "스킬·레지스트리"
+      "스킬·레지스트리",
+      "메모리",
+      "컨텍스트 유지",
+      "icarus plugin"
     ],
     "riskNoteKo": "",
     "sourceDescription": "Self-memory and replacement models — remember your work, train your replacement",
     "sourceHash": "6fd75ebc059aae4ec46b9835d7855e4cfb4a6cdee243e991169e96f6ccc988b7",
     "localizedAt": "2026-05-02T01:30:24.660Z",
-    "localizationStatus": "machine_review_needed"
+    "localizationStatus": "editorial_seeded"
   },
   {
     "id": "chigwell/skilldock.io",
@@ -488,18 +648,30 @@
     "category": "Skills & Skill Registries",
     "categoryKo": "스킬·레지스트리",
     "categoryDescriptionKo": "에이전트가 반복 작업을 잘 수행하도록 돕는 재사용 스킬과 스킬 저장소입니다.",
-    "oneLineKo": "chigwell/skilldock.io는 Hermes 생태계의 스킬·레지스트리 영역에 속한 프로젝트입니다.",
-    "summaryKo": "chigwell/skilldock.io는 Hermes 생태계의 스킬·레지스트리 영역에 속한 프로젝트입니다. 상세 설명은 원문 설명과 GitHub 링크를 함께 확인하세요.",
-    "useCasesKo": [],
-    "audienceKo": [],
+    "oneLineKo": "chigwell/skilldock.io: Registry of reusable AI skills based on AgentSkills specification을 한국어 Atlas 기준으로 분류한 프로젝트입니다.",
+    "summaryKo": "chigwell/skilldock.io는 스킬·레지스트리 범주에서 볼 만한 프로젝트입니다. 원문 설명 기준으로는 “Registry of reusable AI skills based on AgentSkills specification”에 초점이 있습니다. 한국어 사용자는 반복 작업을 재사용 가능한 스킬로 정리이나 도메인별 스킬 탐색이 필요할 때 우선 살펴보면 됩니다. repo 이름과 명령어, 원본 링크는 검색성과 재현성을 위해 그대로 유지했습니다.",
+    "useCasesKo": [
+      "반복 작업을 재사용 가능한 스킬로 정리",
+      "도메인별 스킬 탐색",
+      "팀 단위 작업 표준화",
+      "스킬"
+    ],
+    "audienceKo": [
+      "스킬 제작자",
+      "팀 리드",
+      "반복 업무가 많은 사용자"
+    ],
     "tagsKo": [
-      "스킬·레지스트리"
+      "스킬·레지스트리",
+      "스킬",
+      "재사용 가능한 작업 절차",
+      "skilldock.io"
     ],
     "riskNoteKo": "",
     "sourceDescription": "Registry of reusable AI skills based on AgentSkills specification",
     "sourceHash": "960d3d5d801010fbc508445ed059b5911df34bd8ef617737ce6724335f33633e",
     "localizedAt": "2026-05-02T01:30:24.660Z",
-    "localizationStatus": "machine_review_needed"
+    "localizationStatus": "editorial_seeded"
   },
   {
     "id": "black-forest-labs/skills",
@@ -512,18 +684,32 @@
     "category": "Skills & Skill Registries",
     "categoryKo": "스킬·레지스트리",
     "categoryDescriptionKo": "에이전트가 반복 작업을 잘 수행하도록 돕는 재사용 스킬과 스킬 저장소입니다.",
-    "oneLineKo": "black-forest-labs/skills는 Hermes 생태계의 스킬·레지스트리 영역에 속한 프로젝트입니다.",
-    "summaryKo": "black-forest-labs/skills는 Hermes 생태계의 스킬·레지스트리 영역에 속한 프로젝트입니다. 상세 설명은 원문 설명과 GitHub 링크를 함께 확인하세요.",
-    "useCasesKo": [],
-    "audienceKo": [],
+    "oneLineKo": "black-forest-labs/skills: Official FLUX image generation skills — prompting guidelines and API integration을 한국어 Atlas 기준으로 분류한 프로젝트입니다.",
+    "summaryKo": "black-forest-labs/skills는 스킬·레지스트리 범주에서 볼 만한 프로젝트입니다. 원문 설명 기준으로는 “Official FLUX image generation skills — prompting guidelines and API integration”에 초점이 있습니다. 한국어 사용자는 반복 작업을 재사용 가능한 스킬로 정리이나 도메인별 스킬 탐색이 필요할 때 우선 살펴보면 됩니다. repo 이름과 명령어, 원본 링크는 검색성과 재현성을 위해 그대로 유지했습니다.",
+    "useCasesKo": [
+      "반복 작업을 재사용 가능한 스킬로 정리",
+      "도메인별 스킬 탐색",
+      "팀 단위 작업 표준화",
+      "스킬"
+    ],
+    "audienceKo": [
+      "스킬 제작자",
+      "팀 리드",
+      "반복 업무가 많은 사용자"
+    ],
     "tagsKo": [
-      "스킬·레지스트리"
+      "스킬·레지스트리",
+      "스킬",
+      "재사용 가능한 작업 절차",
+      "GUI",
+      "워크스페이스",
+      "외부 서비스 연동"
     ],
     "riskNoteKo": "",
     "sourceDescription": "Official FLUX image generation skills — prompting guidelines and API integration",
     "sourceHash": "28282f9f0ab09fb20894e9f66584b5cc57417e71f7ffa75fdccf51573c493c2e",
     "localizedAt": "2026-05-02T01:30:24.660Z",
-    "localizationStatus": "machine_review_needed"
+    "localizationStatus": "editorial_seeded"
   },
   {
     "id": "Romanescu11/hermes-skill-factory",
@@ -536,18 +722,30 @@
     "category": "Skills & Skill Registries",
     "categoryKo": "스킬·레지스트리",
     "categoryDescriptionKo": "에이전트가 반복 작업을 잘 수행하도록 돕는 재사용 스킬과 스킬 저장소입니다.",
-    "oneLineKo": "Romanescu11/hermes-skill-factory는 Hermes 생태계의 스킬·레지스트리 영역에 속한 프로젝트입니다.",
-    "summaryKo": "Romanescu11/hermes-skill-factory는 Hermes 생태계의 스킬·레지스트리 영역에 속한 프로젝트입니다. 상세 설명은 원문 설명과 GitHub 링크를 함께 확인하세요.",
-    "useCasesKo": [],
-    "audienceKo": [],
+    "oneLineKo": "Romanescu11/hermes-skill-factory: Meta — skill plugin that watches workflows and auto — generates reusable skills을 한국어 Atlas 기준으로 분류한 프로젝트입니다.",
+    "summaryKo": "Romanescu11/hermes-skill-factory는 스킬·레지스트리 범주에서 볼 만한 프로젝트입니다. 원문 설명 기준으로는 “Meta — skill plugin that watches workflows and auto — generates reusable skills”에 초점이 있습니다. 한국어 사용자는 반복 작업을 재사용 가능한 스킬로 정리이나 도메인별 스킬 탐색이 필요할 때 우선 살펴보면 됩니다. repo 이름과 명령어, 원본 링크는 검색성과 재현성을 위해 그대로 유지했습니다.",
+    "useCasesKo": [
+      "반복 작업을 재사용 가능한 스킬로 정리",
+      "도메인별 스킬 탐색",
+      "팀 단위 작업 표준화",
+      "스킬"
+    ],
+    "audienceKo": [
+      "스킬 제작자",
+      "팀 리드",
+      "반복 업무가 많은 사용자"
+    ],
     "tagsKo": [
-      "스킬·레지스트리"
+      "스킬·레지스트리",
+      "스킬",
+      "재사용 가능한 작업 절차",
+      "hermes skill factory"
     ],
     "riskNoteKo": "",
     "sourceDescription": "Meta-skill plugin that watches workflows and auto-generates reusable skills",
     "sourceHash": "c45243250e58b015331807baa0c5b32b8460c4a503b003cadc442d70004ef5a0",
     "localizedAt": "2026-05-02T01:30:24.660Z",
-    "localizationStatus": "machine_review_needed"
+    "localizationStatus": "editorial_seeded"
   },
   {
     "id": "ReinaMacCredy/maestro",
@@ -560,18 +758,30 @@
     "category": "Skills & Skill Registries",
     "categoryKo": "스킬·레지스트리",
     "categoryDescriptionKo": "에이전트가 반복 작업을 잘 수행하도록 돕는 재사용 스킬과 스킬 저장소입니다.",
-    "oneLineKo": "ReinaMacCredy/maestro는 Hermes 생태계의 스킬·레지스트리 영역에 속한 프로젝트입니다.",
-    "summaryKo": "ReinaMacCredy/maestro는 Hermes 생태계의 스킬·레지스트리 영역에 속한 프로젝트입니다. 상세 설명은 원문 설명과 GitHub 링크를 함께 확인하세요.",
-    "useCasesKo": [],
-    "audienceKo": [],
+    "oneLineKo": "ReinaMacCredy/maestro: Harness for long — running AI agents — structured memory, cross — feature learning, plan — approve — execute을 한국어 Atlas 기준으로 분류한 프로젝트입니다.",
+    "summaryKo": "ReinaMacCredy/maestro는 스킬·레지스트리 범주에서 볼 만한 프로젝트입니다. 원문 설명 기준으로는 “Harness for long — running AI agents — structured memory, cross — feature learning, plan — approve — execute”에 초점이 있습니다. 한국어 사용자는 반복 작업을 재사용 가능한 스킬로 정리이나 도메인별 스킬 탐색이 필요할 때 우선 살펴보면 됩니다. repo 이름과 명령어, 원본 링크는 검색성과 재현성을 위해 그대로 유지했습니다.",
+    "useCasesKo": [
+      "반복 작업을 재사용 가능한 스킬로 정리",
+      "도메인별 스킬 탐색",
+      "팀 단위 작업 표준화",
+      "메모리"
+    ],
+    "audienceKo": [
+      "스킬 제작자",
+      "팀 리드",
+      "반복 업무가 많은 사용자"
+    ],
     "tagsKo": [
-      "스킬·레지스트리"
+      "스킬·레지스트리",
+      "메모리",
+      "컨텍스트 유지",
+      "maestro"
     ],
     "riskNoteKo": "",
     "sourceDescription": "Harness for long-running AI agents — structured memory, cross-feature learning, plan-approve-execute",
     "sourceHash": "f9dc24d61ef11a47cdeb15a899c37a820b3246b470ebf4d3c459d14a0819a264",
     "localizedAt": "2026-05-02T01:30:24.660Z",
-    "localizationStatus": "machine_review_needed"
+    "localizationStatus": "editorial_seeded"
   },
   {
     "id": "tiann/execplan-skill",
@@ -584,18 +794,30 @@
     "category": "Skills & Skill Registries",
     "categoryKo": "스킬·레지스트리",
     "categoryDescriptionKo": "에이전트가 반복 작업을 잘 수행하도록 돕는 재사용 스킬과 스킬 저장소입니다.",
-    "oneLineKo": "tiann/execplan-skill는 Hermes 생태계의 스킬·레지스트리 영역에 속한 프로젝트입니다.",
-    "summaryKo": "tiann/execplan-skill는 Hermes 생태계의 스킬·레지스트리 영역에 속한 프로젝트입니다. 상세 설명은 원문 설명과 GitHub 링크를 함께 확인하세요.",
-    "useCasesKo": [],
-    "audienceKo": [],
+    "oneLineKo": "tiann/execplan-skill: Complex multi — step task execution with checkpoints and recovery을 한국어 Atlas 기준으로 분류한 프로젝트입니다.",
+    "summaryKo": "tiann/execplan-skill는 스킬·레지스트리 범주에서 볼 만한 프로젝트입니다. 원문 설명 기준으로는 “Complex multi — step task execution with checkpoints and recovery”에 초점이 있습니다. 한국어 사용자는 반복 작업을 재사용 가능한 스킬로 정리이나 도메인별 스킬 탐색이 필요할 때 우선 살펴보면 됩니다. repo 이름과 명령어, 원본 링크는 검색성과 재현성을 위해 그대로 유지했습니다.",
+    "useCasesKo": [
+      "반복 작업을 재사용 가능한 스킬로 정리",
+      "도메인별 스킬 탐색",
+      "팀 단위 작업 표준화",
+      "스킬"
+    ],
+    "audienceKo": [
+      "스킬 제작자",
+      "팀 리드",
+      "반복 업무가 많은 사용자"
+    ],
     "tagsKo": [
-      "스킬·레지스트리"
+      "스킬·레지스트리",
+      "스킬",
+      "재사용 가능한 작업 절차",
+      "execplan skill"
     ],
     "riskNoteKo": "",
     "sourceDescription": "Complex multi-step task execution with checkpoints and recovery",
     "sourceHash": "479bb5d3f3bba28108ef848bb7fe90f7d7eed550bca5dab1aab12d9a184b900d",
     "localizedAt": "2026-05-02T01:30:24.660Z",
-    "localizationStatus": "machine_review_needed"
+    "localizationStatus": "editorial_seeded"
   },
   {
     "id": "cablate/Agentic-MCP-Skill",
@@ -608,18 +830,32 @@
     "category": "Skills & Skill Registries",
     "categoryKo": "스킬·레지스트리",
     "categoryDescriptionKo": "에이전트가 반복 작업을 잘 수행하도록 돕는 재사용 스킬과 스킬 저장소입니다.",
-    "oneLineKo": "cablate/Agentic-MCP-Skill는 Hermes 생태계의 스킬·레지스트리 영역에 속한 프로젝트입니다.",
-    "summaryKo": "cablate/Agentic-MCP-Skill는 Hermes 생태계의 스킬·레지스트리 영역에 속한 프로젝트입니다. 상세 설명은 원문 설명과 GitHub 링크를 함께 확인하세요.",
-    "useCasesKo": [],
-    "audienceKo": [],
+    "oneLineKo": "cablate/Agentic-MCP-Skill: Progressive MCP client with three — layer lazy loading — validates agentskills.io pattern을 한국어 Atlas 기준으로 분류한 프로젝트입니다.",
+    "summaryKo": "cablate/Agentic-MCP-Skill는 스킬·레지스트리 범주에서 볼 만한 프로젝트입니다. 원문 설명 기준으로는 “Progressive MCP client with three — layer lazy loading — validates agentskills.io pattern”에 초점이 있습니다. 한국어 사용자는 반복 작업을 재사용 가능한 스킬로 정리이나 도메인별 스킬 탐색이 필요할 때 우선 살펴보면 됩니다. repo 이름과 명령어, 원본 링크는 검색성과 재현성을 위해 그대로 유지했습니다.",
+    "useCasesKo": [
+      "반복 작업을 재사용 가능한 스킬로 정리",
+      "도메인별 스킬 탐색",
+      "팀 단위 작업 표준화",
+      "스킬"
+    ],
+    "audienceKo": [
+      "스킬 제작자",
+      "팀 리드",
+      "반복 업무가 많은 사용자"
+    ],
     "tagsKo": [
-      "스킬·레지스트리"
+      "스킬·레지스트리",
+      "스킬",
+      "재사용 가능한 작업 절차",
+      "MCP",
+      "외부 도구 연결",
+      "Agentic MCP Skill"
     ],
     "riskNoteKo": "",
     "sourceDescription": "Progressive MCP client with three-layer lazy loading — validates agentskills.io pattern",
     "sourceHash": "99d046baf5b7523c3eb2fa0ca63d4a5a217ace08ad99e88aed2e9f851d9acf7f",
     "localizedAt": "2026-05-02T01:30:24.660Z",
-    "localizationStatus": "machine_review_needed"
+    "localizationStatus": "editorial_seeded"
   },
   {
     "id": "armelhbobdad/bmad-module-skill-forge",
@@ -632,18 +868,30 @@
     "category": "Skills & Skill Registries",
     "categoryKo": "스킬·레지스트리",
     "categoryDescriptionKo": "에이전트가 반복 작업을 잘 수행하도록 돕는 재사용 스킬과 스킬 저장소입니다.",
-    "oneLineKo": "armelhbobdad/bmad-module-skill-forge는 Hermes 생태계의 스킬·레지스트리 영역에 속한 프로젝트입니다.",
-    "summaryKo": "armelhbobdad/bmad-module-skill-forge는 Hermes 생태계의 스킬·레지스트리 영역에 속한 프로젝트입니다. 상세 설명은 원문 설명과 GitHub 링크를 함께 확인하세요.",
-    "useCasesKo": [],
-    "audienceKo": [],
+    "oneLineKo": "armelhbobdad/bmad-module-skill-forge: Converts repos, docs, and developer discourse into agentskills.io — compliant skills을 한국어 Atlas 기준으로 분류한 프로젝트입니다.",
+    "summaryKo": "armelhbobdad/bmad-module-skill-forge는 스킬·레지스트리 범주에서 볼 만한 프로젝트입니다. 원문 설명 기준으로는 “Converts repos, docs, and developer discourse into agentskills.io — compliant skills”에 초점이 있습니다. 한국어 사용자는 반복 작업을 재사용 가능한 스킬로 정리이나 도메인별 스킬 탐색이 필요할 때 우선 살펴보면 됩니다. repo 이름과 명령어, 원본 링크는 검색성과 재현성을 위해 그대로 유지했습니다.",
+    "useCasesKo": [
+      "반복 작업을 재사용 가능한 스킬로 정리",
+      "도메인별 스킬 탐색",
+      "팀 단위 작업 표준화",
+      "스킬"
+    ],
+    "audienceKo": [
+      "스킬 제작자",
+      "팀 리드",
+      "반복 업무가 많은 사용자"
+    ],
     "tagsKo": [
-      "스킬·레지스트리"
+      "스킬·레지스트리",
+      "스킬",
+      "재사용 가능한 작업 절차",
+      "bmad module skill forge"
     ],
     "riskNoteKo": "",
     "sourceDescription": "Converts repos, docs, and developer discourse into agentskills.io-compliant skills",
     "sourceHash": "1fec2ba6132bd421f9cda347ff432afc9e275499c3ab6429afae4d88fccd5c60",
     "localizedAt": "2026-05-02T01:30:24.660Z",
-    "localizationStatus": "machine_review_needed"
+    "localizationStatus": "editorial_seeded"
   },
   {
     "id": "amanning3390/hermeshub",
@@ -656,18 +904,30 @@
     "category": "Skills & Skill Registries",
     "categoryKo": "스킬·레지스트리",
     "categoryDescriptionKo": "에이전트가 반복 작업을 잘 수행하도록 돕는 재사용 스킬과 스킬 저장소입니다.",
-    "oneLineKo": "amanning3390/hermeshub는 Hermes 생태계의 스킬·레지스트리 영역에 속한 프로젝트입니다.",
-    "summaryKo": "amanning3390/hermeshub는 Hermes 생태계의 스킬·레지스트리 영역에 속한 프로젝트입니다. 상세 설명은 원문 설명과 GitHub 링크를 함께 확인하세요.",
-    "useCasesKo": [],
-    "audienceKo": [],
+    "oneLineKo": "amanning3390/hermeshub: Community skill browsing, search, and one — click installation hub을 한국어 Atlas 기준으로 분류한 프로젝트입니다.",
+    "summaryKo": "amanning3390/hermeshub는 스킬·레지스트리 범주에서 볼 만한 프로젝트입니다. 원문 설명 기준으로는 “Community skill browsing, search, and one — click installation hub”에 초점이 있습니다. 한국어 사용자는 반복 작업을 재사용 가능한 스킬로 정리이나 도메인별 스킬 탐색이 필요할 때 우선 살펴보면 됩니다. repo 이름과 명령어, 원본 링크는 검색성과 재현성을 위해 그대로 유지했습니다.",
+    "useCasesKo": [
+      "반복 작업을 재사용 가능한 스킬로 정리",
+      "도메인별 스킬 탐색",
+      "팀 단위 작업 표준화",
+      "스킬"
+    ],
+    "audienceKo": [
+      "스킬 제작자",
+      "팀 리드",
+      "반복 업무가 많은 사용자"
+    ],
     "tagsKo": [
-      "스킬·레지스트리"
+      "스킬·레지스트리",
+      "스킬",
+      "재사용 가능한 작업 절차",
+      "hermeshub"
     ],
     "riskNoteKo": "",
     "sourceDescription": "Community skill browsing, search, and one-click installation hub",
     "sourceHash": "d7d1d011cf8c42c54b1002ebd06bd2b4040e80952b7fcc83fc73b1c7f4f7c4ab",
     "localizedAt": "2026-05-02T01:30:24.660Z",
-    "localizationStatus": "machine_review_needed"
+    "localizationStatus": "editorial_seeded"
   },
   {
     "id": "PederHP/skillsdotnet",
@@ -680,18 +940,32 @@
     "category": "Skills & Skill Registries",
     "categoryKo": "스킬·레지스트리",
     "categoryDescriptionKo": "에이전트가 반복 작업을 잘 수행하도록 돕는 재사용 스킬과 스킬 저장소입니다.",
-    "oneLineKo": "PederHP/skillsdotnet는 Hermes 생태계의 스킬·레지스트리 영역에 속한 프로젝트입니다.",
-    "summaryKo": "PederHP/skillsdotnet는 Hermes 생태계의 스킬·레지스트리 영역에 속한 프로젝트입니다. 상세 설명은 원문 설명과 GitHub 링크를 함께 확인하세요.",
-    "useCasesKo": [],
-    "audienceKo": [],
+    "oneLineKo": "PederHP/skillsdotnet: C# / .NET implementation of agentskills.io with MCP integration을 한국어 Atlas 기준으로 분류한 프로젝트입니다.",
+    "summaryKo": "PederHP/skillsdotnet는 스킬·레지스트리 범주에서 볼 만한 프로젝트입니다. 원문 설명 기준으로는 “C# / .NET implementation of agentskills.io with MCP integration”에 초점이 있습니다. 한국어 사용자는 반복 작업을 재사용 가능한 스킬로 정리이나 도메인별 스킬 탐색이 필요할 때 우선 살펴보면 됩니다. repo 이름과 명령어, 원본 링크는 검색성과 재현성을 위해 그대로 유지했습니다.",
+    "useCasesKo": [
+      "반복 작업을 재사용 가능한 스킬로 정리",
+      "도메인별 스킬 탐색",
+      "팀 단위 작업 표준화",
+      "스킬"
+    ],
+    "audienceKo": [
+      "스킬 제작자",
+      "팀 리드",
+      "반복 업무가 많은 사용자"
+    ],
     "tagsKo": [
-      "스킬·레지스트리"
+      "스킬·레지스트리",
+      "스킬",
+      "재사용 가능한 작업 절차",
+      "MCP",
+      "외부 도구 연결",
+      "skillsdotnet"
     ],
     "riskNoteKo": "",
     "sourceDescription": "C# / .NET implementation of agentskills.io with MCP integration",
     "sourceHash": "5f97a0293d764acf34e7d8812f677f796fd559b8c6795ca87aeee9387da8bf8a",
     "localizedAt": "2026-05-02T01:30:24.660Z",
-    "localizationStatus": "machine_review_needed"
+    "localizationStatus": "editorial_seeded"
   },
   {
     "id": "mem0ai/mem0",
@@ -772,18 +1046,30 @@
     "category": "Memory & Context",
     "categoryKo": "메모리·컨텍스트",
     "categoryDescriptionKo": "세션을 넘어 기억하고, 검색하고, 맥락을 유지하게 해주는 메모리 계층입니다.",
-    "oneLineKo": "greyhaven-ai/autocontext는 Hermes 생태계의 메모리·컨텍스트 영역에 속한 프로젝트입니다.",
-    "summaryKo": "greyhaven-ai/autocontext는 Hermes 생태계의 메모리·컨텍스트 영역에 속한 프로젝트입니다. 상세 설명은 원문 설명과 GitHub 링크를 함께 확인하세요.",
-    "useCasesKo": [],
-    "audienceKo": [],
+    "oneLineKo": "greyhaven-ai/autocontext: Recursive self — improving context harness — helps agents succeed on complex tasks을 한국어 Atlas 기준으로 분류한 프로젝트입니다.",
+    "summaryKo": "greyhaven-ai/autocontext는 메모리·컨텍스트 범주에서 볼 만한 프로젝트입니다. 원문 설명 기준으로는 “Recursive self — improving context harness — helps agents succeed on complex tasks”에 초점이 있습니다. 한국어 사용자는 장기 기억 저장이나 세션 간 맥락 유지이 필요할 때 우선 살펴보면 됩니다. repo 이름과 명령어, 원본 링크는 검색성과 재현성을 위해 그대로 유지했습니다.",
+    "useCasesKo": [
+      "장기 기억 저장",
+      "세션 간 맥락 유지",
+      "개인화된 에이전트 경험 구성",
+      "메모리"
+    ],
+    "audienceKo": [
+      "개인 AI 비서 사용자",
+      "장기 프로젝트 운영자",
+      "맥락 유지가 중요한 팀"
+    ],
     "tagsKo": [
-      "메모리·컨텍스트"
+      "메모리·컨텍스트",
+      "메모리",
+      "컨텍스트 유지",
+      "autocontext"
     ],
     "riskNoteKo": "",
     "sourceDescription": "Recursive self-improving context harness — helps agents succeed on complex tasks",
     "sourceHash": "ee6db88cf7e640cda0f9bd1d1d99f784d9b260ea1ad7193c0c76a0194f6da3c8",
     "localizedAt": "2026-05-02T01:30:24.660Z",
-    "localizationStatus": "machine_review_needed"
+    "localizationStatus": "editorial_seeded"
   },
   {
     "id": "elkimek/honcho-self-hosted",
@@ -796,18 +1082,30 @@
     "category": "Memory & Context",
     "categoryKo": "메모리·컨텍스트",
     "categoryDescriptionKo": "세션을 넘어 기억하고, 검색하고, 맥락을 유지하게 해주는 메모리 계층입니다.",
-    "oneLineKo": "elkimek/honcho-self-hosted는 Hermes 생태계의 메모리·컨텍스트 영역에 속한 프로젝트입니다.",
-    "summaryKo": "elkimek/honcho-self-hosted는 Hermes 생태계의 메모리·컨텍스트 영역에 속한 프로젝트입니다. 상세 설명은 원문 설명과 GitHub 링크를 함께 확인하세요.",
-    "useCasesKo": [],
-    "audienceKo": [],
+    "oneLineKo": "elkimek/honcho-self-hosted: Self — hosted Honcho memory backend for cross — session persistence을 한국어 Atlas 기준으로 분류한 프로젝트입니다.",
+    "summaryKo": "elkimek/honcho-self-hosted는 메모리·컨텍스트 범주에서 볼 만한 프로젝트입니다. 원문 설명 기준으로는 “Self — hosted Honcho memory backend for cross — session persistence”에 초점이 있습니다. 한국어 사용자는 장기 기억 저장이나 세션 간 맥락 유지이 필요할 때 우선 살펴보면 됩니다. repo 이름과 명령어, 원본 링크는 검색성과 재현성을 위해 그대로 유지했습니다.",
+    "useCasesKo": [
+      "장기 기억 저장",
+      "세션 간 맥락 유지",
+      "개인화된 에이전트 경험 구성",
+      "메모리"
+    ],
+    "audienceKo": [
+      "개인 AI 비서 사용자",
+      "장기 프로젝트 운영자",
+      "맥락 유지가 중요한 팀"
+    ],
     "tagsKo": [
-      "메모리·컨텍스트"
+      "메모리·컨텍스트",
+      "메모리",
+      "컨텍스트 유지",
+      "honcho self hosted"
     ],
     "riskNoteKo": "",
     "sourceDescription": "Self-hosted Honcho memory backend for cross-session persistence",
     "sourceHash": "5831375d4380322d38e14105b5ad7d6dbbfe33812ddd03d1125d03cf424c2a29",
     "localizedAt": "2026-05-02T01:30:24.660Z",
-    "localizationStatus": "machine_review_needed"
+    "localizationStatus": "editorial_seeded"
   },
   {
     "id": "yoloshii/ClawMem",
@@ -820,18 +1118,30 @@
     "category": "Memory & Context",
     "categoryKo": "메모리·컨텍스트",
     "categoryDescriptionKo": "세션을 넘어 기억하고, 검색하고, 맥락을 유지하게 해주는 메모리 계층입니다.",
-    "oneLineKo": "yoloshii/ClawMem는 Hermes 생태계의 메모리·컨텍스트 영역에 속한 프로젝트입니다.",
-    "summaryKo": "yoloshii/ClawMem는 Hermes 생태계의 메모리·컨텍스트 영역에 속한 프로젝트입니다. 상세 설명은 원문 설명과 GitHub 링크를 함께 확인하세요.",
-    "useCasesKo": [],
-    "audienceKo": [],
+    "oneLineKo": "yoloshii/ClawMem: On — device memory and context engine for agents — local — first, no cloud dependencies을 한국어 Atlas 기준으로 분류한 프로젝트입니다.",
+    "summaryKo": "yoloshii/ClawMem는 메모리·컨텍스트 범주에서 볼 만한 프로젝트입니다. 원문 설명 기준으로는 “On — device memory and context engine for agents — local — first, no cloud dependencies”에 초점이 있습니다. 한국어 사용자는 장기 기억 저장이나 세션 간 맥락 유지이 필요할 때 우선 살펴보면 됩니다. repo 이름과 명령어, 원본 링크는 검색성과 재현성을 위해 그대로 유지했습니다.",
+    "useCasesKo": [
+      "장기 기억 저장",
+      "세션 간 맥락 유지",
+      "개인화된 에이전트 경험 구성",
+      "메모리"
+    ],
+    "audienceKo": [
+      "개인 AI 비서 사용자",
+      "장기 프로젝트 운영자",
+      "맥락 유지가 중요한 팀"
+    ],
     "tagsKo": [
-      "메모리·컨텍스트"
+      "메모리·컨텍스트",
+      "메모리",
+      "컨텍스트 유지",
+      "ClawMem"
     ],
     "riskNoteKo": "",
     "sourceDescription": "On-device memory and context engine for agents — local-first, no cloud dependencies",
     "sourceHash": "fa738662e60ad0efb66cf1dc1d538c8a6460b5b7e1914da9f2329fb991a3b9b0",
     "localizedAt": "2026-05-02T01:30:24.661Z",
-    "localizationStatus": "machine_review_needed"
+    "localizationStatus": "editorial_seeded"
   },
   {
     "id": "plur-ai/plur",
@@ -844,18 +1154,32 @@
     "category": "Memory & Context",
     "categoryKo": "메모리·컨텍스트",
     "categoryDescriptionKo": "세션을 넘어 기억하고, 검색하고, 맥락을 유지하게 해주는 메모리 계층입니다.",
-    "oneLineKo": "plur-ai/plur는 Hermes 생태계의 메모리·컨텍스트 영역에 속한 프로젝트입니다.",
-    "summaryKo": "plur-ai/plur는 Hermes 생태계의 메모리·컨텍스트 영역에 속한 프로젝트입니다. 상세 설명은 원문 설명과 GitHub 링크를 함께 확인하세요.",
-    "useCasesKo": [],
-    "audienceKo": [],
+    "oneLineKo": "plur-ai/plur: Shared memory layer with open engram YAML format for multi — agent systems을 한국어 Atlas 기준으로 분류한 프로젝트입니다.",
+    "summaryKo": "plur-ai/plur는 메모리·컨텍스트 범주에서 볼 만한 프로젝트입니다. 원문 설명 기준으로는 “Shared memory layer with open engram YAML format for multi — agent systems”에 초점이 있습니다. 한국어 사용자는 장기 기억 저장이나 세션 간 맥락 유지이 필요할 때 우선 살펴보면 됩니다. repo 이름과 명령어, 원본 링크는 검색성과 재현성을 위해 그대로 유지했습니다.",
+    "useCasesKo": [
+      "장기 기억 저장",
+      "세션 간 맥락 유지",
+      "개인화된 에이전트 경험 구성",
+      "메모리"
+    ],
+    "audienceKo": [
+      "개인 AI 비서 사용자",
+      "장기 프로젝트 운영자",
+      "맥락 유지가 중요한 팀"
+    ],
     "tagsKo": [
-      "메모리·컨텍스트"
+      "메모리·컨텍스트",
+      "메모리",
+      "컨텍스트 유지",
+      "멀티 에이전트",
+      "오케스트레이션",
+      "plur"
     ],
     "riskNoteKo": "",
     "sourceDescription": "Shared memory layer with open engram YAML format for multi-agent systems",
     "sourceHash": "c16f3ebcf0266033c85123e92f9c20781f867bf35ca510fab1e2d768bd48a2f9",
     "localizedAt": "2026-05-02T01:30:24.661Z",
-    "localizationStatus": "machine_review_needed"
+    "localizationStatus": "editorial_seeded"
   },
   {
     "id": "amanning3390/flowstate-qmd",
@@ -868,18 +1192,30 @@
     "category": "Memory & Context",
     "categoryKo": "메모리·컨텍스트",
     "categoryDescriptionKo": "세션을 넘어 기억하고, 검색하고, 맥락을 유지하게 해주는 메모리 계층입니다.",
-    "oneLineKo": "amanning3390/flowstate-qmd는 Hermes 생태계의 메모리·컨텍스트 영역에 속한 프로젝트입니다.",
-    "summaryKo": "amanning3390/flowstate-qmd는 Hermes 생태계의 메모리·컨텍스트 영역에 속한 프로젝트입니다. 상세 설명은 원문 설명과 GitHub 링크를 함께 확인하세요.",
-    "useCasesKo": [],
-    "audienceKo": [],
+    "oneLineKo": "amanning3390/flowstate-qmd: Anticipatory memory with RAG and vector search — Hermes 2026 Hackathon entry을 한국어 Atlas 기준으로 분류한 프로젝트입니다.",
+    "summaryKo": "amanning3390/flowstate-qmd는 메모리·컨텍스트 범주에서 볼 만한 프로젝트입니다. 원문 설명 기준으로는 “Anticipatory memory with RAG and vector search — Hermes 2026 Hackathon entry”에 초점이 있습니다. 한국어 사용자는 장기 기억 저장이나 세션 간 맥락 유지이 필요할 때 우선 살펴보면 됩니다. repo 이름과 명령어, 원본 링크는 검색성과 재현성을 위해 그대로 유지했습니다.",
+    "useCasesKo": [
+      "장기 기억 저장",
+      "세션 간 맥락 유지",
+      "개인화된 에이전트 경험 구성",
+      "메모리"
+    ],
+    "audienceKo": [
+      "개인 AI 비서 사용자",
+      "장기 프로젝트 운영자",
+      "맥락 유지가 중요한 팀"
+    ],
     "tagsKo": [
-      "메모리·컨텍스트"
+      "메모리·컨텍스트",
+      "메모리",
+      "컨텍스트 유지",
+      "flowstate qmd"
     ],
     "riskNoteKo": "",
     "sourceDescription": "Anticipatory memory with RAG and vector search — Hermes 2026 Hackathon entry",
     "sourceHash": "1a527427ca21127bc0590819cc5c944f6e4612aaac7885d728e58817fdffe415",
     "localizedAt": "2026-05-02T01:30:24.661Z",
-    "localizationStatus": "machine_review_needed"
+    "localizationStatus": "editorial_seeded"
   },
   {
     "id": "robbyczgw-cla/hermes-web-search-plus",
@@ -892,18 +1228,27 @@
     "category": "Plugins & Extensions",
     "categoryKo": "플러그인·확장",
     "categoryDescriptionKo": "Hermes에 도구, 안전장치, 결제, 새 기능을 붙이는 확장 모듈입니다.",
-    "oneLineKo": "robbyczgw-cla/hermes-web-search-plus는 Hermes 생태계의 플러그인·확장 영역에 속한 프로젝트입니다.",
-    "summaryKo": "robbyczgw-cla/hermes-web-search-plus는 Hermes 생태계의 플러그인·확장 영역에 속한 프로젝트입니다. 상세 설명은 원문 설명과 GitHub 링크를 함께 확인하세요.",
-    "useCasesKo": [],
-    "audienceKo": [],
+    "oneLineKo": "robbyczgw-cla/hermes-web-search-plus: Multi — provider web search (Serper, Tavily, Exa, Querit, Perplexity) with auto — routing을 한국어 Atlas 기준으로 분류한 프로젝트입니다.",
+    "summaryKo": "robbyczgw-cla/hermes-web-search-plus는 플러그인·확장 범주에서 볼 만한 프로젝트입니다. 원문 설명 기준으로는 “Multi — provider web search (Serper, Tavily, Exa, Querit, Perplexity) with auto — routing”에 초점이 있습니다. 한국어 사용자는 Hermes 기능 확장이나 외부 도구 연결이 필요할 때 우선 살펴보면 됩니다. repo 이름과 명령어, 원본 링크는 검색성과 재현성을 위해 그대로 유지했습니다.",
+    "useCasesKo": [
+      "Hermes 기능 확장",
+      "외부 도구 연결",
+      "특정 작업 흐름 자동화"
+    ],
+    "audienceKo": [
+      "플러그인 개발자",
+      "자동화 엔지니어",
+      "고급 사용자"
+    ],
     "tagsKo": [
-      "플러그인·확장"
+      "플러그인·확장",
+      "hermes web search plus"
     ],
     "riskNoteKo": "",
     "sourceDescription": "Multi-provider web search (Serper, Tavily, Exa, Querit, Perplexity) with auto-routing",
     "sourceHash": "6e37ba8f62250ddf63394615ffac814cfc581a9f17cbf11dd99f7980865477e0",
     "localizedAt": "2026-05-02T01:30:24.661Z",
-    "localizationStatus": "machine_review_needed"
+    "localizationStatus": "editorial_seeded"
   },
   {
     "id": "42-evey/hermes-plugins",
@@ -916,18 +1261,27 @@
     "category": "Plugins & Extensions",
     "categoryKo": "플러그인·확장",
     "categoryDescriptionKo": "Hermes에 도구, 안전장치, 결제, 새 기능을 붙이는 확장 모듈입니다.",
-    "oneLineKo": "42-evey/hermes-plugins는 Hermes 생태계의 플러그인·확장 영역에 속한 프로젝트입니다.",
-    "summaryKo": "42-evey/hermes-plugins는 Hermes 생태계의 플러그인·확장 영역에 속한 프로젝트입니다. 상세 설명은 원문 설명과 GitHub 링크를 함께 확인하세요.",
-    "useCasesKo": [],
-    "audienceKo": [],
+    "oneLineKo": "42-evey/hermes-plugins: Goal management, inter — agent bridge, model selection, and cost control plugins을 한국어 Atlas 기준으로 분류한 프로젝트입니다.",
+    "summaryKo": "42-evey/hermes-plugins는 플러그인·확장 범주에서 볼 만한 프로젝트입니다. 원문 설명 기준으로는 “Goal management, inter — agent bridge, model selection, and cost control plugins”에 초점이 있습니다. 한국어 사용자는 Hermes 기능 확장이나 외부 도구 연결이 필요할 때 우선 살펴보면 됩니다. repo 이름과 명령어, 원본 링크는 검색성과 재현성을 위해 그대로 유지했습니다.",
+    "useCasesKo": [
+      "Hermes 기능 확장",
+      "외부 도구 연결",
+      "특정 작업 흐름 자동화"
+    ],
+    "audienceKo": [
+      "플러그인 개발자",
+      "자동화 엔지니어",
+      "고급 사용자"
+    ],
     "tagsKo": [
-      "플러그인·확장"
+      "플러그인·확장",
+      "hermes plugins"
     ],
     "riskNoteKo": "",
     "sourceDescription": "Goal management, inter-agent bridge, model selection, and cost control plugins",
     "sourceHash": "02afac2c8ee56c2f011d1f395c5cf1963b8edf991852001418a0360fd8d99fe6",
     "localizedAt": "2026-05-02T01:30:24.661Z",
-    "localizationStatus": "machine_review_needed"
+    "localizationStatus": "editorial_seeded"
   },
   {
     "id": "FahrenheitResearch/hermes-weather-plugin",
@@ -940,18 +1294,27 @@
     "category": "Plugins & Extensions",
     "categoryKo": "플러그인·확장",
     "categoryDescriptionKo": "Hermes에 도구, 안전장치, 결제, 새 기능을 붙이는 확장 모듈입니다.",
-    "oneLineKo": "FahrenheitResearch/hermes-weather-plugin는 Hermes 생태계의 플러그인·확장 영역에 속한 프로젝트입니다.",
-    "summaryKo": "FahrenheitResearch/hermes-weather-plugin는 Hermes 생태계의 플러그인·확장 영역에 속한 프로젝트입니다. 상세 설명은 원문 설명과 GitHub 링크를 함께 확인하세요.",
-    "useCasesKo": [],
-    "audienceKo": [],
+    "oneLineKo": "FahrenheitResearch/hermes-weather-plugin: NWS — grade model imagery, NEXRAD radar, and verified meteorological calculations. Pure Rust.을 한국어 Atlas 기준으로 분류한 프로젝트입니다.",
+    "summaryKo": "FahrenheitResearch/hermes-weather-plugin는 플러그인·확장 범주에서 볼 만한 프로젝트입니다. 원문 설명 기준으로는 “NWS — grade model imagery, NEXRAD radar, and verified meteorological calculations. Pure Rust.”에 초점이 있습니다. 한국어 사용자는 Hermes 기능 확장이나 외부 도구 연결이 필요할 때 우선 살펴보면 됩니다. repo 이름과 명령어, 원본 링크는 검색성과 재현성을 위해 그대로 유지했습니다.",
+    "useCasesKo": [
+      "Hermes 기능 확장",
+      "외부 도구 연결",
+      "특정 작업 흐름 자동화"
+    ],
+    "audienceKo": [
+      "플러그인 개발자",
+      "자동화 엔지니어",
+      "고급 사용자"
+    ],
     "tagsKo": [
-      "플러그인·확장"
+      "플러그인·확장",
+      "hermes weather plugin"
     ],
     "riskNoteKo": "",
     "sourceDescription": "NWS-grade model imagery, NEXRAD radar, and verified meteorological calculations. Pure Rust.",
     "sourceHash": "1390067d3dfa295a62952c61f67dbccb71c6e46b00bc8a6fc99fc2826864f07e",
     "localizedAt": "2026-05-02T01:30:24.661Z",
-    "localizationStatus": "machine_review_needed"
+    "localizationStatus": "editorial_seeded"
   },
   {
     "id": "42-evey/evey-bridge-plugin",
@@ -964,18 +1327,30 @@
     "category": "Plugins & Extensions",
     "categoryKo": "플러그인·확장",
     "categoryDescriptionKo": "Hermes에 도구, 안전장치, 결제, 새 기능을 붙이는 확장 모듈입니다.",
-    "oneLineKo": "42-evey/evey-bridge-plugin는 Hermes 생태계의 플러그인·확장 영역에 속한 프로젝트입니다.",
-    "summaryKo": "42-evey/evey-bridge-plugin는 Hermes 생태계의 플러그인·확장 영역에 속한 프로젝트입니다. 상세 설명은 원문 설명과 GitHub 링크를 함께 확인하세요.",
-    "useCasesKo": [],
-    "audienceKo": [],
+    "oneLineKo": "42-evey/evey-bridge-plugin: Claude Code and Hermes context sharing bridge — auto — checks messages, Mother Mode loop을 한국어 Atlas 기준으로 분류한 프로젝트입니다.",
+    "summaryKo": "42-evey/evey-bridge-plugin는 플러그인·확장 범주에서 볼 만한 프로젝트입니다. 원문 설명 기준으로는 “Claude Code and Hermes context sharing bridge — auto — checks messages, Mother Mode loop”에 초점이 있습니다. 한국어 사용자는 Hermes 기능 확장이나 외부 도구 연결이 필요할 때 우선 살펴보면 됩니다. repo 이름과 명령어, 원본 링크는 검색성과 재현성을 위해 그대로 유지했습니다.",
+    "useCasesKo": [
+      "Hermes 기능 확장",
+      "외부 도구 연결",
+      "특정 작업 흐름 자동화",
+      "메모리"
+    ],
+    "audienceKo": [
+      "플러그인 개발자",
+      "자동화 엔지니어",
+      "고급 사용자"
+    ],
     "tagsKo": [
-      "플러그인·확장"
+      "플러그인·확장",
+      "메모리",
+      "컨텍스트 유지",
+      "evey bridge plugin"
     ],
     "riskNoteKo": "",
     "sourceDescription": "Claude Code and Hermes context sharing bridge — auto-checks messages, Mother Mode loop",
     "sourceHash": "2f327d23875a15b3660c4126355aeaa8b17de52bfc44d64a9146617303a89b57",
     "localizedAt": "2026-05-02T01:30:24.661Z",
-    "localizationStatus": "machine_review_needed"
+    "localizationStatus": "editorial_seeded"
   },
   {
     "id": "nativ3ai/hermes-payguard",
@@ -988,18 +1363,27 @@
     "category": "Plugins & Extensions",
     "categoryKo": "플러그인·확장",
     "categoryDescriptionKo": "Hermes에 도구, 안전장치, 결제, 새 기능을 붙이는 확장 모듈입니다.",
-    "oneLineKo": "nativ3ai/hermes-payguard는 Hermes 생태계의 플러그인·확장 영역에 속한 프로젝트입니다.",
-    "summaryKo": "nativ3ai/hermes-payguard는 Hermes 생태계의 플러그인·확장 영역에 속한 프로젝트입니다. 상세 설명은 원문 설명과 GitHub 링크를 함께 확인하세요.",
-    "useCasesKo": [],
-    "audienceKo": [],
+    "oneLineKo": "nativ3ai/hermes-payguard: Safe — by — design USDC and x402 payment plugin for Hermes Agent을 한국어 Atlas 기준으로 분류한 프로젝트입니다.",
+    "summaryKo": "nativ3ai/hermes-payguard는 플러그인·확장 범주에서 볼 만한 프로젝트입니다. 원문 설명 기준으로는 “Safe — by — design USDC and x402 payment plugin for Hermes Agent”에 초점이 있습니다. 한국어 사용자는 Hermes 기능 확장이나 외부 도구 연결이 필요할 때 우선 살펴보면 됩니다. repo 이름과 명령어, 원본 링크는 검색성과 재현성을 위해 그대로 유지했습니다.",
+    "useCasesKo": [
+      "Hermes 기능 확장",
+      "외부 도구 연결",
+      "특정 작업 흐름 자동화"
+    ],
+    "audienceKo": [
+      "플러그인 개발자",
+      "자동화 엔지니어",
+      "고급 사용자"
+    ],
     "tagsKo": [
-      "플러그인·확장"
+      "플러그인·확장",
+      "hermes payguard"
     ],
     "riskNoteKo": "",
     "sourceDescription": "Safe-by-design USDC and x402 payment plugin for Hermes Agent",
     "sourceHash": "81ec50a4476b188a2f4df9133dec590224a34fba2ece902eb61bc83fd9560207",
     "localizedAt": "2026-05-02T01:30:24.661Z",
-    "localizationStatus": "machine_review_needed"
+    "localizationStatus": "editorial_seeded"
   },
   {
     "id": "raulvidis/hermes-cloudflare",
@@ -1012,18 +1396,27 @@
     "category": "Plugins & Extensions",
     "categoryKo": "플러그인·확장",
     "categoryDescriptionKo": "Hermes에 도구, 안전장치, 결제, 새 기능을 붙이는 확장 모듈입니다.",
-    "oneLineKo": "raulvidis/hermes-cloudflare는 Hermes 생태계의 플러그인·확장 영역에 속한 프로젝트입니다.",
-    "summaryKo": "raulvidis/hermes-cloudflare는 Hermes 생태계의 플러그인·확장 영역에 속한 프로젝트입니다. 상세 설명은 원문 설명과 GitHub 링크를 함께 확인하세요.",
-    "useCasesKo": [],
-    "audienceKo": [],
+    "oneLineKo": "raulvidis/hermes-cloudflare: Cloudflare Browser Rendering plugin — crawl, scrape, extract content from web pages을 한국어 Atlas 기준으로 분류한 프로젝트입니다.",
+    "summaryKo": "raulvidis/hermes-cloudflare는 플러그인·확장 범주에서 볼 만한 프로젝트입니다. 원문 설명 기준으로는 “Cloudflare Browser Rendering plugin — crawl, scrape, extract content from web pages”에 초점이 있습니다. 한국어 사용자는 Hermes 기능 확장이나 외부 도구 연결이 필요할 때 우선 살펴보면 됩니다. repo 이름과 명령어, 원본 링크는 검색성과 재현성을 위해 그대로 유지했습니다.",
+    "useCasesKo": [
+      "Hermes 기능 확장",
+      "외부 도구 연결",
+      "특정 작업 흐름 자동화"
+    ],
+    "audienceKo": [
+      "플러그인 개발자",
+      "자동화 엔지니어",
+      "고급 사용자"
+    ],
     "tagsKo": [
-      "플러그인·확장"
+      "플러그인·확장",
+      "hermes cloudflare"
     ],
     "riskNoteKo": "",
     "sourceDescription": "Cloudflare Browser Rendering plugin — crawl, scrape, extract content from web pages",
     "sourceHash": "fe95ba323b87200b61fbebc24be00e33198eb0606ee90dc364d4dd3f75d1d61e",
     "localizedAt": "2026-05-02T01:30:24.661Z",
-    "localizationStatus": "machine_review_needed"
+    "localizationStatus": "editorial_seeded"
   },
   {
     "id": "builderz-labs/mission-control",
@@ -1070,18 +1463,32 @@
     "category": "Multi-Agent & Orchestration",
     "categoryKo": "멀티 에이전트·오케스트레이션",
     "categoryDescriptionKo": "여러 에이전트를 역할별로 나누고 함께 실행하는 오케스트레이션 도구입니다.",
-    "oneLineKo": "swarmclawai/swarmclaw는 Hermes 생태계의 멀티 에이전트·오케스트레이션 영역에 속한 프로젝트입니다.",
-    "summaryKo": "swarmclawai/swarmclaw는 Hermes 생태계의 멀티 에이전트·오케스트레이션 영역에 속한 프로젝트입니다. 상세 설명은 원문 설명과 GitHub 링크를 함께 확인하세요.",
-    "useCasesKo": [],
-    "audienceKo": [],
+    "oneLineKo": "swarmclawai/swarmclaw: Build autonomous AI agent swarms with orchestration, skills, and multiple model providers을 한국어 Atlas 기준으로 분류한 프로젝트입니다.",
+    "summaryKo": "swarmclawai/swarmclaw는 멀티 에이전트·오케스트레이션 범주에서 볼 만한 프로젝트입니다. 원문 설명 기준으로는 “Build autonomous AI agent swarms with orchestration, skills, and multiple model providers”에 초점이 있습니다. 한국어 사용자는 여러 에이전트 역할 분담이나 복잡한 작업 분해이 필요할 때 우선 살펴보면 됩니다. repo 이름과 명령어, 원본 링크는 검색성과 재현성을 위해 그대로 유지했습니다.",
+    "useCasesKo": [
+      "여러 에이전트 역할 분담",
+      "복잡한 작업 분해",
+      "검토와 실행 병렬화",
+      "스킬"
+    ],
+    "audienceKo": [
+      "개발 리드",
+      "AI 워크플로 설계자",
+      "복잡한 작업을 병렬화하려는 팀"
+    ],
     "tagsKo": [
-      "멀티 에이전트·오케스트레이션"
+      "멀티 에이전트·오케스트레이션",
+      "스킬",
+      "재사용 가능한 작업 절차",
+      "멀티 에이전트",
+      "오케스트레이션",
+      "swarmclaw"
     ],
     "riskNoteKo": "",
     "sourceDescription": "Build autonomous AI agent swarms with orchestration, skills, and multiple model providers",
     "sourceHash": "34524733a302f768531d1190cc1e8b43e77da8a0bd0f34bef5d7d4a0c2230e10",
     "localizedAt": "2026-05-02T01:30:24.661Z",
-    "localizationStatus": "machine_review_needed"
+    "localizationStatus": "editorial_seeded"
   },
   {
     "id": "howdymary/hermes-agent-metaharness",
@@ -1094,18 +1501,27 @@
     "category": "Multi-Agent & Orchestration",
     "categoryKo": "멀티 에이전트·오케스트레이션",
     "categoryDescriptionKo": "여러 에이전트를 역할별로 나누고 함께 실행하는 오케스트레이션 도구입니다.",
-    "oneLineKo": "howdymary/hermes-agent-metaharness는 Hermes 생태계의 멀티 에이전트·오케스트레이션 영역에 속한 프로젝트입니다.",
-    "summaryKo": "howdymary/hermes-agent-metaharness는 Hermes 생태계의 멀티 에이전트·오케스트레이션 영역에 속한 프로젝트입니다. 상세 설명은 원문 설명과 GitHub 링크를 함께 확인하세요.",
-    "useCasesKo": [],
-    "audienceKo": [],
+    "oneLineKo": "howdymary/hermes-agent-metaharness: Meta — harness for Hermes Agent — meta — optimization with arxiv paper reference을 한국어 Atlas 기준으로 분류한 프로젝트입니다.",
+    "summaryKo": "howdymary/hermes-agent-metaharness는 멀티 에이전트·오케스트레이션 범주에서 볼 만한 프로젝트입니다. 원문 설명 기준으로는 “Meta — harness for Hermes Agent — meta — optimization with arxiv paper reference”에 초점이 있습니다. 한국어 사용자는 여러 에이전트 역할 분담이나 복잡한 작업 분해이 필요할 때 우선 살펴보면 됩니다. repo 이름과 명령어, 원본 링크는 검색성과 재현성을 위해 그대로 유지했습니다.",
+    "useCasesKo": [
+      "여러 에이전트 역할 분담",
+      "복잡한 작업 분해",
+      "검토와 실행 병렬화"
+    ],
+    "audienceKo": [
+      "개발 리드",
+      "AI 워크플로 설계자",
+      "복잡한 작업을 병렬화하려는 팀"
+    ],
     "tagsKo": [
-      "멀티 에이전트·오케스트레이션"
+      "멀티 에이전트·오케스트레이션",
+      "hermes agent metaharness"
     ],
     "riskNoteKo": "",
     "sourceDescription": "Meta-harness for Hermes Agent — meta-optimization with arxiv paper reference",
     "sourceHash": "d8c5ec7fea36150a849e0975092e3456bb487e6c2d1f2c51fbfebf162e6ef314",
     "localizedAt": "2026-05-02T01:30:24.661Z",
-    "localizationStatus": "machine_review_needed"
+    "localizationStatus": "editorial_seeded"
   },
   {
     "id": "runtimenoteslabs/gladiator",
@@ -1118,18 +1534,30 @@
     "category": "Multi-Agent & Orchestration",
     "categoryKo": "멀티 에이전트·오케스트레이션",
     "categoryDescriptionKo": "여러 에이전트를 역할별로 나누고 함께 실행하는 오케스트레이션 도구입니다.",
-    "oneLineKo": "runtimenoteslabs/gladiator는 Hermes 생태계의 멀티 에이전트·오케스트레이션 영역에 속한 프로젝트입니다.",
-    "summaryKo": "runtimenoteslabs/gladiator는 Hermes 생태계의 멀티 에이전트·오케스트레이션 영역에 속한 프로젝트입니다. 상세 설명은 원문 설명과 GitHub 링크를 함께 확인하세요.",
-    "useCasesKo": [],
-    "audienceKo": [],
+    "oneLineKo": "runtimenoteslabs/gladiator: Autonomous AI companies competing for GitHub stars — agent — vs — agent arena을 한국어 Atlas 기준으로 분류한 프로젝트입니다.",
+    "summaryKo": "runtimenoteslabs/gladiator는 멀티 에이전트·오케스트레이션 범주에서 볼 만한 프로젝트입니다. 원문 설명 기준으로는 “Autonomous AI companies competing for GitHub stars — agent — vs — agent arena”에 초점이 있습니다. 한국어 사용자는 여러 에이전트 역할 분담이나 복잡한 작업 분해이 필요할 때 우선 살펴보면 됩니다. repo 이름과 명령어, 원본 링크는 검색성과 재현성을 위해 그대로 유지했습니다.",
+    "useCasesKo": [
+      "여러 에이전트 역할 분담",
+      "복잡한 작업 분해",
+      "검토와 실행 병렬화",
+      "외부 서비스 연동"
+    ],
+    "audienceKo": [
+      "개발 리드",
+      "AI 워크플로 설계자",
+      "복잡한 작업을 병렬화하려는 팀"
+    ],
     "tagsKo": [
-      "멀티 에이전트·오케스트레이션"
+      "멀티 에이전트·오케스트레이션",
+      "외부 서비스 연동",
+      "API 자동화",
+      "gladiator"
     ],
     "riskNoteKo": "",
     "sourceDescription": "Autonomous AI companies competing for GitHub stars — agent-vs-agent arena",
     "sourceHash": "f73574ded8e871a93cb442619105cd8738728c9fdc8f7a3a60842e00c8d9a5ba",
     "localizedAt": "2026-05-02T01:30:24.661Z",
-    "localizationStatus": "machine_review_needed"
+    "localizationStatus": "editorial_seeded"
   },
   {
     "id": "1ilkhamov/opencode-hermes-multiagent",
@@ -1142,18 +1570,30 @@
     "category": "Multi-Agent & Orchestration",
     "categoryKo": "멀티 에이전트·오케스트레이션",
     "categoryDescriptionKo": "여러 에이전트를 역할별로 나누고 함께 실행하는 오케스트레이션 도구입니다.",
-    "oneLineKo": "1ilkhamov/opencode-hermes-multiagent는 Hermes 생태계의 멀티 에이전트·오케스트레이션 영역에 속한 프로젝트입니다.",
-    "summaryKo": "1ilkhamov/opencode-hermes-multiagent는 Hermes 생태계의 멀티 에이전트·오케스트레이션 영역에 속한 프로젝트입니다. 상세 설명은 원문 설명과 GitHub 링크를 함께 확인하세요.",
-    "useCasesKo": [],
-    "audienceKo": [],
+    "oneLineKo": "1ilkhamov/opencode-hermes-multiagent: 17 specialized agents for research, planning, implementation, quality, and infrastructure을 한국어 Atlas 기준으로 분류한 프로젝트입니다.",
+    "summaryKo": "1ilkhamov/opencode-hermes-multiagent는 멀티 에이전트·오케스트레이션 범주에서 볼 만한 프로젝트입니다. 원문 설명 기준으로는 “17 specialized agents for research, planning, implementation, quality, and infrastructure”에 초점이 있습니다. 한국어 사용자는 여러 에이전트 역할 분담이나 복잡한 작업 분해이 필요할 때 우선 살펴보면 됩니다. repo 이름과 명령어, 원본 링크는 검색성과 재현성을 위해 그대로 유지했습니다.",
+    "useCasesKo": [
+      "여러 에이전트 역할 분담",
+      "복잡한 작업 분해",
+      "검토와 실행 병렬화",
+      "배포"
+    ],
+    "audienceKo": [
+      "개발 리드",
+      "AI 워크플로 설계자",
+      "복잡한 작업을 병렬화하려는 팀"
+    ],
     "tagsKo": [
-      "멀티 에이전트·오케스트레이션"
+      "멀티 에이전트·오케스트레이션",
+      "배포",
+      "인프라",
+      "opencode hermes multiagent"
     ],
     "riskNoteKo": "",
     "sourceDescription": "17 specialized agents for research, planning, implementation, quality, and infrastructure",
     "sourceHash": "22154d8b8ba25a10fb33aef4b0ec56b2fc4620eb1a280dcda2cf70bd381447f8",
     "localizedAt": "2026-05-02T01:30:24.661Z",
-    "localizationStatus": "machine_review_needed"
+    "localizationStatus": "editorial_seeded"
   },
   {
     "id": "supermodeltools/bigiron",
@@ -1166,18 +1606,27 @@
     "category": "Multi-Agent & Orchestration",
     "categoryKo": "멀티 에이전트·오케스트레이션",
     "categoryDescriptionKo": "여러 에이전트를 역할별로 나누고 함께 실행하는 오케스트레이션 도구입니다.",
-    "oneLineKo": "supermodeltools/bigiron는 Hermes 생태계의 멀티 에이전트·오케스트레이션 영역에 속한 프로젝트입니다.",
-    "summaryKo": "supermodeltools/bigiron는 Hermes 생태계의 멀티 에이전트·오케스트레이션 영역에 속한 프로젝트입니다. 상세 설명은 원문 설명과 GitHub 링크를 함께 확인하세요.",
-    "useCasesKo": [],
-    "audienceKo": [],
+    "oneLineKo": "supermodeltools/bigiron: AI — native SDLC — Hermes Agent + Supermodel code graph, graph — gated at every phase을 한국어 Atlas 기준으로 분류한 프로젝트입니다.",
+    "summaryKo": "supermodeltools/bigiron는 멀티 에이전트·오케스트레이션 범주에서 볼 만한 프로젝트입니다. 원문 설명 기준으로는 “AI — native SDLC — Hermes Agent + Supermodel code graph, graph — gated at every phase”에 초점이 있습니다. 한국어 사용자는 여러 에이전트 역할 분담이나 복잡한 작업 분해이 필요할 때 우선 살펴보면 됩니다. repo 이름과 명령어, 원본 링크는 검색성과 재현성을 위해 그대로 유지했습니다.",
+    "useCasesKo": [
+      "여러 에이전트 역할 분담",
+      "복잡한 작업 분해",
+      "검토와 실행 병렬화"
+    ],
+    "audienceKo": [
+      "개발 리드",
+      "AI 워크플로 설계자",
+      "복잡한 작업을 병렬화하려는 팀"
+    ],
     "tagsKo": [
-      "멀티 에이전트·오케스트레이션"
+      "멀티 에이전트·오케스트레이션",
+      "bigiron"
     ],
     "riskNoteKo": "",
     "sourceDescription": "AI-native SDLC — Hermes Agent + Supermodel code graph, graph-gated at every phase",
     "sourceHash": "6dfe8fb65804894eca4e52812d81fcffcb067b3dd0466befa16be704b29f570d",
     "localizedAt": "2026-05-02T01:30:24.661Z",
-    "localizationStatus": "machine_review_needed"
+    "localizationStatus": "editorial_seeded"
   },
   {
     "id": "Rainhoole/hermes-agent-acp-skill",
@@ -1190,18 +1639,32 @@
     "category": "Multi-Agent & Orchestration",
     "categoryKo": "멀티 에이전트·오케스트레이션",
     "categoryDescriptionKo": "여러 에이전트를 역할별로 나누고 함께 실행하는 오케스트레이션 도구입니다.",
-    "oneLineKo": "Rainhoole/hermes-agent-acp-skill는 Hermes 생태계의 멀티 에이전트·오케스트레이션 영역에 속한 프로젝트입니다.",
-    "summaryKo": "Rainhoole/hermes-agent-acp-skill는 Hermes 생태계의 멀티 에이전트·오케스트레이션 영역에 속한 프로젝트입니다. 상세 설명은 원문 설명과 GitHub 링크를 함께 확인하세요.",
-    "useCasesKo": [],
-    "audienceKo": [],
+    "oneLineKo": "Rainhoole/hermes-agent-acp-skill: ACP — style multi — agent delegation — routes tasks to Hermes, Codex, or Claude Code을 한국어 Atlas 기준으로 분류한 프로젝트입니다.",
+    "summaryKo": "Rainhoole/hermes-agent-acp-skill는 멀티 에이전트·오케스트레이션 범주에서 볼 만한 프로젝트입니다. 원문 설명 기준으로는 “ACP — style multi — agent delegation — routes tasks to Hermes, Codex, or Claude Code”에 초점이 있습니다. 한국어 사용자는 여러 에이전트 역할 분담이나 복잡한 작업 분해이 필요할 때 우선 살펴보면 됩니다. repo 이름과 명령어, 원본 링크는 검색성과 재현성을 위해 그대로 유지했습니다.",
+    "useCasesKo": [
+      "여러 에이전트 역할 분담",
+      "복잡한 작업 분해",
+      "검토와 실행 병렬화",
+      "스킬"
+    ],
+    "audienceKo": [
+      "개발 리드",
+      "AI 워크플로 설계자",
+      "복잡한 작업을 병렬화하려는 팀"
+    ],
     "tagsKo": [
-      "멀티 에이전트·오케스트레이션"
+      "멀티 에이전트·오케스트레이션",
+      "스킬",
+      "재사용 가능한 작업 절차",
+      "멀티 에이전트",
+      "오케스트레이션",
+      "hermes agent acp skill"
     ],
     "riskNoteKo": "",
     "sourceDescription": "ACP-style multi-agent delegation — routes tasks to Hermes, Codex, or Claude Code",
     "sourceHash": "bdee8845c8568bc0e516c425c71155a4acdee2351b9deca5ec24ef0e3d2052ca",
     "localizedAt": "2026-05-02T01:30:24.661Z",
-    "localizationStatus": "machine_review_needed"
+    "localizationStatus": "editorial_seeded"
   },
   {
     "id": "numtide/llm-agents.nix",
@@ -1249,18 +1712,27 @@
     "category": "Deployment & Infra",
     "categoryKo": "배포·인프라",
     "categoryDescriptionKo": "VPS, Docker, Nix, systemd, 클라우드에 Hermes를 배포하기 위한 인프라입니다.",
-    "oneLineKo": "TheAiSingularity/hermesclaw는 Hermes 생태계의 배포·인프라 영역에 속한 프로젝트입니다.",
-    "summaryKo": "TheAiSingularity/hermesclaw는 Hermes 생태계의 배포·인프라 영역에 속한 프로젝트입니다. 상세 설명은 원문 설명과 GitHub 링크를 함께 확인하세요.",
-    "useCasesKo": [],
-    "audienceKo": [],
+    "oneLineKo": "TheAiSingularity/hermesclaw: Hermes Agent sandboxed with hardware — level enforcement을 한국어 Atlas 기준으로 분류한 프로젝트입니다.",
+    "summaryKo": "TheAiSingularity/hermesclaw는 배포·인프라 범주에서 볼 만한 프로젝트입니다. 원문 설명 기준으로는 “Hermes Agent sandboxed with hardware — level enforcement”에 초점이 있습니다. 한국어 사용자는 서버 배포이나 운영 자동화이 필요할 때 우선 살펴보면 됩니다. repo 이름과 명령어, 원본 링크는 검색성과 재현성을 위해 그대로 유지했습니다.",
+    "useCasesKo": [
+      "서버 배포",
+      "운영 자동화",
+      "프로덕션 환경 구성"
+    ],
+    "audienceKo": [
+      "DevOps 담당자",
+      "서비스 운영자",
+      "셀프호스팅 사용자"
+    ],
     "tagsKo": [
-      "배포·인프라"
+      "배포·인프라",
+      "hermesclaw"
     ],
     "riskNoteKo": "",
     "sourceDescription": "Hermes Agent sandboxed with hardware-level enforcement",
     "sourceHash": "6f19610365026339307127770e5972222c988d7a5429329a462f72f4d8931470",
     "localizedAt": "2026-05-02T01:30:24.661Z",
-    "localizationStatus": "machine_review_needed"
+    "localizationStatus": "editorial_seeded"
   },
   {
     "id": "0xrsydn/nix-hermes-agent",
@@ -1273,18 +1745,30 @@
     "category": "Deployment & Infra",
     "categoryKo": "배포·인프라",
     "categoryDescriptionKo": "VPS, Docker, Nix, systemd, 클라우드에 Hermes를 배포하기 위한 인프라입니다.",
-    "oneLineKo": "0xrsydn/nix-hermes-agent는 Hermes 생태계의 배포·인프라 영역에 속한 프로젝트입니다.",
-    "summaryKo": "0xrsydn/nix-hermes-agent는 Hermes 생태계의 배포·인프라 영역에 속한 프로젝트입니다. 상세 설명은 원문 설명과 GitHub 링크를 함께 확인하세요.",
-    "useCasesKo": [],
-    "audienceKo": [],
+    "oneLineKo": "0xrsydn/nix-hermes-agent: Nix package and NixOS module for reproducible Hermes deployment을 한국어 Atlas 기준으로 분류한 프로젝트입니다.",
+    "summaryKo": "0xrsydn/nix-hermes-agent는 배포·인프라 범주에서 볼 만한 프로젝트입니다. 원문 설명 기준으로는 “Nix package and NixOS module for reproducible Hermes deployment”에 초점이 있습니다. 한국어 사용자는 서버 배포이나 운영 자동화이 필요할 때 우선 살펴보면 됩니다. repo 이름과 명령어, 원본 링크는 검색성과 재현성을 위해 그대로 유지했습니다.",
+    "useCasesKo": [
+      "서버 배포",
+      "운영 자동화",
+      "프로덕션 환경 구성",
+      "배포"
+    ],
+    "audienceKo": [
+      "DevOps 담당자",
+      "서비스 운영자",
+      "셀프호스팅 사용자"
+    ],
     "tagsKo": [
-      "배포·인프라"
+      "배포·인프라",
+      "배포",
+      "인프라",
+      "nix hermes agent"
     ],
     "riskNoteKo": "",
     "sourceDescription": "Nix package and NixOS module for reproducible Hermes deployment",
     "sourceHash": "ec9b60aa82988ed4d8a4e8e2482ca81c063cde6a8da113f3c6adaa143a3a4628",
     "localizedAt": "2026-05-02T01:30:24.661Z",
-    "localizationStatus": "machine_review_needed"
+    "localizationStatus": "editorial_seeded"
   },
   {
     "id": "rookiemann/portable-hermes-agent",
@@ -1297,18 +1781,32 @@
     "category": "Deployment & Infra",
     "categoryKo": "배포·인프라",
     "categoryDescriptionKo": "VPS, Docker, Nix, systemd, 클라우드에 Hermes를 배포하기 위한 인프라입니다.",
-    "oneLineKo": "rookiemann/portable-hermes-agent는 Hermes 생태계의 배포·인프라 영역에 속한 프로젝트입니다.",
-    "summaryKo": "rookiemann/portable-hermes-agent는 Hermes 생태계의 배포·인프라 영역에 속한 프로젝트입니다. 상세 설명은 원문 설명과 GitHub 링크를 함께 확인하세요.",
-    "useCasesKo": [],
-    "audienceKo": [],
+    "oneLineKo": "rookiemann/portable-hermes-agent: Windows desktop agent — 100 tools, GUI, local models, TTS, ComfyUI. No install, no Docker.을 한국어 Atlas 기준으로 분류한 프로젝트입니다.",
+    "summaryKo": "rookiemann/portable-hermes-agent는 배포·인프라 범주에서 볼 만한 프로젝트입니다. 원문 설명 기준으로는 “Windows desktop agent — 100 tools, GUI, local models, TTS, ComfyUI. No install, no Docker.”에 초점이 있습니다. 한국어 사용자는 서버 배포이나 운영 자동화이 필요할 때 우선 살펴보면 됩니다. repo 이름과 명령어, 원본 링크는 검색성과 재현성을 위해 그대로 유지했습니다.",
+    "useCasesKo": [
+      "서버 배포",
+      "운영 자동화",
+      "프로덕션 환경 구성",
+      "배포"
+    ],
+    "audienceKo": [
+      "DevOps 담당자",
+      "서비스 운영자",
+      "셀프호스팅 사용자"
+    ],
     "tagsKo": [
-      "배포·인프라"
+      "배포·인프라",
+      "배포",
+      "인프라",
+      "GUI",
+      "워크스페이스",
+      "portable hermes agent"
     ],
     "riskNoteKo": "",
     "sourceDescription": "Windows desktop agent — 100 tools, GUI, local models, TTS, ComfyUI. No install, no Docker.",
     "sourceHash": "12543417d628cac0be75b5bbf8353b6585411670f7e1000b940670cb98b92d66",
     "localizedAt": "2026-05-02T01:30:24.661Z",
-    "localizationStatus": "machine_review_needed"
+    "localizationStatus": "editorial_seeded"
   },
   {
     "id": "xmbshwll/hermes-agent-docker",
@@ -1321,18 +1819,30 @@
     "category": "Deployment & Infra",
     "categoryKo": "배포·인프라",
     "categoryDescriptionKo": "VPS, Docker, Nix, systemd, 클라우드에 Hermes를 배포하기 위한 인프라입니다.",
-    "oneLineKo": "xmbshwll/hermes-agent-docker는 Hermes 생태계의 배포·인프라 영역에 속한 프로젝트입니다.",
-    "summaryKo": "xmbshwll/hermes-agent-docker는 Hermes 생태계의 배포·인프라 영역에 속한 프로젝트입니다. 상세 설명은 원문 설명과 GitHub 링크를 함께 확인하세요.",
-    "useCasesKo": [],
-    "audienceKo": [],
+    "oneLineKo": "xmbshwll/hermes-agent-docker: Simple Docker sandbox image for Hermes Agent을 한국어 Atlas 기준으로 분류한 프로젝트입니다.",
+    "summaryKo": "xmbshwll/hermes-agent-docker는 배포·인프라 범주에서 볼 만한 프로젝트입니다. 원문 설명 기준으로는 “Simple Docker sandbox image for Hermes Agent”에 초점이 있습니다. 한국어 사용자는 서버 배포이나 운영 자동화이 필요할 때 우선 살펴보면 됩니다. repo 이름과 명령어, 원본 링크는 검색성과 재현성을 위해 그대로 유지했습니다.",
+    "useCasesKo": [
+      "서버 배포",
+      "운영 자동화",
+      "프로덕션 환경 구성",
+      "배포"
+    ],
+    "audienceKo": [
+      "DevOps 담당자",
+      "서비스 운영자",
+      "셀프호스팅 사용자"
+    ],
     "tagsKo": [
-      "배포·인프라"
+      "배포·인프라",
+      "배포",
+      "인프라",
+      "hermes agent docker"
     ],
     "riskNoteKo": "",
     "sourceDescription": "Simple Docker sandbox image for Hermes Agent",
     "sourceHash": "2ea20913f0b46e4af29b1c049d80b25c6c39e6746025346542448a6dc08fc3e6",
     "localizedAt": "2026-05-02T01:30:24.661Z",
-    "localizationStatus": "machine_review_needed"
+    "localizationStatus": "editorial_seeded"
   },
   {
     "id": "JackTheGit/hermes-autonomous-server",
@@ -1345,18 +1855,30 @@
     "category": "Deployment & Infra",
     "categoryKo": "배포·인프라",
     "categoryDescriptionKo": "VPS, Docker, Nix, systemd, 클라우드에 Hermes를 배포하기 위한 인프라입니다.",
-    "oneLineKo": "JackTheGit/hermes-autonomous-server는 Hermes 생태계의 배포·인프라 영역에 속한 프로젝트입니다.",
-    "summaryKo": "JackTheGit/hermes-autonomous-server는 Hermes 생태계의 배포·인프라 영역에 속한 프로젝트입니다. 상세 설명은 원문 설명과 GitHub 링크를 함께 확인하세요.",
-    "useCasesKo": [],
-    "audienceKo": [],
+    "oneLineKo": "JackTheGit/hermes-autonomous-server: Headless systemd deployment with Nous Portal integration — production — ready을 한국어 Atlas 기준으로 분류한 프로젝트입니다.",
+    "summaryKo": "JackTheGit/hermes-autonomous-server는 배포·인프라 범주에서 볼 만한 프로젝트입니다. 원문 설명 기준으로는 “Headless systemd deployment with Nous Portal integration — production — ready”에 초점이 있습니다. 한국어 사용자는 서버 배포이나 운영 자동화이 필요할 때 우선 살펴보면 됩니다. repo 이름과 명령어, 원본 링크는 검색성과 재현성을 위해 그대로 유지했습니다.",
+    "useCasesKo": [
+      "서버 배포",
+      "운영 자동화",
+      "프로덕션 환경 구성",
+      "배포"
+    ],
+    "audienceKo": [
+      "DevOps 담당자",
+      "서비스 운영자",
+      "셀프호스팅 사용자"
+    ],
     "tagsKo": [
-      "배포·인프라"
+      "배포·인프라",
+      "배포",
+      "인프라",
+      "hermes autonomous server"
     ],
     "riskNoteKo": "",
     "sourceDescription": "Headless systemd deployment with Nous Portal integration — production-ready",
     "sourceHash": "8aeb5d172c635aa6e6e93c6cc378260341aa0039b1e3746cfda728a83a9d60dc",
     "localizedAt": "2026-05-02T01:30:24.661Z",
-    "localizationStatus": "machine_review_needed"
+    "localizationStatus": "editorial_seeded"
   },
   {
     "id": "ellickjohnson/portainer-stack-hermes",
@@ -1369,18 +1891,30 @@
     "category": "Deployment & Infra",
     "categoryKo": "배포·인프라",
     "categoryDescriptionKo": "VPS, Docker, Nix, systemd, 클라우드에 Hermes를 배포하기 위한 인프라입니다.",
-    "oneLineKo": "ellickjohnson/portainer-stack-hermes는 Hermes 생태계의 배포·인프라 영역에 속한 프로젝트입니다.",
-    "summaryKo": "ellickjohnson/portainer-stack-hermes는 Hermes 생태계의 배포·인프라 영역에 속한 프로젝트입니다. 상세 설명은 원문 설명과 GitHub 링크를 함께 확인하세요.",
-    "useCasesKo": [],
-    "audienceKo": [],
+    "oneLineKo": "ellickjohnson/portainer-stack-hermes: Docker Compose stack with Portainer UI and ttyd web terminal을 한국어 Atlas 기준으로 분류한 프로젝트입니다.",
+    "summaryKo": "ellickjohnson/portainer-stack-hermes는 배포·인프라 범주에서 볼 만한 프로젝트입니다. 원문 설명 기준으로는 “Docker Compose stack with Portainer UI and ttyd web terminal”에 초점이 있습니다. 한국어 사용자는 서버 배포이나 운영 자동화이 필요할 때 우선 살펴보면 됩니다. repo 이름과 명령어, 원본 링크는 검색성과 재현성을 위해 그대로 유지했습니다.",
+    "useCasesKo": [
+      "서버 배포",
+      "운영 자동화",
+      "프로덕션 환경 구성",
+      "배포"
+    ],
+    "audienceKo": [
+      "DevOps 담당자",
+      "서비스 운영자",
+      "셀프호스팅 사용자"
+    ],
     "tagsKo": [
-      "배포·인프라"
+      "배포·인프라",
+      "배포",
+      "인프라",
+      "portainer stack hermes"
     ],
     "riskNoteKo": "",
     "sourceDescription": "Docker Compose stack with Portainer UI and ttyd web terminal",
     "sourceHash": "1a4ae74e6f89e0db877c7e246c4bfeb07224853c00d780c501dab7ca0ccad21b",
     "localizedAt": "2026-05-02T01:30:24.661Z",
-    "localizationStatus": "machine_review_needed"
+    "localizationStatus": "editorial_seeded"
   },
   {
     "id": "raulvidis/hermes-android",
@@ -1393,18 +1927,27 @@
     "category": "Integrations & Bridges",
     "categoryKo": "통합·브리지",
     "categoryDescriptionKo": "Hermes를 외부 서비스, 다른 에이전트, 특화 시스템과 연결하는 브리지입니다.",
-    "oneLineKo": "raulvidis/hermes-android는 Hermes 생태계의 통합·브리지 영역에 속한 프로젝트입니다.",
-    "summaryKo": "raulvidis/hermes-android는 Hermes 생태계의 통합·브리지 영역에 속한 프로젝트입니다. 상세 설명은 원문 설명과 GitHub 링크를 함께 확인하세요.",
-    "useCasesKo": [],
-    "audienceKo": [],
+    "oneLineKo": "raulvidis/hermes-android: Android device control — bridge app + Python toolset for mobile automation을 한국어 Atlas 기준으로 분류한 프로젝트입니다.",
+    "summaryKo": "raulvidis/hermes-android는 통합·브리지 범주에서 볼 만한 프로젝트입니다. 원문 설명 기준으로는 “Android device control — bridge app + Python toolset for mobile automation”에 초점이 있습니다. 한국어 사용자는 메신저·외부 앱 연동이나 기존 워크플로와 Hermes 연결이 필요할 때 우선 살펴보면 됩니다. repo 이름과 명령어, 원본 링크는 검색성과 재현성을 위해 그대로 유지했습니다.",
+    "useCasesKo": [
+      "메신저·외부 앱 연동",
+      "기존 워크플로와 Hermes 연결",
+      "API 기반 자동화"
+    ],
+    "audienceKo": [
+      "메신저 자동화 사용자",
+      "API 통합 개발자",
+      "운영 자동화 팀"
+    ],
     "tagsKo": [
-      "통합·브리지"
+      "통합·브리지",
+      "hermes android"
     ],
     "riskNoteKo": "",
     "sourceDescription": "Android device control — bridge app + Python toolset for mobile automation",
     "sourceHash": "2992ac14cbc770afbb2413cc1f77d1f9f04ab17a423530368454d42a5b9ae245",
     "localizedAt": "2026-05-02T01:30:24.661Z",
-    "localizationStatus": "machine_review_needed"
+    "localizationStatus": "editorial_seeded"
   },
   {
     "id": "teknium1/hermes-miniverse",
@@ -1417,18 +1960,27 @@
     "category": "Integrations & Bridges",
     "categoryKo": "통합·브리지",
     "categoryDescriptionKo": "Hermes를 외부 서비스, 다른 에이전트, 특화 시스템과 연결하는 브리지입니다.",
-    "oneLineKo": "teknium1/hermes-miniverse는 Hermes 생태계의 통합·브리지 영역에 속한 프로젝트입니다.",
-    "summaryKo": "teknium1/hermes-miniverse는 Hermes 생태계의 통합·브리지 영역에 속한 프로젝트입니다. 상세 설명은 원문 설명과 GitHub 링크를 함께 확인하세요.",
-    "useCasesKo": [],
-    "audienceKo": [],
+    "oneLineKo": "teknium1/hermes-miniverse: Bridge Hermes to Miniverse pixel worlds — agent embodiment in virtual environments을 한국어 Atlas 기준으로 분류한 프로젝트입니다.",
+    "summaryKo": "teknium1/hermes-miniverse는 통합·브리지 범주에서 볼 만한 프로젝트입니다. 원문 설명 기준으로는 “Bridge Hermes to Miniverse pixel worlds — agent embodiment in virtual environments”에 초점이 있습니다. 한국어 사용자는 메신저·외부 앱 연동이나 기존 워크플로와 Hermes 연결이 필요할 때 우선 살펴보면 됩니다. repo 이름과 명령어, 원본 링크는 검색성과 재현성을 위해 그대로 유지했습니다.",
+    "useCasesKo": [
+      "메신저·외부 앱 연동",
+      "기존 워크플로와 Hermes 연결",
+      "API 기반 자동화"
+    ],
+    "audienceKo": [
+      "메신저 자동화 사용자",
+      "API 통합 개발자",
+      "운영 자동화 팀"
+    ],
     "tagsKo": [
-      "통합·브리지"
+      "통합·브리지",
+      "hermes miniverse"
     ],
     "riskNoteKo": "",
     "sourceDescription": "Bridge Hermes to Miniverse pixel worlds — agent embodiment in virtual environments",
     "sourceHash": "c67416ccf8d4181a5bfe534fc93fa3216bbadc8d1624df53355c32d28cb02d7e",
     "localizedAt": "2026-05-02T01:30:24.661Z",
-    "localizationStatus": "machine_review_needed"
+    "localizationStatus": "editorial_seeded"
   },
   {
     "id": "Ridwannurudeen/hermes-council",
@@ -1441,18 +1993,32 @@
     "category": "Integrations & Bridges",
     "categoryKo": "통합·브리지",
     "categoryDescriptionKo": "Hermes를 외부 서비스, 다른 에이전트, 특화 시스템과 연결하는 브리지입니다.",
-    "oneLineKo": "Ridwannurudeen/hermes-council는 Hermes 생태계의 통합·브리지 영역에 속한 프로젝트입니다.",
-    "summaryKo": "Ridwannurudeen/hermes-council는 Hermes 생태계의 통합·브리지 영역에 속한 프로젝트입니다. 상세 설명은 원문 설명과 GitHub 링크를 함께 확인하세요.",
-    "useCasesKo": [],
-    "audienceKo": [],
+    "oneLineKo": "Ridwannurudeen/hermes-council: Adversarial multi — perspective council MCP server for decision — making을 한국어 Atlas 기준으로 분류한 프로젝트입니다.",
+    "summaryKo": "Ridwannurudeen/hermes-council는 통합·브리지 범주에서 볼 만한 프로젝트입니다. 원문 설명 기준으로는 “Adversarial multi — perspective council MCP server for decision — making”에 초점이 있습니다. 한국어 사용자는 메신저·외부 앱 연동이나 기존 워크플로와 Hermes 연결이 필요할 때 우선 살펴보면 됩니다. repo 이름과 명령어, 원본 링크는 검색성과 재현성을 위해 그대로 유지했습니다.",
+    "useCasesKo": [
+      "메신저·외부 앱 연동",
+      "기존 워크플로와 Hermes 연결",
+      "API 기반 자동화",
+      "MCP"
+    ],
+    "audienceKo": [
+      "메신저 자동화 사용자",
+      "API 통합 개발자",
+      "운영 자동화 팀"
+    ],
     "tagsKo": [
-      "통합·브리지"
+      "통합·브리지",
+      "MCP",
+      "외부 도구 연결",
+      "배포",
+      "인프라",
+      "hermes council"
     ],
     "riskNoteKo": "",
     "sourceDescription": "Adversarial multi-perspective council MCP server for decision-making",
     "sourceHash": "405df9345273579cf91aabbcd82926ddf5c21f7bac9e906c8f67454678c1faea",
     "localizedAt": "2026-05-02T01:30:24.661Z",
-    "localizationStatus": "machine_review_needed"
+    "localizationStatus": "editorial_seeded"
   },
   {
     "id": "marlandoj/zouroboros-swarm-executors",
@@ -1465,18 +2031,30 @@
     "category": "Integrations & Bridges",
     "categoryKo": "통합·브리지",
     "categoryDescriptionKo": "Hermes를 외부 서비스, 다른 에이전트, 특화 시스템과 연결하는 브리지입니다.",
-    "oneLineKo": "marlandoj/zouroboros-swarm-executors는 Hermes 생태계의 통합·브리지 영역에 속한 프로젝트입니다.",
-    "summaryKo": "marlandoj/zouroboros-swarm-executors는 Hermes 생태계의 통합·브리지 영역에 속한 프로젝트입니다. 상세 설명은 원문 설명과 GitHub 링크를 함께 확인하세요.",
-    "useCasesKo": [],
-    "audienceKo": [],
+    "oneLineKo": "marlandoj/zouroboros-swarm-executors: Claude Code and Hermes task handoff bridge for zo — swarm — orchestrator을 한국어 Atlas 기준으로 분류한 프로젝트입니다.",
+    "summaryKo": "marlandoj/zouroboros-swarm-executors는 통합·브리지 범주에서 볼 만한 프로젝트입니다. 원문 설명 기준으로는 “Claude Code and Hermes task handoff bridge for zo — swarm — orchestrator”에 초점이 있습니다. 한국어 사용자는 메신저·외부 앱 연동이나 기존 워크플로와 Hermes 연결이 필요할 때 우선 살펴보면 됩니다. repo 이름과 명령어, 원본 링크는 검색성과 재현성을 위해 그대로 유지했습니다.",
+    "useCasesKo": [
+      "메신저·외부 앱 연동",
+      "기존 워크플로와 Hermes 연결",
+      "API 기반 자동화",
+      "멀티 에이전트"
+    ],
+    "audienceKo": [
+      "메신저 자동화 사용자",
+      "API 통합 개발자",
+      "운영 자동화 팀"
+    ],
     "tagsKo": [
-      "통합·브리지"
+      "통합·브리지",
+      "멀티 에이전트",
+      "오케스트레이션",
+      "zouroboros swarm executors"
     ],
     "riskNoteKo": "",
     "sourceDescription": "Claude Code and Hermes task handoff bridge for zo-swarm-orchestrator",
     "sourceHash": "d259452107411d331e7da553ad0c9113a5b29fc79cba29c6b71c1641204ccc22",
     "localizedAt": "2026-05-02T01:30:24.661Z",
-    "localizationStatus": "machine_review_needed"
+    "localizationStatus": "editorial_seeded"
   },
   {
     "id": "gizdusum/hermes-blockchain-oracle",
@@ -1489,18 +2067,32 @@
     "category": "Integrations & Bridges",
     "categoryKo": "통합·브리지",
     "categoryDescriptionKo": "Hermes를 외부 서비스, 다른 에이전트, 특화 시스템과 연결하는 브리지입니다.",
-    "oneLineKo": "gizdusum/hermes-blockchain-oracle는 Hermes 생태계의 통합·브리지 영역에 속한 프로젝트입니다.",
-    "summaryKo": "gizdusum/hermes-blockchain-oracle는 Hermes 생태계의 통합·브리지 영역에 속한 프로젝트입니다. 상세 설명은 원문 설명과 GitHub 링크를 함께 확인하세요.",
-    "useCasesKo": [],
-    "audienceKo": [],
+    "oneLineKo": "gizdusum/hermes-blockchain-oracle: Solana blockchain intelligence MCP server — wallets, whales, tokens, NFTs, network health을 한국어 Atlas 기준으로 분류한 프로젝트입니다.",
+    "summaryKo": "gizdusum/hermes-blockchain-oracle는 통합·브리지 범주에서 볼 만한 프로젝트입니다. 원문 설명 기준으로는 “Solana blockchain intelligence MCP server — wallets, whales, tokens, NFTs, network health”에 초점이 있습니다. 한국어 사용자는 메신저·외부 앱 연동이나 기존 워크플로와 Hermes 연결이 필요할 때 우선 살펴보면 됩니다. repo 이름과 명령어, 원본 링크는 검색성과 재현성을 위해 그대로 유지했습니다.",
+    "useCasesKo": [
+      "메신저·외부 앱 연동",
+      "기존 워크플로와 Hermes 연결",
+      "API 기반 자동화",
+      "MCP"
+    ],
+    "audienceKo": [
+      "메신저 자동화 사용자",
+      "API 통합 개발자",
+      "운영 자동화 팀"
+    ],
     "tagsKo": [
-      "통합·브리지"
+      "통합·브리지",
+      "MCP",
+      "외부 도구 연결",
+      "배포",
+      "인프라",
+      "hermes blockchain oracle"
     ],
     "riskNoteKo": "",
     "sourceDescription": "Solana blockchain intelligence MCP server — wallets, whales, tokens, NFTs, network health",
     "sourceHash": "e8d0f6103bf420660ae9a296dbcba25c9f8b8a2c8c01d5cc2a6490c64b66a542",
     "localizedAt": "2026-05-02T01:30:24.661Z",
-    "localizationStatus": "machine_review_needed"
+    "localizationStatus": "editorial_seeded"
   },
   {
     "id": "junhoyeo/tokscale",
@@ -1548,18 +2140,27 @@
     "category": "Developer Tools",
     "categoryKo": "개발자 도구",
     "categoryDescriptionKo": "Hermes 개발과 운영을 편하게 만드는 CLI, 린터, 마이그레이션, 유틸리티입니다.",
-    "oneLineKo": "joeynyc/hermes-skins는 Hermes 생태계의 개발자 도구 영역에 속한 프로젝트입니다.",
-    "summaryKo": "joeynyc/hermes-skins는 Hermes 생태계의 개발자 도구 영역에 속한 프로젝트입니다. 상세 설명은 원문 설명과 GitHub 링크를 함께 확인하세요.",
-    "useCasesKo": [],
-    "audienceKo": [],
+    "oneLineKo": "joeynyc/hermes-skins: Community CLI skins and themes for Hermes terminal UI을 한국어 Atlas 기준으로 분류한 프로젝트입니다.",
+    "summaryKo": "joeynyc/hermes-skins는 개발자 도구 범주에서 볼 만한 프로젝트입니다. 원문 설명 기준으로는 “Community CLI skins and themes for Hermes terminal UI”에 초점이 있습니다. 한국어 사용자는 개발 생산성 향상이나 CLI·코드 작업 보조이 필요할 때 우선 살펴보면 됩니다. repo 이름과 명령어, 원본 링크는 검색성과 재현성을 위해 그대로 유지했습니다.",
+    "useCasesKo": [
+      "개발 생산성 향상",
+      "CLI·코드 작업 보조",
+      "로컬 개발 환경 개선"
+    ],
+    "audienceKo": [
+      "개발자",
+      "CLI 사용자",
+      "로컬 자동화 사용자"
+    ],
     "tagsKo": [
-      "개발자 도구"
+      "개발자 도구",
+      "hermes skins"
     ],
     "riskNoteKo": "",
     "sourceDescription": "Community CLI skins and themes for Hermes terminal UI",
     "sourceHash": "4b5625300174986e8b44ac719ce985a76367c58e30464f81e81afc32e3a04661",
     "localizedAt": "2026-05-02T01:30:24.661Z",
-    "localizationStatus": "machine_review_needed"
+    "localizationStatus": "editorial_seeded"
   },
   {
     "id": "AlexAI-MCP/hermes-CCC",
@@ -1572,18 +2173,30 @@
     "category": "Developer Tools",
     "categoryKo": "개발자 도구",
     "categoryDescriptionKo": "Hermes 개발과 운영을 편하게 만드는 CLI, 린터, 마이그레이션, 유틸리티입니다.",
-    "oneLineKo": "AlexAI-MCP/hermes-CCC는 Hermes 생태계의 개발자 도구 영역에 속한 프로젝트입니다.",
-    "summaryKo": "AlexAI-MCP/hermes-CCC는 Hermes 생태계의 개발자 도구 영역에 속한 프로젝트입니다. 상세 설명은 원문 설명과 GitHub 링크를 함께 확인하세요.",
-    "useCasesKo": [],
-    "audienceKo": [],
+    "oneLineKo": "AlexAI-MCP/hermes-CCC: Hermes Agent ported to Claude Code Channel — 46 native skills, no OAuth, no external process을 한국어 Atlas 기준으로 분류한 프로젝트입니다.",
+    "summaryKo": "AlexAI-MCP/hermes-CCC는 개발자 도구 범주에서 볼 만한 프로젝트입니다. 원문 설명 기준으로는 “Hermes Agent ported to Claude Code Channel — 46 native skills, no OAuth, no external process”에 초점이 있습니다. 한국어 사용자는 개발 생산성 향상이나 CLI·코드 작업 보조이 필요할 때 우선 살펴보면 됩니다. repo 이름과 명령어, 원본 링크는 검색성과 재현성을 위해 그대로 유지했습니다.",
+    "useCasesKo": [
+      "개발 생산성 향상",
+      "CLI·코드 작업 보조",
+      "로컬 개발 환경 개선",
+      "스킬"
+    ],
+    "audienceKo": [
+      "개발자",
+      "CLI 사용자",
+      "로컬 자동화 사용자"
+    ],
     "tagsKo": [
-      "개발자 도구"
+      "개발자 도구",
+      "스킬",
+      "재사용 가능한 작업 절차",
+      "hermes CCC"
     ],
     "riskNoteKo": "",
     "sourceDescription": "Hermes Agent ported to Claude Code Channel — 46 native skills, no OAuth, no external process",
     "sourceHash": "79b12c9f3a07ce1823dcf97d7bb6f8070bd53571905870a8964991ec476e0443",
     "localizedAt": "2026-05-02T01:30:24.661Z",
-    "localizationStatus": "machine_review_needed"
+    "localizationStatus": "editorial_seeded"
   },
   {
     "id": "unmodeled-tyler/vessel-browser",
@@ -1596,18 +2209,30 @@
     "category": "Developer Tools",
     "categoryKo": "개발자 도구",
     "categoryDescriptionKo": "Hermes 개발과 운영을 편하게 만드는 CLI, 린터, 마이그레이션, 유틸리티입니다.",
-    "oneLineKo": "unmodeled-tyler/vessel-browser는 Hermes 생태계의 개발자 도구 영역에 속한 프로젝트입니다.",
-    "summaryKo": "unmodeled-tyler/vessel-browser는 Hermes 생태계의 개발자 도구 영역에 속한 프로젝트입니다. 상세 설명은 원문 설명과 GitHub 링크를 함께 확인하세요.",
-    "useCasesKo": [],
-    "audienceKo": [],
+    "oneLineKo": "unmodeled-tyler/vessel-browser: AI — native browser built for autonomous agent control via MCP을 한국어 Atlas 기준으로 분류한 프로젝트입니다.",
+    "summaryKo": "unmodeled-tyler/vessel-browser는 개발자 도구 범주에서 볼 만한 프로젝트입니다. 원문 설명 기준으로는 “AI — native browser built for autonomous agent control via MCP”에 초점이 있습니다. 한국어 사용자는 개발 생산성 향상이나 CLI·코드 작업 보조이 필요할 때 우선 살펴보면 됩니다. repo 이름과 명령어, 원본 링크는 검색성과 재현성을 위해 그대로 유지했습니다.",
+    "useCasesKo": [
+      "개발 생산성 향상",
+      "CLI·코드 작업 보조",
+      "로컬 개발 환경 개선",
+      "MCP"
+    ],
+    "audienceKo": [
+      "개발자",
+      "CLI 사용자",
+      "로컬 자동화 사용자"
+    ],
     "tagsKo": [
-      "개발자 도구"
+      "개발자 도구",
+      "MCP",
+      "외부 도구 연결",
+      "vessel browser"
     ],
     "riskNoteKo": "",
     "sourceDescription": "AI-native browser built for autonomous agent control via MCP",
     "sourceHash": "e715c794777933a7f6fbb847b997694a7430841f24567ea43decd09c8dd828e2",
     "localizedAt": "2026-05-02T01:30:24.661Z",
-    "localizationStatus": "machine_review_needed"
+    "localizationStatus": "editorial_seeded"
   },
   {
     "id": "Abruptive/Ankh.md",
@@ -1620,18 +2245,27 @@
     "category": "Developer Tools",
     "categoryKo": "개발자 도구",
     "categoryDescriptionKo": "Hermes 개발과 운영을 편하게 만드는 CLI, 린터, 마이그레이션, 유틸리티입니다.",
-    "oneLineKo": "Abruptive/Ankh.md는 Hermes 생태계의 개발자 도구 영역에 속한 프로젝트입니다.",
-    "summaryKo": "Abruptive/Ankh.md는 Hermes 생태계의 개발자 도구 영역에 속한 프로젝트입니다. 상세 설명은 원문 설명과 GitHub 링크를 함께 확인하세요.",
-    "useCasesKo": [],
-    "audienceKo": [],
+    "oneLineKo": "Abruptive/Ankh.md: TAW Agent framework for creating scoped Hermes Agents을 한국어 Atlas 기준으로 분류한 프로젝트입니다.",
+    "summaryKo": "Abruptive/Ankh.md는 개발자 도구 범주에서 볼 만한 프로젝트입니다. 원문 설명 기준으로는 “TAW Agent framework for creating scoped Hermes Agents”에 초점이 있습니다. 한국어 사용자는 개발 생산성 향상이나 CLI·코드 작업 보조이 필요할 때 우선 살펴보면 됩니다. repo 이름과 명령어, 원본 링크는 검색성과 재현성을 위해 그대로 유지했습니다.",
+    "useCasesKo": [
+      "개발 생산성 향상",
+      "CLI·코드 작업 보조",
+      "로컬 개발 환경 개선"
+    ],
+    "audienceKo": [
+      "개발자",
+      "CLI 사용자",
+      "로컬 자동화 사용자"
+    ],
     "tagsKo": [
-      "개발자 도구"
+      "개발자 도구",
+      "Ankh.md"
     ],
     "riskNoteKo": "",
     "sourceDescription": "TAW Agent framework for creating scoped Hermes Agents",
     "sourceHash": "4646262babfa3a7a3d7d6c59e8c0aaed1285a6e120e0e1fdbcdfe7518a9461e7",
     "localizedAt": "2026-05-02T01:30:24.661Z",
-    "localizationStatus": "machine_review_needed"
+    "localizationStatus": "editorial_seeded"
   },
   {
     "id": "roli-lpci/lintlang",
@@ -1644,18 +2278,27 @@
     "category": "Developer Tools",
     "categoryKo": "개발자 도구",
     "categoryDescriptionKo": "Hermes 개발과 운영을 편하게 만드는 CLI, 린터, 마이그레이션, 유틸리티입니다.",
-    "oneLineKo": "roli-lpci/lintlang는 Hermes 생태계의 개발자 도구 영역에 속한 프로젝트입니다.",
-    "summaryKo": "roli-lpci/lintlang는 Hermes 생태계의 개발자 도구 영역에 속한 프로젝트입니다. 상세 설명은 원문 설명과 GitHub 링크를 함께 확인하세요.",
-    "useCasesKo": [],
-    "audienceKo": [],
+    "oneLineKo": "roli-lpci/lintlang: Static linter for AI agent configs, tool descriptions, and system prompts. HERM v1.1 scoring.을 한국어 Atlas 기준으로 분류한 프로젝트입니다.",
+    "summaryKo": "roli-lpci/lintlang는 개발자 도구 범주에서 볼 만한 프로젝트입니다. 원문 설명 기준으로는 “Static linter for AI agent configs, tool descriptions, and system prompts. HERM v1.1 scoring.”에 초점이 있습니다. 한국어 사용자는 개발 생산성 향상이나 CLI·코드 작업 보조이 필요할 때 우선 살펴보면 됩니다. repo 이름과 명령어, 원본 링크는 검색성과 재현성을 위해 그대로 유지했습니다.",
+    "useCasesKo": [
+      "개발 생산성 향상",
+      "CLI·코드 작업 보조",
+      "로컬 개발 환경 개선"
+    ],
+    "audienceKo": [
+      "개발자",
+      "CLI 사용자",
+      "로컬 자동화 사용자"
+    ],
     "tagsKo": [
-      "개발자 도구"
+      "개발자 도구",
+      "lintlang"
     ],
     "riskNoteKo": "",
     "sourceDescription": "Static linter for AI agent configs, tool descriptions, and system prompts. HERM v1.1 scoring.",
     "sourceHash": "5eb6cb8d9d9811e58a4bf8d9f5e0e62a23fdfd1956aeb071bc5659688e8edcab",
     "localizedAt": "2026-05-02T01:30:24.661Z",
-    "localizationStatus": "machine_review_needed"
+    "localizationStatus": "editorial_seeded"
   },
   {
     "id": "0xNyk/openclaw-to-hermes",
@@ -1668,18 +2311,27 @@
     "category": "Developer Tools",
     "categoryKo": "개발자 도구",
     "categoryDescriptionKo": "Hermes 개발과 운영을 편하게 만드는 CLI, 린터, 마이그레이션, 유틸리티입니다.",
-    "oneLineKo": "0xNyk/openclaw-to-hermes는 Hermes 생태계의 개발자 도구 영역에 속한 프로젝트입니다.",
-    "summaryKo": "0xNyk/openclaw-to-hermes는 Hermes 생태계의 개발자 도구 영역에 속한 프로젝트입니다. 상세 설명은 원문 설명과 GitHub 링크를 함께 확인하세요.",
-    "useCasesKo": [],
-    "audienceKo": [],
+    "oneLineKo": "0xNyk/openclaw-to-hermes: Migration tool from OpenClaw to Hermes Agent을 한국어 Atlas 기준으로 분류한 프로젝트입니다.",
+    "summaryKo": "0xNyk/openclaw-to-hermes는 개발자 도구 범주에서 볼 만한 프로젝트입니다. 원문 설명 기준으로는 “Migration tool from OpenClaw to Hermes Agent”에 초점이 있습니다. 한국어 사용자는 개발 생산성 향상이나 CLI·코드 작업 보조이 필요할 때 우선 살펴보면 됩니다. repo 이름과 명령어, 원본 링크는 검색성과 재현성을 위해 그대로 유지했습니다.",
+    "useCasesKo": [
+      "개발 생산성 향상",
+      "CLI·코드 작업 보조",
+      "로컬 개발 환경 개선"
+    ],
+    "audienceKo": [
+      "개발자",
+      "CLI 사용자",
+      "로컬 자동화 사용자"
+    ],
     "tagsKo": [
-      "개발자 도구"
+      "개발자 도구",
+      "openclaw to hermes"
     ],
     "riskNoteKo": "",
     "sourceDescription": "Migration tool from OpenClaw to Hermes Agent",
     "sourceHash": "2e881c39433bc6402361d8a238e7cc21853e2bf15fd9967f5c616ea3ae2008ae",
     "localizedAt": "2026-05-02T01:30:24.661Z",
-    "localizationStatus": "machine_review_needed"
+    "localizationStatus": "editorial_seeded"
   },
   {
     "id": "42-evey/evey-setup",
@@ -1692,18 +2344,27 @@
     "category": "Developer Tools",
     "categoryKo": "개발자 도구",
     "categoryDescriptionKo": "Hermes 개발과 운영을 편하게 만드는 CLI, 린터, 마이그레이션, 유틸리티입니다.",
-    "oneLineKo": "42-evey/evey-setup는 Hermes 생태계의 개발자 도구 영역에 속한 프로젝트입니다.",
-    "summaryKo": "42-evey/evey-setup는 Hermes 생태계의 개발자 도구 영역에 속한 프로젝트입니다. 상세 설명은 원문 설명과 GitHub 링크를 함께 확인하세요.",
-    "useCasesKo": [],
-    "audienceKo": [],
+    "oneLineKo": "42-evey/evey-setup: Get a hermes — agent stack running in minutes — free models, 29 plugins, zero cost을 한국어 Atlas 기준으로 분류한 프로젝트입니다.",
+    "summaryKo": "42-evey/evey-setup는 개발자 도구 범주에서 볼 만한 프로젝트입니다. 원문 설명 기준으로는 “Get a hermes — agent stack running in minutes — free models, 29 plugins, zero cost”에 초점이 있습니다. 한국어 사용자는 개발 생산성 향상이나 CLI·코드 작업 보조이 필요할 때 우선 살펴보면 됩니다. repo 이름과 명령어, 원본 링크는 검색성과 재현성을 위해 그대로 유지했습니다.",
+    "useCasesKo": [
+      "개발 생산성 향상",
+      "CLI·코드 작업 보조",
+      "로컬 개발 환경 개선"
+    ],
+    "audienceKo": [
+      "개발자",
+      "CLI 사용자",
+      "로컬 자동화 사용자"
+    ],
     "tagsKo": [
-      "개발자 도구"
+      "개발자 도구",
+      "evey setup"
     ],
     "riskNoteKo": "",
     "sourceDescription": "Get a hermes-agent stack running in minutes — free models, 29 plugins, zero cost",
     "sourceHash": "11745dc3524b7489752352c048a2f73e7e0e6001d642d003122104ea57b52aed",
     "localizedAt": "2026-05-02T01:30:24.661Z",
-    "localizationStatus": "machine_review_needed"
+    "localizationStatus": "editorial_seeded"
   },
   {
     "id": "ucsandman/DashClaw",
@@ -1716,18 +2377,30 @@
     "category": "Domain Applications",
     "categoryKo": "도메인 앱",
     "categoryDescriptionKo": "특정 업무나 산업 문제를 해결하기 위해 Hermes 위에 만든 응용 프로젝트입니다.",
-    "oneLineKo": "ucsandman/DashClaw는 Hermes 생태계의 도메인 앱 영역에 속한 프로젝트입니다.",
-    "summaryKo": "ucsandman/DashClaw는 Hermes 생태계의 도메인 앱 영역에 속한 프로젝트입니다. 상세 설명은 원문 설명과 GitHub 링크를 함께 확인하세요.",
-    "useCasesKo": [],
-    "audienceKo": [],
+    "oneLineKo": "ucsandman/DashClaw: Decision infrastructure with guard policies and risk assessment for agents을 한국어 Atlas 기준으로 분류한 프로젝트입니다.",
+    "summaryKo": "ucsandman/DashClaw는 도메인 앱 범주에서 볼 만한 프로젝트입니다. 원문 설명 기준으로는 “Decision infrastructure with guard policies and risk assessment for agents”에 초점이 있습니다. 한국어 사용자는 특정 업무 분야에 Hermes 적용이나 실사용 예제 확인이 필요할 때 우선 살펴보면 됩니다. repo 이름과 명령어, 원본 링크는 검색성과 재현성을 위해 그대로 유지했습니다.",
+    "useCasesKo": [
+      "특정 업무 분야에 Hermes 적용",
+      "실사용 예제 확인",
+      "업무 자동화 시나리오 검토",
+      "배포"
+    ],
+    "audienceKo": [
+      "업무 자동화 실험자",
+      "도메인 전문가",
+      "프로토타입 제작자"
+    ],
     "tagsKo": [
-      "도메인 앱"
+      "도메인 앱",
+      "배포",
+      "인프라",
+      "DashClaw"
     ],
     "riskNoteKo": "",
     "sourceDescription": "Decision infrastructure with guard policies and risk assessment for agents",
     "sourceHash": "727fbc096ea4fc6027b7ea5b0a55fd8beb63c12974da286d0a4222ebc6fd1a98",
     "localizedAt": "2026-05-02T01:30:24.661Z",
-    "localizationStatus": "machine_review_needed"
+    "localizationStatus": "editorial_seeded"
   },
   {
     "id": "Lethe044/hermes-incident-commander",
@@ -1740,18 +2413,27 @@
     "category": "Domain Applications",
     "categoryKo": "도메인 앱",
     "categoryDescriptionKo": "특정 업무나 산업 문제를 해결하기 위해 Hermes 위에 만든 응용 프로젝트입니다.",
-    "oneLineKo": "Lethe044/hermes-incident-commander는 Hermes 생태계의 도메인 앱 영역에 속한 프로젝트입니다.",
-    "summaryKo": "Lethe044/hermes-incident-commander는 Hermes 생태계의 도메인 앱 영역에 속한 프로젝트입니다. 상세 설명은 원문 설명과 GitHub 링크를 함께 확인하세요.",
-    "useCasesKo": [],
-    "audienceKo": [],
+    "oneLineKo": "Lethe044/hermes-incident-commander: Autonomous SRE agent — detects, heals, and learns from production incidents을 한국어 Atlas 기준으로 분류한 프로젝트입니다.",
+    "summaryKo": "Lethe044/hermes-incident-commander는 도메인 앱 범주에서 볼 만한 프로젝트입니다. 원문 설명 기준으로는 “Autonomous SRE agent — detects, heals, and learns from production incidents”에 초점이 있습니다. 한국어 사용자는 특정 업무 분야에 Hermes 적용이나 실사용 예제 확인이 필요할 때 우선 살펴보면 됩니다. repo 이름과 명령어, 원본 링크는 검색성과 재현성을 위해 그대로 유지했습니다.",
+    "useCasesKo": [
+      "특정 업무 분야에 Hermes 적용",
+      "실사용 예제 확인",
+      "업무 자동화 시나리오 검토"
+    ],
+    "audienceKo": [
+      "업무 자동화 실험자",
+      "도메인 전문가",
+      "프로토타입 제작자"
+    ],
     "tagsKo": [
-      "도메인 앱"
+      "도메인 앱",
+      "hermes incident commander"
     ],
     "riskNoteKo": "",
     "sourceDescription": "Autonomous SRE agent — detects, heals, and learns from production incidents",
     "sourceHash": "40145ece1592322f535fb05aa09441e910a68f27c21c79daf4afedaa1cab635a",
     "localizedAt": "2026-05-02T01:30:24.661Z",
-    "localizationStatus": "machine_review_needed"
+    "localizationStatus": "editorial_seeded"
   },
   {
     "id": "Christabel337/job-scout-agent",
@@ -1764,18 +2446,27 @@
     "category": "Domain Applications",
     "categoryKo": "도메인 앱",
     "categoryDescriptionKo": "특정 업무나 산업 문제를 해결하기 위해 Hermes 위에 만든 응용 프로젝트입니다.",
-    "oneLineKo": "Christabel337/job-scout-agent는 Hermes 생태계의 도메인 앱 영역에 속한 프로젝트입니다.",
-    "summaryKo": "Christabel337/job-scout-agent는 Hermes 생태계의 도메인 앱 영역에 속한 프로젝트입니다. 상세 설명은 원문 설명과 GitHub 링크를 함께 확인하세요.",
-    "useCasesKo": [],
-    "audienceKo": [],
+    "oneLineKo": "Christabel337/job-scout-agent: Autonomous job hunting — scans listings, writes cover letters, tracks applications을 한국어 Atlas 기준으로 분류한 프로젝트입니다.",
+    "summaryKo": "Christabel337/job-scout-agent는 도메인 앱 범주에서 볼 만한 프로젝트입니다. 원문 설명 기준으로는 “Autonomous job hunting — scans listings, writes cover letters, tracks applications”에 초점이 있습니다. 한국어 사용자는 특정 업무 분야에 Hermes 적용이나 실사용 예제 확인이 필요할 때 우선 살펴보면 됩니다. repo 이름과 명령어, 원본 링크는 검색성과 재현성을 위해 그대로 유지했습니다.",
+    "useCasesKo": [
+      "특정 업무 분야에 Hermes 적용",
+      "실사용 예제 확인",
+      "업무 자동화 시나리오 검토"
+    ],
+    "audienceKo": [
+      "업무 자동화 실험자",
+      "도메인 전문가",
+      "프로토타입 제작자"
+    ],
     "tagsKo": [
-      "도메인 앱"
+      "도메인 앱",
+      "job scout agent"
     ],
     "riskNoteKo": "",
     "sourceDescription": "Autonomous job hunting — scans listings, writes cover letters, tracks applications",
     "sourceHash": "f891635e67a270a24bd7bc8c1f45892d2ffed29f211d7164b75a52909da24452",
     "localizedAt": "2026-05-02T01:30:24.661Z",
-    "localizationStatus": "machine_review_needed"
+    "localizationStatus": "editorial_seeded"
   },
   {
     "id": "rodmarkun/anihermes",
@@ -1788,18 +2479,30 @@
     "category": "Domain Applications",
     "categoryKo": "도메인 앱",
     "categoryDescriptionKo": "특정 업무나 산업 문제를 해결하기 위해 Hermes 위에 만든 응용 프로젝트입니다.",
-    "oneLineKo": "rodmarkun/anihermes는 Hermes 생태계의 도메인 앱 영역에 속한 프로젝트입니다.",
-    "summaryKo": "rodmarkun/anihermes는 Hermes 생태계의 도메인 앱 영역에 속한 프로젝트입니다. 상세 설명은 원문 설명과 GitHub 링크를 함께 확인하세요.",
-    "useCasesKo": [],
-    "audienceKo": [],
+    "oneLineKo": "rodmarkun/anihermes: Local anime server and tracker via natural language for Hermes Agent을 한국어 Atlas 기준으로 분류한 프로젝트입니다.",
+    "summaryKo": "rodmarkun/anihermes는 도메인 앱 범주에서 볼 만한 프로젝트입니다. 원문 설명 기준으로는 “Local anime server and tracker via natural language for Hermes Agent”에 초점이 있습니다. 한국어 사용자는 특정 업무 분야에 Hermes 적용이나 실사용 예제 확인이 필요할 때 우선 살펴보면 됩니다. repo 이름과 명령어, 원본 링크는 검색성과 재현성을 위해 그대로 유지했습니다.",
+    "useCasesKo": [
+      "특정 업무 분야에 Hermes 적용",
+      "실사용 예제 확인",
+      "업무 자동화 시나리오 검토",
+      "배포"
+    ],
+    "audienceKo": [
+      "업무 자동화 실험자",
+      "도메인 전문가",
+      "프로토타입 제작자"
+    ],
     "tagsKo": [
-      "도메인 앱"
+      "도메인 앱",
+      "배포",
+      "인프라",
+      "anihermes"
     ],
     "riskNoteKo": "",
     "sourceDescription": "Local anime server and tracker via natural language for Hermes Agent",
     "sourceHash": "2a9482465d49e7703ee5deaa283992d35b38bf6e72b71a9cd6820146d8026790",
     "localizedAt": "2026-05-02T01:30:24.661Z",
-    "localizationStatus": "machine_review_needed"
+    "localizationStatus": "editorial_seeded"
   },
   {
     "id": "JackTheGit/hermes-ai-infrastructure-monitoring-toolkit",
@@ -1812,18 +2515,30 @@
     "category": "Domain Applications",
     "categoryKo": "도메인 앱",
     "categoryDescriptionKo": "특정 업무나 산업 문제를 해결하기 위해 Hermes 위에 만든 응용 프로젝트입니다.",
-    "oneLineKo": "JackTheGit/hermes-ai-infrastructure-monitoring-toolkit는 Hermes 생태계의 도메인 앱 영역에 속한 프로젝트입니다.",
-    "summaryKo": "JackTheGit/hermes-ai-infrastructure-monitoring-toolkit는 Hermes 생태계의 도메인 앱 영역에 속한 프로젝트입니다. 상세 설명은 원문 설명과 GitHub 링크를 함께 확인하세요.",
-    "useCasesKo": [],
-    "audienceKo": [],
+    "oneLineKo": "JackTheGit/hermes-ai-infrastructure-monitoring-toolkit: Autonomous monitoring — cron — based research ingestion, cost forecasting, headless systemd을 한국어 Atlas 기준으로 분류한 프로젝트입니다.",
+    "summaryKo": "JackTheGit/hermes-ai-infrastructure-monitoring-toolkit는 도메인 앱 범주에서 볼 만한 프로젝트입니다. 원문 설명 기준으로는 “Autonomous monitoring — cron — based research ingestion, cost forecasting, headless systemd”에 초점이 있습니다. 한국어 사용자는 특정 업무 분야에 Hermes 적용이나 실사용 예제 확인이 필요할 때 우선 살펴보면 됩니다. repo 이름과 명령어, 원본 링크는 검색성과 재현성을 위해 그대로 유지했습니다.",
+    "useCasesKo": [
+      "특정 업무 분야에 Hermes 적용",
+      "실사용 예제 확인",
+      "업무 자동화 시나리오 검토",
+      "배포"
+    ],
+    "audienceKo": [
+      "업무 자동화 실험자",
+      "도메인 전문가",
+      "프로토타입 제작자"
+    ],
     "tagsKo": [
-      "도메인 앱"
+      "도메인 앱",
+      "배포",
+      "인프라",
+      "hermes ai infrastructure monitoring toolkit"
     ],
     "riskNoteKo": "",
     "sourceDescription": "Autonomous monitoring — cron-based research ingestion, cost forecasting, headless systemd",
     "sourceHash": "23cc67830de14d517415b30174db6ed0361257f18f8a2e499801a6aabc4dd01e",
     "localizedAt": "2026-05-02T01:30:24.661Z",
-    "localizationStatus": "machine_review_needed"
+    "localizationStatus": "editorial_seeded"
   },
   {
     "id": "bigph00t/hermescraft",
@@ -1836,18 +2551,32 @@
     "category": "Domain Applications",
     "categoryKo": "도메인 앱",
     "categoryDescriptionKo": "특정 업무나 산업 문제를 해결하기 위해 Hermes 위에 만든 응용 프로젝트입니다.",
-    "oneLineKo": "bigph00t/hermescraft는 Hermes 생태계의 도메인 앱 영역에 속한 프로젝트입니다.",
-    "summaryKo": "bigph00t/hermescraft는 Hermes 생태계의 도메인 앱 영역에 속한 프로젝트입니다. 상세 설명은 원문 설명과 GitHub 링크를 함께 확인하세요.",
-    "useCasesKo": [],
-    "audienceKo": [],
+    "oneLineKo": "bigph00t/hermescraft: Embodied AI companion for Minecraft — persistent memory, vision, learning, multi — agent을 한국어 Atlas 기준으로 분류한 프로젝트입니다.",
+    "summaryKo": "bigph00t/hermescraft는 도메인 앱 범주에서 볼 만한 프로젝트입니다. 원문 설명 기준으로는 “Embodied AI companion for Minecraft — persistent memory, vision, learning, multi — agent”에 초점이 있습니다. 한국어 사용자는 특정 업무 분야에 Hermes 적용이나 실사용 예제 확인이 필요할 때 우선 살펴보면 됩니다. repo 이름과 명령어, 원본 링크는 검색성과 재현성을 위해 그대로 유지했습니다.",
+    "useCasesKo": [
+      "특정 업무 분야에 Hermes 적용",
+      "실사용 예제 확인",
+      "업무 자동화 시나리오 검토",
+      "메모리"
+    ],
+    "audienceKo": [
+      "업무 자동화 실험자",
+      "도메인 전문가",
+      "프로토타입 제작자"
+    ],
     "tagsKo": [
-      "도메인 앱"
+      "도메인 앱",
+      "메모리",
+      "컨텍스트 유지",
+      "멀티 에이전트",
+      "오케스트레이션",
+      "hermescraft"
     ],
     "riskNoteKo": "",
     "sourceDescription": "Embodied AI companion for Minecraft — persistent memory, vision, learning, multi-agent",
     "sourceHash": "3a74da2f13276e3118675a417b2dfd441db24f70a23b0633583018c6e38cd5f8",
     "localizedAt": "2026-05-02T01:30:24.661Z",
-    "localizationStatus": "machine_review_needed"
+    "localizationStatus": "editorial_seeded"
   },
   {
     "id": "hxsteric/mercury",
@@ -1860,18 +2589,30 @@
     "category": "Domain Applications",
     "categoryKo": "도메인 앱",
     "categoryDescriptionKo": "특정 업무나 산업 문제를 해결하기 위해 Hermes 위에 만든 응용 프로젝트입니다.",
-    "oneLineKo": "hxsteric/mercury는 Hermes 생태계의 도메인 앱 영역에 속한 프로젝트입니다.",
-    "summaryKo": "hxsteric/mercury는 Hermes 생태계의 도메인 앱 영역에 속한 프로젝트입니다. 상세 설명은 원문 설명과 GitHub 링크를 함께 확인하세요.",
-    "useCasesKo": [],
-    "audienceKo": [],
+    "oneLineKo": "hxsteric/mercury: Blockchain cash flow analyzer — multi — chain analysis, fraud detection, WebGL dashboard을 한국어 Atlas 기준으로 분류한 프로젝트입니다.",
+    "summaryKo": "hxsteric/mercury는 도메인 앱 범주에서 볼 만한 프로젝트입니다. 원문 설명 기준으로는 “Blockchain cash flow analyzer — multi — chain analysis, fraud detection, WebGL dashboard”에 초점이 있습니다. 한국어 사용자는 특정 업무 분야에 Hermes 적용이나 실사용 예제 확인이 필요할 때 우선 살펴보면 됩니다. repo 이름과 명령어, 원본 링크는 검색성과 재현성을 위해 그대로 유지했습니다.",
+    "useCasesKo": [
+      "특정 업무 분야에 Hermes 적용",
+      "실사용 예제 확인",
+      "업무 자동화 시나리오 검토",
+      "GUI"
+    ],
+    "audienceKo": [
+      "업무 자동화 실험자",
+      "도메인 전문가",
+      "프로토타입 제작자"
+    ],
     "tagsKo": [
-      "도메인 앱"
+      "도메인 앱",
+      "GUI",
+      "워크스페이스",
+      "mercury"
     ],
     "riskNoteKo": "",
     "sourceDescription": "Blockchain cash flow analyzer — multi-chain analysis, fraud detection, WebGL dashboard",
     "sourceHash": "2eafb0b426b88d5ea42ccdab3971dfae0d6dc407331cb9a53a1cb33f827585a7",
     "localizedAt": "2026-05-02T01:30:24.661Z",
-    "localizationStatus": "machine_review_needed"
+    "localizationStatus": "editorial_seeded"
   },
   {
     "id": "bryercowan/hermes-embodied",
@@ -1884,18 +2625,27 @@
     "category": "Domain Applications",
     "categoryKo": "도메인 앱",
     "categoryDescriptionKo": "특정 업무나 산업 문제를 해결하기 위해 Hermes 위에 만든 응용 프로젝트입니다.",
-    "oneLineKo": "bryercowan/hermes-embodied는 Hermes 생태계의 도메인 앱 영역에 속한 프로젝트입니다.",
-    "summaryKo": "bryercowan/hermes-embodied는 Hermes 생태계의 도메인 앱 영역에 속한 프로젝트입니다. 상세 설명은 원문 설명과 GitHub 링크를 함께 확인하세요.",
-    "useCasesKo": [],
-    "audienceKo": [],
+    "oneLineKo": "bryercowan/hermes-embodied: Self — improving robotics via VLA model fine — tuning on cloud GPUs을 한국어 Atlas 기준으로 분류한 프로젝트입니다.",
+    "summaryKo": "bryercowan/hermes-embodied는 도메인 앱 범주에서 볼 만한 프로젝트입니다. 원문 설명 기준으로는 “Self — improving robotics via VLA model fine — tuning on cloud GPUs”에 초점이 있습니다. 한국어 사용자는 특정 업무 분야에 Hermes 적용이나 실사용 예제 확인이 필요할 때 우선 살펴보면 됩니다. repo 이름과 명령어, 원본 링크는 검색성과 재현성을 위해 그대로 유지했습니다.",
+    "useCasesKo": [
+      "특정 업무 분야에 Hermes 적용",
+      "실사용 예제 확인",
+      "업무 자동화 시나리오 검토"
+    ],
+    "audienceKo": [
+      "업무 자동화 실험자",
+      "도메인 전문가",
+      "프로토타입 제작자"
+    ],
     "tagsKo": [
-      "도메인 앱"
+      "도메인 앱",
+      "hermes embodied"
     ],
     "riskNoteKo": "",
     "sourceDescription": "Self-improving robotics via VLA model fine-tuning on cloud GPUs",
     "sourceHash": "a2a985c6a42b641306ebd478ceb9960ce453584ac2f593c756c2e39d0e71eee8",
     "localizedAt": "2026-05-02T01:30:24.661Z",
-    "localizationStatus": "machine_review_needed"
+    "localizationStatus": "editorial_seeded"
   },
   {
     "id": "0xNyk/awesome-hermes-agent",
@@ -1943,18 +2693,30 @@
     "category": "Guides & Docs",
     "categoryKo": "가이드·문서",
     "categoryDescriptionKo": "설치, 운영, 최적화, 비교, 커뮤니티 지식을 정리한 문서와 가이드입니다.",
-    "oneLineKo": "alchaincyf/hermes-agent-orange-book는 Hermes 생태계의 가이드·문서 영역에 속한 프로젝트입니다.",
-    "summaryKo": "alchaincyf/hermes-agent-orange-book는 Hermes 생태계의 가이드·문서 영역에 속한 프로젝트입니다. 상세 설명은 원문 설명과 GitHub 링크를 함께 확인하세요.",
-    "useCasesKo": [],
-    "audienceKo": [],
+    "oneLineKo": "alchaincyf/hermes-agent-orange-book: Hermes Agent practical guide — Orange Book series (Chinese language)을 한국어 Atlas 기준으로 분류한 프로젝트입니다.",
+    "summaryKo": "alchaincyf/hermes-agent-orange-book는 가이드·문서 범주에서 볼 만한 프로젝트입니다. 원문 설명 기준으로는 “Hermes Agent practical guide — Orange Book series (Chinese language)”에 초점이 있습니다. 한국어 사용자는 학습 자료 확인이나 도입 전 구조 이해이 필요할 때 우선 살펴보면 됩니다. repo 이름과 명령어, 원본 링크는 검색성과 재현성을 위해 그대로 유지했습니다.",
+    "useCasesKo": [
+      "학습 자료 확인",
+      "도입 전 구조 이해",
+      "팀 온보딩",
+      "GUI"
+    ],
+    "audienceKo": [
+      "입문자",
+      "교육자",
+      "도입 검토자"
+    ],
     "tagsKo": [
-      "가이드·문서"
+      "가이드·문서",
+      "GUI",
+      "워크스페이스",
+      "hermes agent orange book"
     ],
     "riskNoteKo": "",
     "sourceDescription": "Hermes Agent practical guide — Orange Book series (Chinese language)",
     "sourceHash": "e08f8f67d0bc26340f1fee0b7ef3df33af4b1fdfed2f394b5b73a6aaf7f41aa7",
     "localizedAt": "2026-05-02T01:30:24.661Z",
-    "localizationStatus": "machine_review_needed"
+    "localizationStatus": "editorial_seeded"
   },
   {
     "id": "OnlyTerp/hermes-optimization-guide",
@@ -1967,18 +2729,32 @@
     "category": "Guides & Docs",
     "categoryKo": "가이드·문서",
     "categoryDescriptionKo": "설치, 운영, 최적화, 비교, 커뮤니티 지식을 정리한 문서와 가이드입니다.",
-    "oneLineKo": "OnlyTerp/hermes-optimization-guide는 Hermes 생태계의 가이드·문서 영역에 속한 프로젝트입니다.",
-    "summaryKo": "OnlyTerp/hermes-optimization-guide는 Hermes 생태계의 가이드·문서 영역에 속한 프로젝트입니다. 상세 설명은 원문 설명과 GitHub 링크를 함께 확인하세요.",
-    "useCasesKo": [],
-    "audienceKo": [],
+    "oneLineKo": "OnlyTerp/hermes-optimization-guide: Performance optimization guide for Hermes deployments을 한국어 Atlas 기준으로 분류한 프로젝트입니다.",
+    "summaryKo": "OnlyTerp/hermes-optimization-guide는 가이드·문서 범주에서 볼 만한 프로젝트입니다. 원문 설명 기준으로는 “Performance optimization guide for Hermes deployments”에 초점이 있습니다. 한국어 사용자는 학습 자료 확인이나 도입 전 구조 이해이 필요할 때 우선 살펴보면 됩니다. repo 이름과 명령어, 원본 링크는 검색성과 재현성을 위해 그대로 유지했습니다.",
+    "useCasesKo": [
+      "학습 자료 확인",
+      "도입 전 구조 이해",
+      "팀 온보딩",
+      "배포"
+    ],
+    "audienceKo": [
+      "입문자",
+      "교육자",
+      "도입 검토자"
+    ],
     "tagsKo": [
-      "가이드·문서"
+      "가이드·문서",
+      "배포",
+      "인프라",
+      "GUI",
+      "워크스페이스",
+      "hermes optimization guide"
     ],
     "riskNoteKo": "",
     "sourceDescription": "Performance optimization guide for Hermes deployments",
     "sourceHash": "d75f82fc1bc11a9e8175feb1ed1f8013e74aeea9ff5d8f0894690b2c8ffd6271",
     "localizedAt": "2026-05-02T01:30:24.661Z",
-    "localizationStatus": "machine_review_needed"
+    "localizationStatus": "editorial_seeded"
   },
   {
     "id": "metantonio/hermes-wsl-ubuntu",
@@ -1991,18 +2767,30 @@
     "category": "Guides & Docs",
     "categoryKo": "가이드·문서",
     "categoryDescriptionKo": "설치, 운영, 최적화, 비교, 커뮤니티 지식을 정리한 문서와 가이드입니다.",
-    "oneLineKo": "metantonio/hermes-wsl-ubuntu는 Hermes 생태계의 가이드·문서 영역에 속한 프로젝트입니다.",
-    "summaryKo": "metantonio/hermes-wsl-ubuntu는 Hermes 생태계의 가이드·문서 영역에 속한 프로젝트입니다. 상세 설명은 원문 설명과 GitHub 링크를 함께 확인하세요.",
-    "useCasesKo": [],
-    "audienceKo": [],
+    "oneLineKo": "metantonio/hermes-wsl-ubuntu: Step — by — step WSL2 Ubuntu setup guide for Windows users을 한국어 Atlas 기준으로 분류한 프로젝트입니다.",
+    "summaryKo": "metantonio/hermes-wsl-ubuntu는 가이드·문서 범주에서 볼 만한 프로젝트입니다. 원문 설명 기준으로는 “Step — by — step WSL2 Ubuntu setup guide for Windows users”에 초점이 있습니다. 한국어 사용자는 학습 자료 확인이나 도입 전 구조 이해이 필요할 때 우선 살펴보면 됩니다. repo 이름과 명령어, 원본 링크는 검색성과 재현성을 위해 그대로 유지했습니다.",
+    "useCasesKo": [
+      "학습 자료 확인",
+      "도입 전 구조 이해",
+      "팀 온보딩",
+      "GUI"
+    ],
+    "audienceKo": [
+      "입문자",
+      "교육자",
+      "도입 검토자"
+    ],
     "tagsKo": [
-      "가이드·문서"
+      "가이드·문서",
+      "GUI",
+      "워크스페이스",
+      "hermes wsl ubuntu"
     ],
     "riskNoteKo": "",
     "sourceDescription": "Step-by-step WSL2 Ubuntu setup guide for Windows users",
     "sourceHash": "27ea3ab9a8e6f1a85ce4916fa186403b49262d4e5ef667e7990f30acd346751f",
     "localizedAt": "2026-05-02T01:30:24.661Z",
-    "localizationStatus": "machine_review_needed"
+    "localizationStatus": "editorial_seeded"
   },
   {
     "id": "mudrii/hermes-agent-docs",
@@ -2015,18 +2803,30 @@
     "category": "Guides & Docs",
     "categoryKo": "가이드·문서",
     "categoryDescriptionKo": "설치, 운영, 최적화, 비교, 커뮤니티 지식을 정리한 문서와 가이드입니다.",
-    "oneLineKo": "mudrii/hermes-agent-docs는 Hermes 생태계의 가이드·문서 영역에 속한 프로젝트입니다.",
-    "summaryKo": "mudrii/hermes-agent-docs는 Hermes 생태계의 가이드·문서 영역에 속한 프로젝트입니다. 상세 설명은 원문 설명과 GitHub 링크를 함께 확인하세요.",
-    "useCasesKo": [],
-    "audienceKo": [],
+    "oneLineKo": "mudrii/hermes-agent-docs: Community documentation covering deployment patterns and v0.2.0+ workflows을 한국어 Atlas 기준으로 분류한 프로젝트입니다.",
+    "summaryKo": "mudrii/hermes-agent-docs는 가이드·문서 범주에서 볼 만한 프로젝트입니다. 원문 설명 기준으로는 “Community documentation covering deployment patterns and v0.2.0+ workflows”에 초점이 있습니다. 한국어 사용자는 학습 자료 확인이나 도입 전 구조 이해이 필요할 때 우선 살펴보면 됩니다. repo 이름과 명령어, 원본 링크는 검색성과 재현성을 위해 그대로 유지했습니다.",
+    "useCasesKo": [
+      "학습 자료 확인",
+      "도입 전 구조 이해",
+      "팀 온보딩",
+      "배포"
+    ],
+    "audienceKo": [
+      "입문자",
+      "교육자",
+      "도입 검토자"
+    ],
     "tagsKo": [
-      "가이드·문서"
+      "가이드·문서",
+      "배포",
+      "인프라",
+      "hermes agent docs"
     ],
     "riskNoteKo": "",
     "sourceDescription": "Community documentation covering deployment patterns and v0.2.0+ workflows",
     "sourceHash": "154e98ab8f8085801977ee96f83ac65aff373ae56362de24d7ce5fba62b3e76e",
     "localizedAt": "2026-05-02T01:30:24.661Z",
-    "localizationStatus": "machine_review_needed"
+    "localizationStatus": "editorial_seeded"
   },
   {
     "id": "martymcenroe/HermesWiki",
@@ -2039,18 +2839,30 @@
     "category": "Guides & Docs",
     "categoryKo": "가이드·문서",
     "categoryDescriptionKo": "설치, 운영, 최적화, 비교, 커뮤니티 지식을 정리한 문서와 가이드입니다.",
-    "oneLineKo": "martymcenroe/HermesWiki는 Hermes 생태계의 가이드·문서 영역에 속한 프로젝트입니다.",
-    "summaryKo": "martymcenroe/HermesWiki는 Hermes 생태계의 가이드·문서 영역에 속한 프로젝트입니다. 상세 설명은 원문 설명과 GitHub 링크를 함께 확인하세요.",
-    "useCasesKo": [],
-    "audienceKo": [],
+    "oneLineKo": "martymcenroe/HermesWiki: Community wiki with deployment patterns and recipes을 한국어 Atlas 기준으로 분류한 프로젝트입니다.",
+    "summaryKo": "martymcenroe/HermesWiki는 가이드·문서 범주에서 볼 만한 프로젝트입니다. 원문 설명 기준으로는 “Community wiki with deployment patterns and recipes”에 초점이 있습니다. 한국어 사용자는 학습 자료 확인이나 도입 전 구조 이해이 필요할 때 우선 살펴보면 됩니다. repo 이름과 명령어, 원본 링크는 검색성과 재현성을 위해 그대로 유지했습니다.",
+    "useCasesKo": [
+      "학습 자료 확인",
+      "도입 전 구조 이해",
+      "팀 온보딩",
+      "배포"
+    ],
+    "audienceKo": [
+      "입문자",
+      "교육자",
+      "도입 검토자"
+    ],
     "tagsKo": [
-      "가이드·문서"
+      "가이드·문서",
+      "배포",
+      "인프라",
+      "HermesWiki"
     ],
     "riskNoteKo": "",
     "sourceDescription": "Community wiki with deployment patterns and recipes",
     "sourceHash": "e81a7b6574b623f7e19e86793eceeb0ba430f828268bbce8981af191c073bf20",
     "localizedAt": "2026-05-02T01:30:24.661Z",
-    "localizationStatus": "machine_review_needed"
+    "localizationStatus": "editorial_seeded"
   },
   {
     "id": "nativ3ai/hermes-agent-camel",
@@ -2063,18 +2875,27 @@
     "category": "Forks & Derivatives",
     "categoryKo": "포크·파생",
     "categoryDescriptionKo": "Hermes Agent를 변형하거나 특정 목적에 맞게 고친 파생 프로젝트입니다.",
-    "oneLineKo": "nativ3ai/hermes-agent-camel는 Hermes 생태계의 포크·파생 영역에 속한 프로젝트입니다.",
-    "summaryKo": "nativ3ai/hermes-agent-camel는 Hermes 생태계의 포크·파생 영역에 속한 프로젝트입니다. 상세 설명은 원문 설명과 GitHub 링크를 함께 확인하세요.",
-    "useCasesKo": [],
-    "audienceKo": [],
+    "oneLineKo": "nativ3ai/hermes-agent-camel: Hermes with integrated CaMeL trust boundaries for safer autonomous execution을 한국어 Atlas 기준으로 분류한 프로젝트입니다.",
+    "summaryKo": "nativ3ai/hermes-agent-camel는 포크·파생 범주에서 볼 만한 프로젝트입니다. 원문 설명 기준으로는 “Hermes with integrated CaMeL trust boundaries for safer autonomous execution”에 초점이 있습니다. 한국어 사용자는 대안 구현 비교이나 실험적 기능 확인이 필요할 때 우선 살펴보면 됩니다. repo 이름과 명령어, 원본 링크는 검색성과 재현성을 위해 그대로 유지했습니다.",
+    "useCasesKo": [
+      "대안 구현 비교",
+      "실험적 기능 확인",
+      "원본과 다른 방향성 탐색"
+    ],
+    "audienceKo": [
+      "오픈소스 탐색자",
+      "대안 구현 검토자",
+      "실험 기능 사용자"
+    ],
     "tagsKo": [
-      "포크·파생"
+      "포크·파생",
+      "hermes agent camel"
     ],
     "riskNoteKo": "",
     "sourceDescription": "Hermes with integrated CaMeL trust boundaries for safer autonomous execution",
     "sourceHash": "6c0d456f4075492a239841b7f2d24d745b1c1275f52db739ed7bebdbb57478a8",
     "localizedAt": "2026-05-02T01:30:24.661Z",
-    "localizationStatus": "machine_review_needed"
+    "localizationStatus": "editorial_seeded"
   },
   {
     "id": "kaminocorp/hermes-alpha",
@@ -2087,18 +2908,30 @@
     "category": "Forks & Derivatives",
     "categoryKo": "포크·파생",
     "categoryDescriptionKo": "Hermes Agent를 변형하거나 특정 목적에 맞게 고친 파생 프로젝트입니다.",
-    "oneLineKo": "kaminocorp/hermes-alpha는 Hermes 생태계의 포크·파생 영역에 속한 프로젝트입니다.",
-    "summaryKo": "kaminocorp/hermes-alpha는 Hermes 생태계의 포크·파생 영역에 속한 프로젝트입니다. 상세 설명은 원문 설명과 GitHub 링크를 함께 확인하세요.",
-    "useCasesKo": [],
-    "audienceKo": [],
+    "oneLineKo": "kaminocorp/hermes-alpha: Cloud — deployed Hermes with pre — configured templates and managed infrastructure을 한국어 Atlas 기준으로 분류한 프로젝트입니다.",
+    "summaryKo": "kaminocorp/hermes-alpha는 포크·파생 범주에서 볼 만한 프로젝트입니다. 원문 설명 기준으로는 “Cloud — deployed Hermes with pre — configured templates and managed infrastructure”에 초점이 있습니다. 한국어 사용자는 대안 구현 비교이나 실험적 기능 확인이 필요할 때 우선 살펴보면 됩니다. repo 이름과 명령어, 원본 링크는 검색성과 재현성을 위해 그대로 유지했습니다.",
+    "useCasesKo": [
+      "대안 구현 비교",
+      "실험적 기능 확인",
+      "원본과 다른 방향성 탐색",
+      "배포"
+    ],
+    "audienceKo": [
+      "오픈소스 탐색자",
+      "대안 구현 검토자",
+      "실험 기능 사용자"
+    ],
     "tagsKo": [
-      "포크·파생"
+      "포크·파생",
+      "배포",
+      "인프라",
+      "hermes alpha"
     ],
     "riskNoteKo": "",
     "sourceDescription": "Cloud-deployed Hermes with pre-configured templates and managed infrastructure",
     "sourceHash": "3fcb99e6213044c3240f36c35c417e2fcbbf175dfaa3292df0d68c6502bab46e",
     "localizedAt": "2026-05-02T01:30:24.661Z",
-    "localizationStatus": "machine_review_needed"
+    "localizationStatus": "editorial_seeded"
   },
   {
     "id": "beardthelion/hermes-skill-distillation",
@@ -2111,18 +2944,30 @@
     "category": "Forks & Derivatives",
     "categoryKo": "포크·파생",
     "categoryDescriptionKo": "Hermes Agent를 변형하거나 특정 목적에 맞게 고친 파생 프로젝트입니다.",
-    "oneLineKo": "beardthelion/hermes-skill-distillation는 Hermes 생태계의 포크·파생 영역에 속한 프로젝트입니다.",
-    "summaryKo": "beardthelion/hermes-skill-distillation는 Hermes 생태계의 포크·파생 영역에 속한 프로젝트입니다. 상세 설명은 원문 설명과 GitHub 링크를 함께 확인하세요.",
-    "useCasesKo": [],
-    "audienceKo": [],
+    "oneLineKo": "beardthelion/hermes-skill-distillation: Generate agentic training trajectories from real — world tasks for Hermes 4 fine — tuning을 한국어 Atlas 기준으로 분류한 프로젝트입니다.",
+    "summaryKo": "beardthelion/hermes-skill-distillation는 포크·파생 범주에서 볼 만한 프로젝트입니다. 원문 설명 기준으로는 “Generate agentic training trajectories from real — world tasks for Hermes 4 fine — tuning”에 초점이 있습니다. 한국어 사용자는 대안 구현 비교이나 실험적 기능 확인이 필요할 때 우선 살펴보면 됩니다. repo 이름과 명령어, 원본 링크는 검색성과 재현성을 위해 그대로 유지했습니다.",
+    "useCasesKo": [
+      "대안 구현 비교",
+      "실험적 기능 확인",
+      "원본과 다른 방향성 탐색",
+      "스킬"
+    ],
+    "audienceKo": [
+      "오픈소스 탐색자",
+      "대안 구현 검토자",
+      "실험 기능 사용자"
+    ],
     "tagsKo": [
-      "포크·파생"
+      "포크·파생",
+      "스킬",
+      "재사용 가능한 작업 절차",
+      "hermes skill distillation"
     ],
     "riskNoteKo": "",
     "sourceDescription": "Generate agentic training trajectories from real-world tasks for Hermes 4 fine-tuning",
     "sourceHash": "4b2d4f40cdc7d3efcca48c3e6f54a40aba4f975acf64e62a511692b5b7e9b06c",
     "localizedAt": "2026-05-02T01:30:24.661Z",
-    "localizationStatus": "machine_review_needed"
+    "localizationStatus": "editorial_seeded"
   },
   {
     "id": "xaspx/hermes-control-interface",
@@ -2135,18 +2980,30 @@
     "category": "Workspaces & GUIs",
     "categoryKo": "워크스페이스·GUI",
     "categoryDescriptionKo": "웹·데스크톱에서 Hermes를 쓰기 쉽게 만든 화면, 대시보드, 작업 공간입니다.",
-    "oneLineKo": "xaspx/hermes-control-interface는 Hermes 생태계의 워크스페이스·GUI 영역에 속한 프로젝트입니다.",
-    "summaryKo": "xaspx/hermes-control-interface는 Hermes 생태계의 워크스페이스·GUI 영역에 속한 프로젝트입니다. 상세 설명은 원문 설명과 GitHub 링크를 함께 확인하세요.",
-    "useCasesKo": [],
-    "audienceKo": [],
+    "oneLineKo": "xaspx/hermes-control-interface: A self — hosted web dashboard for the Hermes AI agent stack. Provides a browser — based terminal, file explorer, session overview, cron management, system metrics, and an agent status panel — all behind a을 한국어 Atlas 기준으로 분류한 프로젝트입니다.",
+    "summaryKo": "xaspx/hermes-control-interface는 워크스페이스·GUI 범주에서 볼 만한 프로젝트입니다. 원문 설명 기준으로는 “A self — hosted web dashboard for the Hermes AI agent stack. Provides a browser — based terminal, file explorer, session overview, cron management, system metrics, and an agent status panel — all behind a”에 초점이 있습니다. 한국어 사용자는 시각적인 작업 공간 구성이나 에이전트 작업 흐름 모니터링이 필요할 때 우선 살펴보면 됩니다. repo 이름과 명령어, 원본 링크는 검색성과 재현성을 위해 그대로 유지했습니다.",
+    "useCasesKo": [
+      "시각적인 작업 공간 구성",
+      "에이전트 작업 흐름 모니터링",
+      "비개발자 친화 UI 제공",
+      "GUI"
+    ],
+    "audienceKo": [
+      "제품 기획자",
+      "비개발자 운영자",
+      "에이전트 작업을 눈으로 보고 싶은 사용자"
+    ],
     "tagsKo": [
-      "워크스페이스·GUI"
+      "워크스페이스·GUI",
+      "GUI",
+      "워크스페이스",
+      "hermes control interface"
     ],
     "riskNoteKo": "",
     "sourceDescription": "A self-hosted web dashboard for the Hermes AI agent stack. Provides a browser-based terminal, file explorer, session overview, cron management, system metrics, and an agent status panel — all behind a",
     "sourceHash": "ca4921f1bd48284a4fe7232955bf05291c53056118adb93e7e8a51f0adaf54d1",
     "localizedAt": "2026-05-02T01:30:24.661Z",
-    "localizationStatus": "machine_review_needed"
+    "localizationStatus": "editorial_seeded"
   },
   {
     "id": "ksimback/hermes-ecosystem",
@@ -2159,18 +3016,30 @@
     "category": "Guides & Docs",
     "categoryKo": "가이드·문서",
     "categoryDescriptionKo": "설치, 운영, 최적화, 비교, 커뮤니티 지식을 정리한 문서와 가이드입니다.",
-    "oneLineKo": "ksimback/hermes-ecosystem는 Hermes 생태계의 가이드·문서 영역에 속한 프로젝트입니다.",
-    "summaryKo": "ksimback/hermes-ecosystem는 Hermes 생태계의 가이드·문서 영역에 속한 프로젝트입니다. 상세 설명은 원문 설명과 GitHub 링크를 함께 확인하세요.",
-    "useCasesKo": [],
-    "audienceKo": [],
+    "oneLineKo": "ksimback/hermes-ecosystem: Hermes Atlas — the community map of every tool, skill, and integration for Hermes Agent by Nous Research을 한국어 Atlas 기준으로 분류한 프로젝트입니다.",
+    "summaryKo": "ksimback/hermes-ecosystem는 가이드·문서 범주에서 볼 만한 프로젝트입니다. 원문 설명 기준으로는 “Hermes Atlas — the community map of every tool, skill, and integration for Hermes Agent by Nous Research”에 초점이 있습니다. 한국어 사용자는 학습 자료 확인이나 도입 전 구조 이해이 필요할 때 우선 살펴보면 됩니다. repo 이름과 명령어, 원본 링크는 검색성과 재현성을 위해 그대로 유지했습니다.",
+    "useCasesKo": [
+      "학습 자료 확인",
+      "도입 전 구조 이해",
+      "팀 온보딩",
+      "스킬"
+    ],
+    "audienceKo": [
+      "입문자",
+      "교육자",
+      "도입 검토자"
+    ],
     "tagsKo": [
-      "가이드·문서"
+      "가이드·문서",
+      "스킬",
+      "재사용 가능한 작업 절차",
+      "hermes ecosystem"
     ],
     "riskNoteKo": "",
     "sourceDescription": "Hermes Atlas — the community map of every tool, skill, and integration for Hermes Agent by Nous Research",
     "sourceHash": "e73b3772b463825d558da1e8475f6be8346a61872f12340a5713850640b93431",
     "localizedAt": "2026-05-02T01:30:24.661Z",
-    "localizationStatus": "machine_review_needed"
+    "localizationStatus": "editorial_seeded"
   },
   {
     "id": "dodo-reach/hermes-desktop",
@@ -2183,18 +3052,30 @@
     "category": "Workspaces & GUIs",
     "categoryKo": "워크스페이스·GUI",
     "categoryDescriptionKo": "웹·데스크톱에서 Hermes를 쓰기 쉽게 만든 화면, 대시보드, 작업 공간입니다.",
-    "oneLineKo": "dodo-reach/hermes-desktop는 Hermes 생태계의 워크스페이스·GUI 영역에 속한 프로젝트입니다.",
-    "summaryKo": "dodo-reach/hermes-desktop는 Hermes 생태계의 워크스페이스·GUI 영역에 속한 프로젝트입니다. 상세 설명은 원문 설명과 GitHub 링크를 함께 확인하세요.",
-    "useCasesKo": [],
-    "audienceKo": [],
+    "oneLineKo": "dodo-reach/hermes-desktop: A native Mac workspace for Hermes: real SSH, real terminal, real session data.을 한국어 Atlas 기준으로 분류한 프로젝트입니다.",
+    "summaryKo": "dodo-reach/hermes-desktop는 워크스페이스·GUI 범주에서 볼 만한 프로젝트입니다. 원문 설명 기준으로는 “A native Mac workspace for Hermes: real SSH, real terminal, real session data.”에 초점이 있습니다. 한국어 사용자는 시각적인 작업 공간 구성이나 에이전트 작업 흐름 모니터링이 필요할 때 우선 살펴보면 됩니다. repo 이름과 명령어, 원본 링크는 검색성과 재현성을 위해 그대로 유지했습니다.",
+    "useCasesKo": [
+      "시각적인 작업 공간 구성",
+      "에이전트 작업 흐름 모니터링",
+      "비개발자 친화 UI 제공",
+      "GUI"
+    ],
+    "audienceKo": [
+      "제품 기획자",
+      "비개발자 운영자",
+      "에이전트 작업을 눈으로 보고 싶은 사용자"
+    ],
     "tagsKo": [
-      "워크스페이스·GUI"
+      "워크스페이스·GUI",
+      "GUI",
+      "워크스페이스",
+      "hermes desktop"
     ],
     "riskNoteKo": "",
     "sourceDescription": "A native Mac workspace for Hermes: real SSH, real terminal, real session data.",
     "sourceHash": "bb018a21bb7f2a971e41b692bf0b619e4697931fe8ef631a99d98e0846c68b4a",
     "localizedAt": "2026-05-02T01:30:24.661Z",
-    "localizationStatus": "machine_review_needed"
+    "localizationStatus": "editorial_seeded"
   },
   {
     "id": "clawshell/clawshell",
@@ -2207,18 +3088,30 @@
     "category": "Plugins & Extensions",
     "categoryKo": "플러그인·확장",
     "categoryDescriptionKo": "Hermes에 도구, 안전장치, 결제, 새 기능을 붙이는 확장 모듈입니다.",
-    "oneLineKo": "clawshell/clawshell는 Hermes 생태계의 플러그인·확장 영역에 속한 프로젝트입니다.",
-    "summaryKo": "clawshell/clawshell는 Hermes 생태계의 플러그인·확장 영역에 속한 프로젝트입니다. 상세 설명은 원문 설명과 GitHub 링크를 함께 확인하세요.",
-    "useCasesKo": [],
-    "audienceKo": [],
+    "oneLineKo": "clawshell/clawshell: The Runtime Security Layer for OpenClaw/Hermes — agent, the essential safety harness for PII & sensitive credentials protection.을 한국어 Atlas 기준으로 분류한 프로젝트입니다.",
+    "summaryKo": "clawshell/clawshell는 플러그인·확장 범주에서 볼 만한 프로젝트입니다. 원문 설명 기준으로는 “The Runtime Security Layer for OpenClaw/Hermes — agent, the essential safety harness for PII & sensitive credentials protection.”에 초점이 있습니다. 한국어 사용자는 Hermes 기능 확장이나 외부 도구 연결이 필요할 때 우선 살펴보면 됩니다. repo 이름과 명령어, 원본 링크는 검색성과 재현성을 위해 그대로 유지했습니다.",
+    "useCasesKo": [
+      "Hermes 기능 확장",
+      "외부 도구 연결",
+      "특정 작업 흐름 자동화",
+      "보안"
+    ],
+    "audienceKo": [
+      "플러그인 개발자",
+      "자동화 엔지니어",
+      "고급 사용자"
+    ],
     "tagsKo": [
-      "플러그인·확장"
+      "플러그인·확장",
+      "보안",
+      "사이버보안",
+      "clawshell"
     ],
     "riskNoteKo": "",
     "sourceDescription": "The Runtime Security Layer for OpenClaw/Hermes-agent, the essential safety harness for PII & sensitive credentials protection.",
     "sourceHash": "85c67b168e0f727858f7e66012d5c40342ecec59dfa9409ee3529595716b976e",
     "localizedAt": "2026-05-02T01:30:24.661Z",
-    "localizationStatus": "machine_review_needed"
+    "localizationStatus": "editorial_seeded"
   },
   {
     "id": "nesquena/hermes-webui",
@@ -2299,18 +3192,27 @@
     "category": "Workspaces & GUIs",
     "categoryKo": "워크스페이스·GUI",
     "categoryDescriptionKo": "웹·데스크톱에서 Hermes를 쓰기 쉽게 만든 화면, 대시보드, 작업 공간입니다.",
-    "oneLineKo": "pyrate-llama/hermes-ui는 Hermes 생태계의 워크스페이스·GUI 영역에 속한 프로젝트입니다.",
-    "summaryKo": "pyrate-llama/hermes-ui는 Hermes 생태계의 워크스페이스·GUI 영역에 속한 프로젝트입니다. 상세 설명은 원문 설명과 GitHub 링크를 함께 확인하세요.",
-    "useCasesKo": [],
-    "audienceKo": [],
+    "oneLineKo": "pyrate-llama/hermes-ui: Glassmorphic web interface for Hermes Agent — your self — hosted AI assistant을 한국어 Atlas 기준으로 분류한 프로젝트입니다.",
+    "summaryKo": "pyrate-llama/hermes-ui는 워크스페이스·GUI 범주에서 볼 만한 프로젝트입니다. 원문 설명 기준으로는 “Glassmorphic web interface for Hermes Agent — your self — hosted AI assistant”에 초점이 있습니다. 한국어 사용자는 시각적인 작업 공간 구성이나 에이전트 작업 흐름 모니터링이 필요할 때 우선 살펴보면 됩니다. repo 이름과 명령어, 원본 링크는 검색성과 재현성을 위해 그대로 유지했습니다.",
+    "useCasesKo": [
+      "시각적인 작업 공간 구성",
+      "에이전트 작업 흐름 모니터링",
+      "비개발자 친화 UI 제공"
+    ],
+    "audienceKo": [
+      "제품 기획자",
+      "비개발자 운영자",
+      "에이전트 작업을 눈으로 보고 싶은 사용자"
+    ],
     "tagsKo": [
-      "워크스페이스·GUI"
+      "워크스페이스·GUI",
+      "hermes ui"
     ],
     "riskNoteKo": "",
     "sourceDescription": "Glassmorphic web interface for Hermes Agent — your self-hosted AI assistant",
     "sourceHash": "ed2f1f581f187c6e7d538487aa7ac024d718b296548e22b740b1b2ce71ecdcc3",
     "localizedAt": "2026-05-02T01:30:24.661Z",
-    "localizationStatus": "machine_review_needed"
+    "localizationStatus": "editorial_seeded"
   },
   {
     "id": "kevinmarmstrong/hermes-claude-code-rc",
@@ -2323,18 +3225,30 @@
     "category": "Integrations & Bridges",
     "categoryKo": "통합·브리지",
     "categoryDescriptionKo": "Hermes를 외부 서비스, 다른 에이전트, 특화 시스템과 연결하는 브리지입니다.",
-    "oneLineKo": "kevinmarmstrong/hermes-claude-code-rc는 Hermes 생태계의 통합·브리지 영역에 속한 프로젝트입니다.",
-    "summaryKo": "kevinmarmstrong/hermes-claude-code-rc는 Hermes 생태계의 통합·브리지 영역에 속한 프로젝트입니다. 상세 설명은 원문 설명과 GitHub 링크를 함께 확인하세요.",
-    "useCasesKo": [],
-    "audienceKo": [],
+    "oneLineKo": "kevinmarmstrong/hermes-claude-code-rc: Hermes Agent plugin for remote controlling Claude Code sessions via Telegram을 한국어 Atlas 기준으로 분류한 프로젝트입니다.",
+    "summaryKo": "kevinmarmstrong/hermes-claude-code-rc는 통합·브리지 범주에서 볼 만한 프로젝트입니다. 원문 설명 기준으로는 “Hermes Agent plugin for remote controlling Claude Code sessions via Telegram”에 초점이 있습니다. 한국어 사용자는 메신저·외부 앱 연동이나 기존 워크플로와 Hermes 연결이 필요할 때 우선 살펴보면 됩니다. repo 이름과 명령어, 원본 링크는 검색성과 재현성을 위해 그대로 유지했습니다.",
+    "useCasesKo": [
+      "메신저·외부 앱 연동",
+      "기존 워크플로와 Hermes 연결",
+      "API 기반 자동화",
+      "텔레그램 연동"
+    ],
+    "audienceKo": [
+      "메신저 자동화 사용자",
+      "API 통합 개발자",
+      "운영 자동화 팀"
+    ],
     "tagsKo": [
-      "통합·브리지"
+      "통합·브리지",
+      "텔레그램 연동",
+      "메신저 기반 실행",
+      "hermes claude code rc"
     ],
     "riskNoteKo": "",
     "sourceDescription": "Hermes Agent plugin for remote controlling Claude Code sessions via Telegram",
     "sourceHash": "a86fc641779cc36cb2667095ac90d04d210abe62e6bcee9409ae38b766880aaa",
     "localizedAt": "2026-05-02T01:30:24.661Z",
-    "localizationStatus": "machine_review_needed"
+    "localizationStatus": "editorial_seeded"
   },
   {
     "id": "AaronWong1999/hermesclaw",
@@ -2347,18 +3261,27 @@
     "category": "Integrations & Bridges",
     "categoryKo": "통합·브리지",
     "categoryDescriptionKo": "Hermes를 외부 서비스, 다른 에이전트, 특화 시스템과 연결하는 브리지입니다.",
-    "oneLineKo": "AaronWong1999/hermesclaw는 Hermes 생태계의 통합·브리지 영역에 속한 프로젝트입니다.",
-    "summaryKo": "AaronWong1999/hermesclaw는 Hermes 생태계의 통합·브리지 영역에 속한 프로젝트입니다. 상세 설명은 원문 설명과 GitHub 링크를 함께 확인하세요.",
-    "useCasesKo": [],
-    "audienceKo": [],
+    "oneLineKo": "AaronWong1999/hermesclaw: Run Hermes Agent and OpenClaw on the same WeChat account을 한국어 Atlas 기준으로 분류한 프로젝트입니다.",
+    "summaryKo": "AaronWong1999/hermesclaw는 통합·브리지 범주에서 볼 만한 프로젝트입니다. 원문 설명 기준으로는 “Run Hermes Agent and OpenClaw on the same WeChat account”에 초점이 있습니다. 한국어 사용자는 메신저·외부 앱 연동이나 기존 워크플로와 Hermes 연결이 필요할 때 우선 살펴보면 됩니다. repo 이름과 명령어, 원본 링크는 검색성과 재현성을 위해 그대로 유지했습니다.",
+    "useCasesKo": [
+      "메신저·외부 앱 연동",
+      "기존 워크플로와 Hermes 연결",
+      "API 기반 자동화"
+    ],
+    "audienceKo": [
+      "메신저 자동화 사용자",
+      "API 통합 개발자",
+      "운영 자동화 팀"
+    ],
     "tagsKo": [
-      "통합·브리지"
+      "통합·브리지",
+      "hermesclaw"
     ],
     "riskNoteKo": "",
     "sourceDescription": "Run Hermes Agent and OpenClaw on the same WeChat account",
     "sourceHash": "517ca94b56482f6982c1de9f6632516970c8ca8f8137eaa9d45723ea0adac5d7",
     "localizedAt": "2026-05-02T01:30:24.661Z",
-    "localizationStatus": "machine_review_needed"
+    "localizationStatus": "editorial_seeded"
   },
   {
     "id": "stephenschoettler/hermes-lcm",
@@ -2371,18 +3294,30 @@
     "category": "Memory & Context",
     "categoryKo": "메모리·컨텍스트",
     "categoryDescriptionKo": "세션을 넘어 기억하고, 검색하고, 맥락을 유지하게 해주는 메모리 계층입니다.",
-    "oneLineKo": "stephenschoettler/hermes-lcm는 Hermes 생태계의 메모리·컨텍스트 영역에 속한 프로젝트입니다.",
-    "summaryKo": "stephenschoettler/hermes-lcm는 Hermes 생태계의 메모리·컨텍스트 영역에 속한 프로젝트입니다. 상세 설명은 원문 설명과 GitHub 링크를 함께 확인하세요.",
-    "useCasesKo": [],
-    "audienceKo": [],
+    "oneLineKo": "stephenschoettler/hermes-lcm: Lossless Context Management plugin for Hermes Agent — DAG — based context engine that never loses a message을 한국어 Atlas 기준으로 분류한 프로젝트입니다.",
+    "summaryKo": "stephenschoettler/hermes-lcm는 메모리·컨텍스트 범주에서 볼 만한 프로젝트입니다. 원문 설명 기준으로는 “Lossless Context Management plugin for Hermes Agent — DAG — based context engine that never loses a message”에 초점이 있습니다. 한국어 사용자는 장기 기억 저장이나 세션 간 맥락 유지이 필요할 때 우선 살펴보면 됩니다. repo 이름과 명령어, 원본 링크는 검색성과 재현성을 위해 그대로 유지했습니다.",
+    "useCasesKo": [
+      "장기 기억 저장",
+      "세션 간 맥락 유지",
+      "개인화된 에이전트 경험 구성",
+      "메모리"
+    ],
+    "audienceKo": [
+      "개인 AI 비서 사용자",
+      "장기 프로젝트 운영자",
+      "맥락 유지가 중요한 팀"
+    ],
     "tagsKo": [
-      "메모리·컨텍스트"
+      "메모리·컨텍스트",
+      "메모리",
+      "컨텍스트 유지",
+      "hermes lcm"
     ],
     "riskNoteKo": "",
     "sourceDescription": "Lossless Context Management plugin for Hermes Agent — DAG-based context engine that never loses a message",
     "sourceHash": "1644a87394ba171637622fce8ec748d4c59a617350731bc99e19e5e99e433ee5",
     "localizedAt": "2026-05-02T01:30:24.661Z",
-    "localizationStatus": "machine_review_needed"
+    "localizationStatus": "editorial_seeded"
   },
   {
     "id": "Codename-11/hermes-relay",
@@ -2395,18 +3330,27 @@
     "category": "Integrations & Bridges",
     "categoryKo": "통합·브리지",
     "categoryDescriptionKo": "Hermes를 외부 서비스, 다른 에이전트, 특화 시스템과 연결하는 브리지입니다.",
-    "oneLineKo": "Codename-11/hermes-relay는 Hermes 생태계의 통합·브리지 영역에 속한 프로젝트입니다.",
-    "summaryKo": "Codename-11/hermes-relay는 Hermes 생태계의 통합·브리지 영역에 속한 프로젝트입니다. 상세 설명은 원문 설명과 GitHub 링크를 함께 확인하세요.",
-    "useCasesKo": [],
-    "audienceKo": [],
+    "oneLineKo": "Codename-11/hermes-relay: Hermes Companion — Android app for Hermes agent platform. Chat, terminal, and device control over WSS.을 한국어 Atlas 기준으로 분류한 프로젝트입니다.",
+    "summaryKo": "Codename-11/hermes-relay는 통합·브리지 범주에서 볼 만한 프로젝트입니다. 원문 설명 기준으로는 “Hermes Companion — Android app for Hermes agent platform. Chat, terminal, and device control over WSS.”에 초점이 있습니다. 한국어 사용자는 메신저·외부 앱 연동이나 기존 워크플로와 Hermes 연결이 필요할 때 우선 살펴보면 됩니다. repo 이름과 명령어, 원본 링크는 검색성과 재현성을 위해 그대로 유지했습니다.",
+    "useCasesKo": [
+      "메신저·외부 앱 연동",
+      "기존 워크플로와 Hermes 연결",
+      "API 기반 자동화"
+    ],
+    "audienceKo": [
+      "메신저 자동화 사용자",
+      "API 통합 개발자",
+      "운영 자동화 팀"
+    ],
     "tagsKo": [
-      "통합·브리지"
+      "통합·브리지",
+      "hermes relay"
     ],
     "riskNoteKo": "",
     "sourceDescription": "Hermes Companion — Android app for Hermes agent platform. Chat, terminal, and device control over WSS.",
     "sourceHash": "1e31a9762513ad3b6b5879c0fdd153cae745b0516066ca346685bfbdc5030c56",
     "localizedAt": "2026-05-02T01:30:24.661Z",
-    "localizationStatus": "machine_review_needed"
+    "localizationStatus": "editorial_seeded"
   },
   {
     "id": "clawvader-tech/hermes-telegram-miniapp",
@@ -2419,18 +3363,32 @@
     "category": "Workspaces & GUIs",
     "categoryKo": "워크스페이스·GUI",
     "categoryDescriptionKo": "웹·데스크톱에서 Hermes를 쓰기 쉽게 만든 화면, 대시보드, 작업 공간입니다.",
-    "oneLineKo": "clawvader-tech/hermes-telegram-miniapp는 Hermes 생태계의 워크스페이스·GUI 영역에 속한 프로젝트입니다.",
-    "summaryKo": "clawvader-tech/hermes-telegram-miniapp는 Hermes 생태계의 워크스페이스·GUI 영역에 속한 프로젝트입니다. 상세 설명은 원문 설명과 GitHub 링크를 함께 확인하세요.",
-    "useCasesKo": [],
-    "audienceKo": [],
+    "oneLineKo": "clawvader-tech/hermes-telegram-miniapp: React SPA dashboard for Telegram Mini App v2.0 — 10 — page mobile — first UI. Runs locally.을 한국어 Atlas 기준으로 분류한 프로젝트입니다.",
+    "summaryKo": "clawvader-tech/hermes-telegram-miniapp는 워크스페이스·GUI 범주에서 볼 만한 프로젝트입니다. 원문 설명 기준으로는 “React SPA dashboard for Telegram Mini App v2.0 — 10 — page mobile — first UI. Runs locally.”에 초점이 있습니다. 한국어 사용자는 시각적인 작업 공간 구성이나 에이전트 작업 흐름 모니터링이 필요할 때 우선 살펴보면 됩니다. repo 이름과 명령어, 원본 링크는 검색성과 재현성을 위해 그대로 유지했습니다.",
+    "useCasesKo": [
+      "시각적인 작업 공간 구성",
+      "에이전트 작업 흐름 모니터링",
+      "비개발자 친화 UI 제공",
+      "텔레그램 연동"
+    ],
+    "audienceKo": [
+      "제품 기획자",
+      "비개발자 운영자",
+      "에이전트 작업을 눈으로 보고 싶은 사용자"
+    ],
     "tagsKo": [
-      "워크스페이스·GUI"
+      "워크스페이스·GUI",
+      "텔레그램 연동",
+      "메신저 기반 실행",
+      "GUI",
+      "워크스페이스",
+      "hermes telegram miniapp"
     ],
     "riskNoteKo": "",
     "sourceDescription": "React SPA dashboard for Telegram Mini App v2.0 — 10-page mobile-first UI. Runs locally.",
     "sourceHash": "38787041345b3984a2e0d4d8732d0e85a6ebffe56edb5799837f4ee0e7827065",
     "localizedAt": "2026-05-02T01:30:24.661Z",
-    "localizationStatus": "machine_review_needed"
+    "localizationStatus": "editorial_seeded"
   },
   {
     "id": "briancaffey/hermes-otel",
@@ -2443,18 +3401,27 @@
     "category": "Plugins & Extensions",
     "categoryKo": "플러그인·확장",
     "categoryDescriptionKo": "Hermes에 도구, 안전장치, 결제, 새 기능을 붙이는 확장 모듈입니다.",
-    "oneLineKo": "briancaffey/hermes-otel는 Hermes 생태계의 플러그인·확장 영역에 속한 프로젝트입니다.",
-    "summaryKo": "briancaffey/hermes-otel는 Hermes 생태계의 플러그인·확장 영역에 속한 프로젝트입니다. 상세 설명은 원문 설명과 GitHub 링크를 함께 확인하세요.",
-    "useCasesKo": [],
-    "audienceKo": [],
+    "oneLineKo": "briancaffey/hermes-otel: OTel Plugin for Hermes Agent을 한국어 Atlas 기준으로 분류한 프로젝트입니다.",
+    "summaryKo": "briancaffey/hermes-otel는 플러그인·확장 범주에서 볼 만한 프로젝트입니다. 원문 설명 기준으로는 “OTel Plugin for Hermes Agent”에 초점이 있습니다. 한국어 사용자는 Hermes 기능 확장이나 외부 도구 연결이 필요할 때 우선 살펴보면 됩니다. repo 이름과 명령어, 원본 링크는 검색성과 재현성을 위해 그대로 유지했습니다.",
+    "useCasesKo": [
+      "Hermes 기능 확장",
+      "외부 도구 연결",
+      "특정 작업 흐름 자동화"
+    ],
+    "audienceKo": [
+      "플러그인 개발자",
+      "자동화 엔지니어",
+      "고급 사용자"
+    ],
     "tagsKo": [
-      "플러그인·확장"
+      "플러그인·확장",
+      "hermes otel"
     ],
     "riskNoteKo": "",
     "sourceDescription": "OTel Plugin for Hermes Agent",
     "sourceHash": "64ba00278f9b99ae0050a12e25367751d49084d72268958955a2665e28fd29ba",
     "localizedAt": "2026-05-02T01:30:24.661Z",
-    "localizationStatus": "machine_review_needed"
+    "localizationStatus": "editorial_seeded"
   },
   {
     "id": "EKKOLearnAI/hermes-web-ui",
@@ -2504,18 +3471,30 @@
     "category": "Memory & Context",
     "categoryKo": "메모리·컨텍스트",
     "categoryDescriptionKo": "세션을 넘어 기억하고, 검색하고, 맥락을 유지하게 해주는 메모리 계층입니다.",
-    "oneLineKo": "keepnotes-ai/keep는 Hermes 생태계의 메모리·컨텍스트 영역에 속한 프로젝트입니다.",
-    "summaryKo": "keepnotes-ai/keep는 Hermes 생태계의 메모리·컨텍스트 영역에 속한 프로젝트입니다. 상세 설명은 원문 설명과 GitHub 링크를 함께 확인하세요.",
-    "useCasesKo": [],
-    "audienceKo": [],
+    "oneLineKo": "keepnotes-ai/keep: Reflective memory for AI agents을 한국어 Atlas 기준으로 분류한 프로젝트입니다.",
+    "summaryKo": "keepnotes-ai/keep는 메모리·컨텍스트 범주에서 볼 만한 프로젝트입니다. 원문 설명 기준으로는 “Reflective memory for AI agents”에 초점이 있습니다. 한국어 사용자는 장기 기억 저장이나 세션 간 맥락 유지이 필요할 때 우선 살펴보면 됩니다. repo 이름과 명령어, 원본 링크는 검색성과 재현성을 위해 그대로 유지했습니다.",
+    "useCasesKo": [
+      "장기 기억 저장",
+      "세션 간 맥락 유지",
+      "개인화된 에이전트 경험 구성",
+      "메모리"
+    ],
+    "audienceKo": [
+      "개인 AI 비서 사용자",
+      "장기 프로젝트 운영자",
+      "맥락 유지가 중요한 팀"
+    ],
     "tagsKo": [
-      "메모리·컨텍스트"
+      "메모리·컨텍스트",
+      "메모리",
+      "컨텍스트 유지",
+      "keep"
     ],
     "riskNoteKo": "",
     "sourceDescription": "Reflective memory for AI agents",
     "sourceHash": "54f83877c631a743e1cf7862bbb4c8780f00efcad29a063bf16ad444df2c44ad",
     "localizedAt": "2026-05-02T01:30:24.661Z",
-    "localizationStatus": "machine_review_needed"
+    "localizationStatus": "editorial_seeded"
   },
   {
     "id": "AxDSan/mnemosyne",
@@ -2528,18 +3507,30 @@
     "category": "Memory & Context",
     "categoryKo": "메모리·컨텍스트",
     "categoryDescriptionKo": "세션을 넘어 기억하고, 검색하고, 맥락을 유지하게 해주는 메모리 계층입니다.",
-    "oneLineKo": "AxDSan/mnemosyne는 Hermes 생태계의 메모리·컨텍스트 영역에 속한 프로젝트입니다.",
-    "summaryKo": "AxDSan/mnemosyne는 Hermes 생태계의 메모리·컨텍스트 영역에 속한 프로젝트입니다. 상세 설명은 원문 설명과 GitHub 링크를 함께 확인하세요.",
-    "useCasesKo": [],
-    "audienceKo": [],
+    "oneLineKo": "AxDSan/mnemosyne: The Zero — Dependency, Sub — Millisecond AI Memory System for Hermes Agents을 한국어 Atlas 기준으로 분류한 프로젝트입니다.",
+    "summaryKo": "AxDSan/mnemosyne는 메모리·컨텍스트 범주에서 볼 만한 프로젝트입니다. 원문 설명 기준으로는 “The Zero — Dependency, Sub — Millisecond AI Memory System for Hermes Agents”에 초점이 있습니다. 한국어 사용자는 장기 기억 저장이나 세션 간 맥락 유지이 필요할 때 우선 살펴보면 됩니다. repo 이름과 명령어, 원본 링크는 검색성과 재현성을 위해 그대로 유지했습니다.",
+    "useCasesKo": [
+      "장기 기억 저장",
+      "세션 간 맥락 유지",
+      "개인화된 에이전트 경험 구성",
+      "메모리"
+    ],
+    "audienceKo": [
+      "개인 AI 비서 사용자",
+      "장기 프로젝트 운영자",
+      "맥락 유지가 중요한 팀"
+    ],
     "tagsKo": [
-      "메모리·컨텍스트"
+      "메모리·컨텍스트",
+      "메모리",
+      "컨텍스트 유지",
+      "mnemosyne"
     ],
     "riskNoteKo": "",
     "sourceDescription": "The Zero-Dependency, Sub-Millisecond AI Memory System for Hermes Agents",
     "sourceHash": "8c19c6259b41e8429e2b5743bf489e8608edc112660ed49b74b63897322a644a",
     "localizedAt": "2026-05-02T01:30:24.661Z",
-    "localizationStatus": "machine_review_needed"
+    "localizationStatus": "editorial_seeded"
   },
   {
     "id": "AMAP-ML/SkillClaw",
@@ -2585,18 +3576,32 @@
     "category": "Workspaces & GUIs",
     "categoryKo": "워크스페이스·GUI",
     "categoryDescriptionKo": "웹·데스크톱에서 Hermes를 쓰기 쉽게 만든 화면, 대시보드, 작업 공간입니다.",
-    "oneLineKo": "aivrar/portable-hermes-agent는 Hermes 생태계의 워크스페이스·GUI 영역에 속한 프로젝트입니다.",
-    "summaryKo": "aivrar/portable-hermes-agent는 Hermes 생태계의 워크스페이스·GUI 영역에 속한 프로젝트입니다. 상세 설명은 원문 설명과 GitHub 링크를 함께 확인하세요.",
-    "useCasesKo": [],
-    "audienceKo": [],
+    "oneLineKo": "aivrar/portable-hermes-agent: Hermes Agent made portable desktop for Windows — 100 tools, GUI, local models via LM Studio, TTS, Music, ComfyUI, workflows, tool maker. No install. No Docker. No admin rights.을 한국어 Atlas 기준으로 분류한 프로젝트입니다.",
+    "summaryKo": "aivrar/portable-hermes-agent는 워크스페이스·GUI 범주에서 볼 만한 프로젝트입니다. 원문 설명 기준으로는 “Hermes Agent made portable desktop for Windows — 100 tools, GUI, local models via LM Studio, TTS, Music, ComfyUI, workflows, tool maker. No install. No Docker. No admin rights.”에 초점이 있습니다. 한국어 사용자는 시각적인 작업 공간 구성이나 에이전트 작업 흐름 모니터링이 필요할 때 우선 살펴보면 됩니다. repo 이름과 명령어, 원본 링크는 검색성과 재현성을 위해 그대로 유지했습니다.",
+    "useCasesKo": [
+      "시각적인 작업 공간 구성",
+      "에이전트 작업 흐름 모니터링",
+      "비개발자 친화 UI 제공",
+      "배포"
+    ],
+    "audienceKo": [
+      "제품 기획자",
+      "비개발자 운영자",
+      "에이전트 작업을 눈으로 보고 싶은 사용자"
+    ],
     "tagsKo": [
-      "워크스페이스·GUI"
+      "워크스페이스·GUI",
+      "배포",
+      "인프라",
+      "GUI",
+      "워크스페이스",
+      "portable hermes agent"
     ],
     "riskNoteKo": "",
     "sourceDescription": "Hermes Agent made portable desktop for Windows — 100 tools, GUI, local models via LM Studio, TTS, Music, ComfyUI, workflows, tool maker. No install. No Docker. No admin rights.",
     "sourceHash": "9790321a00217ccc3739917730c899f79d6fdd02a9082b6f05fe882619d7b6aa",
     "localizedAt": "2026-05-02T01:30:37.267Z",
-    "localizationStatus": "machine_review_needed"
+    "localizationStatus": "editorial_seeded"
   },
   {
     "id": "iamagenius00/hermes-a2a",
@@ -2609,18 +3614,27 @@
     "category": "Plugins & Extensions",
     "categoryKo": "플러그인·확장",
     "categoryDescriptionKo": "Hermes에 도구, 안전장치, 결제, 새 기능을 붙이는 확장 모듈입니다.",
-    "oneLineKo": "iamagenius00/hermes-a2a는 Hermes 생태계의 플러그인·확장 영역에 속한 프로젝트입니다.",
-    "summaryKo": "iamagenius00/hermes-a2a는 Hermes 생태계의 플러그인·확장 영역에 속한 프로젝트입니다. 상세 설명은 원문 설명과 GitHub 링크를 함께 확인하세요.",
-    "useCasesKo": [],
-    "audienceKo": [],
+    "oneLineKo": "iamagenius00/hermes-a2a: A2A (Agent — to — Agent) protocol plugin for Hermes Agent — zero — patch, instant wake, session injection을 한국어 Atlas 기준으로 분류한 프로젝트입니다.",
+    "summaryKo": "iamagenius00/hermes-a2a는 플러그인·확장 범주에서 볼 만한 프로젝트입니다. 원문 설명 기준으로는 “A2A (Agent — to — Agent) protocol plugin for Hermes Agent — zero — patch, instant wake, session injection”에 초점이 있습니다. 한국어 사용자는 Hermes 기능 확장이나 외부 도구 연결이 필요할 때 우선 살펴보면 됩니다. repo 이름과 명령어, 원본 링크는 검색성과 재현성을 위해 그대로 유지했습니다.",
+    "useCasesKo": [
+      "Hermes 기능 확장",
+      "외부 도구 연결",
+      "특정 작업 흐름 자동화"
+    ],
+    "audienceKo": [
+      "플러그인 개발자",
+      "자동화 엔지니어",
+      "고급 사용자"
+    ],
     "tagsKo": [
-      "플러그인·확장"
+      "플러그인·확장",
+      "hermes a2a"
     ],
     "riskNoteKo": "",
     "sourceDescription": "A2A (Agent-to-Agent) protocol plugin for Hermes Agent — zero-patch, instant wake, session injection",
     "sourceHash": "498e901b9186cec7e327b2882fa16afe3c8d1d9faf8de9fec1311bff7434d25c",
     "localizedAt": "2026-05-02T01:30:37.267Z",
-    "localizationStatus": "machine_review_needed"
+    "localizationStatus": "editorial_seeded"
   },
   {
     "id": "Cranot/super-hermes",
@@ -2633,18 +3647,30 @@
     "category": "Skills & Skill Registries",
     "categoryKo": "스킬·레지스트리",
     "categoryDescriptionKo": "에이전트가 반복 작업을 잘 수행하도록 돕는 재사용 스킬과 스킬 저장소입니다.",
-    "oneLineKo": "Cranot/super-hermes는 Hermes 생태계의 스킬·레지스트리 영역에 속한 프로젝트입니다.",
-    "summaryKo": "Cranot/super-hermes는 Hermes 생태계의 스킬·레지스트리 영역에 속한 프로젝트입니다. 상세 설명은 원문 설명과 GitHub 링크를 함께 확인하세요.",
-    "useCasesKo": [],
-    "audienceKo": [],
+    "oneLineKo": "Cranot/super-hermes: Skills that teach Hermes Agent to write its own analytical prompts을 한국어 Atlas 기준으로 분류한 프로젝트입니다.",
+    "summaryKo": "Cranot/super-hermes는 스킬·레지스트리 범주에서 볼 만한 프로젝트입니다. 원문 설명 기준으로는 “Skills that teach Hermes Agent to write its own analytical prompts”에 초점이 있습니다. 한국어 사용자는 반복 작업을 재사용 가능한 스킬로 정리이나 도메인별 스킬 탐색이 필요할 때 우선 살펴보면 됩니다. repo 이름과 명령어, 원본 링크는 검색성과 재현성을 위해 그대로 유지했습니다.",
+    "useCasesKo": [
+      "반복 작업을 재사용 가능한 스킬로 정리",
+      "도메인별 스킬 탐색",
+      "팀 단위 작업 표준화",
+      "스킬"
+    ],
+    "audienceKo": [
+      "스킬 제작자",
+      "팀 리드",
+      "반복 업무가 많은 사용자"
+    ],
     "tagsKo": [
-      "스킬·레지스트리"
+      "스킬·레지스트리",
+      "스킬",
+      "재사용 가능한 작업 절차",
+      "super hermes"
     ],
     "riskNoteKo": "",
     "sourceDescription": "Skills that teach Hermes Agent to write its own analytical prompts",
     "sourceHash": "2926f699a29e9e6e5e822d2a1207e5ec8860a388240c6a0b5dfc79d381915170",
     "localizedAt": "2026-05-02T01:30:37.267Z",
-    "localizationStatus": "machine_review_needed"
+    "localizationStatus": "editorial_seeded"
   },
   {
     "id": "EfficientContext/ContextPilot",
@@ -2657,18 +3683,30 @@
     "category": "Memory & Context",
     "categoryKo": "메모리·컨텍스트",
     "categoryDescriptionKo": "세션을 넘어 기억하고, 검색하고, 맥락을 유지하게 해주는 메모리 계층입니다.",
-    "oneLineKo": "EfficientContext/ContextPilot는 Hermes 생태계의 메모리·컨텍스트 영역에 속한 프로젝트입니다.",
-    "summaryKo": "EfficientContext/ContextPilot는 Hermes 생태계의 메모리·컨텍스트 영역에 속한 프로젝트입니다. 상세 설명은 원문 설명과 GitHub 링크를 함께 확인하세요.",
-    "useCasesKo": [],
-    "audienceKo": [],
+    "oneLineKo": "EfficientContext/ContextPilot: Accelerating Long Context LLM Inference with Accuracy — Preserving Context Optimization in SGLang, vLLM, llama.cpp, OpenClaw, RAG, and Agentic AI.을 한국어 Atlas 기준으로 분류한 프로젝트입니다.",
+    "summaryKo": "EfficientContext/ContextPilot는 메모리·컨텍스트 범주에서 볼 만한 프로젝트입니다. 원문 설명 기준으로는 “Accelerating Long Context LLM Inference with Accuracy — Preserving Context Optimization in SGLang, vLLM, llama.cpp, OpenClaw, RAG, and Agentic AI.”에 초점이 있습니다. 한국어 사용자는 장기 기억 저장이나 세션 간 맥락 유지이 필요할 때 우선 살펴보면 됩니다. repo 이름과 명령어, 원본 링크는 검색성과 재현성을 위해 그대로 유지했습니다.",
+    "useCasesKo": [
+      "장기 기억 저장",
+      "세션 간 맥락 유지",
+      "개인화된 에이전트 경험 구성",
+      "메모리"
+    ],
+    "audienceKo": [
+      "개인 AI 비서 사용자",
+      "장기 프로젝트 운영자",
+      "맥락 유지가 중요한 팀"
+    ],
     "tagsKo": [
-      "메모리·컨텍스트"
+      "메모리·컨텍스트",
+      "메모리",
+      "컨텍스트 유지",
+      "ContextPilot"
     ],
     "riskNoteKo": "",
     "sourceDescription": "Accelerating Long Context LLM Inference with Accuracy-Preserving Context Optimization in SGLang, vLLM, llama.cpp, OpenClaw, RAG, and Agentic AI.",
     "sourceHash": "e5102975b7fe3cc60dbb9d25d824dd9baeef2028ce542e057db60eb499df0bc2",
     "localizedAt": "2026-05-02T01:30:37.267Z",
-    "localizationStatus": "machine_review_needed"
+    "localizationStatus": "editorial_seeded"
   },
   {
     "id": "335234131/agent-browser-mcp",
@@ -2681,18 +3719,30 @@
     "category": "Plugins & Extensions",
     "categoryKo": "플러그인·확장",
     "categoryDescriptionKo": "Hermes에 도구, 안전장치, 결제, 새 기능을 붙이는 확장 모듈입니다.",
-    "oneLineKo": "335234131/agent-browser-mcp는 Hermes 생태계의 플러그인·확장 영역에 속한 프로젝트입니다.",
-    "summaryKo": "335234131/agent-browser-mcp는 Hermes 생태계의 플러그인·확장 영역에 속한 프로젝트입니다. 상세 설명은 원문 설명과 GitHub 링크를 함께 확인하세요.",
-    "useCasesKo": [],
-    "audienceKo": [],
+    "oneLineKo": "335234131/agent-browser-mcp: 让 Agent 直接操作真实 Chrome 的 MCP 服务，支持页面扫描、CDP、截图与物理输入을 한국어 Atlas 기준으로 분류한 프로젝트입니다.",
+    "summaryKo": "335234131/agent-browser-mcp는 플러그인·확장 범주에서 볼 만한 프로젝트입니다. 원문 설명 기준으로는 “让 Agent 直接操作真实 Chrome 的 MCP 服务，支持页面扫描、CDP、截图与物理输入”에 초점이 있습니다. 한국어 사용자는 Hermes 기능 확장이나 외부 도구 연결이 필요할 때 우선 살펴보면 됩니다. repo 이름과 명령어, 원본 링크는 검색성과 재현성을 위해 그대로 유지했습니다.",
+    "useCasesKo": [
+      "Hermes 기능 확장",
+      "외부 도구 연결",
+      "특정 작업 흐름 자동화",
+      "MCP"
+    ],
+    "audienceKo": [
+      "플러그인 개발자",
+      "자동화 엔지니어",
+      "고급 사용자"
+    ],
     "tagsKo": [
-      "플러그인·확장"
+      "플러그인·확장",
+      "MCP",
+      "외부 도구 연결",
+      "agent browser mcp"
     ],
     "riskNoteKo": "",
     "sourceDescription": "让 Agent 直接操作真实 Chrome 的 MCP 服务，支持页面扫描、CDP、截图与物理输入",
     "sourceHash": "8404c08881da058754a672a780377127b8b2d82ace1d8783579daa9f396c6b7a",
     "localizedAt": "2026-05-02T01:30:37.267Z",
-    "localizationStatus": "machine_review_needed"
+    "localizationStatus": "editorial_seeded"
   },
   {
     "id": "jwangkun/hermes-agent-guide",
@@ -2705,18 +3755,32 @@
     "category": "Guides & Docs",
     "categoryKo": "가이드·문서",
     "categoryDescriptionKo": "설치, 운영, 최적화, 비교, 커뮤니티 지식을 정리한 문서와 가이드입니다.",
-    "oneLineKo": "jwangkun/hermes-agent-guide는 Hermes 생태계의 가이드·문서 영역에 속한 프로젝트입니다.",
-    "summaryKo": "jwangkun/hermes-agent-guide는 Hermes 생태계의 가이드·문서 영역에 속한 프로젝트입니다. 상세 설명은 원문 설명과 GitHub 링크를 함께 확인하세요.",
-    "useCasesKo": [],
-    "audienceKo": [],
+    "oneLineKo": "jwangkun/hermes-agent-guide: A systematic Chinese — language guide to Hermes Agent — 16 books, 300K+ words, covering installation, advanced development, single — and multi — agent orchestration.을 한국어 Atlas 기준으로 분류한 프로젝트입니다.",
+    "summaryKo": "jwangkun/hermes-agent-guide는 가이드·문서 범주에서 볼 만한 프로젝트입니다. 원문 설명 기준으로는 “A systematic Chinese — language guide to Hermes Agent — 16 books, 300K+ words, covering installation, advanced development, single — and multi — agent orchestration.”에 초점이 있습니다. 한국어 사용자는 학습 자료 확인이나 도입 전 구조 이해이 필요할 때 우선 살펴보면 됩니다. repo 이름과 명령어, 원본 링크는 검색성과 재현성을 위해 그대로 유지했습니다.",
+    "useCasesKo": [
+      "학습 자료 확인",
+      "도입 전 구조 이해",
+      "팀 온보딩",
+      "GUI"
+    ],
+    "audienceKo": [
+      "입문자",
+      "교육자",
+      "도입 검토자"
+    ],
     "tagsKo": [
-      "가이드·문서"
+      "가이드·문서",
+      "GUI",
+      "워크스페이스",
+      "멀티 에이전트",
+      "오케스트레이션",
+      "hermes agent guide"
     ],
     "riskNoteKo": "",
     "sourceDescription": "A systematic Chinese-language guide to Hermes Agent — 16 books, 300K+ words, covering installation, advanced development, single- and multi-agent orchestration.",
     "sourceHash": "a5c9cd56ee67072e135407d6942bc8aead6bb584eb94c87bbfd2ed38e7c85d92",
     "localizedAt": "2026-05-02T01:30:37.267Z",
-    "localizationStatus": "machine_review_needed"
+    "localizationStatus": "editorial_seeded"
   },
   {
     "id": "longyunfeigu/learn-hermes-agent",
@@ -2729,18 +3793,32 @@
     "category": "Guides & Docs",
     "categoryKo": "가이드·문서",
     "categoryDescriptionKo": "설치, 운영, 최적화, 비교, 커뮤니티 지식을 정리한 문서와 가이드입니다.",
-    "oneLineKo": "longyunfeigu/learn-hermes-agent는 Hermes 생태계의 가이드·문서 영역에 속한 프로젝트입니다.",
-    "summaryKo": "longyunfeigu/learn-hermes-agent는 Hermes 생태계의 가이드·문서 영역에 속한 프로젝트입니다. 상세 설명은 원문 설명과 GitHub 링크를 함께 확인하세요.",
-    "useCasesKo": [],
-    "audienceKo": [],
+    "oneLineKo": "longyunfeigu/learn-hermes-agent: A 27 — chapter hands — on tutorial for building an autonomous AI agent from zero in Python — agent loop, tool system, memory, skills, MCP, multi — platform gateway, and self — evolution.을 한국어 Atlas 기준으로 분류한 프로젝트입니다.",
+    "summaryKo": "longyunfeigu/learn-hermes-agent는 가이드·문서 범주에서 볼 만한 프로젝트입니다. 원문 설명 기준으로는 “A 27 — chapter hands — on tutorial for building an autonomous AI agent from zero in Python — agent loop, tool system, memory, skills, MCP, multi — platform gateway, and self — evolution.”에 초점이 있습니다. 한국어 사용자는 학습 자료 확인이나 도입 전 구조 이해이 필요할 때 우선 살펴보면 됩니다. repo 이름과 명령어, 원본 링크는 검색성과 재현성을 위해 그대로 유지했습니다.",
+    "useCasesKo": [
+      "학습 자료 확인",
+      "도입 전 구조 이해",
+      "팀 온보딩",
+      "메모리"
+    ],
+    "audienceKo": [
+      "입문자",
+      "교육자",
+      "도입 검토자"
+    ],
     "tagsKo": [
-      "가이드·문서"
+      "가이드·문서",
+      "메모리",
+      "컨텍스트 유지",
+      "스킬",
+      "재사용 가능한 작업 절차",
+      "MCP"
     ],
     "riskNoteKo": "",
     "sourceDescription": "A 27-chapter hands-on tutorial for building an autonomous AI agent from zero in Python — agent loop, tool system, memory, skills, MCP, multi-platform gateway, and self-evolution.",
     "sourceHash": "e1b5904b6beb262585472e411a300e75cd66aaf439f50fbbd7653c830da4a404",
     "localizedAt": "2026-05-02T01:30:37.267Z",
-    "localizationStatus": "machine_review_needed"
+    "localizationStatus": "editorial_seeded"
   },
   {
     "id": "jpalmae/hermeshq",
@@ -2753,18 +3831,30 @@
     "category": "Deployment & Infra",
     "categoryKo": "배포·인프라",
     "categoryDescriptionKo": "VPS, Docker, Nix, systemd, 클라우드에 Hermes를 배포하기 위한 인프라입니다.",
-    "oneLineKo": "jpalmae/hermeshq는 Hermes 생태계의 배포·인프라 영역에 속한 프로젝트입니다.",
-    "summaryKo": "jpalmae/hermeshq는 Hermes 생태계의 배포·인프라 영역에 속한 프로젝트입니다. 상세 설명은 원문 설명과 GitHub 링크를 함께 확인하세요.",
-    "useCasesKo": [],
-    "audienceKo": [],
+    "oneLineKo": "jpalmae/hermeshq: HermesHQ is a Docker — first control plane for running and operating multiple Hermes Agent instances from one web application.을 한국어 Atlas 기준으로 분류한 프로젝트입니다.",
+    "summaryKo": "jpalmae/hermeshq는 배포·인프라 범주에서 볼 만한 프로젝트입니다. 원문 설명 기준으로는 “HermesHQ is a Docker — first control plane for running and operating multiple Hermes Agent instances from one web application.”에 초점이 있습니다. 한국어 사용자는 서버 배포이나 운영 자동화이 필요할 때 우선 살펴보면 됩니다. repo 이름과 명령어, 원본 링크는 검색성과 재현성을 위해 그대로 유지했습니다.",
+    "useCasesKo": [
+      "서버 배포",
+      "운영 자동화",
+      "프로덕션 환경 구성",
+      "배포"
+    ],
+    "audienceKo": [
+      "DevOps 담당자",
+      "서비스 운영자",
+      "셀프호스팅 사용자"
+    ],
     "tagsKo": [
-      "배포·인프라"
+      "배포·인프라",
+      "배포",
+      "인프라",
+      "hermeshq"
     ],
     "riskNoteKo": "",
     "sourceDescription": "HermesHQ is a Docker-first control plane for running and operating multiple Hermes Agent instances from one web application.",
     "sourceHash": "40595a0afb867196611553812e605f45cf23fa0f2092a53a7a46290c8c720346",
     "localizedAt": "2026-05-02T01:30:37.267Z",
-    "localizationStatus": "machine_review_needed"
+    "localizationStatus": "editorial_seeded"
   },
   {
     "id": "plastic-labs/honcho",
@@ -2810,17 +3900,29 @@
     "category": "Skills & Skill Registries",
     "categoryKo": "스킬·레지스트리",
     "categoryDescriptionKo": "에이전트가 반복 작업을 잘 수행하도록 돕는 재사용 스킬과 스킬 저장소입니다.",
-    "oneLineKo": "adnw-vinc/hermes-nextcloud는 Hermes 생태계의 스킬·레지스트리 영역에 속한 프로젝트입니다.",
-    "summaryKo": "adnw-vinc/hermes-nextcloud는 Hermes 생태계의 스킬·레지스트리 영역에 속한 프로젝트입니다. 상세 설명은 원문 설명과 GitHub 링크를 함께 확인하세요.",
-    "useCasesKo": [],
-    "audienceKo": [],
+    "oneLineKo": "adnw-vinc/hermes-nextcloud: Hermes Agent skill for Nextcloud — manage files, notes, calendar, tasks, and contacts via WebDAV and CalDAV.을 한국어 Atlas 기준으로 분류한 프로젝트입니다.",
+    "summaryKo": "adnw-vinc/hermes-nextcloud는 스킬·레지스트리 범주에서 볼 만한 프로젝트입니다. 원문 설명 기준으로는 “Hermes Agent skill for Nextcloud — manage files, notes, calendar, tasks, and contacts via WebDAV and CalDAV.”에 초점이 있습니다. 한국어 사용자는 반복 작업을 재사용 가능한 스킬로 정리이나 도메인별 스킬 탐색이 필요할 때 우선 살펴보면 됩니다. repo 이름과 명령어, 원본 링크는 검색성과 재현성을 위해 그대로 유지했습니다.",
+    "useCasesKo": [
+      "반복 작업을 재사용 가능한 스킬로 정리",
+      "도메인별 스킬 탐색",
+      "팀 단위 작업 표준화",
+      "스킬"
+    ],
+    "audienceKo": [
+      "스킬 제작자",
+      "팀 리드",
+      "반복 업무가 많은 사용자"
+    ],
     "tagsKo": [
-      "스킬·레지스트리"
+      "스킬·레지스트리",
+      "스킬",
+      "재사용 가능한 작업 절차",
+      "hermes nextcloud"
     ],
     "riskNoteKo": "",
     "sourceDescription": "Hermes Agent skill for Nextcloud — manage files, notes, calendar, tasks, and contacts via WebDAV and CalDAV.",
     "sourceHash": "e8a0c4a346eb4099c718bf3f0380df8fcce7ef05fb33f5d81e142cc65e307721",
     "localizedAt": "2026-05-02T01:30:37.267Z",
-    "localizationStatus": "machine_review_needed"
+    "localizationStatus": "editorial_seeded"
   }
 ]

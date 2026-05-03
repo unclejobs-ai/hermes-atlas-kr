@@ -61,9 +61,14 @@ npm run check
 - 사람 검수 대상:
   - `data/repos.raw.json`
   - `data/repos.ko.json`
+  - `data/docs.raw.json`
   - `data/chunks.ko.json`
   - `projects/**/index.html`
   - `lists/**/index.html`
   - `sitemap.xml`
+  - `assets/og/atlas-card.svg`
+  - `docs/localization-report.md`
+
+커스텀 도메인 연결은 `docs/custom-domain.md`를 따릅니다. 도메인이 확정되기 전에는 canonical 기본값을 `https://hermes-atlas-kr.vercel.app`로 유지합니다.
 
 `data/overrides.ko.json`은 사람 검수 한국어 요약의 source of truth입니다.
