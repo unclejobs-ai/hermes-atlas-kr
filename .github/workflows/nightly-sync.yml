@@ -1,0 +1,46 @@
+name: Nightly upstream sync
+
+on:
+  schedule:
+    - cron: '0 18 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  pull-requests: write
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+      - name: Refresh upstream data
+        run: |
+          npm run sync
+          npm run localize
+          npm run rag
+          npm run pages
+          npm run check
+      - name: Create review PR when upstream data changes
+        uses: peter-evans/create-pull-request@v7
+        with:
+          commit-message: "chore: sync upstream Hermes ecosystem data"
+          branch: chore/nightly-upstream-sync
+          delete-branch: true
+          title: "chore: sync upstream Hermes ecosystem data"
+          body: |
+            Automated upstream refresh for Hermes Atlas KR.
+
+            Generated files may include:
+            - data/repos.raw.json
+            - data/repos.ko.json
+            - data/chunks.ko.json
+            - projects/**/index.html
+            - lists/**/index.html
+            - sitemap.xml
+
+            Review Korean summaries and generated page diffs before merging.
+          labels: automated, data-sync

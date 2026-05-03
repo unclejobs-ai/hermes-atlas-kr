@@ -25,6 +25,9 @@ const EMBEDDING_MODEL = process.env.KR_EMBEDDING_MODEL || 'openai/text-embedding
 const WITH_EMBEDDINGS = process.argv.includes('--embeddings') || process.env.BUILD_EMBEDDINGS === '1';
 
 const repos = JSON.parse(fs.readFileSync('data/repos.ko.json', 'utf-8'));
+const manifest = fs.existsSync('data/source-manifest.json')
+  ? JSON.parse(fs.readFileSync('data/source-manifest.json', 'utf-8'))
+  : {};
 const chunks = [];
 
 function addChunk(chunk) {
@@ -93,7 +96,7 @@ if (WITH_EMBEDDINGS) {
 }
 
 fs.writeFileSync('data/chunks.ko.json', JSON.stringify({
-  generatedAt: new Date().toISOString(),
+  generatedAt: manifest.syncedAt || '2026-05-02T00:00:00.000Z',
   embeddingModel: WITH_EMBEDDINGS ? EMBEDDING_MODEL : null,
   chunks,
 }, null, 2) + '\n');

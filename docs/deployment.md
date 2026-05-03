@@ -42,11 +42,27 @@ npm run build
 
 ## 데이터 갱신
 
+수동 갱신:
+
 ```bash
 npm run sync
 npm run localize
 npm run rag
+npm run pages
 npm run check
 ```
+
+자동 갱신:
+
+- `.github/workflows/nightly-sync.yml`
+- 매일 UTC 18:00 실행
+- upstream 변경사항이 있으면 `chore/nightly-upstream-sync` 브랜치와 PR 생성
+- 사람 검수 대상:
+  - `data/repos.raw.json`
+  - `data/repos.ko.json`
+  - `data/chunks.ko.json`
+  - `projects/**/index.html`
+  - `lists/**/index.html`
+  - `sitemap.xml`
 
 `data/overrides.ko.json`은 사람 검수 한국어 요약의 source of truth입니다.

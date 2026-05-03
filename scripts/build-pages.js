@@ -64,6 +64,7 @@ function listItems(repos) {
 
 const repos = readJson('data/repos.ko.json', []);
 const lists = readJson('data/lists.raw.json', []);
+const manifest = readJson('data/source-manifest.json', {});
 if (!repos.length) throw new Error('data/repos.ko.json is empty');
 
 rmDir('projects');
@@ -111,10 +112,10 @@ for (const list of lists) {
   write(`lists/${list.slug}/index.html`, pageShell({ title, description, canonical: abs(urlPath), body }));
 }
 
-const now = new Date().toISOString();
+const lastmod = manifest.syncedAt || '2026-05-02T00:00:00.000Z';
 write('sitemap.xml', `<?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-${urls.map(u => `  <url><loc>${esc(abs(u))}</loc><lastmod>${now}</lastmod></url>`).join('\n')}
+${urls.map(u => `  <url><loc>${esc(abs(u))}</loc><lastmod>${lastmod}</lastmod></url>`).join('\n')}
 </urlset>
 `);
 write('robots.txt', `User-agent: *
