@@ -21,6 +21,11 @@ function writeJson(path, data) {
   fs.writeFileSync(path, JSON.stringify(data, null, 2) + '\n');
 }
 
+function readJson(path, fallback = null) {
+  if (!fs.existsSync(path)) return fallback;
+  return JSON.parse(fs.readFileSync(path, 'utf-8'));
+}
+
 function hash(value) {
   return crypto.createHash('sha256').update(value).digest('hex');
 }
@@ -55,11 +60,15 @@ for (const file of files) {
   });
 }
 
+const previousDocs = readJson('data/docs.raw.json', {});
+const docsHash = hash(JSON.stringify(documents.map((doc) => ({ path: doc.path, hash: doc.hash }))));
+const unchanged = previousDocs.hash === docsHash;
 writeJson('data/docs.raw.json', {
-  syncedAt: new Date().toISOString(),
+  syncedAt: unchanged && previousDocs.syncedAt ? previousDocs.syncedAt : new Date().toISOString(),
   upstream: `https://github.com/${OWNER}/${REPO}`,
   branch: BRANCH,
   count: documents.length,
+  hash: docsHash,
   documents,
 });
 

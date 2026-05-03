@@ -13,6 +13,11 @@ const writeJson = (path, data) => {
   fs.writeFileSync(path, JSON.stringify(data, null, 2) + '\n');
 };
 
+const readJson = (path, fallback = null) => {
+  if (!fs.existsSync(path)) return fallback;
+  return JSON.parse(fs.readFileSync(path, 'utf-8'));
+};
+
 const hash = (value) => crypto
   .createHash('sha256')
   .update(JSON.stringify(value))
@@ -26,17 +31,21 @@ async function fetchJson(name, url) {
 
 const repos = await fetchJson('repos', SOURCES.repos);
 const lists = await fetchJson('lists', SOURCES.lists);
+const previousManifest = readJson('data/source-manifest.json', {});
+const nextHashes = {
+  repos: hash(repos),
+  lists: hash(lists),
+};
+const unchanged = previousManifest.hashes?.repos === nextHashes.repos
+  && previousManifest.hashes?.lists === nextHashes.lists;
 
 writeJson('data/repos.raw.json', repos);
 writeJson('data/lists.raw.json', lists);
 writeJson('data/source-manifest.json', {
-  syncedAt: new Date().toISOString(),
+  syncedAt: unchanged && previousManifest.syncedAt ? previousManifest.syncedAt : new Date().toISOString(),
   upstream: 'https://github.com/ksimback/hermes-ecosystem',
   sources: SOURCES,
-  hashes: {
-    repos: hash(repos),
-    lists: hash(lists),
-  },
+  hashes: nextHashes,
   counts: {
     repos: repos.length,
     lists: lists.length,
