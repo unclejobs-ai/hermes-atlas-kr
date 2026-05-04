@@ -5,13 +5,34 @@ import path from 'path';
 const SITE = process.env.SITE_URL || 'https://hermes-atlas-kr.vercel.app';
 const root = process.cwd();
 const lockDir = path.join(root, '.build-pages.lock');
+const lockOwnerFile = path.join(lockDir, 'owner');
+const lockOwner = `${process.pid}:${Date.now()}`;
 
 function sleep(ms) {
   Atomics.wait(new Int32Array(new SharedArrayBuffer(4)), 0, 0, ms);
 }
 
+function readLockOwner() {
+  try {
+    return fs.readFileSync(lockOwnerFile, 'utf8').trim();
+  } catch {
+    return '';
+  }
+}
+
+function ownerIsAlive(owner) {
+  const pid = Number(String(owner).split(':')[0]);
+  if (!pid) return false;
+  try {
+    process.kill(pid, 0);
+    return true;
+  } catch (error) {
+    return error.code === 'EPERM';
+  }
+}
+
 function releaseBuildLock() {
-  if (fs.existsSync(lockDir)) fs.rmSync(lockDir, { recursive: true, force: true });
+  if (readLockOwner() === lockOwner) fs.rmSync(lockDir, { recursive: true, force: true });
 }
 
 function acquireBuildLock() {
@@ -19,11 +40,17 @@ function acquireBuildLock() {
   while (true) {
     try {
       fs.mkdirSync(lockDir);
+      fs.writeFileSync(lockOwnerFile, lockOwner);
       process.once('exit', releaseBuildLock);
       return;
     } catch (error) {
       if (error.code !== 'EEXIST') throw error;
-      if (Date.now() - started > 15000) releaseBuildLock();
+      const owner = readLockOwner();
+      if (owner && !ownerIsAlive(owner)) {
+        fs.rmSync(lockDir, { recursive: true, force: true });
+        continue;
+      }
+      if (Date.now() - started > 30000) throw new Error(`Timed out waiting for build-pages lock held by ${owner || 'unknown owner'}`);
       sleep(50);
     }
   }

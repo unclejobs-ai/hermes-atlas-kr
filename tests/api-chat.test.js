@@ -35,14 +35,17 @@ test('chat API stays local even when an OpenRouter key is present', async () => 
   const originalKey = process.env.OPENROUTER_API_KEY;
   const originalFetch = globalThis.fetch;
   try {
-    process.env.OPENROUTER_API_KEY = 'sk-test-do-not-call';
+    process.env.OPENROUTER_API_KEY = '1';
+    let fetchCalled = false;
     globalThis.fetch = () => {
+      fetchCalled = true;
       throw new Error('external fetch should not be called');
     };
     const res = await callHandler({ question: '메모리는 뭐가 좋아?' });
     assert.equal(res.statusCode, 200);
     const json = JSON.parse(res.body);
     assert.equal(json.mode, 'local');
+    assert.equal(fetchCalled, false);
   } finally {
     globalThis.fetch = originalFetch;
     if (originalKey) process.env.OPENROUTER_API_KEY = originalKey;
