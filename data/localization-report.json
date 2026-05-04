@@ -12,7 +12,7 @@
   "priorityBacklog": [
     {
       "id": "outsourc-e/hermes-workspace",
-      "categoryKo": "워크스페이스·GUI",
+      "categoryKo": "워크스페이스·화면형 도구",
       "stars": 830,
       "url": "https://github.com/outsourc-e/hermes-workspace",
       "reason": "스타 수가 높고 아직 사람 검수 한국어 요약이 없습니다."
@@ -61,7 +61,7 @@
     },
     {
       "id": "xaspx/hermes-control-interface",
-      "categoryKo": "워크스페이스·GUI",
+      "categoryKo": "워크스페이스·화면형 도구",
       "stars": 323,
       "url": "https://github.com/xaspx/hermes-control-interface",
       "reason": "스타 수가 높고 아직 사람 검수 한국어 요약이 없습니다."
@@ -75,7 +75,7 @@
     },
     {
       "id": "dodo-reach/hermes-desktop",
-      "categoryKo": "워크스페이스·GUI",
+      "categoryKo": "워크스페이스·화면형 도구",
       "stars": 313,
       "url": "https://github.com/dodo-reach/hermes-desktop",
       "reason": "스타 수가 높고 아직 사람 검수 한국어 요약이 없습니다."
@@ -117,7 +117,7 @@
     },
     {
       "id": "clawvader-tech/hermes-telegram-miniapp",
-      "categoryKo": "워크스페이스·GUI",
+      "categoryKo": "워크스페이스·화면형 도구",
       "stars": 194,
       "url": "https://github.com/clawvader-tech/hermes-telegram-miniapp",
       "reason": "스타 수가 높고 아직 사람 검수 한국어 요약이 없습니다."
@@ -208,7 +208,7 @@
     },
     {
       "id": "aivrar/portable-hermes-agent",
-      "categoryKo": "워크스페이스·GUI",
+      "categoryKo": "워크스페이스·화면형 도구",
       "stars": 81,
       "url": "https://github.com/aivrar/portable-hermes-agent",
       "reason": "스타 수가 높고 아직 사람 검수 한국어 요약이 없습니다."

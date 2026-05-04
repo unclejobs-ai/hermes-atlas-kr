@@ -3,4 +3,5 @@ node_modules/
 .env
 .env.*
 .DS_Store
+.build-pages.lock
 scripts/__pycache__/

@@ -11,7 +11,7 @@
       "repoId": "NousResearch/hermes-agent",
       "title": "NousResearch/hermes-agent",
       "section": "한국어 요약",
-      "text": "NousResearch/hermes-agent (코어·공식)\nHermes Agent의 공식 본체입니다. 메모리, 스킬, 도구 실행, 멀티 플랫폼 게이트웨이를 포함합니다.\nNous Research가 만든 자기개선형 AI 에이전트입니다. 터미널, 파일, 브라우저, 코드 실행 같은 도구를 직접 사용하고, 작업 경험을 스킬로 저장해 다음 세션에서 재사용합니다. CLI뿐 아니라 Telegram, Discord, Slack 같은 메시징 환경에서도 쓸 수 있는 것이 특징입니다.\n용도: 개발 자동화, 터미널 기반 에이전트 작업, 메시징 플랫폼 AI 봇, 장기 메모리 기반 반복 작업\n태그: 에이전트, 메모리, 스킬, 도구 실행, 멀티 플랫폼\n원문 설명: The self-improving AI agent that grows with you — persistent memory, auto-generated skills, 14 platforms, 6 execution backends",
+      "text": "NousResearch/hermes-agent (코어·공식)\nHermes Agent의 공식 본체입니다. 메모리, 스킬, 도구 실행, 멀티 플랫폼 게이트웨이를 포함합니다.\nNous Research가 만든 자기개선형 AI 에이전트입니다. 터미널, 파일, 브라우저, 코드 실행 같은 도구를 직접 사용하고, 작업 경험을 스킬로 저장해 다음 세션에서 재사용합니다. 명령줄뿐 아니라 텔레그램, 디스코드, 슬랙 같은 메시징 환경에서도 쓸 수 있는 것이 특징입니다.\n용도: 개발 자동화, 터미널 기반 에이전트 작업, 메시징 플랫폼 AI 봇, 장기 메모리 기반 반복 작업\n태그: 에이전트, 메모리, 스킬, 도구 실행, 멀티 플랫폼\n원문 설명: The self-improving AI agent that grows with you — persistent memory, auto-generated skills, 14 platforms, 6 execution backends",
       "sourceUrl": "https://github.com/NousResearch/hermes-agent"
     },
     {
@@ -35,7 +35,7 @@
       "repoId": "NousResearch/Hermes-Function-Calling",
       "title": "NousResearch/Hermes-Function-Calling",
       "section": "한국어 요약",
-      "text": "NousResearch/Hermes-Function-Calling (코어·공식)\nHermes LLM 모델의 함수 호출 예제와 학습 데이터를 제공하는 공식 저장소입니다.\nHermes-Function-Calling은 Hermes 계열 모델이 도구나 함수를 호출하는 방식을 학습하고 실험하기 위한 자료를 제공합니다. 에이전트 런타임보다는 LLM의 function calling 능력과 데이터셋 측면을 이해할 때 보는 공식 자료입니다.\n용도: 함수 호출 학습, 도구 호출 예제, 모델 데이터셋 참고\n태그: 함수호출, 학습데이터, Hermes LLM, 공식\n원문 설명: Function calling examples and training data for Hermes LLM models",
+      "text": "NousResearch/Hermes-Function-Calling (코어·공식)\nHermes LLM 모델의 함수 호출 예제와 학습 데이터를 제공하는 공식 저장소입니다.\nHermes-Function-Calling은 Hermes 계열 모델이 도구나 함수를 호출하는 방식을 학습하고 실험하기 위한 자료를 제공합니다. 에이전트 실행 환경보다는 LLM의 함수 호출 능력과 데이터셋 측면을 이해할 때 보는 공식 자료입니다.\n용도: 함수 호출 학습, 도구 호출 예제, 모델 데이터셋 참고\n태그: 함수호출, 학습데이터, Hermes LLM, 공식\n원문 설명: Function calling examples and training data for Hermes LLM models",
       "sourceUrl": "https://github.com/NousResearch/Hermes-Function-Calling"
     },
     {
@@ -59,7 +59,7 @@
       "repoId": "NousResearch/atropos",
       "title": "NousResearch/atropos",
       "section": "한국어 요약",
-      "text": "NousResearch/atropos (코어·공식)\n도구 호출 모델을 학습시키기 위한 RL 환경 프레임워크입니다.\natropos는 tool-calling 모델을 위한 강화학습 환경을 구성하는 공식 프로젝트입니다. Hermes Agent 앱 사용보다는 모델 학습, 평가, 도구 호출 능력 개선에 관심 있는 연구자와 개발자가 볼 만합니다.\n용도: 강화학습 환경, 도구 호출 모델 학습, 모델 평가\n태그: RL, 도구호출, 학습환경, 공식\n원문 설명: RL training environments framework for tool-calling models",
+      "text": "NousResearch/atropos (코어·공식)\n도구 호출 모델을 학습시키기 위한 강화학습 환경 프레임워크입니다.\natropos는 도구 호출 모델을 위한 강화학습 환경을 구성하는 공식 프로젝트입니다. Hermes Agent 앱 사용보다는 모델 학습, 평가, 도구 호출 능력 개선에 관심 있는 연구자와 개발자가 볼 만합니다.\n용도: 강화학습 환경, 도구 호출 모델 학습, 모델 평가\n태그: 강화학습, 도구호출, 학습환경, 공식\n원문 설명: RL training environments framework for tool-calling models",
       "sourceUrl": "https://github.com/NousResearch/atropos"
     },
     {
@@ -83,7 +83,7 @@
       "repoId": "NousResearch/hermes-agent-self-evolution",
       "title": "NousResearch/hermes-agent-self-evolution",
       "section": "한국어 요약",
-      "text": "NousResearch/hermes-agent-self-evolution (코어·공식)\nNousResearch/hermes-agent-self-evolution: Evolutionary self — improvement using DSPy + GEPA — optimizes skills, prompts, and code을 한국어 Atlas 기준으로 분류한 프로젝트입니다.\nNousResearch/hermes-agent-self-evolution는 코어·공식 범주에서 볼 만한 프로젝트입니다. 원문 설명 기준으로는 “Evolutionary self — improvement using DSPy + GEPA — optimizes skills, prompts, and code”에 초점이 있습니다. 한국어 사용자는 Hermes Agent 기본 설치와 운영이나 공식 기능 확인이 필요할 때 우선 살펴보면 됩니다. repo 이름과 명령어, 원본 링크는 검색성과 재현성을 위해 그대로 유지했습니다.\n용도: Hermes Agent 기본 설치와 운영, 공식 기능 확인, 생태계 기준점 파악, 스킬\n태그: 코어·공식, 스킬, 재사용 가능한 작업 절차, hermes agent self evolution\n원문 설명: Evolutionary self-improvement using DSPy + GEPA — optimizes skills, prompts, and code",
+      "text": "NousResearch/hermes-agent-self-evolution (코어·공식)\nDSPy와 GEPA로 스킬, 프롬프트, 코드를 반복 개선하는 자기개선 실험입니다.\nDSPy와 GEPA로 스킬, 프롬프트, 코드를 반복 개선하는 자기개선 실험입니다. 코어·공식 분류에서 Hermes Agent의 기본 구조를 파악할 때 먼저 살펴보면 좋습니다. 공식 기능을 확인할 때도 함께 참고할 만합니다. 저장소 이름, 명령어, 원문 링크는 정확한 확인을 위해 그대로 유지했습니다.\n용도: Hermes Agent의 기본 구조 파악, 공식 기능 확인, 생태계의 기준점 확인, 스킬\n태그: 코어·공식, 스킬, 재사용 가능한 작업 절차, Hermes Agent의 기본 구조 파악, 공식 기능 확인, 생태계의 기준점 확인\n원문 설명: Evolutionary self-improvement using DSPy + GEPA — optimizes skills, prompts, and code",
       "sourceUrl": "https://github.com/NousResearch/hermes-agent-self-evolution"
     },
     {
@@ -95,7 +95,7 @@
       "repoId": "NousResearch/hermes-agent-self-evolution",
       "title": "NousResearch/hermes-agent-self-evolution",
       "section": "용도",
-      "text": "NousResearch/hermes-agent-self-evolution의 주요 용도: Hermes Agent 기본 설치와 운영, 공식 기능 확인, 생태계 기준점 파악, 스킬",
+      "text": "NousResearch/hermes-agent-self-evolution의 주요 용도: Hermes Agent의 기본 구조 파악, 공식 기능 확인, 생태계의 기준점 확인, 스킬",
       "sourceUrl": "https://github.com/NousResearch/hermes-agent-self-evolution"
     },
     {
@@ -107,7 +107,7 @@
       "repoId": "NousResearch/hermes-paperclip-adapter",
       "title": "NousResearch/hermes-paperclip-adapter",
       "section": "한국어 요약",
-      "text": "NousResearch/hermes-paperclip-adapter (코어·공식)\nNousResearch/hermes-paperclip-adapter: Run Hermes as a managed employee in Paperclip company systems을 한국어 Atlas 기준으로 분류한 프로젝트입니다.\nNousResearch/hermes-paperclip-adapter는 코어·공식 범주에서 볼 만한 프로젝트입니다. 원문 설명 기준으로는 “Run Hermes as a managed employee in Paperclip company systems”에 초점이 있습니다. 한국어 사용자는 Hermes Agent 기본 설치와 운영이나 공식 기능 확인이 필요할 때 우선 살펴보면 됩니다. repo 이름과 명령어, 원본 링크는 검색성과 재현성을 위해 그대로 유지했습니다.\n용도: Hermes Agent 기본 설치와 운영, 공식 기능 확인, 생태계 기준점 파악\n태그: 코어·공식, hermes paperclip adapter\n원문 설명: Run Hermes as a managed employee in Paperclip company systems",
+      "text": "NousResearch/hermes-paperclip-adapter (코어·공식)\nPaperclip 회사 시스템 안에서 Hermes를 관리형 동료처럼 실행하는 어댑터입니다.\nPaperclip 회사 시스템 안에서 Hermes를 관리형 동료처럼 실행하는 어댑터입니다. 코어·공식 분류에서 Hermes Agent의 기본 구조를 파악할 때 먼저 살펴보면 좋습니다. 공식 기능을 확인할 때도 함께 참고할 만합니다. 저장소 이름, 명령어, 원문 링크는 정확한 확인을 위해 그대로 유지했습니다.\n용도: Hermes Agent의 기본 구조 파악, 공식 기능 확인, 생태계의 기준점 확인\n태그: 코어·공식, Hermes Agent의 기본 구조 파악, 공식 기능 확인, 생태계의 기준점 확인\n원문 설명: Run Hermes as a managed employee in Paperclip company systems",
       "sourceUrl": "https://github.com/NousResearch/hermes-paperclip-adapter"
     },
     {
@@ -119,7 +119,7 @@
       "repoId": "NousResearch/hermes-paperclip-adapter",
       "title": "NousResearch/hermes-paperclip-adapter",
       "section": "용도",
-      "text": "NousResearch/hermes-paperclip-adapter의 주요 용도: Hermes Agent 기본 설치와 운영, 공식 기능 확인, 생태계 기준점 파악",
+      "text": "NousResearch/hermes-paperclip-adapter의 주요 용도: Hermes Agent의 기본 구조 파악, 공식 기능 확인, 생태계의 기준점 확인",
       "sourceUrl": "https://github.com/NousResearch/hermes-paperclip-adapter"
     },
     {
@@ -131,7 +131,7 @@
       "repoId": "NousResearch/autonovel",
       "title": "NousResearch/autonovel",
       "section": "한국어 요약",
-      "text": "NousResearch/autonovel (코어·공식)\nNousResearch/autonovel: Autonomous novel — writing pipeline generating 100k+ word manuscripts을 한국어 Atlas 기준으로 분류한 프로젝트입니다.\nNousResearch/autonovel는 코어·공식 범주에서 볼 만한 프로젝트입니다. 원문 설명 기준으로는 “Autonomous novel — writing pipeline generating 100k+ word manuscripts”에 초점이 있습니다. 한국어 사용자는 Hermes Agent 기본 설치와 운영이나 공식 기능 확인이 필요할 때 우선 살펴보면 됩니다. repo 이름과 명령어, 원본 링크는 검색성과 재현성을 위해 그대로 유지했습니다.\n용도: Hermes Agent 기본 설치와 운영, 공식 기능 확인, 생태계 기준점 파악\n태그: 코어·공식, autonovel\n원문 설명: Autonomous novel-writing pipeline generating 100k+ word manuscripts",
+      "text": "NousResearch/autonovel (코어·공식)\n긴 소설 원고를 자동으로 기획하고 작성하는 창작 파이프라인입니다.\n긴 소설 원고를 자동으로 기획하고 작성하는 창작 파이프라인입니다. 코어·공식 분류에서 Hermes Agent의 기본 구조를 파악할 때 먼저 살펴보면 좋습니다. 공식 기능을 확인할 때도 함께 참고할 만합니다. 저장소 이름, 명령어, 원문 링크는 정확한 확인을 위해 그대로 유지했습니다.\n용도: Hermes Agent의 기본 구조 파악, 공식 기능 확인, 생태계의 기준점 확인\n태그: 코어·공식, Hermes Agent의 기본 구조 파악, 공식 기능 확인, 생태계의 기준점 확인\n원문 설명: Autonomous novel-writing pipeline generating 100k+ word manuscripts",
       "sourceUrl": "https://github.com/NousResearch/autonovel"
     },
     {
@@ -143,7 +143,7 @@
       "repoId": "NousResearch/autonovel",
       "title": "NousResearch/autonovel",
       "section": "용도",
-      "text": "NousResearch/autonovel의 주요 용도: Hermes Agent 기본 설치와 운영, 공식 기능 확인, 생태계 기준점 파악",
+      "text": "NousResearch/autonovel의 주요 용도: Hermes Agent의 기본 구조 파악, 공식 기능 확인, 생태계의 기준점 확인",
       "sourceUrl": "https://github.com/NousResearch/autonovel"
     },
     {
@@ -155,7 +155,7 @@
       "repoId": "outsourc-e/hermes-workspace",
       "title": "outsourc-e/hermes-workspace",
       "section": "한국어 요약",
-      "text": "outsourc-e/hermes-workspace (워크스페이스·GUI)\noutsourc-e/hermes-workspace: Native web workspace — chat, terminal, memory browser, skills manager, and inspector panel을 한국어 Atlas 기준으로 분류한 프로젝트입니다.\noutsourc-e/hermes-workspace는 워크스페이스·GUI 범주에서 볼 만한 프로젝트입니다. 원문 설명 기준으로는 “Native web workspace — chat, terminal, memory browser, skills manager, and inspector panel”에 초점이 있습니다. 한국어 사용자는 시각적인 작업 공간 구성이나 에이전트 작업 흐름 모니터링이 필요할 때 우선 살펴보면 됩니다. repo 이름과 명령어, 원본 링크는 검색성과 재현성을 위해 그대로 유지했습니다.\n용도: 시각적인 작업 공간 구성, 에이전트 작업 흐름 모니터링, 비개발자 친화 UI 제공, 메모리\n태그: 워크스페이스·GUI, 메모리, 컨텍스트 유지, 스킬, 재사용 가능한 작업 절차, GUI\n원문 설명: Native web workspace — chat, terminal, memory browser, skills manager, and inspector panel",
+      "text": "outsourc-e/hermes-workspace (워크스페이스·화면형 도구)\n채팅, 터미널, 메모리 브라우저, 스킬 관리를 한 화면에 묶은 웹 작업 공간입니다.\n채팅, 터미널, 메모리 브라우저, 스킬 관리를 한 화면에 묶은 웹 작업 공간입니다. 워크스페이스·화면형 도구 분류에서 작업 흐름을 화면에서 확인할 때 먼저 살펴보면 좋습니다. 채팅, 터미널, 메모리 관리를 한 화면에서 처리할 때도 함께 참고할 만합니다. 저장소 이름, 명령어, 원문 링크는 정확한 확인을 위해 그대로 유지했습니다.\n용도: 작업 흐름을 화면에서 확인, 채팅·터미널·메모리 관리, 비개발자도 쓰기 쉬운 화면형 도구 검토, 메모리\n태그: 워크스페이스·화면형 도구, 메모리, 컨텍스트 유지, 스킬, 재사용 가능한 작업 절차, 화면형 인터페이스\n원문 설명: Native web workspace — chat, terminal, memory browser, skills manager, and inspector panel",
       "sourceUrl": "https://github.com/outsourc-e/hermes-workspace"
     },
     {
@@ -167,7 +167,7 @@
       "repoId": "outsourc-e/hermes-workspace",
       "title": "outsourc-e/hermes-workspace",
       "section": "용도",
-      "text": "outsourc-e/hermes-workspace의 주요 용도: 시각적인 작업 공간 구성, 에이전트 작업 흐름 모니터링, 비개발자 친화 UI 제공, 메모리",
+      "text": "outsourc-e/hermes-workspace의 주요 용도: 작업 흐름을 화면에서 확인, 채팅·터미널·메모리 관리, 비개발자도 쓰기 쉬운 화면형 도구 검토, 메모리",
       "sourceUrl": "https://github.com/outsourc-e/hermes-workspace"
     },
     {
@@ -179,7 +179,7 @@
       "repoId": "fathah/hermes-desktop",
       "title": "fathah/hermes-desktop",
       "section": "한국어 요약",
-      "text": "fathah/hermes-desktop (워크스페이스·GUI)\nfathah/hermes-desktop: Desktop companion app for installing, configuring, and chatting with Hermes Agent을 한국어 Atlas 기준으로 분류한 프로젝트입니다.\nfathah/hermes-desktop는 워크스페이스·GUI 범주에서 볼 만한 프로젝트입니다. 원문 설명 기준으로는 “Desktop companion app for installing, configuring, and chatting with Hermes Agent”에 초점이 있습니다. 한국어 사용자는 시각적인 작업 공간 구성이나 에이전트 작업 흐름 모니터링이 필요할 때 우선 살펴보면 됩니다. repo 이름과 명령어, 원본 링크는 검색성과 재현성을 위해 그대로 유지했습니다.\n용도: 시각적인 작업 공간 구성, 에이전트 작업 흐름 모니터링, 비개발자 친화 UI 제공\n태그: 워크스페이스·GUI, hermes desktop\n원문 설명: Desktop companion app for installing, configuring, and chatting with Hermes Agent",
+      "text": "fathah/hermes-desktop (워크스페이스·화면형 도구)\nHermes 설치, 설정, 채팅을 데스크톱 앱에서 처리하게 해주는 보조 앱입니다.\nHermes 설치, 설정, 채팅을 데스크톱 앱에서 처리하게 해주는 보조 앱입니다. 워크스페이스·화면형 도구 분류에서 작업 흐름을 화면에서 확인할 때 먼저 살펴보면 좋습니다. 채팅, 터미널, 메모리 관리를 한 화면에서 처리할 때도 함께 참고할 만합니다. 저장소 이름, 명령어, 원문 링크는 정확한 확인을 위해 그대로 유지했습니다.\n용도: 작업 흐름을 화면에서 확인, 채팅·터미널·메모리 관리, 비개발자도 쓰기 쉬운 화면형 도구 검토\n태그: 워크스페이스·화면형 도구, 작업 흐름을 화면에서 확인, 채팅·터미널·메모리 관리, 비개발자도 쓰기 쉬운 화면형 도구 검토\n원문 설명: Desktop companion app for installing, configuring, and chatting with Hermes Agent",
       "sourceUrl": "https://github.com/fathah/hermes-desktop"
     },
     {
@@ -191,7 +191,7 @@
       "repoId": "fathah/hermes-desktop",
       "title": "fathah/hermes-desktop",
       "section": "용도",
-      "text": "fathah/hermes-desktop의 주요 용도: 시각적인 작업 공간 구성, 에이전트 작업 흐름 모니터링, 비개발자 친화 UI 제공",
+      "text": "fathah/hermes-desktop의 주요 용도: 작업 흐름을 화면에서 확인, 채팅·터미널·메모리 관리, 비개발자도 쓰기 쉬운 화면형 도구 검토",
       "sourceUrl": "https://github.com/fathah/hermes-desktop"
     },
     {
@@ -203,7 +203,7 @@
       "repoId": "sanchomuzax/hermes-webui",
       "title": "sanchomuzax/hermes-webui",
       "section": "한국어 요약",
-      "text": "sanchomuzax/hermes-webui (워크스페이스·GUI)\nsanchomuzax/hermes-webui: Process monitoring and configuration dashboard for Hermes을 한국어 Atlas 기준으로 분류한 프로젝트입니다.\nsanchomuzax/hermes-webui는 워크스페이스·GUI 범주에서 볼 만한 프로젝트입니다. 원문 설명 기준으로는 “Process monitoring and configuration dashboard for Hermes”에 초점이 있습니다. 한국어 사용자는 시각적인 작업 공간 구성이나 에이전트 작업 흐름 모니터링이 필요할 때 우선 살펴보면 됩니다. repo 이름과 명령어, 원본 링크는 검색성과 재현성을 위해 그대로 유지했습니다.\n용도: 시각적인 작업 공간 구성, 에이전트 작업 흐름 모니터링, 비개발자 친화 UI 제공, GUI\n태그: 워크스페이스·GUI, GUI, 워크스페이스, hermes webui\n원문 설명: Process monitoring and configuration dashboard for Hermes",
+      "text": "sanchomuzax/hermes-webui (워크스페이스·화면형 도구)\nHermes 프로세스 상태와 설정을 확인하는 대시보드입니다.\nHermes 프로세스 상태와 설정을 확인하는 대시보드입니다. 워크스페이스·화면형 도구 분류에서 작업 흐름을 화면에서 확인할 때 먼저 살펴보면 좋습니다. 채팅, 터미널, 메모리 관리를 한 화면에서 처리할 때도 함께 참고할 만합니다. 저장소 이름, 명령어, 원문 링크는 정확한 확인을 위해 그대로 유지했습니다.\n용도: 작업 흐름을 화면에서 확인, 채팅·터미널·메모리 관리, 비개발자도 쓰기 쉬운 화면형 도구 검토, 화면형 인터페이스\n태그: 워크스페이스·화면형 도구, 화면형 인터페이스, 워크스페이스, 작업 흐름을 화면에서 확인, 채팅·터미널·메모리 관리, 비개발자도 쓰기 쉬운 화면형 도구 검토\n원문 설명: Process monitoring and configuration dashboard for Hermes",
       "sourceUrl": "https://github.com/sanchomuzax/hermes-webui"
     },
     {
@@ -215,7 +215,7 @@
       "repoId": "sanchomuzax/hermes-webui",
       "title": "sanchomuzax/hermes-webui",
       "section": "용도",
-      "text": "sanchomuzax/hermes-webui의 주요 용도: 시각적인 작업 공간 구성, 에이전트 작업 흐름 모니터링, 비개발자 친화 UI 제공, GUI",
+      "text": "sanchomuzax/hermes-webui의 주요 용도: 작업 흐름을 화면에서 확인, 채팅·터미널·메모리 관리, 비개발자도 쓰기 쉬운 화면형 도구 검토, 화면형 인터페이스",
       "sourceUrl": "https://github.com/sanchomuzax/hermes-webui"
     },
     {
@@ -227,7 +227,7 @@
       "repoId": "Euraika-Labs/pan-ui",
       "title": "Euraika-Labs/pan-ui",
       "section": "한국어 요약",
-      "text": "Euraika-Labs/pan-ui (워크스페이스·GUI)\nEuraika-Labs/pan-ui: Self — hosted AI workspace with chat, skills, extensions, memory, profiles, and runtime controls을 한국어 Atlas 기준으로 분류한 프로젝트입니다.\nEuraika-Labs/pan-ui는 워크스페이스·GUI 범주에서 볼 만한 프로젝트입니다. 원문 설명 기준으로는 “Self — hosted AI workspace with chat, skills, extensions, memory, profiles, and runtime controls”에 초점이 있습니다. 한국어 사용자는 시각적인 작업 공간 구성이나 에이전트 작업 흐름 모니터링이 필요할 때 우선 살펴보면 됩니다. repo 이름과 명령어, 원본 링크는 검색성과 재현성을 위해 그대로 유지했습니다.\n용도: 시각적인 작업 공간 구성, 에이전트 작업 흐름 모니터링, 비개발자 친화 UI 제공, 메모리\n태그: 워크스페이스·GUI, 메모리, 컨텍스트 유지, 스킬, 재사용 가능한 작업 절차, GUI\n원문 설명: Self-hosted AI workspace with chat, skills, extensions, memory, profiles, and runtime controls",
+      "text": "Euraika-Labs/pan-ui (워크스페이스·화면형 도구)\n채팅, 스킬, 확장, 메모리, 런타임 제어를 제공하는 셀프호스팅 AI 작업 공간입니다.\n채팅, 스킬, 확장, 메모리, 런타임 제어를 제공하는 셀프호스팅 AI 작업 공간입니다. 워크스페이스·화면형 도구 분류에서 작업 흐름을 화면에서 확인할 때 먼저 살펴보면 좋습니다. 채팅, 터미널, 메모리 관리를 한 화면에서 처리할 때도 함께 참고할 만합니다. 저장소 이름, 명령어, 원문 링크는 정확한 확인을 위해 그대로 유지했습니다.\n용도: 작업 흐름을 화면에서 확인, 채팅·터미널·메모리 관리, 비개발자도 쓰기 쉬운 화면형 도구 검토, 메모리\n태그: 워크스페이스·화면형 도구, 메모리, 컨텍스트 유지, 스킬, 재사용 가능한 작업 절차, 화면형 인터페이스\n원문 설명: Self-hosted AI workspace with chat, skills, extensions, memory, profiles, and runtime controls",
       "sourceUrl": "https://github.com/Euraika-Labs/pan-ui"
     },
     {
@@ -239,7 +239,7 @@
       "repoId": "Euraika-Labs/pan-ui",
       "title": "Euraika-Labs/pan-ui",
       "section": "용도",
-      "text": "Euraika-Labs/pan-ui의 주요 용도: 시각적인 작업 공간 구성, 에이전트 작업 흐름 모니터링, 비개발자 친화 UI 제공, 메모리",
+      "text": "Euraika-Labs/pan-ui의 주요 용도: 작업 흐름을 화면에서 확인, 채팅·터미널·메모리 관리, 비개발자도 쓰기 쉬운 화면형 도구 검토, 메모리",
       "sourceUrl": "https://github.com/Euraika-Labs/pan-ui"
     },
     {
@@ -275,7 +275,7 @@
       "repoId": "conorbronsdon/avoid-ai-writing",
       "title": "conorbronsdon/avoid-ai-writing",
       "section": "한국어 요약",
-      "text": "conorbronsdon/avoid-ai-writing (스킬·레지스트리)\nconorbronsdon/avoid-ai-writing: Audits and rewrites content to eliminate detectable AI writing patterns을 한국어 Atlas 기준으로 분류한 프로젝트입니다.\nconorbronsdon/avoid-ai-writing는 스킬·레지스트리 범주에서 볼 만한 프로젝트입니다. 원문 설명 기준으로는 “Audits and rewrites content to eliminate detectable AI writing patterns”에 초점이 있습니다. 한국어 사용자는 반복 작업을 재사용 가능한 스킬로 정리이나 도메인별 스킬 탐색이 필요할 때 우선 살펴보면 됩니다. repo 이름과 명령어, 원본 링크는 검색성과 재현성을 위해 그대로 유지했습니다.\n용도: 반복 작업을 재사용 가능한 스킬로 정리, 도메인별 스킬 탐색, 팀 단위 작업 표준화\n태그: 스킬·레지스트리, avoid ai writing\n원문 설명: Audits and rewrites content to eliminate detectable AI writing patterns",
+      "text": "conorbronsdon/avoid-ai-writing (스킬·레지스트리)\nAI 문체가 드러나는 표현을 찾아 더 자연스럽게 고쳐 쓰는 스킬입니다.\nAI 문체가 드러나는 표현을 찾아 더 자연스럽게 고쳐 쓰는 스킬입니다. 스킬·레지스트리 분류에서 반복 작업을 스킬로 정리할 때 먼저 살펴보면 좋습니다. 도메인별 스킬을 탐색할 때도 함께 참고할 만합니다. 저장소 이름, 명령어, 원문 링크는 정확한 확인을 위해 그대로 유지했습니다.\n용도: 반복 작업을 스킬로 정리, 도메인별 스킬 탐색, 팀 작업 방식 표준화\n태그: 스킬·레지스트리, 반복 작업을 스킬로 정리, 도메인별 스킬 탐색, 팀 작업 방식 표준화\n원문 설명: Audits and rewrites content to eliminate detectable AI writing patterns",
       "sourceUrl": "https://github.com/conorbronsdon/avoid-ai-writing"
     },
     {
@@ -287,7 +287,7 @@
       "repoId": "conorbronsdon/avoid-ai-writing",
       "title": "conorbronsdon/avoid-ai-writing",
       "section": "용도",
-      "text": "conorbronsdon/avoid-ai-writing의 주요 용도: 반복 작업을 재사용 가능한 스킬로 정리, 도메인별 스킬 탐색, 팀 단위 작업 표준화",
+      "text": "conorbronsdon/avoid-ai-writing의 주요 용도: 반복 작업을 스킬로 정리, 도메인별 스킬 탐색, 팀 작업 방식 표준화",
       "sourceUrl": "https://github.com/conorbronsdon/avoid-ai-writing"
     },
     {
@@ -299,7 +299,7 @@
       "repoId": "wondelai/skills",
       "title": "wondelai/skills",
       "section": "한국어 요약",
-      "text": "wondelai/skills (스킬·레지스트리)\nwondelai/skills: Cross — platform skills library for Claude Code and agentskills.io — compatible agents을 한국어 Atlas 기준으로 분류한 프로젝트입니다.\nwondelai/skills는 스킬·레지스트리 범주에서 볼 만한 프로젝트입니다. 원문 설명 기준으로는 “Cross — platform skills library for Claude Code and agentskills.io — compatible agents”에 초점이 있습니다. 한국어 사용자는 반복 작업을 재사용 가능한 스킬로 정리이나 도메인별 스킬 탐색이 필요할 때 우선 살펴보면 됩니다. repo 이름과 명령어, 원본 링크는 검색성과 재현성을 위해 그대로 유지했습니다.\n용도: 반복 작업을 재사용 가능한 스킬로 정리, 도메인별 스킬 탐색, 팀 단위 작업 표준화, 스킬\n태그: 스킬·레지스트리, 스킬, 재사용 가능한 작업 절차, skills\n원문 설명: Cross-platform skills library for Claude Code and agentskills.io-compatible agents",
+      "text": "wondelai/skills (스킬·레지스트리)\nClaude Code와 agentskills.io 호환 에이전트에서 함께 쓰는 스킬 모음입니다.\nClaude Code와 agentskills.io 호환 에이전트에서 함께 쓰는 스킬 모음입니다. 스킬·레지스트리 분류에서 반복 작업을 스킬로 정리할 때 먼저 살펴보면 좋습니다. 도메인별 스킬을 탐색할 때도 함께 참고할 만합니다. 저장소 이름, 명령어, 원문 링크는 정확한 확인을 위해 그대로 유지했습니다.\n용도: 반복 작업을 스킬로 정리, 도메인별 스킬 탐색, 팀 작업 방식 표준화, 스킬\n태그: 스킬·레지스트리, 스킬, 재사용 가능한 작업 절차, 반복 작업을 스킬로 정리, 도메인별 스킬 탐색, 팀 작업 방식 표준화\n원문 설명: Cross-platform skills library for Claude Code and agentskills.io-compatible agents",
       "sourceUrl": "https://github.com/wondelai/skills"
     },
     {
@@ -311,7 +311,7 @@
       "repoId": "wondelai/skills",
       "title": "wondelai/skills",
       "section": "용도",
-      "text": "wondelai/skills의 주요 용도: 반복 작업을 재사용 가능한 스킬로 정리, 도메인별 스킬 탐색, 팀 단위 작업 표준화, 스킬",
+      "text": "wondelai/skills의 주요 용도: 반복 작업을 스킬로 정리, 도메인별 스킬 탐색, 팀 작업 방식 표준화, 스킬",
       "sourceUrl": "https://github.com/wondelai/skills"
     },
     {
@@ -323,7 +323,7 @@
       "repoId": "DougTrajano/pydantic-ai-skills",
       "title": "DougTrajano/pydantic-ai-skills",
       "section": "한국어 요약",
-      "text": "DougTrajano/pydantic-ai-skills (스킬·레지스트리)\nDougTrajano/pydantic-ai-skills: Type — safe agentskills.io support with progressive disclosure for Pydantic AI을 한국어 Atlas 기준으로 분류한 프로젝트입니다.\nDougTrajano/pydantic-ai-skills는 스킬·레지스트리 범주에서 볼 만한 프로젝트입니다. 원문 설명 기준으로는 “Type — safe agentskills.io support with progressive disclosure for Pydantic AI”에 초점이 있습니다. 한국어 사용자는 반복 작업을 재사용 가능한 스킬로 정리이나 도메인별 스킬 탐색이 필요할 때 우선 살펴보면 됩니다. repo 이름과 명령어, 원본 링크는 검색성과 재현성을 위해 그대로 유지했습니다.\n용도: 반복 작업을 재사용 가능한 스킬로 정리, 도메인별 스킬 탐색, 팀 단위 작업 표준화, 스킬\n태그: 스킬·레지스트리, 스킬, 재사용 가능한 작업 절차, pydantic ai skills\n원문 설명: Type-safe agentskills.io support with progressive disclosure for Pydantic AI",
+      "text": "DougTrajano/pydantic-ai-skills (스킬·레지스트리)\nPydantic AI에서 agentskills.io 스킬을 타입 안전하게 쓰도록 돕는 프로젝트입니다.\nPydantic AI에서 agentskills.io 스킬을 타입 안전하게 쓰도록 돕는 프로젝트입니다. 스킬·레지스트리 분류에서 반복 작업을 스킬로 정리할 때 먼저 살펴보면 좋습니다. 도메인별 스킬을 탐색할 때도 함께 참고할 만합니다. 저장소 이름, 명령어, 원문 링크는 정확한 확인을 위해 그대로 유지했습니다.\n용도: 반복 작업을 스킬로 정리, 도메인별 스킬 탐색, 팀 작업 방식 표준화, 스킬\n태그: 스킬·레지스트리, 스킬, 재사용 가능한 작업 절차, 반복 작업을 스킬로 정리, 도메인별 스킬 탐색, 팀 작업 방식 표준화\n원문 설명: Type-safe agentskills.io support with progressive disclosure for Pydantic AI",
       "sourceUrl": "https://github.com/DougTrajano/pydantic-ai-skills"
     },
     {
@@ -335,7 +335,7 @@
       "repoId": "DougTrajano/pydantic-ai-skills",
       "title": "DougTrajano/pydantic-ai-skills",
       "section": "용도",
-      "text": "DougTrajano/pydantic-ai-skills의 주요 용도: 반복 작업을 재사용 가능한 스킬로 정리, 도메인별 스킬 탐색, 팀 단위 작업 표준화, 스킬",
+      "text": "DougTrajano/pydantic-ai-skills의 주요 용도: 반복 작업을 스킬로 정리, 도메인별 스킬 탐색, 팀 작업 방식 표준화, 스킬",
       "sourceUrl": "https://github.com/DougTrajano/pydantic-ai-skills"
     },
     {
@@ -347,7 +347,7 @@
       "repoId": "Agents365-ai/drawio-skill",
       "title": "Agents365-ai/drawio-skill",
       "section": "한국어 요약",
-      "text": "Agents365-ai/drawio-skill (스킬·레지스트리)\nAgents365-ai/drawio-skill: Generate draw.io diagrams from natural language descriptions을 한국어 Atlas 기준으로 분류한 프로젝트입니다.\nAgents365-ai/drawio-skill는 스킬·레지스트리 범주에서 볼 만한 프로젝트입니다. 원문 설명 기준으로는 “Generate draw.io diagrams from natural language descriptions”에 초점이 있습니다. 한국어 사용자는 반복 작업을 재사용 가능한 스킬로 정리이나 도메인별 스킬 탐색이 필요할 때 우선 살펴보면 됩니다. repo 이름과 명령어, 원본 링크는 검색성과 재현성을 위해 그대로 유지했습니다.\n용도: 반복 작업을 재사용 가능한 스킬로 정리, 도메인별 스킬 탐색, 팀 단위 작업 표준화, 스킬\n태그: 스킬·레지스트리, 스킬, 재사용 가능한 작업 절차, drawio skill\n원문 설명: Generate draw.io diagrams from natural language descriptions",
+      "text": "Agents365-ai/drawio-skill (스킬·레지스트리)\n반복 작업을 스킬로 묶고 다시 쓰기 쉽게 정리하는 프로젝트입니다.\n반복 작업을 스킬로 묶고 다시 쓰기 쉽게 정리하는 프로젝트입니다. 스킬·레지스트리 분류에서 반복 작업을 스킬로 정리할 때 먼저 살펴보면 좋습니다. 도메인별 스킬을 탐색할 때도 함께 참고할 만합니다. 저장소 이름, 명령어, 원문 링크는 정확한 확인을 위해 그대로 유지했습니다.\n용도: 반복 작업을 스킬로 정리, 도메인별 스킬 탐색, 팀 작업 방식 표준화, 스킬\n태그: 스킬·레지스트리, 스킬, 재사용 가능한 작업 절차, 반복 작업을 스킬로 정리, 도메인별 스킬 탐색, 팀 작업 방식 표준화\n원문 설명: Generate draw.io diagrams from natural language descriptions",
       "sourceUrl": "https://github.com/Agents365-ai/drawio-skill"
     },
     {
@@ -359,7 +359,7 @@
       "repoId": "Agents365-ai/drawio-skill",
       "title": "Agents365-ai/drawio-skill",
       "section": "용도",
-      "text": "Agents365-ai/drawio-skill의 주요 용도: 반복 작업을 재사용 가능한 스킬로 정리, 도메인별 스킬 탐색, 팀 단위 작업 표준화, 스킬",
+      "text": "Agents365-ai/drawio-skill의 주요 용도: 반복 작업을 스킬로 정리, 도메인별 스킬 탐색, 팀 작업 방식 표준화, 스킬",
       "sourceUrl": "https://github.com/Agents365-ai/drawio-skill"
     },
     {
@@ -371,7 +371,7 @@
       "repoId": "smartcontractkit/chainlink-agent-skills",
       "title": "smartcontractkit/chainlink-agent-skills",
       "section": "한국어 요약",
-      "text": "smartcontractkit/chainlink-agent-skills (스킬·레지스트리)\nsmartcontractkit/chainlink-agent-skills: Oracle network and smart contract interaction skills (agentskills.io spec)을 한국어 Atlas 기준으로 분류한 프로젝트입니다.\nsmartcontractkit/chainlink-agent-skills는 스킬·레지스트리 범주에서 볼 만한 프로젝트입니다. 원문 설명 기준으로는 “Oracle network and smart contract interaction skills (agentskills.io spec)”에 초점이 있습니다. 한국어 사용자는 반복 작업을 재사용 가능한 스킬로 정리이나 도메인별 스킬 탐색이 필요할 때 우선 살펴보면 됩니다. repo 이름과 명령어, 원본 링크는 검색성과 재현성을 위해 그대로 유지했습니다.\n용도: 반복 작업을 재사용 가능한 스킬로 정리, 도메인별 스킬 탐색, 팀 단위 작업 표준화, 스킬\n태그: 스킬·레지스트리, 스킬, 재사용 가능한 작업 절차, chainlink agent skills\n원문 설명: Oracle network and smart contract interaction skills (agentskills.io spec)",
+      "text": "smartcontractkit/chainlink-agent-skills (스킬·레지스트리)\n오라클 네트워크와 스마트컨트랙트 상호작용을 다루는 스킬 모음입니다.\n오라클 네트워크와 스마트컨트랙트 상호작용을 다루는 스킬 모음입니다. 스킬·레지스트리 분류에서 반복 작업을 스킬로 정리할 때 먼저 살펴보면 좋습니다. 도메인별 스킬을 탐색할 때도 함께 참고할 만합니다. 저장소 이름, 명령어, 원문 링크는 정확한 확인을 위해 그대로 유지했습니다.\n용도: 반복 작업을 스킬로 정리, 도메인별 스킬 탐색, 팀 작업 방식 표준화, 스킬\n태그: 스킬·레지스트리, 스킬, 재사용 가능한 작업 절차, 반복 작업을 스킬로 정리, 도메인별 스킬 탐색, 팀 작업 방식 표준화\n원문 설명: Oracle network and smart contract interaction skills (agentskills.io spec)",
       "sourceUrl": "https://github.com/smartcontractkit/chainlink-agent-skills"
     },
     {
@@ -383,7 +383,7 @@
       "repoId": "smartcontractkit/chainlink-agent-skills",
       "title": "smartcontractkit/chainlink-agent-skills",
       "section": "용도",
-      "text": "smartcontractkit/chainlink-agent-skills의 주요 용도: 반복 작업을 재사용 가능한 스킬로 정리, 도메인별 스킬 탐색, 팀 단위 작업 표준화, 스킬",
+      "text": "smartcontractkit/chainlink-agent-skills의 주요 용도: 반복 작업을 스킬로 정리, 도메인별 스킬 탐색, 팀 작업 방식 표준화, 스킬",
       "sourceUrl": "https://github.com/smartcontractkit/chainlink-agent-skills"
     },
     {
@@ -395,7 +395,7 @@
       "repoId": "tlehman/litprog-skill",
       "title": "tlehman/litprog-skill",
       "section": "한국어 요약",
-      "text": "tlehman/litprog-skill (스킬·레지스트리)\ntlehman/litprog-skill: Literate programming skill — weave code and documentation across agents을 한국어 Atlas 기준으로 분류한 프로젝트입니다.\ntlehman/litprog-skill는 스킬·레지스트리 범주에서 볼 만한 프로젝트입니다. 원문 설명 기준으로는 “Literate programming skill — weave code and documentation across agents”에 초점이 있습니다. 한국어 사용자는 반복 작업을 재사용 가능한 스킬로 정리이나 도메인별 스킬 탐색이 필요할 때 우선 살펴보면 됩니다. repo 이름과 명령어, 원본 링크는 검색성과 재현성을 위해 그대로 유지했습니다.\n용도: 반복 작업을 재사용 가능한 스킬로 정리, 도메인별 스킬 탐색, 팀 단위 작업 표준화, 스킬\n태그: 스킬·레지스트리, 스킬, 재사용 가능한 작업 절차, litprog skill\n원문 설명: Literate programming skill — weave code and documentation across agents",
+      "text": "tlehman/litprog-skill (스킬·레지스트리)\n코드와 문서를 함께 엮어 에이전트가 맥락을 잃지 않게 돕는 문서 결합형 프로그래밍 스킬입니다.\n코드와 문서를 함께 엮어 에이전트가 맥락을 잃지 않게 돕는 문서 결합형 프로그래밍 스킬입니다. 스킬·레지스트리 분류에서 반복 작업을 스킬로 정리할 때 먼저 살펴보면 좋습니다. 도메인별 스킬을 탐색할 때도 함께 참고할 만합니다. 저장소 이름, 명령어, 원문 링크는 정확한 확인을 위해 그대로 유지했습니다.\n용도: 반복 작업을 스킬로 정리, 도메인별 스킬 탐색, 팀 작업 방식 표준화, 스킬\n태그: 스킬·레지스트리, 스킬, 재사용 가능한 작업 절차, 반복 작업을 스킬로 정리, 도메인별 스킬 탐색, 팀 작업 방식 표준화\n원문 설명: Literate programming skill — weave code and documentation across agents",
       "sourceUrl": "https://github.com/tlehman/litprog-skill"
     },
     {
@@ -407,7 +407,7 @@
       "repoId": "tlehman/litprog-skill",
       "title": "tlehman/litprog-skill",
       "section": "용도",
-      "text": "tlehman/litprog-skill의 주요 용도: 반복 작업을 재사용 가능한 스킬로 정리, 도메인별 스킬 탐색, 팀 단위 작업 표준화, 스킬",
+      "text": "tlehman/litprog-skill의 주요 용도: 반복 작업을 스킬로 정리, 도메인별 스킬 탐색, 팀 작업 방식 표준화, 스킬",
       "sourceUrl": "https://github.com/tlehman/litprog-skill"
     },
     {
@@ -419,7 +419,7 @@
       "repoId": "esaradev/icarus-plugin",
       "title": "esaradev/icarus-plugin",
       "section": "한국어 요약",
-      "text": "esaradev/icarus-plugin (스킬·레지스트리)\nesaradev/icarus-plugin: Self — memory and replacement models — remember your work, train your replacement을 한국어 Atlas 기준으로 분류한 프로젝트입니다.\nesaradev/icarus-plugin는 스킬·레지스트리 범주에서 볼 만한 프로젝트입니다. 원문 설명 기준으로는 “Self — memory and replacement models — remember your work, train your replacement”에 초점이 있습니다. 한국어 사용자는 반복 작업을 재사용 가능한 스킬로 정리이나 도메인별 스킬 탐색이 필요할 때 우선 살펴보면 됩니다. repo 이름과 명령어, 원본 링크는 검색성과 재현성을 위해 그대로 유지했습니다.\n용도: 반복 작업을 재사용 가능한 스킬로 정리, 도메인별 스킬 탐색, 팀 단위 작업 표준화, 메모리\n태그: 스킬·레지스트리, 메모리, 컨텍스트 유지, icarus plugin\n원문 설명: Self-memory and replacement models — remember your work, train your replacement",
+      "text": "esaradev/icarus-plugin (스킬·레지스트리)\n작업 기억을 남기고 후속 모델이 이어받을 수 있게 돕는 메모리 플러그인입니다.\n작업 기억을 남기고 후속 모델이 이어받을 수 있게 돕는 메모리 플러그인입니다. 스킬·레지스트리 분류에서 반복 작업을 스킬로 정리할 때 먼저 살펴보면 좋습니다. 도메인별 스킬을 탐색할 때도 함께 참고할 만합니다. 저장소 이름, 명령어, 원문 링크는 정확한 확인을 위해 그대로 유지했습니다.\n용도: 반복 작업을 스킬로 정리, 도메인별 스킬 탐색, 팀 작업 방식 표준화, 메모리\n태그: 스킬·레지스트리, 메모리, 컨텍스트 유지, 반복 작업을 스킬로 정리, 도메인별 스킬 탐색, 팀 작업 방식 표준화\n원문 설명: Self-memory and replacement models — remember your work, train your replacement",
       "sourceUrl": "https://github.com/esaradev/icarus-plugin"
     },
     {
@@ -431,7 +431,7 @@
       "repoId": "esaradev/icarus-plugin",
       "title": "esaradev/icarus-plugin",
       "section": "용도",
-      "text": "esaradev/icarus-plugin의 주요 용도: 반복 작업을 재사용 가능한 스킬로 정리, 도메인별 스킬 탐색, 팀 단위 작업 표준화, 메모리",
+      "text": "esaradev/icarus-plugin의 주요 용도: 반복 작업을 스킬로 정리, 도메인별 스킬 탐색, 팀 작업 방식 표준화, 메모리",
       "sourceUrl": "https://github.com/esaradev/icarus-plugin"
     },
     {
@@ -443,7 +443,7 @@
       "repoId": "chigwell/skilldock.io",
       "title": "chigwell/skilldock.io",
       "section": "한국어 요약",
-      "text": "chigwell/skilldock.io (스킬·레지스트리)\nchigwell/skilldock.io: Registry of reusable AI skills based on AgentSkills specification을 한국어 Atlas 기준으로 분류한 프로젝트입니다.\nchigwell/skilldock.io는 스킬·레지스트리 범주에서 볼 만한 프로젝트입니다. 원문 설명 기준으로는 “Registry of reusable AI skills based on AgentSkills specification”에 초점이 있습니다. 한국어 사용자는 반복 작업을 재사용 가능한 스킬로 정리이나 도메인별 스킬 탐색이 필요할 때 우선 살펴보면 됩니다. repo 이름과 명령어, 원본 링크는 검색성과 재현성을 위해 그대로 유지했습니다.\n용도: 반복 작업을 재사용 가능한 스킬로 정리, 도메인별 스킬 탐색, 팀 단위 작업 표준화, 스킬\n태그: 스킬·레지스트리, 스킬, 재사용 가능한 작업 절차, skilldock.io\n원문 설명: Registry of reusable AI skills based on AgentSkills specification",
+      "text": "chigwell/skilldock.io (스킬·레지스트리)\n재사용 가능한 AI 스킬을 찾아보고 등록하는 레지스트리입니다.\n재사용 가능한 AI 스킬을 찾아보고 등록하는 레지스트리입니다. 스킬·레지스트리 분류에서 반복 작업을 스킬로 정리할 때 먼저 살펴보면 좋습니다. 도메인별 스킬을 탐색할 때도 함께 참고할 만합니다. 저장소 이름, 명령어, 원문 링크는 정확한 확인을 위해 그대로 유지했습니다.\n용도: 반복 작업을 스킬로 정리, 도메인별 스킬 탐색, 팀 작업 방식 표준화, 스킬\n태그: 스킬·레지스트리, 스킬, 재사용 가능한 작업 절차, 반복 작업을 스킬로 정리, 도메인별 스킬 탐색, 팀 작업 방식 표준화\n원문 설명: Registry of reusable AI skills based on AgentSkills specification",
       "sourceUrl": "https://github.com/chigwell/skilldock.io"
     },
     {
@@ -455,7 +455,7 @@
       "repoId": "chigwell/skilldock.io",
       "title": "chigwell/skilldock.io",
       "section": "용도",
-      "text": "chigwell/skilldock.io의 주요 용도: 반복 작업을 재사용 가능한 스킬로 정리, 도메인별 스킬 탐색, 팀 단위 작업 표준화, 스킬",
+      "text": "chigwell/skilldock.io의 주요 용도: 반복 작업을 스킬로 정리, 도메인별 스킬 탐색, 팀 작업 방식 표준화, 스킬",
       "sourceUrl": "https://github.com/chigwell/skilldock.io"
     },
     {
@@ -467,7 +467,7 @@
       "repoId": "black-forest-labs/skills",
       "title": "black-forest-labs/skills",
       "section": "한국어 요약",
-      "text": "black-forest-labs/skills (스킬·레지스트리)\nblack-forest-labs/skills: Official FLUX image generation skills — prompting guidelines and API integration을 한국어 Atlas 기준으로 분류한 프로젝트입니다.\nblack-forest-labs/skills는 스킬·레지스트리 범주에서 볼 만한 프로젝트입니다. 원문 설명 기준으로는 “Official FLUX image generation skills — prompting guidelines and API integration”에 초점이 있습니다. 한국어 사용자는 반복 작업을 재사용 가능한 스킬로 정리이나 도메인별 스킬 탐색이 필요할 때 우선 살펴보면 됩니다. repo 이름과 명령어, 원본 링크는 검색성과 재현성을 위해 그대로 유지했습니다.\n용도: 반복 작업을 재사용 가능한 스킬로 정리, 도메인별 스킬 탐색, 팀 단위 작업 표준화, 스킬\n태그: 스킬·레지스트리, 스킬, 재사용 가능한 작업 절차, GUI, 워크스페이스, 외부 서비스 연동\n원문 설명: Official FLUX image generation skills — prompting guidelines and API integration",
+      "text": "black-forest-labs/skills (스킬·레지스트리)\nFLUX 이미지 생성을 위한 프롬프트 가이드와 외부 서비스 연동 스킬입니다.\nFLUX 이미지 생성을 위한 프롬프트 가이드와 외부 서비스 연동 스킬입니다. 스킬·레지스트리 분류에서 반복 작업을 스킬로 정리할 때 먼저 살펴보면 좋습니다. 도메인별 스킬을 탐색할 때도 함께 참고할 만합니다. 저장소 이름, 명령어, 원문 링크는 정확한 확인을 위해 그대로 유지했습니다.\n용도: 반복 작업을 스킬로 정리, 도메인별 스킬 탐색, 팀 작업 방식 표준화, 스킬\n태그: 스킬·레지스트리, 스킬, 재사용 가능한 작업 절차, 화면형 인터페이스, 워크스페이스, 외부 서비스 연동\n원문 설명: Official FLUX image generation skills — prompting guidelines and API integration",
       "sourceUrl": "https://github.com/black-forest-labs/skills"
     },
     {
@@ -479,7 +479,7 @@
       "repoId": "black-forest-labs/skills",
       "title": "black-forest-labs/skills",
       "section": "용도",
-      "text": "black-forest-labs/skills의 주요 용도: 반복 작업을 재사용 가능한 스킬로 정리, 도메인별 스킬 탐색, 팀 단위 작업 표준화, 스킬",
+      "text": "black-forest-labs/skills의 주요 용도: 반복 작업을 스킬로 정리, 도메인별 스킬 탐색, 팀 작업 방식 표준화, 스킬",
       "sourceUrl": "https://github.com/black-forest-labs/skills"
     },
     {
@@ -491,7 +491,7 @@
       "repoId": "Romanescu11/hermes-skill-factory",
       "title": "Romanescu11/hermes-skill-factory",
       "section": "한국어 요약",
-      "text": "Romanescu11/hermes-skill-factory (스킬·레지스트리)\nRomanescu11/hermes-skill-factory: Meta — skill plugin that watches workflows and auto — generates reusable skills을 한국어 Atlas 기준으로 분류한 프로젝트입니다.\nRomanescu11/hermes-skill-factory는 스킬·레지스트리 범주에서 볼 만한 프로젝트입니다. 원문 설명 기준으로는 “Meta — skill plugin that watches workflows and auto — generates reusable skills”에 초점이 있습니다. 한국어 사용자는 반복 작업을 재사용 가능한 스킬로 정리이나 도메인별 스킬 탐색이 필요할 때 우선 살펴보면 됩니다. repo 이름과 명령어, 원본 링크는 검색성과 재현성을 위해 그대로 유지했습니다.\n용도: 반복 작업을 재사용 가능한 스킬로 정리, 도메인별 스킬 탐색, 팀 단위 작업 표준화, 스킬\n태그: 스킬·레지스트리, 스킬, 재사용 가능한 작업 절차, hermes skill factory\n원문 설명: Meta-skill plugin that watches workflows and auto-generates reusable skills",
+      "text": "Romanescu11/hermes-skill-factory (스킬·레지스트리)\n반복 작업을 스킬로 묶고 다시 쓰기 쉽게 정리하는 프로젝트입니다.\n반복 작업을 스킬로 묶고 다시 쓰기 쉽게 정리하는 프로젝트입니다. 스킬·레지스트리 분류에서 반복 작업을 스킬로 정리할 때 먼저 살펴보면 좋습니다. 도메인별 스킬을 탐색할 때도 함께 참고할 만합니다. 저장소 이름, 명령어, 원문 링크는 정확한 확인을 위해 그대로 유지했습니다.\n용도: 반복 작업을 스킬로 정리, 도메인별 스킬 탐색, 팀 작업 방식 표준화, 스킬\n태그: 스킬·레지스트리, 스킬, 재사용 가능한 작업 절차, 반복 작업을 스킬로 정리, 도메인별 스킬 탐색, 팀 작업 방식 표준화\n원문 설명: Meta-skill plugin that watches workflows and auto-generates reusable skills",
       "sourceUrl": "https://github.com/Romanescu11/hermes-skill-factory"
     },
     {
@@ -503,7 +503,7 @@
       "repoId": "Romanescu11/hermes-skill-factory",
       "title": "Romanescu11/hermes-skill-factory",
       "section": "용도",
-      "text": "Romanescu11/hermes-skill-factory의 주요 용도: 반복 작업을 재사용 가능한 스킬로 정리, 도메인별 스킬 탐색, 팀 단위 작업 표준화, 스킬",
+      "text": "Romanescu11/hermes-skill-factory의 주요 용도: 반복 작업을 스킬로 정리, 도메인별 스킬 탐색, 팀 작업 방식 표준화, 스킬",
       "sourceUrl": "https://github.com/Romanescu11/hermes-skill-factory"
     },
     {
@@ -515,7 +515,7 @@
       "repoId": "ReinaMacCredy/maestro",
       "title": "ReinaMacCredy/maestro",
       "section": "한국어 요약",
-      "text": "ReinaMacCredy/maestro (스킬·레지스트리)\nReinaMacCredy/maestro: Harness for long — running AI agents — structured memory, cross — feature learning, plan — approve — execute을 한국어 Atlas 기준으로 분류한 프로젝트입니다.\nReinaMacCredy/maestro는 스킬·레지스트리 범주에서 볼 만한 프로젝트입니다. 원문 설명 기준으로는 “Harness for long — running AI agents — structured memory, cross — feature learning, plan — approve — execute”에 초점이 있습니다. 한국어 사용자는 반복 작업을 재사용 가능한 스킬로 정리이나 도메인별 스킬 탐색이 필요할 때 우선 살펴보면 됩니다. repo 이름과 명령어, 원본 링크는 검색성과 재현성을 위해 그대로 유지했습니다.\n용도: 반복 작업을 재사용 가능한 스킬로 정리, 도메인별 스킬 탐색, 팀 단위 작업 표준화, 메모리\n태그: 스킬·레지스트리, 메모리, 컨텍스트 유지, maestro\n원문 설명: Harness for long-running AI agents — structured memory, cross-feature learning, plan-approve-execute",
+      "text": "ReinaMacCredy/maestro (스킬·레지스트리)\n반복 작업을 스킬로 묶고 다시 쓰기 쉽게 정리하는 프로젝트입니다.\n반복 작업을 스킬로 묶고 다시 쓰기 쉽게 정리하는 프로젝트입니다. 스킬·레지스트리 분류에서 반복 작업을 스킬로 정리할 때 먼저 살펴보면 좋습니다. 도메인별 스킬을 탐색할 때도 함께 참고할 만합니다. 저장소 이름, 명령어, 원문 링크는 정확한 확인을 위해 그대로 유지했습니다.\n용도: 반복 작업을 스킬로 정리, 도메인별 스킬 탐색, 팀 작업 방식 표준화, 메모리\n태그: 스킬·레지스트리, 메모리, 컨텍스트 유지, 반복 작업을 스킬로 정리, 도메인별 스킬 탐색, 팀 작업 방식 표준화\n원문 설명: Harness for long-running AI agents — structured memory, cross-feature learning, plan-approve-execute",
       "sourceUrl": "https://github.com/ReinaMacCredy/maestro"
     },
     {
@@ -527,7 +527,7 @@
       "repoId": "ReinaMacCredy/maestro",
       "title": "ReinaMacCredy/maestro",
       "section": "용도",
-      "text": "ReinaMacCredy/maestro의 주요 용도: 반복 작업을 재사용 가능한 스킬로 정리, 도메인별 스킬 탐색, 팀 단위 작업 표준화, 메모리",
+      "text": "ReinaMacCredy/maestro의 주요 용도: 반복 작업을 스킬로 정리, 도메인별 스킬 탐색, 팀 작업 방식 표준화, 메모리",
       "sourceUrl": "https://github.com/ReinaMacCredy/maestro"
     },
     {
@@ -539,7 +539,7 @@
       "repoId": "tiann/execplan-skill",
       "title": "tiann/execplan-skill",
       "section": "한국어 요약",
-      "text": "tiann/execplan-skill (스킬·레지스트리)\ntiann/execplan-skill: Complex multi — step task execution with checkpoints and recovery을 한국어 Atlas 기준으로 분류한 프로젝트입니다.\ntiann/execplan-skill는 스킬·레지스트리 범주에서 볼 만한 프로젝트입니다. 원문 설명 기준으로는 “Complex multi — step task execution with checkpoints and recovery”에 초점이 있습니다. 한국어 사용자는 반복 작업을 재사용 가능한 스킬로 정리이나 도메인별 스킬 탐색이 필요할 때 우선 살펴보면 됩니다. repo 이름과 명령어, 원본 링크는 검색성과 재현성을 위해 그대로 유지했습니다.\n용도: 반복 작업을 재사용 가능한 스킬로 정리, 도메인별 스킬 탐색, 팀 단위 작업 표준화, 스킬\n태그: 스킬·레지스트리, 스킬, 재사용 가능한 작업 절차, execplan skill\n원문 설명: Complex multi-step task execution with checkpoints and recovery",
+      "text": "tiann/execplan-skill (스킬·레지스트리)\n복잡한 여러 단계 작업을 체크포인트와 복구 흐름으로 실행하도록 돕는 스킬입니다.\n복잡한 여러 단계 작업을 체크포인트와 복구 흐름으로 실행하도록 돕는 스킬입니다. 스킬·레지스트리 분류에서 반복 작업을 스킬로 정리할 때 먼저 살펴보면 좋습니다. 도메인별 스킬을 탐색할 때도 함께 참고할 만합니다. 저장소 이름, 명령어, 원문 링크는 정확한 확인을 위해 그대로 유지했습니다.\n용도: 반복 작업을 스킬로 정리, 도메인별 스킬 탐색, 팀 작업 방식 표준화, 스킬\n태그: 스킬·레지스트리, 스킬, 재사용 가능한 작업 절차, 반복 작업을 스킬로 정리, 도메인별 스킬 탐색, 팀 작업 방식 표준화\n원문 설명: Complex multi-step task execution with checkpoints and recovery",
       "sourceUrl": "https://github.com/tiann/execplan-skill"
     },
     {
@@ -551,7 +551,7 @@
       "repoId": "tiann/execplan-skill",
       "title": "tiann/execplan-skill",
       "section": "용도",
-      "text": "tiann/execplan-skill의 주요 용도: 반복 작업을 재사용 가능한 스킬로 정리, 도메인별 스킬 탐색, 팀 단위 작업 표준화, 스킬",
+      "text": "tiann/execplan-skill의 주요 용도: 반복 작업을 스킬로 정리, 도메인별 스킬 탐색, 팀 작업 방식 표준화, 스킬",
       "sourceUrl": "https://github.com/tiann/execplan-skill"
     },
     {
@@ -563,7 +563,7 @@
       "repoId": "cablate/Agentic-MCP-Skill",
       "title": "cablate/Agentic-MCP-Skill",
       "section": "한국어 요약",
-      "text": "cablate/Agentic-MCP-Skill (스킬·레지스트리)\ncablate/Agentic-MCP-Skill: Progressive MCP client with three — layer lazy loading — validates agentskills.io pattern을 한국어 Atlas 기준으로 분류한 프로젝트입니다.\ncablate/Agentic-MCP-Skill는 스킬·레지스트리 범주에서 볼 만한 프로젝트입니다. 원문 설명 기준으로는 “Progressive MCP client with three — layer lazy loading — validates agentskills.io pattern”에 초점이 있습니다. 한국어 사용자는 반복 작업을 재사용 가능한 스킬로 정리이나 도메인별 스킬 탐색이 필요할 때 우선 살펴보면 됩니다. repo 이름과 명령어, 원본 링크는 검색성과 재현성을 위해 그대로 유지했습니다.\n용도: 반복 작업을 재사용 가능한 스킬로 정리, 도메인별 스킬 탐색, 팀 단위 작업 표준화, 스킬\n태그: 스킬·레지스트리, 스킬, 재사용 가능한 작업 절차, MCP, 외부 도구 연결, Agentic MCP Skill\n원문 설명: Progressive MCP client with three-layer lazy loading — validates agentskills.io pattern",
+      "text": "cablate/Agentic-MCP-Skill (스킬·레지스트리)\nMCP 서버와 도구를 에이전트가 필요한 만큼 단계적으로 불러오게 하는 클라이언트 패턴입니다.\nMCP 서버와 도구를 에이전트가 필요한 만큼 단계적으로 불러오게 하는 클라이언트 패턴입니다. 스킬·레지스트리 분류에서 반복 작업을 스킬로 정리할 때 먼저 살펴보면 좋습니다. 도메인별 스킬을 탐색할 때도 함께 참고할 만합니다. 저장소 이름, 명령어, 원문 링크는 정확한 확인을 위해 그대로 유지했습니다.\n용도: 반복 작업을 스킬로 정리, 도메인별 스킬 탐색, 팀 작업 방식 표준화, 스킬\n태그: 스킬·레지스트리, 스킬, 재사용 가능한 작업 절차, MCP, 외부 도구 연결, 반복 작업을 스킬로 정리\n원문 설명: Progressive MCP client with three-layer lazy loading — validates agentskills.io pattern",
       "sourceUrl": "https://github.com/cablate/Agentic-MCP-Skill"
     },
     {
@@ -575,7 +575,7 @@
       "repoId": "cablate/Agentic-MCP-Skill",
       "title": "cablate/Agentic-MCP-Skill",
       "section": "용도",
-      "text": "cablate/Agentic-MCP-Skill의 주요 용도: 반복 작업을 재사용 가능한 스킬로 정리, 도메인별 스킬 탐색, 팀 단위 작업 표준화, 스킬",
+      "text": "cablate/Agentic-MCP-Skill의 주요 용도: 반복 작업을 스킬로 정리, 도메인별 스킬 탐색, 팀 작업 방식 표준화, 스킬",
       "sourceUrl": "https://github.com/cablate/Agentic-MCP-Skill"
     },
     {
@@ -587,7 +587,7 @@
       "repoId": "armelhbobdad/bmad-module-skill-forge",
       "title": "armelhbobdad/bmad-module-skill-forge",
       "section": "한국어 요약",
-      "text": "armelhbobdad/bmad-module-skill-forge (스킬·레지스트리)\narmelhbobdad/bmad-module-skill-forge: Converts repos, docs, and developer discourse into agentskills.io — compliant skills을 한국어 Atlas 기준으로 분류한 프로젝트입니다.\narmelhbobdad/bmad-module-skill-forge는 스킬·레지스트리 범주에서 볼 만한 프로젝트입니다. 원문 설명 기준으로는 “Converts repos, docs, and developer discourse into agentskills.io — compliant skills”에 초점이 있습니다. 한국어 사용자는 반복 작업을 재사용 가능한 스킬로 정리이나 도메인별 스킬 탐색이 필요할 때 우선 살펴보면 됩니다. repo 이름과 명령어, 원본 링크는 검색성과 재현성을 위해 그대로 유지했습니다.\n용도: 반복 작업을 재사용 가능한 스킬로 정리, 도메인별 스킬 탐색, 팀 단위 작업 표준화, 스킬\n태그: 스킬·레지스트리, 스킬, 재사용 가능한 작업 절차, bmad module skill forge\n원문 설명: Converts repos, docs, and developer discourse into agentskills.io-compliant skills",
+      "text": "armelhbobdad/bmad-module-skill-forge (스킬·레지스트리)\n저장소, 문서, 개발자 대화를 agentskills.io 형식의 스킬로 바꾸는 도구입니다.\n저장소, 문서, 개발자 대화를 agentskills.io 형식의 스킬로 바꾸는 도구입니다. 스킬·레지스트리 분류에서 반복 작업을 스킬로 정리할 때 먼저 살펴보면 좋습니다. 도메인별 스킬을 탐색할 때도 함께 참고할 만합니다. 저장소 이름, 명령어, 원문 링크는 정확한 확인을 위해 그대로 유지했습니다.\n용도: 반복 작업을 스킬로 정리, 도메인별 스킬 탐색, 팀 작업 방식 표준화, 스킬\n태그: 스킬·레지스트리, 스킬, 재사용 가능한 작업 절차, 반복 작업을 스킬로 정리, 도메인별 스킬 탐색, 팀 작업 방식 표준화\n원문 설명: Converts repos, docs, and developer discourse into agentskills.io-compliant skills",
       "sourceUrl": "https://github.com/armelhbobdad/bmad-module-skill-forge"
     },
     {
@@ -599,7 +599,7 @@
       "repoId": "armelhbobdad/bmad-module-skill-forge",
       "title": "armelhbobdad/bmad-module-skill-forge",
       "section": "용도",
-      "text": "armelhbobdad/bmad-module-skill-forge의 주요 용도: 반복 작업을 재사용 가능한 스킬로 정리, 도메인별 스킬 탐색, 팀 단위 작업 표준화, 스킬",
+      "text": "armelhbobdad/bmad-module-skill-forge의 주요 용도: 반복 작업을 스킬로 정리, 도메인별 스킬 탐색, 팀 작업 방식 표준화, 스킬",
       "sourceUrl": "https://github.com/armelhbobdad/bmad-module-skill-forge"
     },
     {
@@ -611,7 +611,7 @@
       "repoId": "amanning3390/hermeshub",
       "title": "amanning3390/hermeshub",
       "section": "한국어 요약",
-      "text": "amanning3390/hermeshub (스킬·레지스트리)\namanning3390/hermeshub: Community skill browsing, search, and one — click installation hub을 한국어 Atlas 기준으로 분류한 프로젝트입니다.\namanning3390/hermeshub는 스킬·레지스트리 범주에서 볼 만한 프로젝트입니다. 원문 설명 기준으로는 “Community skill browsing, search, and one — click installation hub”에 초점이 있습니다. 한국어 사용자는 반복 작업을 재사용 가능한 스킬로 정리이나 도메인별 스킬 탐색이 필요할 때 우선 살펴보면 됩니다. repo 이름과 명령어, 원본 링크는 검색성과 재현성을 위해 그대로 유지했습니다.\n용도: 반복 작업을 재사용 가능한 스킬로 정리, 도메인별 스킬 탐색, 팀 단위 작업 표준화, 스킬\n태그: 스킬·레지스트리, 스킬, 재사용 가능한 작업 절차, hermeshub\n원문 설명: Community skill browsing, search, and one-click installation hub",
+      "text": "amanning3390/hermeshub (스킬·레지스트리)\n반복 작업을 스킬로 묶고 다시 쓰기 쉽게 정리하는 프로젝트입니다.\n반복 작업을 스킬로 묶고 다시 쓰기 쉽게 정리하는 프로젝트입니다. 스킬·레지스트리 분류에서 반복 작업을 스킬로 정리할 때 먼저 살펴보면 좋습니다. 도메인별 스킬을 탐색할 때도 함께 참고할 만합니다. 저장소 이름, 명령어, 원문 링크는 정확한 확인을 위해 그대로 유지했습니다.\n용도: 반복 작업을 스킬로 정리, 도메인별 스킬 탐색, 팀 작업 방식 표준화, 스킬\n태그: 스킬·레지스트리, 스킬, 재사용 가능한 작업 절차, 반복 작업을 스킬로 정리, 도메인별 스킬 탐색, 팀 작업 방식 표준화\n원문 설명: Community skill browsing, search, and one-click installation hub",
       "sourceUrl": "https://github.com/amanning3390/hermeshub"
     },
     {
@@ -623,7 +623,7 @@
       "repoId": "amanning3390/hermeshub",
       "title": "amanning3390/hermeshub",
       "section": "용도",
-      "text": "amanning3390/hermeshub의 주요 용도: 반복 작업을 재사용 가능한 스킬로 정리, 도메인별 스킬 탐색, 팀 단위 작업 표준화, 스킬",
+      "text": "amanning3390/hermeshub의 주요 용도: 반복 작업을 스킬로 정리, 도메인별 스킬 탐색, 팀 작업 방식 표준화, 스킬",
       "sourceUrl": "https://github.com/amanning3390/hermeshub"
     },
     {
@@ -635,7 +635,7 @@
       "repoId": "PederHP/skillsdotnet",
       "title": "PederHP/skillsdotnet",
       "section": "한국어 요약",
-      "text": "PederHP/skillsdotnet (스킬·레지스트리)\nPederHP/skillsdotnet: C# / .NET implementation of agentskills.io with MCP integration을 한국어 Atlas 기준으로 분류한 프로젝트입니다.\nPederHP/skillsdotnet는 스킬·레지스트리 범주에서 볼 만한 프로젝트입니다. 원문 설명 기준으로는 “C# / .NET implementation of agentskills.io with MCP integration”에 초점이 있습니다. 한국어 사용자는 반복 작업을 재사용 가능한 스킬로 정리이나 도메인별 스킬 탐색이 필요할 때 우선 살펴보면 됩니다. repo 이름과 명령어, 원본 링크는 검색성과 재현성을 위해 그대로 유지했습니다.\n용도: 반복 작업을 재사용 가능한 스킬로 정리, 도메인별 스킬 탐색, 팀 단위 작업 표준화, 스킬\n태그: 스킬·레지스트리, 스킬, 재사용 가능한 작업 절차, MCP, 외부 도구 연결, skillsdotnet\n원문 설명: C# / .NET implementation of agentskills.io with MCP integration",
+      "text": "PederHP/skillsdotnet (스킬·레지스트리)\nMCP 서버와 도구를 에이전트가 필요한 만큼 단계적으로 불러오게 하는 클라이언트 패턴입니다.\nMCP 서버와 도구를 에이전트가 필요한 만큼 단계적으로 불러오게 하는 클라이언트 패턴입니다. 스킬·레지스트리 분류에서 반복 작업을 스킬로 정리할 때 먼저 살펴보면 좋습니다. 도메인별 스킬을 탐색할 때도 함께 참고할 만합니다. 저장소 이름, 명령어, 원문 링크는 정확한 확인을 위해 그대로 유지했습니다.\n용도: 반복 작업을 스킬로 정리, 도메인별 스킬 탐색, 팀 작업 방식 표준화, 스킬\n태그: 스킬·레지스트리, 스킬, 재사용 가능한 작업 절차, MCP, 외부 도구 연결, 반복 작업을 스킬로 정리\n원문 설명: C# / .NET implementation of agentskills.io with MCP integration",
       "sourceUrl": "https://github.com/PederHP/skillsdotnet"
     },
     {
@@ -647,7 +647,7 @@
       "repoId": "PederHP/skillsdotnet",
       "title": "PederHP/skillsdotnet",
       "section": "용도",
-      "text": "PederHP/skillsdotnet의 주요 용도: 반복 작업을 재사용 가능한 스킬로 정리, 도메인별 스킬 탐색, 팀 단위 작업 표준화, 스킬",
+      "text": "PederHP/skillsdotnet의 주요 용도: 반복 작업을 스킬로 정리, 도메인별 스킬 탐색, 팀 작업 방식 표준화, 스킬",
       "sourceUrl": "https://github.com/PederHP/skillsdotnet"
     },
     {
@@ -659,7 +659,7 @@
       "repoId": "mem0ai/mem0",
       "title": "mem0ai/mem0",
       "section": "한국어 요약",
-      "text": "mem0ai/mem0 (메모리·컨텍스트)\nAI 에이전트를 위한 범용 메모리 계층으로, Hermes Agent의 공식 메모리 provider 중 하나입니다.\nmem0는 에이전트가 사용자 정보와 과거 상호작용을 기억하게 해주는 메모리 계층입니다. 관리형 클라우드로 쓰거나 Apache-2.0 기반 오픈소스로 직접 운영할 수 있습니다. Hermes를 장기 기억 중심으로 쓰려는 경우 우선 검토할 만한 프로젝트입니다.\n용도: 장기 사용자 메모리, 에이전트 개인화, 셀프호스팅 메모리 백엔드\n태그: 메모리, 개인화, 셀프호스팅, provider\n원문 설명: Universal memory layer for AI Agents — official Hermes Agent memory provider, available as managed cloud or Apache-2.0 self-hosted OSS",
+      "text": "mem0ai/mem0 (메모리·컨텍스트)\nAI 에이전트를 위한 범용 메모리 계층으로, Hermes Agent의 공식 메모리 제공자 중 하나입니다.\nmem0는 에이전트가 사용자 정보와 과거 상호작용을 기억하게 해주는 메모리 계층입니다. 관리형 클라우드로 쓰거나 Apache-2.0 기반 오픈소스로 직접 운영할 수 있습니다. Hermes를 장기 기억 중심으로 쓰려는 경우 우선 검토할 만한 프로젝트입니다.\n용도: 장기 사용자 메모리, 에이전트 개인화, 셀프호스팅 메모리 백엔드\n태그: 메모리, 개인화, 셀프호스팅, 메모리 제공자\n원문 설명: Universal memory layer for AI Agents — official Hermes Agent memory provider, available as managed cloud or Apache-2.0 self-hosted OSS",
       "sourceUrl": "https://github.com/mem0ai/mem0"
     },
     {
@@ -683,7 +683,7 @@
       "repoId": "vectorize-io/hindsight",
       "title": "vectorize-io/hindsight",
       "section": "한국어 요약",
-      "text": "vectorize-io/hindsight (메모리·컨텍스트)\n에이전트가 경험을 저장하고 회상하며 반성하도록 돕는 장기 메모리 시스템입니다.\nHindsight는 retain, recall, reflect 흐름을 통해 에이전트가 장기적으로 학습하는 구조를 제공합니다. 단순 대화 저장소보다, 작업 결과를 다시 불러오고 개선 루프에 활용하는 메모리 계층에 가깝습니다. Hermes의 자기개선 개념과 잘 맞는 메모리 후보입니다.\n용도: 장기 작업 기억, 회고 기반 개선, 에이전트 학습 루프\n태그: 메모리, 회상, 반성, 장기학습\n원문 설명: Agent memory that learns — long-term retain/recall/reflect workflows",
+      "text": "vectorize-io/hindsight (메모리·컨텍스트)\n에이전트가 경험을 저장하고 회상하며 반성하도록 돕는 장기 메모리 시스템입니다.\nHindsight는 저장, 회상, 성찰 흐름을 통해 에이전트가 장기적으로 학습하는 구조를 제공합니다. 단순 대화 저장소보다, 작업 결과를 다시 불러오고 개선 루프에 활용하는 메모리 계층에 가깝습니다. Hermes의 자기개선 개념과 잘 맞는 메모리 후보입니다.\n용도: 장기 작업 기억, 회고 기반 개선, 에이전트 학습 루프\n태그: 메모리, 회상, 반성, 장기학습\n원문 설명: Agent memory that learns — long-term retain/recall/reflect workflows",
       "sourceUrl": "https://github.com/vectorize-io/hindsight"
     },
     {
@@ -707,7 +707,7 @@
       "repoId": "greyhaven-ai/autocontext",
       "title": "greyhaven-ai/autocontext",
       "section": "한국어 요약",
-      "text": "greyhaven-ai/autocontext (메모리·컨텍스트)\ngreyhaven-ai/autocontext: Recursive self — improving context harness — helps agents succeed on complex tasks을 한국어 Atlas 기준으로 분류한 프로젝트입니다.\ngreyhaven-ai/autocontext는 메모리·컨텍스트 범주에서 볼 만한 프로젝트입니다. 원문 설명 기준으로는 “Recursive self — improving context harness — helps agents succeed on complex tasks”에 초점이 있습니다. 한국어 사용자는 장기 기억 저장이나 세션 간 맥락 유지이 필요할 때 우선 살펴보면 됩니다. repo 이름과 명령어, 원본 링크는 검색성과 재현성을 위해 그대로 유지했습니다.\n용도: 장기 기억 저장, 세션 간 맥락 유지, 개인화된 에이전트 경험 구성, 메모리\n태그: 메모리·컨텍스트, 메모리, 컨텍스트 유지, autocontext\n원문 설명: Recursive self-improving context harness — helps agents succeed on complex tasks",
+      "text": "greyhaven-ai/autocontext (메모리·컨텍스트)\n에이전트가 장기 기억과 작업 맥락을 유지하도록 돕는 메모리 프로젝트입니다.\n에이전트가 장기 기억과 작업 맥락을 유지하도록 돕는 메모리 프로젝트입니다. 메모리·컨텍스트 분류에서 장기 기억 저장이 필요할 때 먼저 살펴보면 좋습니다. 세션 사이의 맥락 유지이 필요할 때도 함께 참고할 만합니다. 저장소 이름, 명령어, 원문 링크는 정확한 확인을 위해 그대로 유지했습니다.\n용도: 장기 기억 저장, 세션 사이의 맥락 유지, 개인화된 에이전트 구성, 메모리\n태그: 메모리·컨텍스트, 메모리, 컨텍스트 유지, 장기 기억 저장, 세션 사이의 맥락 유지, 개인화된 에이전트 구성\n원문 설명: Recursive self-improving context harness — helps agents succeed on complex tasks",
       "sourceUrl": "https://github.com/greyhaven-ai/autocontext"
     },
     {
@@ -719,7 +719,7 @@
       "repoId": "greyhaven-ai/autocontext",
       "title": "greyhaven-ai/autocontext",
       "section": "용도",
-      "text": "greyhaven-ai/autocontext의 주요 용도: 장기 기억 저장, 세션 간 맥락 유지, 개인화된 에이전트 경험 구성, 메모리",
+      "text": "greyhaven-ai/autocontext의 주요 용도: 장기 기억 저장, 세션 사이의 맥락 유지, 개인화된 에이전트 구성, 메모리",
       "sourceUrl": "https://github.com/greyhaven-ai/autocontext"
     },
     {
@@ -731,7 +731,7 @@
       "repoId": "elkimek/honcho-self-hosted",
       "title": "elkimek/honcho-self-hosted",
       "section": "한국어 요약",
-      "text": "elkimek/honcho-self-hosted (메모리·컨텍스트)\nelkimek/honcho-self-hosted: Self — hosted Honcho memory backend for cross — session persistence을 한국어 Atlas 기준으로 분류한 프로젝트입니다.\nelkimek/honcho-self-hosted는 메모리·컨텍스트 범주에서 볼 만한 프로젝트입니다. 원문 설명 기준으로는 “Self — hosted Honcho memory backend for cross — session persistence”에 초점이 있습니다. 한국어 사용자는 장기 기억 저장이나 세션 간 맥락 유지이 필요할 때 우선 살펴보면 됩니다. repo 이름과 명령어, 원본 링크는 검색성과 재현성을 위해 그대로 유지했습니다.\n용도: 장기 기억 저장, 세션 간 맥락 유지, 개인화된 에이전트 경험 구성, 메모리\n태그: 메모리·컨텍스트, 메모리, 컨텍스트 유지, honcho self hosted\n원문 설명: Self-hosted Honcho memory backend for cross-session persistence",
+      "text": "elkimek/honcho-self-hosted (메모리·컨텍스트)\n에이전트가 이전 작업과 사용자 맥락을 이어갈 수 있게 돕는 메모리 프로젝트입니다.\n에이전트가 이전 작업과 사용자 맥락을 이어갈 수 있게 돕는 메모리 프로젝트입니다. 메모리·컨텍스트 분류에서 장기 기억 저장이 필요할 때 먼저 살펴보면 좋습니다. 세션 사이의 맥락 유지이 필요할 때도 함께 참고할 만합니다. 저장소 이름, 명령어, 원문 링크는 정확한 확인을 위해 그대로 유지했습니다.\n용도: 장기 기억 저장, 세션 사이의 맥락 유지, 개인화된 에이전트 구성, 메모리\n태그: 메모리·컨텍스트, 메모리, 컨텍스트 유지, 장기 기억 저장, 세션 사이의 맥락 유지, 개인화된 에이전트 구성\n원문 설명: Self-hosted Honcho memory backend for cross-session persistence",
       "sourceUrl": "https://github.com/elkimek/honcho-self-hosted"
     },
     {
@@ -743,7 +743,7 @@
       "repoId": "elkimek/honcho-self-hosted",
       "title": "elkimek/honcho-self-hosted",
       "section": "용도",
-      "text": "elkimek/honcho-self-hosted의 주요 용도: 장기 기억 저장, 세션 간 맥락 유지, 개인화된 에이전트 경험 구성, 메모리",
+      "text": "elkimek/honcho-self-hosted의 주요 용도: 장기 기억 저장, 세션 사이의 맥락 유지, 개인화된 에이전트 구성, 메모리",
       "sourceUrl": "https://github.com/elkimek/honcho-self-hosted"
     },
     {
@@ -755,7 +755,7 @@
       "repoId": "yoloshii/ClawMem",
       "title": "yoloshii/ClawMem",
       "section": "한국어 요약",
-      "text": "yoloshii/ClawMem (메모리·컨텍스트)\nyoloshii/ClawMem: On — device memory and context engine for agents — local — first, no cloud dependencies을 한국어 Atlas 기준으로 분류한 프로젝트입니다.\nyoloshii/ClawMem는 메모리·컨텍스트 범주에서 볼 만한 프로젝트입니다. 원문 설명 기준으로는 “On — device memory and context engine for agents — local — first, no cloud dependencies”에 초점이 있습니다. 한국어 사용자는 장기 기억 저장이나 세션 간 맥락 유지이 필요할 때 우선 살펴보면 됩니다. repo 이름과 명령어, 원본 링크는 검색성과 재현성을 위해 그대로 유지했습니다.\n용도: 장기 기억 저장, 세션 간 맥락 유지, 개인화된 에이전트 경험 구성, 메모리\n태그: 메모리·컨텍스트, 메모리, 컨텍스트 유지, ClawMem\n원문 설명: On-device memory and context engine for agents — local-first, no cloud dependencies",
+      "text": "yoloshii/ClawMem (메모리·컨텍스트)\n에이전트가 장기 기억과 작업 맥락을 유지하도록 돕는 메모리 프로젝트입니다.\n에이전트가 장기 기억과 작업 맥락을 유지하도록 돕는 메모리 프로젝트입니다. 메모리·컨텍스트 분류에서 장기 기억 저장이 필요할 때 먼저 살펴보면 좋습니다. 세션 사이의 맥락 유지이 필요할 때도 함께 참고할 만합니다. 저장소 이름, 명령어, 원문 링크는 정확한 확인을 위해 그대로 유지했습니다.\n용도: 장기 기억 저장, 세션 사이의 맥락 유지, 개인화된 에이전트 구성, 메모리\n태그: 메모리·컨텍스트, 메모리, 컨텍스트 유지, 장기 기억 저장, 세션 사이의 맥락 유지, 개인화된 에이전트 구성\n원문 설명: On-device memory and context engine for agents — local-first, no cloud dependencies",
       "sourceUrl": "https://github.com/yoloshii/ClawMem"
     },
     {
@@ -767,7 +767,7 @@
       "repoId": "yoloshii/ClawMem",
       "title": "yoloshii/ClawMem",
       "section": "용도",
-      "text": "yoloshii/ClawMem의 주요 용도: 장기 기억 저장, 세션 간 맥락 유지, 개인화된 에이전트 경험 구성, 메모리",
+      "text": "yoloshii/ClawMem의 주요 용도: 장기 기억 저장, 세션 사이의 맥락 유지, 개인화된 에이전트 구성, 메모리",
       "sourceUrl": "https://github.com/yoloshii/ClawMem"
     },
     {
@@ -779,7 +779,7 @@
       "repoId": "plur-ai/plur",
       "title": "plur-ai/plur",
       "section": "한국어 요약",
-      "text": "plur-ai/plur (메모리·컨텍스트)\nplur-ai/plur: Shared memory layer with open engram YAML format for multi — agent systems을 한국어 Atlas 기준으로 분류한 프로젝트입니다.\nplur-ai/plur는 메모리·컨텍스트 범주에서 볼 만한 프로젝트입니다. 원문 설명 기준으로는 “Shared memory layer with open engram YAML format for multi — agent systems”에 초점이 있습니다. 한국어 사용자는 장기 기억 저장이나 세션 간 맥락 유지이 필요할 때 우선 살펴보면 됩니다. repo 이름과 명령어, 원본 링크는 검색성과 재현성을 위해 그대로 유지했습니다.\n용도: 장기 기억 저장, 세션 간 맥락 유지, 개인화된 에이전트 경험 구성, 메모리\n태그: 메모리·컨텍스트, 메모리, 컨텍스트 유지, 멀티 에이전트, 오케스트레이션, plur\n원문 설명: Shared memory layer with open engram YAML format for multi-agent systems",
+      "text": "plur-ai/plur (메모리·컨텍스트)\n에이전트가 장기 기억과 작업 맥락을 유지하도록 돕는 메모리 프로젝트입니다.\n에이전트가 장기 기억과 작업 맥락을 유지하도록 돕는 메모리 프로젝트입니다. 메모리·컨텍스트 분류에서 장기 기억 저장이 필요할 때 먼저 살펴보면 좋습니다. 세션 사이의 맥락 유지이 필요할 때도 함께 참고할 만합니다. 저장소 이름, 명령어, 원문 링크는 정확한 확인을 위해 그대로 유지했습니다.\n용도: 장기 기억 저장, 세션 사이의 맥락 유지, 개인화된 에이전트 구성, 메모리\n태그: 메모리·컨텍스트, 메모리, 컨텍스트 유지, 멀티 에이전트, 오케스트레이션, 장기 기억 저장\n원문 설명: Shared memory layer with open engram YAML format for multi-agent systems",
       "sourceUrl": "https://github.com/plur-ai/plur"
     },
     {
@@ -791,7 +791,7 @@
       "repoId": "plur-ai/plur",
       "title": "plur-ai/plur",
       "section": "용도",
-      "text": "plur-ai/plur의 주요 용도: 장기 기억 저장, 세션 간 맥락 유지, 개인화된 에이전트 경험 구성, 메모리",
+      "text": "plur-ai/plur의 주요 용도: 장기 기억 저장, 세션 사이의 맥락 유지, 개인화된 에이전트 구성, 메모리",
       "sourceUrl": "https://github.com/plur-ai/plur"
     },
     {
@@ -803,7 +803,7 @@
       "repoId": "amanning3390/flowstate-qmd",
       "title": "amanning3390/flowstate-qmd",
       "section": "한국어 요약",
-      "text": "amanning3390/flowstate-qmd (메모리·컨텍스트)\namanning3390/flowstate-qmd: Anticipatory memory with RAG and vector search — Hermes 2026 Hackathon entry을 한국어 Atlas 기준으로 분류한 프로젝트입니다.\namanning3390/flowstate-qmd는 메모리·컨텍스트 범주에서 볼 만한 프로젝트입니다. 원문 설명 기준으로는 “Anticipatory memory with RAG and vector search — Hermes 2026 Hackathon entry”에 초점이 있습니다. 한국어 사용자는 장기 기억 저장이나 세션 간 맥락 유지이 필요할 때 우선 살펴보면 됩니다. repo 이름과 명령어, 원본 링크는 검색성과 재현성을 위해 그대로 유지했습니다.\n용도: 장기 기억 저장, 세션 간 맥락 유지, 개인화된 에이전트 경험 구성, 메모리\n태그: 메모리·컨텍스트, 메모리, 컨텍스트 유지, flowstate qmd\n원문 설명: Anticipatory memory with RAG and vector search — Hermes 2026 Hackathon entry",
+      "text": "amanning3390/flowstate-qmd (메모리·컨텍스트)\n에이전트가 이전 작업과 사용자 맥락을 이어갈 수 있게 돕는 메모리 프로젝트입니다.\n에이전트가 이전 작업과 사용자 맥락을 이어갈 수 있게 돕는 메모리 프로젝트입니다. 메모리·컨텍스트 분류에서 장기 기억 저장이 필요할 때 먼저 살펴보면 좋습니다. 세션 사이의 맥락 유지이 필요할 때도 함께 참고할 만합니다. 저장소 이름, 명령어, 원문 링크는 정확한 확인을 위해 그대로 유지했습니다.\n용도: 장기 기억 저장, 세션 사이의 맥락 유지, 개인화된 에이전트 구성, 메모리\n태그: 메모리·컨텍스트, 메모리, 컨텍스트 유지, 장기 기억 저장, 세션 사이의 맥락 유지, 개인화된 에이전트 구성\n원문 설명: Anticipatory memory with RAG and vector search — Hermes 2026 Hackathon entry",
       "sourceUrl": "https://github.com/amanning3390/flowstate-qmd"
     },
     {
@@ -815,7 +815,7 @@
       "repoId": "amanning3390/flowstate-qmd",
       "title": "amanning3390/flowstate-qmd",
       "section": "용도",
-      "text": "amanning3390/flowstate-qmd의 주요 용도: 장기 기억 저장, 세션 간 맥락 유지, 개인화된 에이전트 경험 구성, 메모리",
+      "text": "amanning3390/flowstate-qmd의 주요 용도: 장기 기억 저장, 세션 사이의 맥락 유지, 개인화된 에이전트 구성, 메모리",
       "sourceUrl": "https://github.com/amanning3390/flowstate-qmd"
     },
     {
@@ -827,7 +827,7 @@
       "repoId": "robbyczgw-cla/hermes-web-search-plus",
       "title": "robbyczgw-cla/hermes-web-search-plus",
       "section": "한국어 요약",
-      "text": "robbyczgw-cla/hermes-web-search-plus (플러그인·확장)\nrobbyczgw-cla/hermes-web-search-plus: Multi — provider web search (Serper, Tavily, Exa, Querit, Perplexity) with auto — routing을 한국어 Atlas 기준으로 분류한 프로젝트입니다.\nrobbyczgw-cla/hermes-web-search-plus는 플러그인·확장 범주에서 볼 만한 프로젝트입니다. 원문 설명 기준으로는 “Multi — provider web search (Serper, Tavily, Exa, Querit, Perplexity) with auto — routing”에 초점이 있습니다. 한국어 사용자는 Hermes 기능 확장이나 외부 도구 연결이 필요할 때 우선 살펴보면 됩니다. repo 이름과 명령어, 원본 링크는 검색성과 재현성을 위해 그대로 유지했습니다.\n용도: Hermes 기능 확장, 외부 도구 연결, 특정 작업 흐름 자동화\n태그: 플러그인·확장, hermes web search plus\n원문 설명: Multi-provider web search (Serper, Tavily, Exa, Querit, Perplexity) with auto-routing",
+      "text": "robbyczgw-cla/hermes-web-search-plus (플러그인·확장)\n웹 검색이나 브라우저 조작을 Hermes 작업 흐름에 붙이는 확장 프로젝트입니다.\n웹 검색이나 브라우저 조작을 Hermes 작업 흐름에 붙이는 확장 프로젝트입니다. 플러그인·확장 분류에서 Hermes 기능 확장이 필요할 때 먼저 살펴보면 좋습니다. 외부 도구 연결이 필요할 때도 함께 참고할 만합니다. 저장소 이름, 명령어, 원문 링크는 정확한 확인을 위해 그대로 유지했습니다.\n용도: Hermes 기능 확장, 외부 도구 연결, 특정 작업 흐름 자동화\n태그: 플러그인·확장, Hermes 기능 확장, 외부 도구 연결, 특정 작업 흐름 자동화\n원문 설명: Multi-provider web search (Serper, Tavily, Exa, Querit, Perplexity) with auto-routing",
       "sourceUrl": "https://github.com/robbyczgw-cla/hermes-web-search-plus"
     },
     {
@@ -851,7 +851,7 @@
       "repoId": "42-evey/hermes-plugins",
       "title": "42-evey/hermes-plugins",
       "section": "한국어 요약",
-      "text": "42-evey/hermes-plugins (플러그인·확장)\n42-evey/hermes-plugins: Goal management, inter — agent bridge, model selection, and cost control plugins을 한국어 Atlas 기준으로 분류한 프로젝트입니다.\n42-evey/hermes-plugins는 플러그인·확장 범주에서 볼 만한 프로젝트입니다. 원문 설명 기준으로는 “Goal management, inter — agent bridge, model selection, and cost control plugins”에 초점이 있습니다. 한국어 사용자는 Hermes 기능 확장이나 외부 도구 연결이 필요할 때 우선 살펴보면 됩니다. repo 이름과 명령어, 원본 링크는 검색성과 재현성을 위해 그대로 유지했습니다.\n용도: Hermes 기능 확장, 외부 도구 연결, 특정 작업 흐름 자동화\n태그: 플러그인·확장, hermes plugins\n원문 설명: Goal management, inter-agent bridge, model selection, and cost control plugins",
+      "text": "42-evey/hermes-plugins (플러그인·확장)\nHermes에 새로운 기능이나 외부 도구를 붙이는 확장 프로젝트입니다.\nHermes에 새로운 기능이나 외부 도구를 붙이는 확장 프로젝트입니다. 플러그인·확장 분류에서 Hermes 기능 확장이 필요할 때 먼저 살펴보면 좋습니다. 외부 도구 연결이 필요할 때도 함께 참고할 만합니다. 저장소 이름, 명령어, 원문 링크는 정확한 확인을 위해 그대로 유지했습니다.\n용도: Hermes 기능 확장, 외부 도구 연결, 특정 작업 흐름 자동화\n태그: 플러그인·확장, Hermes 기능 확장, 외부 도구 연결, 특정 작업 흐름 자동화\n원문 설명: Goal management, inter-agent bridge, model selection, and cost control plugins",
       "sourceUrl": "https://github.com/42-evey/hermes-plugins"
     },
     {
@@ -875,7 +875,7 @@
       "repoId": "FahrenheitResearch/hermes-weather-plugin",
       "title": "FahrenheitResearch/hermes-weather-plugin",
       "section": "한국어 요약",
-      "text": "FahrenheitResearch/hermes-weather-plugin (플러그인·확장)\nFahrenheitResearch/hermes-weather-plugin: NWS — grade model imagery, NEXRAD radar, and verified meteorological calculations. Pure Rust.을 한국어 Atlas 기준으로 분류한 프로젝트입니다.\nFahrenheitResearch/hermes-weather-plugin는 플러그인·확장 범주에서 볼 만한 프로젝트입니다. 원문 설명 기준으로는 “NWS — grade model imagery, NEXRAD radar, and verified meteorological calculations. Pure Rust.”에 초점이 있습니다. 한국어 사용자는 Hermes 기능 확장이나 외부 도구 연결이 필요할 때 우선 살펴보면 됩니다. repo 이름과 명령어, 원본 링크는 검색성과 재현성을 위해 그대로 유지했습니다.\n용도: Hermes 기능 확장, 외부 도구 연결, 특정 작업 흐름 자동화\n태그: 플러그인·확장, hermes weather plugin\n원문 설명: NWS-grade model imagery, NEXRAD radar, and verified meteorological calculations. Pure Rust.",
+      "text": "FahrenheitResearch/hermes-weather-plugin (플러그인·확장)\nHermes에 새로운 기능이나 외부 도구를 붙이는 확장 프로젝트입니다.\nHermes에 새로운 기능이나 외부 도구를 붙이는 확장 프로젝트입니다. 플러그인·확장 분류에서 Hermes 기능 확장이 필요할 때 먼저 살펴보면 좋습니다. 외부 도구 연결이 필요할 때도 함께 참고할 만합니다. 저장소 이름, 명령어, 원문 링크는 정확한 확인을 위해 그대로 유지했습니다.\n용도: Hermes 기능 확장, 외부 도구 연결, 특정 작업 흐름 자동화\n태그: 플러그인·확장, Hermes 기능 확장, 외부 도구 연결, 특정 작업 흐름 자동화\n원문 설명: NWS-grade model imagery, NEXRAD radar, and verified meteorological calculations. Pure Rust.",
       "sourceUrl": "https://github.com/FahrenheitResearch/hermes-weather-plugin"
     },
     {
@@ -899,7 +899,7 @@
       "repoId": "42-evey/evey-bridge-plugin",
       "title": "42-evey/evey-bridge-plugin",
       "section": "한국어 요약",
-      "text": "42-evey/evey-bridge-plugin (플러그인·확장)\n42-evey/evey-bridge-plugin: Claude Code and Hermes context sharing bridge — auto — checks messages, Mother Mode loop을 한국어 Atlas 기준으로 분류한 프로젝트입니다.\n42-evey/evey-bridge-plugin는 플러그인·확장 범주에서 볼 만한 프로젝트입니다. 원문 설명 기준으로는 “Claude Code and Hermes context sharing bridge — auto — checks messages, Mother Mode loop”에 초점이 있습니다. 한국어 사용자는 Hermes 기능 확장이나 외부 도구 연결이 필요할 때 우선 살펴보면 됩니다. repo 이름과 명령어, 원본 링크는 검색성과 재현성을 위해 그대로 유지했습니다.\n용도: Hermes 기능 확장, 외부 도구 연결, 특정 작업 흐름 자동화, 메모리\n태그: 플러그인·확장, 메모리, 컨텍스트 유지, evey bridge plugin\n원문 설명: Claude Code and Hermes context sharing bridge — auto-checks messages, Mother Mode loop",
+      "text": "42-evey/evey-bridge-plugin (플러그인·확장)\n에이전트가 장기 기억과 작업 맥락을 유지하도록 돕는 메모리 프로젝트입니다.\n에이전트가 장기 기억과 작업 맥락을 유지하도록 돕는 메모리 프로젝트입니다. 플러그인·확장 분류에서 Hermes 기능 확장이 필요할 때 먼저 살펴보면 좋습니다. 외부 도구 연결이 필요할 때도 함께 참고할 만합니다. 저장소 이름, 명령어, 원문 링크는 정확한 확인을 위해 그대로 유지했습니다.\n용도: Hermes 기능 확장, 외부 도구 연결, 특정 작업 흐름 자동화, 메모리\n태그: 플러그인·확장, 메모리, 컨텍스트 유지, Hermes 기능 확장, 외부 도구 연결, 특정 작업 흐름 자동화\n원문 설명: Claude Code and Hermes context sharing bridge — auto-checks messages, Mother Mode loop",
       "sourceUrl": "https://github.com/42-evey/evey-bridge-plugin"
     },
     {
@@ -923,7 +923,7 @@
       "repoId": "nativ3ai/hermes-payguard",
       "title": "nativ3ai/hermes-payguard",
       "section": "한국어 요약",
-      "text": "nativ3ai/hermes-payguard (플러그인·확장)\nnativ3ai/hermes-payguard: Safe — by — design USDC and x402 payment plugin for Hermes Agent을 한국어 Atlas 기준으로 분류한 프로젝트입니다.\nnativ3ai/hermes-payguard는 플러그인·확장 범주에서 볼 만한 프로젝트입니다. 원문 설명 기준으로는 “Safe — by — design USDC and x402 payment plugin for Hermes Agent”에 초점이 있습니다. 한국어 사용자는 Hermes 기능 확장이나 외부 도구 연결이 필요할 때 우선 살펴보면 됩니다. repo 이름과 명령어, 원본 링크는 검색성과 재현성을 위해 그대로 유지했습니다.\n용도: Hermes 기능 확장, 외부 도구 연결, 특정 작업 흐름 자동화\n태그: 플러그인·확장, hermes payguard\n원문 설명: Safe-by-design USDC and x402 payment plugin for Hermes Agent",
+      "text": "nativ3ai/hermes-payguard (플러그인·확장)\nHermes에 새로운 기능이나 외부 도구를 붙이는 확장 프로젝트입니다.\nHermes에 새로운 기능이나 외부 도구를 붙이는 확장 프로젝트입니다. 플러그인·확장 분류에서 Hermes 기능 확장이 필요할 때 먼저 살펴보면 좋습니다. 외부 도구 연결이 필요할 때도 함께 참고할 만합니다. 저장소 이름, 명령어, 원문 링크는 정확한 확인을 위해 그대로 유지했습니다.\n용도: Hermes 기능 확장, 외부 도구 연결, 특정 작업 흐름 자동화\n태그: 플러그인·확장, Hermes 기능 확장, 외부 도구 연결, 특정 작업 흐름 자동화\n원문 설명: Safe-by-design USDC and x402 payment plugin for Hermes Agent",
       "sourceUrl": "https://github.com/nativ3ai/hermes-payguard"
     },
     {
@@ -947,7 +947,7 @@
       "repoId": "raulvidis/hermes-cloudflare",
       "title": "raulvidis/hermes-cloudflare",
       "section": "한국어 요약",
-      "text": "raulvidis/hermes-cloudflare (플러그인·확장)\nraulvidis/hermes-cloudflare: Cloudflare Browser Rendering plugin — crawl, scrape, extract content from web pages을 한국어 Atlas 기준으로 분류한 프로젝트입니다.\nraulvidis/hermes-cloudflare는 플러그인·확장 범주에서 볼 만한 프로젝트입니다. 원문 설명 기준으로는 “Cloudflare Browser Rendering plugin — crawl, scrape, extract content from web pages”에 초점이 있습니다. 한국어 사용자는 Hermes 기능 확장이나 외부 도구 연결이 필요할 때 우선 살펴보면 됩니다. repo 이름과 명령어, 원본 링크는 검색성과 재현성을 위해 그대로 유지했습니다.\n용도: Hermes 기능 확장, 외부 도구 연결, 특정 작업 흐름 자동화\n태그: 플러그인·확장, hermes cloudflare\n원문 설명: Cloudflare Browser Rendering plugin — crawl, scrape, extract content from web pages",
+      "text": "raulvidis/hermes-cloudflare (플러그인·확장)\nHermes를 서버나 셀프호스팅 환경에 배포하기 위한 인프라 프로젝트입니다.\nHermes를 서버나 셀프호스팅 환경에 배포하기 위한 인프라 프로젝트입니다. 플러그인·확장 분류에서 Hermes 기능 확장이 필요할 때 먼저 살펴보면 좋습니다. 외부 도구 연결이 필요할 때도 함께 참고할 만합니다. 저장소 이름, 명령어, 원문 링크는 정확한 확인을 위해 그대로 유지했습니다.\n용도: Hermes 기능 확장, 외부 도구 연결, 특정 작업 흐름 자동화\n태그: 플러그인·확장, Hermes 기능 확장, 외부 도구 연결, 특정 작업 흐름 자동화\n원문 설명: Cloudflare Browser Rendering plugin — crawl, scrape, extract content from web pages",
       "sourceUrl": "https://github.com/raulvidis/hermes-cloudflare"
     },
     {
@@ -971,7 +971,7 @@
       "repoId": "builderz-labs/mission-control",
       "title": "builderz-labs/mission-control",
       "section": "한국어 요약",
-      "text": "builderz-labs/mission-control (멀티 에이전트·오케스트레이션)\n여러 AI 에이전트 작업을 배정하고 실행 비용까지 관리하는 셀프호스팅 오케스트레이션 도구입니다.\nmission-control은 멀티 에이전트 작업을 dispatch하고 workflow로 묶어 실행하며 spend를 모니터링하는 도구입니다. 단일 Hermes 세션을 넘어 여러 에이전트에게 일을 나누고 운영 관점에서 통제하려는 경우 볼 만합니다.\n용도: 멀티 에이전트 운영, 작업 분배, 비용 모니터링\n태그: 오케스트레이션, 멀티 에이전트, 셀프호스팅, 비용관리\n원문 설명: Self-hosted AI agent orchestration — dispatch tasks, run multi-agent workflows, monitor spend",
+      "text": "builderz-labs/mission-control (멀티 에이전트·오케스트레이션)\n여러 AI 에이전트 작업을 배정하고 실행 비용까지 관리하는 셀프호스팅 오케스트레이션 도구입니다.\nmission-control은 멀티 에이전트 작업을 배정하고 작업 흐름으로 묶어 실행하며 비용을 모니터링하는 도구입니다. 단일 Hermes 세션을 넘어 여러 에이전트에게 일을 나누고 운영 관점에서 통제하려는 경우 볼 만합니다.\n용도: 멀티 에이전트 운영, 작업 분배, 비용 모니터링\n태그: 오케스트레이션, 멀티 에이전트, 셀프호스팅, 비용관리\n원문 설명: Self-hosted AI agent orchestration — dispatch tasks, run multi-agent workflows, monitor spend",
       "sourceUrl": "https://github.com/builderz-labs/mission-control"
     },
     {
@@ -995,7 +995,7 @@
       "repoId": "swarmclawai/swarmclaw",
       "title": "swarmclawai/swarmclaw",
       "section": "한국어 요약",
-      "text": "swarmclawai/swarmclaw (멀티 에이전트·오케스트레이션)\nswarmclawai/swarmclaw: Build autonomous AI agent swarms with orchestration, skills, and multiple model providers을 한국어 Atlas 기준으로 분류한 프로젝트입니다.\nswarmclawai/swarmclaw는 멀티 에이전트·오케스트레이션 범주에서 볼 만한 프로젝트입니다. 원문 설명 기준으로는 “Build autonomous AI agent swarms with orchestration, skills, and multiple model providers”에 초점이 있습니다. 한국어 사용자는 여러 에이전트 역할 분담이나 복잡한 작업 분해이 필요할 때 우선 살펴보면 됩니다. repo 이름과 명령어, 원본 링크는 검색성과 재현성을 위해 그대로 유지했습니다.\n용도: 여러 에이전트 역할 분담, 복잡한 작업 분해, 검토와 실행 병렬화, 스킬\n태그: 멀티 에이전트·오케스트레이션, 스킬, 재사용 가능한 작업 절차, 멀티 에이전트, 오케스트레이션, swarmclaw\n원문 설명: Build autonomous AI agent swarms with orchestration, skills, and multiple model providers",
+      "text": "swarmclawai/swarmclaw (멀티 에이전트·오케스트레이션)\n여러 에이전트가 역할을 나눠 일하도록 돕는 오케스트레이션 프로젝트입니다.\n여러 에이전트가 역할을 나눠 일하도록 돕는 오케스트레이션 프로젝트입니다. 멀티 에이전트·오케스트레이션 분류에서 여러 에이전트 역할 분담이 필요할 때 먼저 살펴보면 좋습니다. 복잡한 작업 분해이 필요할 때도 함께 참고할 만합니다. 저장소 이름, 명령어, 원문 링크는 정확한 확인을 위해 그대로 유지했습니다.\n용도: 여러 에이전트 역할 분담, 복잡한 작업 분해, 검토와 실행 병렬화, 스킬\n태그: 멀티 에이전트·오케스트레이션, 스킬, 재사용 가능한 작업 절차, 멀티 에이전트, 오케스트레이션, 여러 에이전트 역할 분담\n원문 설명: Build autonomous AI agent swarms with orchestration, skills, and multiple model providers",
       "sourceUrl": "https://github.com/swarmclawai/swarmclaw"
     },
     {
@@ -1019,7 +1019,7 @@
       "repoId": "howdymary/hermes-agent-metaharness",
       "title": "howdymary/hermes-agent-metaharness",
       "section": "한국어 요약",
-      "text": "howdymary/hermes-agent-metaharness (멀티 에이전트·오케스트레이션)\nhowdymary/hermes-agent-metaharness: Meta — harness for Hermes Agent — meta — optimization with arxiv paper reference을 한국어 Atlas 기준으로 분류한 프로젝트입니다.\nhowdymary/hermes-agent-metaharness는 멀티 에이전트·오케스트레이션 범주에서 볼 만한 프로젝트입니다. 원문 설명 기준으로는 “Meta — harness for Hermes Agent — meta — optimization with arxiv paper reference”에 초점이 있습니다. 한국어 사용자는 여러 에이전트 역할 분담이나 복잡한 작업 분해이 필요할 때 우선 살펴보면 됩니다. repo 이름과 명령어, 원본 링크는 검색성과 재현성을 위해 그대로 유지했습니다.\n용도: 여러 에이전트 역할 분담, 복잡한 작업 분해, 검토와 실행 병렬화\n태그: 멀티 에이전트·오케스트레이션, hermes agent metaharness\n원문 설명: Meta-harness for Hermes Agent — meta-optimization with arxiv paper reference",
+      "text": "howdymary/hermes-agent-metaharness (멀티 에이전트·오케스트레이션)\n여러 에이전트가 역할을 나눠 일하도록 돕는 오케스트레이션 프로젝트입니다.\n여러 에이전트가 역할을 나눠 일하도록 돕는 오케스트레이션 프로젝트입니다. 멀티 에이전트·오케스트레이션 분류에서 여러 에이전트 역할 분담이 필요할 때 먼저 살펴보면 좋습니다. 복잡한 작업 분해이 필요할 때도 함께 참고할 만합니다. 저장소 이름, 명령어, 원문 링크는 정확한 확인을 위해 그대로 유지했습니다.\n용도: 여러 에이전트 역할 분담, 복잡한 작업 분해, 검토와 실행 병렬화\n태그: 멀티 에이전트·오케스트레이션, 여러 에이전트 역할 분담, 복잡한 작업 분해, 검토와 실행 병렬화\n원문 설명: Meta-harness for Hermes Agent — meta-optimization with arxiv paper reference",
       "sourceUrl": "https://github.com/howdymary/hermes-agent-metaharness"
     },
     {
@@ -1043,7 +1043,7 @@
       "repoId": "runtimenoteslabs/gladiator",
       "title": "runtimenoteslabs/gladiator",
       "section": "한국어 요약",
-      "text": "runtimenoteslabs/gladiator (멀티 에이전트·오케스트레이션)\nruntimenoteslabs/gladiator: Autonomous AI companies competing for GitHub stars — agent — vs — agent arena을 한국어 Atlas 기준으로 분류한 프로젝트입니다.\nruntimenoteslabs/gladiator는 멀티 에이전트·오케스트레이션 범주에서 볼 만한 프로젝트입니다. 원문 설명 기준으로는 “Autonomous AI companies competing for GitHub stars — agent — vs — agent arena”에 초점이 있습니다. 한국어 사용자는 여러 에이전트 역할 분담이나 복잡한 작업 분해이 필요할 때 우선 살펴보면 됩니다. repo 이름과 명령어, 원본 링크는 검색성과 재현성을 위해 그대로 유지했습니다.\n용도: 여러 에이전트 역할 분담, 복잡한 작업 분해, 검토와 실행 병렬화, 외부 서비스 연동\n태그: 멀티 에이전트·오케스트레이션, 외부 서비스 연동, API 자동화, gladiator\n원문 설명: Autonomous AI companies competing for GitHub stars — agent-vs-agent arena",
+      "text": "runtimenoteslabs/gladiator (멀티 에이전트·오케스트레이션)\n외부 서비스와 Hermes를 이어 기존 업무 흐름에 붙이는 통합 프로젝트입니다.\n외부 서비스와 Hermes를 이어 기존 업무 흐름에 붙이는 통합 프로젝트입니다. 멀티 에이전트·오케스트레이션 분류에서 여러 에이전트 역할 분담이 필요할 때 먼저 살펴보면 좋습니다. 복잡한 작업 분해이 필요할 때도 함께 참고할 만합니다. 저장소 이름, 명령어, 원문 링크는 정확한 확인을 위해 그대로 유지했습니다.\n용도: 여러 에이전트 역할 분담, 복잡한 작업 분해, 검토와 실행 병렬화, 외부 서비스 연동\n태그: 멀티 에이전트·오케스트레이션, 외부 서비스 연동, 서비스 연동 자동화, 여러 에이전트 역할 분담, 복잡한 작업 분해, 검토와 실행 병렬화\n원문 설명: Autonomous AI companies competing for GitHub stars — agent-vs-agent arena",
       "sourceUrl": "https://github.com/runtimenoteslabs/gladiator"
     },
     {
@@ -1067,7 +1067,7 @@
       "repoId": "1ilkhamov/opencode-hermes-multiagent",
       "title": "1ilkhamov/opencode-hermes-multiagent",
       "section": "한국어 요약",
-      "text": "1ilkhamov/opencode-hermes-multiagent (멀티 에이전트·오케스트레이션)\n1ilkhamov/opencode-hermes-multiagent: 17 specialized agents for research, planning, implementation, quality, and infrastructure을 한국어 Atlas 기준으로 분류한 프로젝트입니다.\n1ilkhamov/opencode-hermes-multiagent는 멀티 에이전트·오케스트레이션 범주에서 볼 만한 프로젝트입니다. 원문 설명 기준으로는 “17 specialized agents for research, planning, implementation, quality, and infrastructure”에 초점이 있습니다. 한국어 사용자는 여러 에이전트 역할 분담이나 복잡한 작업 분해이 필요할 때 우선 살펴보면 됩니다. repo 이름과 명령어, 원본 링크는 검색성과 재현성을 위해 그대로 유지했습니다.\n용도: 여러 에이전트 역할 분담, 복잡한 작업 분해, 검토와 실행 병렬화, 배포\n태그: 멀티 에이전트·오케스트레이션, 배포, 인프라, opencode hermes multiagent\n원문 설명: 17 specialized agents for research, planning, implementation, quality, and infrastructure",
+      "text": "1ilkhamov/opencode-hermes-multiagent (멀티 에이전트·오케스트레이션)\n여러 에이전트가 역할을 나눠 일하도록 돕는 오케스트레이션 프로젝트입니다.\n여러 에이전트가 역할을 나눠 일하도록 돕는 오케스트레이션 프로젝트입니다. 멀티 에이전트·오케스트레이션 분류에서 여러 에이전트 역할 분담이 필요할 때 먼저 살펴보면 좋습니다. 복잡한 작업 분해이 필요할 때도 함께 참고할 만합니다. 저장소 이름, 명령어, 원문 링크는 정확한 확인을 위해 그대로 유지했습니다.\n용도: 여러 에이전트 역할 분담, 복잡한 작업 분해, 검토와 실행 병렬화, 배포\n태그: 멀티 에이전트·오케스트레이션, 배포, 인프라, 여러 에이전트 역할 분담, 복잡한 작업 분해, 검토와 실행 병렬화\n원문 설명: 17 specialized agents for research, planning, implementation, quality, and infrastructure",
       "sourceUrl": "https://github.com/1ilkhamov/opencode-hermes-multiagent"
     },
     {
@@ -1091,7 +1091,7 @@
       "repoId": "supermodeltools/bigiron",
       "title": "supermodeltools/bigiron",
       "section": "한국어 요약",
-      "text": "supermodeltools/bigiron (멀티 에이전트·오케스트레이션)\nsupermodeltools/bigiron: AI — native SDLC — Hermes Agent + Supermodel code graph, graph — gated at every phase을 한국어 Atlas 기준으로 분류한 프로젝트입니다.\nsupermodeltools/bigiron는 멀티 에이전트·오케스트레이션 범주에서 볼 만한 프로젝트입니다. 원문 설명 기준으로는 “AI — native SDLC — Hermes Agent + Supermodel code graph, graph — gated at every phase”에 초점이 있습니다. 한국어 사용자는 여러 에이전트 역할 분담이나 복잡한 작업 분해이 필요할 때 우선 살펴보면 됩니다. repo 이름과 명령어, 원본 링크는 검색성과 재현성을 위해 그대로 유지했습니다.\n용도: 여러 에이전트 역할 분담, 복잡한 작업 분해, 검토와 실행 병렬화\n태그: 멀티 에이전트·오케스트레이션, bigiron\n원문 설명: AI-native SDLC — Hermes Agent + Supermodel code graph, graph-gated at every phase",
+      "text": "supermodeltools/bigiron (멀티 에이전트·오케스트레이션)\n여러 에이전트가 역할을 나눠 일하도록 돕는 오케스트레이션 프로젝트입니다.\n여러 에이전트가 역할을 나눠 일하도록 돕는 오케스트레이션 프로젝트입니다. 멀티 에이전트·오케스트레이션 분류에서 여러 에이전트 역할 분담이 필요할 때 먼저 살펴보면 좋습니다. 복잡한 작업 분해이 필요할 때도 함께 참고할 만합니다. 저장소 이름, 명령어, 원문 링크는 정확한 확인을 위해 그대로 유지했습니다.\n용도: 여러 에이전트 역할 분담, 복잡한 작업 분해, 검토와 실행 병렬화\n태그: 멀티 에이전트·오케스트레이션, 여러 에이전트 역할 분담, 복잡한 작업 분해, 검토와 실행 병렬화\n원문 설명: AI-native SDLC — Hermes Agent + Supermodel code graph, graph-gated at every phase",
       "sourceUrl": "https://github.com/supermodeltools/bigiron"
     },
     {
@@ -1115,7 +1115,7 @@
       "repoId": "Rainhoole/hermes-agent-acp-skill",
       "title": "Rainhoole/hermes-agent-acp-skill",
       "section": "한국어 요약",
-      "text": "Rainhoole/hermes-agent-acp-skill (멀티 에이전트·오케스트레이션)\nRainhoole/hermes-agent-acp-skill: ACP — style multi — agent delegation — routes tasks to Hermes, Codex, or Claude Code을 한국어 Atlas 기준으로 분류한 프로젝트입니다.\nRainhoole/hermes-agent-acp-skill는 멀티 에이전트·오케스트레이션 범주에서 볼 만한 프로젝트입니다. 원문 설명 기준으로는 “ACP — style multi — agent delegation — routes tasks to Hermes, Codex, or Claude Code”에 초점이 있습니다. 한국어 사용자는 여러 에이전트 역할 분담이나 복잡한 작업 분해이 필요할 때 우선 살펴보면 됩니다. repo 이름과 명령어, 원본 링크는 검색성과 재현성을 위해 그대로 유지했습니다.\n용도: 여러 에이전트 역할 분담, 복잡한 작업 분해, 검토와 실행 병렬화, 스킬\n태그: 멀티 에이전트·오케스트레이션, 스킬, 재사용 가능한 작업 절차, 멀티 에이전트, 오케스트레이션, hermes agent acp skill\n원문 설명: ACP-style multi-agent delegation — routes tasks to Hermes, Codex, or Claude Code",
+      "text": "Rainhoole/hermes-agent-acp-skill (멀티 에이전트·오케스트레이션)\n여러 에이전트가 역할을 나눠 일하도록 돕는 오케스트레이션 프로젝트입니다.\n여러 에이전트가 역할을 나눠 일하도록 돕는 오케스트레이션 프로젝트입니다. 멀티 에이전트·오케스트레이션 분류에서 여러 에이전트 역할 분담이 필요할 때 먼저 살펴보면 좋습니다. 복잡한 작업 분해이 필요할 때도 함께 참고할 만합니다. 저장소 이름, 명령어, 원문 링크는 정확한 확인을 위해 그대로 유지했습니다.\n용도: 여러 에이전트 역할 분담, 복잡한 작업 분해, 검토와 실행 병렬화, 스킬\n태그: 멀티 에이전트·오케스트레이션, 스킬, 재사용 가능한 작업 절차, 멀티 에이전트, 오케스트레이션, 여러 에이전트 역할 분담\n원문 설명: ACP-style multi-agent delegation — routes tasks to Hermes, Codex, or Claude Code",
       "sourceUrl": "https://github.com/Rainhoole/hermes-agent-acp-skill"
     },
     {
@@ -1163,7 +1163,7 @@
       "repoId": "TheAiSingularity/hermesclaw",
       "title": "TheAiSingularity/hermesclaw",
       "section": "한국어 요약",
-      "text": "TheAiSingularity/hermesclaw (배포·인프라)\nTheAiSingularity/hermesclaw: Hermes Agent sandboxed with hardware — level enforcement을 한국어 Atlas 기준으로 분류한 프로젝트입니다.\nTheAiSingularity/hermesclaw는 배포·인프라 범주에서 볼 만한 프로젝트입니다. 원문 설명 기준으로는 “Hermes Agent sandboxed with hardware — level enforcement”에 초점이 있습니다. 한국어 사용자는 서버 배포이나 운영 자동화이 필요할 때 우선 살펴보면 됩니다. repo 이름과 명령어, 원본 링크는 검색성과 재현성을 위해 그대로 유지했습니다.\n용도: 서버 배포, 운영 자동화, 프로덕션 환경 구성\n태그: 배포·인프라, hermesclaw\n원문 설명: Hermes Agent sandboxed with hardware-level enforcement",
+      "text": "TheAiSingularity/hermesclaw (배포·인프라)\nHermes를 로컬, 서버, 클라우드 환경에 안정적으로 올리기 위한 배포 프로젝트입니다.\nHermes를 로컬, 서버, 클라우드 환경에 안정적으로 올리기 위한 배포 프로젝트입니다. 배포·인프라 분류에서 서버 배포이 필요할 때 먼저 살펴보면 좋습니다. 운영 자동화가 필요할 때도 함께 참고할 만합니다. 저장소 이름, 명령어, 원문 링크는 정확한 확인을 위해 그대로 유지했습니다.\n용도: 서버 배포, 운영 자동화, 프로덕션 환경 구성\n태그: 배포·인프라, 서버 배포, 운영 자동화, 프로덕션 환경 구성\n원문 설명: Hermes Agent sandboxed with hardware-level enforcement",
       "sourceUrl": "https://github.com/TheAiSingularity/hermesclaw"
     },
     {
@@ -1187,7 +1187,7 @@
       "repoId": "0xrsydn/nix-hermes-agent",
       "title": "0xrsydn/nix-hermes-agent",
       "section": "한국어 요약",
-      "text": "0xrsydn/nix-hermes-agent (배포·인프라)\n0xrsydn/nix-hermes-agent: Nix package and NixOS module for reproducible Hermes deployment을 한국어 Atlas 기준으로 분류한 프로젝트입니다.\n0xrsydn/nix-hermes-agent는 배포·인프라 범주에서 볼 만한 프로젝트입니다. 원문 설명 기준으로는 “Nix package and NixOS module for reproducible Hermes deployment”에 초점이 있습니다. 한국어 사용자는 서버 배포이나 운영 자동화이 필요할 때 우선 살펴보면 됩니다. repo 이름과 명령어, 원본 링크는 검색성과 재현성을 위해 그대로 유지했습니다.\n용도: 서버 배포, 운영 자동화, 프로덕션 환경 구성, 배포\n태그: 배포·인프라, 배포, 인프라, nix hermes agent\n원문 설명: Nix package and NixOS module for reproducible Hermes deployment",
+      "text": "0xrsydn/nix-hermes-agent (배포·인프라)\nHermes를 서버나 셀프호스팅 환경에 배포하기 위한 인프라 프로젝트입니다.\nHermes를 서버나 셀프호스팅 환경에 배포하기 위한 인프라 프로젝트입니다. 배포·인프라 분류에서 서버 배포이 필요할 때 먼저 살펴보면 좋습니다. 운영 자동화가 필요할 때도 함께 참고할 만합니다. 저장소 이름, 명령어, 원문 링크는 정확한 확인을 위해 그대로 유지했습니다.\n용도: 서버 배포, 운영 자동화, 프로덕션 환경 구성, 배포\n태그: 배포·인프라, 배포, 인프라, 서버 배포, 운영 자동화, 프로덕션 환경 구성\n원문 설명: Nix package and NixOS module for reproducible Hermes deployment",
       "sourceUrl": "https://github.com/0xrsydn/nix-hermes-agent"
     },
     {
@@ -1211,7 +1211,7 @@
       "repoId": "rookiemann/portable-hermes-agent",
       "title": "rookiemann/portable-hermes-agent",
       "section": "한국어 요약",
-      "text": "rookiemann/portable-hermes-agent (배포·인프라)\nrookiemann/portable-hermes-agent: Windows desktop agent — 100 tools, GUI, local models, TTS, ComfyUI. No install, no Docker.을 한국어 Atlas 기준으로 분류한 프로젝트입니다.\nrookiemann/portable-hermes-agent는 배포·인프라 범주에서 볼 만한 프로젝트입니다. 원문 설명 기준으로는 “Windows desktop agent — 100 tools, GUI, local models, TTS, ComfyUI. No install, no Docker.”에 초점이 있습니다. 한국어 사용자는 서버 배포이나 운영 자동화이 필요할 때 우선 살펴보면 됩니다. repo 이름과 명령어, 원본 링크는 검색성과 재현성을 위해 그대로 유지했습니다.\n용도: 서버 배포, 운영 자동화, 프로덕션 환경 구성, 배포\n태그: 배포·인프라, 배포, 인프라, GUI, 워크스페이스, portable hermes agent\n원문 설명: Windows desktop agent — 100 tools, GUI, local models, TTS, ComfyUI. No install, no Docker.",
+      "text": "rookiemann/portable-hermes-agent (배포·인프라)\nHermes를 서버나 셀프호스팅 환경에 배포하기 위한 인프라 프로젝트입니다.\nHermes를 서버나 셀프호스팅 환경에 배포하기 위한 인프라 프로젝트입니다. 배포·인프라 분류에서 서버 배포이 필요할 때 먼저 살펴보면 좋습니다. 운영 자동화가 필요할 때도 함께 참고할 만합니다. 저장소 이름, 명령어, 원문 링크는 정확한 확인을 위해 그대로 유지했습니다.\n용도: 서버 배포, 운영 자동화, 프로덕션 환경 구성, 배포\n태그: 배포·인프라, 배포, 인프라, 화면형 인터페이스, 워크스페이스, 서버 배포\n원문 설명: Windows desktop agent — 100 tools, GUI, local models, TTS, ComfyUI. No install, no Docker.",
       "sourceUrl": "https://github.com/rookiemann/portable-hermes-agent"
     },
     {
@@ -1235,7 +1235,7 @@
       "repoId": "xmbshwll/hermes-agent-docker",
       "title": "xmbshwll/hermes-agent-docker",
       "section": "한국어 요약",
-      "text": "xmbshwll/hermes-agent-docker (배포·인프라)\nxmbshwll/hermes-agent-docker: Simple Docker sandbox image for Hermes Agent을 한국어 Atlas 기준으로 분류한 프로젝트입니다.\nxmbshwll/hermes-agent-docker는 배포·인프라 범주에서 볼 만한 프로젝트입니다. 원문 설명 기준으로는 “Simple Docker sandbox image for Hermes Agent”에 초점이 있습니다. 한국어 사용자는 서버 배포이나 운영 자동화이 필요할 때 우선 살펴보면 됩니다. repo 이름과 명령어, 원본 링크는 검색성과 재현성을 위해 그대로 유지했습니다.\n용도: 서버 배포, 운영 자동화, 프로덕션 환경 구성, 배포\n태그: 배포·인프라, 배포, 인프라, hermes agent docker\n원문 설명: Simple Docker sandbox image for Hermes Agent",
+      "text": "xmbshwll/hermes-agent-docker (배포·인프라)\nHermes를 서버나 셀프호스팅 환경에 배포하기 위한 인프라 프로젝트입니다.\nHermes를 서버나 셀프호스팅 환경에 배포하기 위한 인프라 프로젝트입니다. 배포·인프라 분류에서 서버 배포이 필요할 때 먼저 살펴보면 좋습니다. 운영 자동화가 필요할 때도 함께 참고할 만합니다. 저장소 이름, 명령어, 원문 링크는 정확한 확인을 위해 그대로 유지했습니다.\n용도: 서버 배포, 운영 자동화, 프로덕션 환경 구성, 배포\n태그: 배포·인프라, 배포, 인프라, 서버 배포, 운영 자동화, 프로덕션 환경 구성\n원문 설명: Simple Docker sandbox image for Hermes Agent",
       "sourceUrl": "https://github.com/xmbshwll/hermes-agent-docker"
     },
     {
@@ -1259,7 +1259,7 @@
       "repoId": "JackTheGit/hermes-autonomous-server",
       "title": "JackTheGit/hermes-autonomous-server",
       "section": "한국어 요약",
-      "text": "JackTheGit/hermes-autonomous-server (배포·인프라)\nJackTheGit/hermes-autonomous-server: Headless systemd deployment with Nous Portal integration — production — ready을 한국어 Atlas 기준으로 분류한 프로젝트입니다.\nJackTheGit/hermes-autonomous-server는 배포·인프라 범주에서 볼 만한 프로젝트입니다. 원문 설명 기준으로는 “Headless systemd deployment with Nous Portal integration — production — ready”에 초점이 있습니다. 한국어 사용자는 서버 배포이나 운영 자동화이 필요할 때 우선 살펴보면 됩니다. repo 이름과 명령어, 원본 링크는 검색성과 재현성을 위해 그대로 유지했습니다.\n용도: 서버 배포, 운영 자동화, 프로덕션 환경 구성, 배포\n태그: 배포·인프라, 배포, 인프라, hermes autonomous server\n원문 설명: Headless systemd deployment with Nous Portal integration — production-ready",
+      "text": "JackTheGit/hermes-autonomous-server (배포·인프라)\nHermes를 서버나 셀프호스팅 환경에 배포하기 위한 인프라 프로젝트입니다.\nHermes를 서버나 셀프호스팅 환경에 배포하기 위한 인프라 프로젝트입니다. 배포·인프라 분류에서 서버 배포이 필요할 때 먼저 살펴보면 좋습니다. 운영 자동화가 필요할 때도 함께 참고할 만합니다. 저장소 이름, 명령어, 원문 링크는 정확한 확인을 위해 그대로 유지했습니다.\n용도: 서버 배포, 운영 자동화, 프로덕션 환경 구성, 배포\n태그: 배포·인프라, 배포, 인프라, 서버 배포, 운영 자동화, 프로덕션 환경 구성\n원문 설명: Headless systemd deployment with Nous Portal integration — production-ready",
       "sourceUrl": "https://github.com/JackTheGit/hermes-autonomous-server"
     },
     {
@@ -1283,7 +1283,7 @@
       "repoId": "ellickjohnson/portainer-stack-hermes",
       "title": "ellickjohnson/portainer-stack-hermes",
       "section": "한국어 요약",
-      "text": "ellickjohnson/portainer-stack-hermes (배포·인프라)\nellickjohnson/portainer-stack-hermes: Docker Compose stack with Portainer UI and ttyd web terminal을 한국어 Atlas 기준으로 분류한 프로젝트입니다.\nellickjohnson/portainer-stack-hermes는 배포·인프라 범주에서 볼 만한 프로젝트입니다. 원문 설명 기준으로는 “Docker Compose stack with Portainer UI and ttyd web terminal”에 초점이 있습니다. 한국어 사용자는 서버 배포이나 운영 자동화이 필요할 때 우선 살펴보면 됩니다. repo 이름과 명령어, 원본 링크는 검색성과 재현성을 위해 그대로 유지했습니다.\n용도: 서버 배포, 운영 자동화, 프로덕션 환경 구성, 배포\n태그: 배포·인프라, 배포, 인프라, portainer stack hermes\n원문 설명: Docker Compose stack with Portainer UI and ttyd web terminal",
+      "text": "ellickjohnson/portainer-stack-hermes (배포·인프라)\nHermes를 서버나 셀프호스팅 환경에 배포하기 위한 인프라 프로젝트입니다.\nHermes를 서버나 셀프호스팅 환경에 배포하기 위한 인프라 프로젝트입니다. 배포·인프라 분류에서 서버 배포이 필요할 때 먼저 살펴보면 좋습니다. 운영 자동화가 필요할 때도 함께 참고할 만합니다. 저장소 이름, 명령어, 원문 링크는 정확한 확인을 위해 그대로 유지했습니다.\n용도: 서버 배포, 운영 자동화, 프로덕션 환경 구성, 배포\n태그: 배포·인프라, 배포, 인프라, 서버 배포, 운영 자동화, 프로덕션 환경 구성\n원문 설명: Docker Compose stack with Portainer UI and ttyd web terminal",
       "sourceUrl": "https://github.com/ellickjohnson/portainer-stack-hermes"
     },
     {
@@ -1307,7 +1307,7 @@
       "repoId": "raulvidis/hermes-android",
       "title": "raulvidis/hermes-android",
       "section": "한국어 요약",
-      "text": "raulvidis/hermes-android (통합·브리지)\nraulvidis/hermes-android: Android device control — bridge app + Python toolset for mobile automation을 한국어 Atlas 기준으로 분류한 프로젝트입니다.\nraulvidis/hermes-android는 통합·브리지 범주에서 볼 만한 프로젝트입니다. 원문 설명 기준으로는 “Android device control — bridge app + Python toolset for mobile automation”에 초점이 있습니다. 한국어 사용자는 메신저·외부 앱 연동이나 기존 워크플로와 Hermes 연결이 필요할 때 우선 살펴보면 됩니다. repo 이름과 명령어, 원본 링크는 검색성과 재현성을 위해 그대로 유지했습니다.\n용도: 메신저·외부 앱 연동, 기존 워크플로와 Hermes 연결, API 기반 자동화\n태그: 통합·브리지, hermes android\n원문 설명: Android device control — bridge app + Python toolset for mobile automation",
+      "text": "raulvidis/hermes-android (통합·브리지)\nHermes를 메신저, 업무 도구, 외부 서비스와 연결하는 브리지 프로젝트입니다.\nHermes를 메신저, 업무 도구, 외부 서비스와 연결하는 브리지 프로젝트입니다. 통합·브리지 분류에서 메신저와 외부 앱 연동할 때 먼저 살펴보면 좋습니다. 기존 업무 흐름에 Hermes 연결이 필요할 때도 함께 참고할 만합니다. 저장소 이름, 명령어, 원문 링크는 정확한 확인을 위해 그대로 유지했습니다.\n용도: 메신저와 외부 앱 연동, 기존 업무 흐름에 Hermes 연결, 서비스 연동 자동화\n태그: 통합·브리지, 메신저와 외부 앱 연동, 기존 업무 흐름에 Hermes 연결, 서비스 연동 자동화\n원문 설명: Android device control — bridge app + Python toolset for mobile automation",
       "sourceUrl": "https://github.com/raulvidis/hermes-android"
     },
     {
@@ -1319,7 +1319,7 @@
       "repoId": "raulvidis/hermes-android",
       "title": "raulvidis/hermes-android",
       "section": "용도",
-      "text": "raulvidis/hermes-android의 주요 용도: 메신저·외부 앱 연동, 기존 워크플로와 Hermes 연결, API 기반 자동화",
+      "text": "raulvidis/hermes-android의 주요 용도: 메신저와 외부 앱 연동, 기존 업무 흐름에 Hermes 연결, 서비스 연동 자동화",
       "sourceUrl": "https://github.com/raulvidis/hermes-android"
     },
     {
@@ -1331,7 +1331,7 @@
       "repoId": "teknium1/hermes-miniverse",
       "title": "teknium1/hermes-miniverse",
       "section": "한국어 요약",
-      "text": "teknium1/hermes-miniverse (통합·브리지)\nteknium1/hermes-miniverse: Bridge Hermes to Miniverse pixel worlds — agent embodiment in virtual environments을 한국어 Atlas 기준으로 분류한 프로젝트입니다.\nteknium1/hermes-miniverse는 통합·브리지 범주에서 볼 만한 프로젝트입니다. 원문 설명 기준으로는 “Bridge Hermes to Miniverse pixel worlds — agent embodiment in virtual environments”에 초점이 있습니다. 한국어 사용자는 메신저·외부 앱 연동이나 기존 워크플로와 Hermes 연결이 필요할 때 우선 살펴보면 됩니다. repo 이름과 명령어, 원본 링크는 검색성과 재현성을 위해 그대로 유지했습니다.\n용도: 메신저·외부 앱 연동, 기존 워크플로와 Hermes 연결, API 기반 자동화\n태그: 통합·브리지, hermes miniverse\n원문 설명: Bridge Hermes to Miniverse pixel worlds — agent embodiment in virtual environments",
+      "text": "teknium1/hermes-miniverse (통합·브리지)\nHermes를 메신저, 업무 도구, 외부 서비스와 연결하는 브리지 프로젝트입니다.\nHermes를 메신저, 업무 도구, 외부 서비스와 연결하는 브리지 프로젝트입니다. 통합·브리지 분류에서 메신저와 외부 앱 연동할 때 먼저 살펴보면 좋습니다. 기존 업무 흐름에 Hermes 연결이 필요할 때도 함께 참고할 만합니다. 저장소 이름, 명령어, 원문 링크는 정확한 확인을 위해 그대로 유지했습니다.\n용도: 메신저와 외부 앱 연동, 기존 업무 흐름에 Hermes 연결, 서비스 연동 자동화\n태그: 통합·브리지, 메신저와 외부 앱 연동, 기존 업무 흐름에 Hermes 연결, 서비스 연동 자동화\n원문 설명: Bridge Hermes to Miniverse pixel worlds — agent embodiment in virtual environments",
       "sourceUrl": "https://github.com/teknium1/hermes-miniverse"
     },
     {
@@ -1343,7 +1343,7 @@
       "repoId": "teknium1/hermes-miniverse",
       "title": "teknium1/hermes-miniverse",
       "section": "용도",
-      "text": "teknium1/hermes-miniverse의 주요 용도: 메신저·외부 앱 연동, 기존 워크플로와 Hermes 연결, API 기반 자동화",
+      "text": "teknium1/hermes-miniverse의 주요 용도: 메신저와 외부 앱 연동, 기존 업무 흐름에 Hermes 연결, 서비스 연동 자동화",
       "sourceUrl": "https://github.com/teknium1/hermes-miniverse"
     },
     {
@@ -1355,7 +1355,7 @@
       "repoId": "Ridwannurudeen/hermes-council",
       "title": "Ridwannurudeen/hermes-council",
       "section": "한국어 요약",
-      "text": "Ridwannurudeen/hermes-council (통합·브리지)\nRidwannurudeen/hermes-council: Adversarial multi — perspective council MCP server for decision — making을 한국어 Atlas 기준으로 분류한 프로젝트입니다.\nRidwannurudeen/hermes-council는 통합·브리지 범주에서 볼 만한 프로젝트입니다. 원문 설명 기준으로는 “Adversarial multi — perspective council MCP server for decision — making”에 초점이 있습니다. 한국어 사용자는 메신저·외부 앱 연동이나 기존 워크플로와 Hermes 연결이 필요할 때 우선 살펴보면 됩니다. repo 이름과 명령어, 원본 링크는 검색성과 재현성을 위해 그대로 유지했습니다.\n용도: 메신저·외부 앱 연동, 기존 워크플로와 Hermes 연결, API 기반 자동화, MCP\n태그: 통합·브리지, MCP, 외부 도구 연결, 배포, 인프라, hermes council\n원문 설명: Adversarial multi-perspective council MCP server for decision-making",
+      "text": "Ridwannurudeen/hermes-council (통합·브리지)\nMCP 서버와 도구를 에이전트가 필요한 만큼 단계적으로 불러오게 하는 클라이언트 패턴입니다.\nMCP 서버와 도구를 에이전트가 필요한 만큼 단계적으로 불러오게 하는 클라이언트 패턴입니다. 통합·브리지 분류에서 메신저와 외부 앱 연동할 때 먼저 살펴보면 좋습니다. 기존 업무 흐름에 Hermes 연결이 필요할 때도 함께 참고할 만합니다. 저장소 이름, 명령어, 원문 링크는 정확한 확인을 위해 그대로 유지했습니다.\n용도: 메신저와 외부 앱 연동, 기존 업무 흐름에 Hermes 연결, 서비스 연동 자동화, MCP\n태그: 통합·브리지, MCP, 외부 도구 연결, 배포, 인프라, 메신저와 외부 앱 연동\n원문 설명: Adversarial multi-perspective council MCP server for decision-making",
       "sourceUrl": "https://github.com/Ridwannurudeen/hermes-council"
     },
     {
@@ -1367,7 +1367,7 @@
       "repoId": "Ridwannurudeen/hermes-council",
       "title": "Ridwannurudeen/hermes-council",
       "section": "용도",
-      "text": "Ridwannurudeen/hermes-council의 주요 용도: 메신저·외부 앱 연동, 기존 워크플로와 Hermes 연결, API 기반 자동화, MCP",
+      "text": "Ridwannurudeen/hermes-council의 주요 용도: 메신저와 외부 앱 연동, 기존 업무 흐름에 Hermes 연결, 서비스 연동 자동화, MCP",
       "sourceUrl": "https://github.com/Ridwannurudeen/hermes-council"
     },
     {
@@ -1379,7 +1379,7 @@
       "repoId": "marlandoj/zouroboros-swarm-executors",
       "title": "marlandoj/zouroboros-swarm-executors",
       "section": "한국어 요약",
-      "text": "marlandoj/zouroboros-swarm-executors (통합·브리지)\nmarlandoj/zouroboros-swarm-executors: Claude Code and Hermes task handoff bridge for zo — swarm — orchestrator을 한국어 Atlas 기준으로 분류한 프로젝트입니다.\nmarlandoj/zouroboros-swarm-executors는 통합·브리지 범주에서 볼 만한 프로젝트입니다. 원문 설명 기준으로는 “Claude Code and Hermes task handoff bridge for zo — swarm — orchestrator”에 초점이 있습니다. 한국어 사용자는 메신저·외부 앱 연동이나 기존 워크플로와 Hermes 연결이 필요할 때 우선 살펴보면 됩니다. repo 이름과 명령어, 원본 링크는 검색성과 재현성을 위해 그대로 유지했습니다.\n용도: 메신저·외부 앱 연동, 기존 워크플로와 Hermes 연결, API 기반 자동화, 멀티 에이전트\n태그: 통합·브리지, 멀티 에이전트, 오케스트레이션, zouroboros swarm executors\n원문 설명: Claude Code and Hermes task handoff bridge for zo-swarm-orchestrator",
+      "text": "marlandoj/zouroboros-swarm-executors (통합·브리지)\nHermes를 메신저, 업무 도구, 외부 서비스와 연결하는 브리지 프로젝트입니다.\nHermes를 메신저, 업무 도구, 외부 서비스와 연결하는 브리지 프로젝트입니다. 통합·브리지 분류에서 메신저와 외부 앱 연동할 때 먼저 살펴보면 좋습니다. 기존 업무 흐름에 Hermes 연결이 필요할 때도 함께 참고할 만합니다. 저장소 이름, 명령어, 원문 링크는 정확한 확인을 위해 그대로 유지했습니다.\n용도: 메신저와 외부 앱 연동, 기존 업무 흐름에 Hermes 연결, 서비스 연동 자동화, 멀티 에이전트\n태그: 통합·브리지, 멀티 에이전트, 오케스트레이션, 메신저와 외부 앱 연동, 기존 업무 흐름에 Hermes 연결, 서비스 연동 자동화\n원문 설명: Claude Code and Hermes task handoff bridge for zo-swarm-orchestrator",
       "sourceUrl": "https://github.com/marlandoj/zouroboros-swarm-executors"
     },
     {
@@ -1391,7 +1391,7 @@
       "repoId": "marlandoj/zouroboros-swarm-executors",
       "title": "marlandoj/zouroboros-swarm-executors",
       "section": "용도",
-      "text": "marlandoj/zouroboros-swarm-executors의 주요 용도: 메신저·외부 앱 연동, 기존 워크플로와 Hermes 연결, API 기반 자동화, 멀티 에이전트",
+      "text": "marlandoj/zouroboros-swarm-executors의 주요 용도: 메신저와 외부 앱 연동, 기존 업무 흐름에 Hermes 연결, 서비스 연동 자동화, 멀티 에이전트",
       "sourceUrl": "https://github.com/marlandoj/zouroboros-swarm-executors"
     },
     {
@@ -1403,7 +1403,7 @@
       "repoId": "gizdusum/hermes-blockchain-oracle",
       "title": "gizdusum/hermes-blockchain-oracle",
       "section": "한국어 요약",
-      "text": "gizdusum/hermes-blockchain-oracle (통합·브리지)\ngizdusum/hermes-blockchain-oracle: Solana blockchain intelligence MCP server — wallets, whales, tokens, NFTs, network health을 한국어 Atlas 기준으로 분류한 프로젝트입니다.\ngizdusum/hermes-blockchain-oracle는 통합·브리지 범주에서 볼 만한 프로젝트입니다. 원문 설명 기준으로는 “Solana blockchain intelligence MCP server — wallets, whales, tokens, NFTs, network health”에 초점이 있습니다. 한국어 사용자는 메신저·외부 앱 연동이나 기존 워크플로와 Hermes 연결이 필요할 때 우선 살펴보면 됩니다. repo 이름과 명령어, 원본 링크는 검색성과 재현성을 위해 그대로 유지했습니다.\n용도: 메신저·외부 앱 연동, 기존 워크플로와 Hermes 연결, API 기반 자동화, MCP\n태그: 통합·브리지, MCP, 외부 도구 연결, 배포, 인프라, hermes blockchain oracle\n원문 설명: Solana blockchain intelligence MCP server — wallets, whales, tokens, NFTs, network health",
+      "text": "gizdusum/hermes-blockchain-oracle (통합·브리지)\nMCP 서버와 도구를 에이전트가 필요한 만큼 단계적으로 불러오게 하는 클라이언트 패턴입니다.\nMCP 서버와 도구를 에이전트가 필요한 만큼 단계적으로 불러오게 하는 클라이언트 패턴입니다. 통합·브리지 분류에서 메신저와 외부 앱 연동할 때 먼저 살펴보면 좋습니다. 기존 업무 흐름에 Hermes 연결이 필요할 때도 함께 참고할 만합니다. 저장소 이름, 명령어, 원문 링크는 정확한 확인을 위해 그대로 유지했습니다.\n용도: 메신저와 외부 앱 연동, 기존 업무 흐름에 Hermes 연결, 서비스 연동 자동화, MCP\n태그: 통합·브리지, MCP, 외부 도구 연결, 배포, 인프라, 메신저와 외부 앱 연동\n원문 설명: Solana blockchain intelligence MCP server — wallets, whales, tokens, NFTs, network health",
       "sourceUrl": "https://github.com/gizdusum/hermes-blockchain-oracle"
     },
     {
@@ -1415,7 +1415,7 @@
       "repoId": "gizdusum/hermes-blockchain-oracle",
       "title": "gizdusum/hermes-blockchain-oracle",
       "section": "용도",
-      "text": "gizdusum/hermes-blockchain-oracle의 주요 용도: 메신저·외부 앱 연동, 기존 워크플로와 Hermes 연결, API 기반 자동화, MCP",
+      "text": "gizdusum/hermes-blockchain-oracle의 주요 용도: 메신저와 외부 앱 연동, 기존 업무 흐름에 Hermes 연결, 서비스 연동 자동화, MCP",
       "sourceUrl": "https://github.com/gizdusum/hermes-blockchain-oracle"
     },
     {
@@ -1427,7 +1427,7 @@
       "repoId": "junhoyeo/tokscale",
       "title": "junhoyeo/tokscale",
       "section": "한국어 요약",
-      "text": "junhoyeo/tokscale (개발자 도구)\nClaude Code, Hermes, Codex, Gemini 등의 토큰 사용량을 추적하는 CLI 도구입니다.\ntokscale은 여러 AI 코딩 에이전트와 모델 사용량을 CLI에서 추적하는 도구입니다. Hermes뿐 아니라 Claude Code, OpenClaw, Codex, Gemini 같은 도구를 함께 쓰는 환경에서 비용과 사용량을 파악하는 데 유용합니다.\n용도: 토큰 사용량 추적, 비용 관리, 멀티 에이전트 사용량 비교\n태그: CLI, 토큰, 비용관리, 사용량\n원문 설명: CLI tool for tracking token usage from Claude Code, OpenClaw, Hermes, Codex, Gemini, and more",
+      "text": "junhoyeo/tokscale (개발자 도구)\nClaude Code, Hermes, Codex, Gemini 등의 토큰 사용량을 추적하는 명령줄 도구입니다.\ntokscale은 여러 AI 코딩 에이전트와 모델 사용량을 명령줄에서 추적하는 도구입니다. Hermes뿐 아니라 Claude Code, OpenClaw, Codex, Gemini 같은 도구를 함께 쓰는 환경에서 비용과 사용량을 파악하는 데 유용합니다.\n용도: 토큰 사용량 추적, 비용 관리, 멀티 에이전트 사용량 비교\n태그: 명령줄, 토큰, 비용관리, 사용량\n원문 설명: CLI tool for tracking token usage from Claude Code, OpenClaw, Hermes, Codex, Gemini, and more",
       "sourceUrl": "https://github.com/junhoyeo/tokscale"
     },
     {
@@ -1451,7 +1451,7 @@
       "repoId": "joeynyc/hermes-skins",
       "title": "joeynyc/hermes-skins",
       "section": "한국어 요약",
-      "text": "joeynyc/hermes-skins (개발자 도구)\njoeynyc/hermes-skins: Community CLI skins and themes for Hermes terminal UI을 한국어 Atlas 기준으로 분류한 프로젝트입니다.\njoeynyc/hermes-skins는 개발자 도구 범주에서 볼 만한 프로젝트입니다. 원문 설명 기준으로는 “Community CLI skins and themes for Hermes terminal UI”에 초점이 있습니다. 한국어 사용자는 개발 생산성 향상이나 CLI·코드 작업 보조이 필요할 때 우선 살펴보면 됩니다. repo 이름과 명령어, 원본 링크는 검색성과 재현성을 위해 그대로 유지했습니다.\n용도: 개발 생산성 향상, CLI·코드 작업 보조, 로컬 개발 환경 개선\n태그: 개발자 도구, hermes skins\n원문 설명: Community CLI skins and themes for Hermes terminal UI",
+      "text": "joeynyc/hermes-skins (개발자 도구)\n개발자가 Hermes와 주변 AI 도구를 더 편하게 쓰도록 돕는 보조 도구입니다.\n개발자가 Hermes와 주변 AI 도구를 더 편하게 쓰도록 돕는 보조 도구입니다. 개발자 도구 분류에서 개발 생산성 향상이 필요할 때 먼저 살펴보면 좋습니다. 명령줄·코드 작업 보조이 필요할 때도 함께 참고할 만합니다. 저장소 이름, 명령어, 원문 링크는 정확한 확인을 위해 그대로 유지했습니다.\n용도: 개발 생산성 향상, 명령줄·코드 작업 보조, 로컬 개발 환경 개선\n태그: 개발자 도구, 개발 생산성 향상, 명령줄·코드 작업 보조, 로컬 개발 환경 개선\n원문 설명: Community CLI skins and themes for Hermes terminal UI",
       "sourceUrl": "https://github.com/joeynyc/hermes-skins"
     },
     {
@@ -1463,7 +1463,7 @@
       "repoId": "joeynyc/hermes-skins",
       "title": "joeynyc/hermes-skins",
       "section": "용도",
-      "text": "joeynyc/hermes-skins의 주요 용도: 개발 생산성 향상, CLI·코드 작업 보조, 로컬 개발 환경 개선",
+      "text": "joeynyc/hermes-skins의 주요 용도: 개발 생산성 향상, 명령줄·코드 작업 보조, 로컬 개발 환경 개선",
       "sourceUrl": "https://github.com/joeynyc/hermes-skins"
     },
     {
@@ -1475,7 +1475,7 @@
       "repoId": "AlexAI-MCP/hermes-CCC",
       "title": "AlexAI-MCP/hermes-CCC",
       "section": "한국어 요약",
-      "text": "AlexAI-MCP/hermes-CCC (개발자 도구)\nAlexAI-MCP/hermes-CCC: Hermes Agent ported to Claude Code Channel — 46 native skills, no OAuth, no external process을 한국어 Atlas 기준으로 분류한 프로젝트입니다.\nAlexAI-MCP/hermes-CCC는 개발자 도구 범주에서 볼 만한 프로젝트입니다. 원문 설명 기준으로는 “Hermes Agent ported to Claude Code Channel — 46 native skills, no OAuth, no external process”에 초점이 있습니다. 한국어 사용자는 개발 생산성 향상이나 CLI·코드 작업 보조이 필요할 때 우선 살펴보면 됩니다. repo 이름과 명령어, 원본 링크는 검색성과 재현성을 위해 그대로 유지했습니다.\n용도: 개발 생산성 향상, CLI·코드 작업 보조, 로컬 개발 환경 개선, 스킬\n태그: 개발자 도구, 스킬, 재사용 가능한 작업 절차, hermes CCC\n원문 설명: Hermes Agent ported to Claude Code Channel — 46 native skills, no OAuth, no external process",
+      "text": "AlexAI-MCP/hermes-CCC (개발자 도구)\n개발자가 Hermes와 주변 AI 도구를 더 편하게 쓰도록 돕는 보조 도구입니다.\n개발자가 Hermes와 주변 AI 도구를 더 편하게 쓰도록 돕는 보조 도구입니다. 개발자 도구 분류에서 개발 생산성 향상이 필요할 때 먼저 살펴보면 좋습니다. 명령줄·코드 작업 보조이 필요할 때도 함께 참고할 만합니다. 저장소 이름, 명령어, 원문 링크는 정확한 확인을 위해 그대로 유지했습니다.\n용도: 개발 생산성 향상, 명령줄·코드 작업 보조, 로컬 개발 환경 개선, 스킬\n태그: 개발자 도구, 스킬, 재사용 가능한 작업 절차, 개발 생산성 향상, 명령줄·코드 작업 보조, 로컬 개발 환경 개선\n원문 설명: Hermes Agent ported to Claude Code Channel — 46 native skills, no OAuth, no external process",
       "sourceUrl": "https://github.com/AlexAI-MCP/hermes-CCC"
     },
     {
@@ -1487,7 +1487,7 @@
       "repoId": "AlexAI-MCP/hermes-CCC",
       "title": "AlexAI-MCP/hermes-CCC",
       "section": "용도",
-      "text": "AlexAI-MCP/hermes-CCC의 주요 용도: 개발 생산성 향상, CLI·코드 작업 보조, 로컬 개발 환경 개선, 스킬",
+      "text": "AlexAI-MCP/hermes-CCC의 주요 용도: 개발 생산성 향상, 명령줄·코드 작업 보조, 로컬 개발 환경 개선, 스킬",
       "sourceUrl": "https://github.com/AlexAI-MCP/hermes-CCC"
     },
     {
@@ -1499,7 +1499,7 @@
       "repoId": "unmodeled-tyler/vessel-browser",
       "title": "unmodeled-tyler/vessel-browser",
       "section": "한국어 요약",
-      "text": "unmodeled-tyler/vessel-browser (개발자 도구)\nunmodeled-tyler/vessel-browser: AI — native browser built for autonomous agent control via MCP을 한국어 Atlas 기준으로 분류한 프로젝트입니다.\nunmodeled-tyler/vessel-browser는 개발자 도구 범주에서 볼 만한 프로젝트입니다. 원문 설명 기준으로는 “AI — native browser built for autonomous agent control via MCP”에 초점이 있습니다. 한국어 사용자는 개발 생산성 향상이나 CLI·코드 작업 보조이 필요할 때 우선 살펴보면 됩니다. repo 이름과 명령어, 원본 링크는 검색성과 재현성을 위해 그대로 유지했습니다.\n용도: 개발 생산성 향상, CLI·코드 작업 보조, 로컬 개발 환경 개선, MCP\n태그: 개발자 도구, MCP, 외부 도구 연결, vessel browser\n원문 설명: AI-native browser built for autonomous agent control via MCP",
+      "text": "unmodeled-tyler/vessel-browser (개발자 도구)\nMCP 서버와 도구를 에이전트가 필요한 만큼 단계적으로 불러오게 하는 클라이언트 패턴입니다.\nMCP 서버와 도구를 에이전트가 필요한 만큼 단계적으로 불러오게 하는 클라이언트 패턴입니다. 개발자 도구 분류에서 개발 생산성 향상이 필요할 때 먼저 살펴보면 좋습니다. 명령줄·코드 작업 보조이 필요할 때도 함께 참고할 만합니다. 저장소 이름, 명령어, 원문 링크는 정확한 확인을 위해 그대로 유지했습니다.\n용도: 개발 생산성 향상, 명령줄·코드 작업 보조, 로컬 개발 환경 개선, MCP\n태그: 개발자 도구, MCP, 외부 도구 연결, 개발 생산성 향상, 명령줄·코드 작업 보조, 로컬 개발 환경 개선\n원문 설명: AI-native browser built for autonomous agent control via MCP",
       "sourceUrl": "https://github.com/unmodeled-tyler/vessel-browser"
     },
     {
@@ -1511,7 +1511,7 @@
       "repoId": "unmodeled-tyler/vessel-browser",
       "title": "unmodeled-tyler/vessel-browser",
       "section": "용도",
-      "text": "unmodeled-tyler/vessel-browser의 주요 용도: 개발 생산성 향상, CLI·코드 작업 보조, 로컬 개발 환경 개선, MCP",
+      "text": "unmodeled-tyler/vessel-browser의 주요 용도: 개발 생산성 향상, 명령줄·코드 작업 보조, 로컬 개발 환경 개선, MCP",
       "sourceUrl": "https://github.com/unmodeled-tyler/vessel-browser"
     },
     {
@@ -1523,7 +1523,7 @@
       "repoId": "Abruptive/Ankh.md",
       "title": "Abruptive/Ankh.md",
       "section": "한국어 요약",
-      "text": "Abruptive/Ankh.md (개발자 도구)\nAbruptive/Ankh.md: TAW Agent framework for creating scoped Hermes Agents을 한국어 Atlas 기준으로 분류한 프로젝트입니다.\nAbruptive/Ankh.md는 개발자 도구 범주에서 볼 만한 프로젝트입니다. 원문 설명 기준으로는 “TAW Agent framework for creating scoped Hermes Agents”에 초점이 있습니다. 한국어 사용자는 개발 생산성 향상이나 CLI·코드 작업 보조이 필요할 때 우선 살펴보면 됩니다. repo 이름과 명령어, 원본 링크는 검색성과 재현성을 위해 그대로 유지했습니다.\n용도: 개발 생산성 향상, CLI·코드 작업 보조, 로컬 개발 환경 개선\n태그: 개발자 도구, Ankh.md\n원문 설명: TAW Agent framework for creating scoped Hermes Agents",
+      "text": "Abruptive/Ankh.md (개발자 도구)\n개발자가 Hermes와 주변 AI 도구를 더 편하게 쓰도록 돕는 보조 도구입니다.\n개발자가 Hermes와 주변 AI 도구를 더 편하게 쓰도록 돕는 보조 도구입니다. 개발자 도구 분류에서 개발 생산성 향상이 필요할 때 먼저 살펴보면 좋습니다. 명령줄·코드 작업 보조이 필요할 때도 함께 참고할 만합니다. 저장소 이름, 명령어, 원문 링크는 정확한 확인을 위해 그대로 유지했습니다.\n용도: 개발 생산성 향상, 명령줄·코드 작업 보조, 로컬 개발 환경 개선\n태그: 개발자 도구, 개발 생산성 향상, 명령줄·코드 작업 보조, 로컬 개발 환경 개선\n원문 설명: TAW Agent framework for creating scoped Hermes Agents",
       "sourceUrl": "https://github.com/Abruptive/Ankh.md"
     },
     {
@@ -1535,7 +1535,7 @@
       "repoId": "Abruptive/Ankh.md",
       "title": "Abruptive/Ankh.md",
       "section": "용도",
-      "text": "Abruptive/Ankh.md의 주요 용도: 개발 생산성 향상, CLI·코드 작업 보조, 로컬 개발 환경 개선",
+      "text": "Abruptive/Ankh.md의 주요 용도: 개발 생산성 향상, 명령줄·코드 작업 보조, 로컬 개발 환경 개선",
       "sourceUrl": "https://github.com/Abruptive/Ankh.md"
     },
     {
@@ -1547,7 +1547,7 @@
       "repoId": "roli-lpci/lintlang",
       "title": "roli-lpci/lintlang",
       "section": "한국어 요약",
-      "text": "roli-lpci/lintlang (개발자 도구)\nroli-lpci/lintlang: Static linter for AI agent configs, tool descriptions, and system prompts. HERM v1.1 scoring.을 한국어 Atlas 기준으로 분류한 프로젝트입니다.\nroli-lpci/lintlang는 개발자 도구 범주에서 볼 만한 프로젝트입니다. 원문 설명 기준으로는 “Static linter for AI agent configs, tool descriptions, and system prompts. HERM v1.1 scoring.”에 초점이 있습니다. 한국어 사용자는 개발 생산성 향상이나 CLI·코드 작업 보조이 필요할 때 우선 살펴보면 됩니다. repo 이름과 명령어, 원본 링크는 검색성과 재현성을 위해 그대로 유지했습니다.\n용도: 개발 생산성 향상, CLI·코드 작업 보조, 로컬 개발 환경 개선\n태그: 개발자 도구, lintlang\n원문 설명: Static linter for AI agent configs, tool descriptions, and system prompts. HERM v1.1 scoring.",
+      "text": "roli-lpci/lintlang (개발자 도구)\n개발자가 Hermes와 주변 AI 도구를 더 편하게 쓰도록 돕는 보조 도구입니다.\n개발자가 Hermes와 주변 AI 도구를 더 편하게 쓰도록 돕는 보조 도구입니다. 개발자 도구 분류에서 개발 생산성 향상이 필요할 때 먼저 살펴보면 좋습니다. 명령줄·코드 작업 보조이 필요할 때도 함께 참고할 만합니다. 저장소 이름, 명령어, 원문 링크는 정확한 확인을 위해 그대로 유지했습니다.\n용도: 개발 생산성 향상, 명령줄·코드 작업 보조, 로컬 개발 환경 개선\n태그: 개발자 도구, 개발 생산성 향상, 명령줄·코드 작업 보조, 로컬 개발 환경 개선\n원문 설명: Static linter for AI agent configs, tool descriptions, and system prompts. HERM v1.1 scoring.",
       "sourceUrl": "https://github.com/roli-lpci/lintlang"
     },
     {
@@ -1559,7 +1559,7 @@
       "repoId": "roli-lpci/lintlang",
       "title": "roli-lpci/lintlang",
       "section": "용도",
-      "text": "roli-lpci/lintlang의 주요 용도: 개발 생산성 향상, CLI·코드 작업 보조, 로컬 개발 환경 개선",
+      "text": "roli-lpci/lintlang의 주요 용도: 개발 생산성 향상, 명령줄·코드 작업 보조, 로컬 개발 환경 개선",
       "sourceUrl": "https://github.com/roli-lpci/lintlang"
     },
     {
@@ -1571,7 +1571,7 @@
       "repoId": "0xNyk/openclaw-to-hermes",
       "title": "0xNyk/openclaw-to-hermes",
       "section": "한국어 요약",
-      "text": "0xNyk/openclaw-to-hermes (개발자 도구)\n0xNyk/openclaw-to-hermes: Migration tool from OpenClaw to Hermes Agent을 한국어 Atlas 기준으로 분류한 프로젝트입니다.\n0xNyk/openclaw-to-hermes는 개발자 도구 범주에서 볼 만한 프로젝트입니다. 원문 설명 기준으로는 “Migration tool from OpenClaw to Hermes Agent”에 초점이 있습니다. 한국어 사용자는 개발 생산성 향상이나 CLI·코드 작업 보조이 필요할 때 우선 살펴보면 됩니다. repo 이름과 명령어, 원본 링크는 검색성과 재현성을 위해 그대로 유지했습니다.\n용도: 개발 생산성 향상, CLI·코드 작업 보조, 로컬 개발 환경 개선\n태그: 개발자 도구, openclaw to hermes\n원문 설명: Migration tool from OpenClaw to Hermes Agent",
+      "text": "0xNyk/openclaw-to-hermes (개발자 도구)\n개발자가 Hermes와 주변 AI 도구를 더 편하게 쓰도록 돕는 보조 도구입니다.\n개발자가 Hermes와 주변 AI 도구를 더 편하게 쓰도록 돕는 보조 도구입니다. 개발자 도구 분류에서 개발 생산성 향상이 필요할 때 먼저 살펴보면 좋습니다. 명령줄·코드 작업 보조이 필요할 때도 함께 참고할 만합니다. 저장소 이름, 명령어, 원문 링크는 정확한 확인을 위해 그대로 유지했습니다.\n용도: 개발 생산성 향상, 명령줄·코드 작업 보조, 로컬 개발 환경 개선\n태그: 개발자 도구, 개발 생산성 향상, 명령줄·코드 작업 보조, 로컬 개발 환경 개선\n원문 설명: Migration tool from OpenClaw to Hermes Agent",
       "sourceUrl": "https://github.com/0xNyk/openclaw-to-hermes"
     },
     {
@@ -1583,7 +1583,7 @@
       "repoId": "0xNyk/openclaw-to-hermes",
       "title": "0xNyk/openclaw-to-hermes",
       "section": "용도",
-      "text": "0xNyk/openclaw-to-hermes의 주요 용도: 개발 생산성 향상, CLI·코드 작업 보조, 로컬 개발 환경 개선",
+      "text": "0xNyk/openclaw-to-hermes의 주요 용도: 개발 생산성 향상, 명령줄·코드 작업 보조, 로컬 개발 환경 개선",
       "sourceUrl": "https://github.com/0xNyk/openclaw-to-hermes"
     },
     {
@@ -1595,7 +1595,7 @@
       "repoId": "42-evey/evey-setup",
       "title": "42-evey/evey-setup",
       "section": "한국어 요약",
-      "text": "42-evey/evey-setup (개발자 도구)\n42-evey/evey-setup: Get a hermes — agent stack running in minutes — free models, 29 plugins, zero cost을 한국어 Atlas 기준으로 분류한 프로젝트입니다.\n42-evey/evey-setup는 개발자 도구 범주에서 볼 만한 프로젝트입니다. 원문 설명 기준으로는 “Get a hermes — agent stack running in minutes — free models, 29 plugins, zero cost”에 초점이 있습니다. 한국어 사용자는 개발 생산성 향상이나 CLI·코드 작업 보조이 필요할 때 우선 살펴보면 됩니다. repo 이름과 명령어, 원본 링크는 검색성과 재현성을 위해 그대로 유지했습니다.\n용도: 개발 생산성 향상, CLI·코드 작업 보조, 로컬 개발 환경 개선\n태그: 개발자 도구, evey setup\n원문 설명: Get a hermes-agent stack running in minutes — free models, 29 plugins, zero cost",
+      "text": "42-evey/evey-setup (개발자 도구)\n개발자가 Hermes와 주변 AI 도구를 더 편하게 쓰도록 돕는 보조 도구입니다.\n개발자가 Hermes와 주변 AI 도구를 더 편하게 쓰도록 돕는 보조 도구입니다. 개발자 도구 분류에서 개발 생산성 향상이 필요할 때 먼저 살펴보면 좋습니다. 명령줄·코드 작업 보조이 필요할 때도 함께 참고할 만합니다. 저장소 이름, 명령어, 원문 링크는 정확한 확인을 위해 그대로 유지했습니다.\n용도: 개발 생산성 향상, 명령줄·코드 작업 보조, 로컬 개발 환경 개선\n태그: 개발자 도구, 개발 생산성 향상, 명령줄·코드 작업 보조, 로컬 개발 환경 개선\n원문 설명: Get a hermes-agent stack running in minutes — free models, 29 plugins, zero cost",
       "sourceUrl": "https://github.com/42-evey/evey-setup"
     },
     {
@@ -1607,7 +1607,7 @@
       "repoId": "42-evey/evey-setup",
       "title": "42-evey/evey-setup",
       "section": "용도",
-      "text": "42-evey/evey-setup의 주요 용도: 개발 생산성 향상, CLI·코드 작업 보조, 로컬 개발 환경 개선",
+      "text": "42-evey/evey-setup의 주요 용도: 개발 생산성 향상, 명령줄·코드 작업 보조, 로컬 개발 환경 개선",
       "sourceUrl": "https://github.com/42-evey/evey-setup"
     },
     {
@@ -1619,7 +1619,7 @@
       "repoId": "ucsandman/DashClaw",
       "title": "ucsandman/DashClaw",
       "section": "한국어 요약",
-      "text": "ucsandman/DashClaw (도메인 앱)\nucsandman/DashClaw: Decision infrastructure with guard policies and risk assessment for agents을 한국어 Atlas 기준으로 분류한 프로젝트입니다.\nucsandman/DashClaw는 도메인 앱 범주에서 볼 만한 프로젝트입니다. 원문 설명 기준으로는 “Decision infrastructure with guard policies and risk assessment for agents”에 초점이 있습니다. 한국어 사용자는 특정 업무 분야에 Hermes 적용이나 실사용 예제 확인이 필요할 때 우선 살펴보면 됩니다. repo 이름과 명령어, 원본 링크는 검색성과 재현성을 위해 그대로 유지했습니다.\n용도: 특정 업무 분야에 Hermes 적용, 실사용 예제 확인, 업무 자동화 시나리오 검토, 배포\n태그: 도메인 앱, 배포, 인프라, DashClaw\n원문 설명: Decision infrastructure with guard policies and risk assessment for agents",
+      "text": "ucsandman/DashClaw (도메인 앱)\n특정 업무나 실험 분야에 Hermes를 적용한 예시 프로젝트입니다.\n특정 업무나 실험 분야에 Hermes를 적용한 예시 프로젝트입니다. 도메인 앱 분류에서 특정 업무 분야에 Hermes 적용이 필요할 때 먼저 살펴보면 좋습니다. 실사용 예제 확인할 때도 함께 참고할 만합니다. 저장소 이름, 명령어, 원문 링크는 정확한 확인을 위해 그대로 유지했습니다.\n용도: 특정 업무 분야에 Hermes 적용, 실사용 예제 확인, 업무 자동화 시나리오 검토, 배포\n태그: 도메인 앱, 배포, 인프라, 특정 업무 분야에 Hermes 적용, 실사용 예제 확인, 업무 자동화 시나리오 검토\n원문 설명: Decision infrastructure with guard policies and risk assessment for agents",
       "sourceUrl": "https://github.com/ucsandman/DashClaw"
     },
     {
@@ -1643,7 +1643,7 @@
       "repoId": "Lethe044/hermes-incident-commander",
       "title": "Lethe044/hermes-incident-commander",
       "section": "한국어 요약",
-      "text": "Lethe044/hermes-incident-commander (도메인 앱)\nLethe044/hermes-incident-commander: Autonomous SRE agent — detects, heals, and learns from production incidents을 한국어 Atlas 기준으로 분류한 프로젝트입니다.\nLethe044/hermes-incident-commander는 도메인 앱 범주에서 볼 만한 프로젝트입니다. 원문 설명 기준으로는 “Autonomous SRE agent — detects, heals, and learns from production incidents”에 초점이 있습니다. 한국어 사용자는 특정 업무 분야에 Hermes 적용이나 실사용 예제 확인이 필요할 때 우선 살펴보면 됩니다. repo 이름과 명령어, 원본 링크는 검색성과 재현성을 위해 그대로 유지했습니다.\n용도: 특정 업무 분야에 Hermes 적용, 실사용 예제 확인, 업무 자동화 시나리오 검토\n태그: 도메인 앱, hermes incident commander\n원문 설명: Autonomous SRE agent — detects, heals, and learns from production incidents",
+      "text": "Lethe044/hermes-incident-commander (도메인 앱)\n특정 업무나 실험 분야에 Hermes를 적용한 예시 프로젝트입니다.\n특정 업무나 실험 분야에 Hermes를 적용한 예시 프로젝트입니다. 도메인 앱 분류에서 특정 업무 분야에 Hermes 적용이 필요할 때 먼저 살펴보면 좋습니다. 실사용 예제 확인할 때도 함께 참고할 만합니다. 저장소 이름, 명령어, 원문 링크는 정확한 확인을 위해 그대로 유지했습니다.\n용도: 특정 업무 분야에 Hermes 적용, 실사용 예제 확인, 업무 자동화 시나리오 검토\n태그: 도메인 앱, 특정 업무 분야에 Hermes 적용, 실사용 예제 확인, 업무 자동화 시나리오 검토\n원문 설명: Autonomous SRE agent — detects, heals, and learns from production incidents",
       "sourceUrl": "https://github.com/Lethe044/hermes-incident-commander"
     },
     {
@@ -1667,7 +1667,7 @@
       "repoId": "Christabel337/job-scout-agent",
       "title": "Christabel337/job-scout-agent",
       "section": "한국어 요약",
-      "text": "Christabel337/job-scout-agent (도메인 앱)\nChristabel337/job-scout-agent: Autonomous job hunting — scans listings, writes cover letters, tracks applications을 한국어 Atlas 기준으로 분류한 프로젝트입니다.\nChristabel337/job-scout-agent는 도메인 앱 범주에서 볼 만한 프로젝트입니다. 원문 설명 기준으로는 “Autonomous job hunting — scans listings, writes cover letters, tracks applications”에 초점이 있습니다. 한국어 사용자는 특정 업무 분야에 Hermes 적용이나 실사용 예제 확인이 필요할 때 우선 살펴보면 됩니다. repo 이름과 명령어, 원본 링크는 검색성과 재현성을 위해 그대로 유지했습니다.\n용도: 특정 업무 분야에 Hermes 적용, 실사용 예제 확인, 업무 자동화 시나리오 검토\n태그: 도메인 앱, job scout agent\n원문 설명: Autonomous job hunting — scans listings, writes cover letters, tracks applications",
+      "text": "Christabel337/job-scout-agent (도메인 앱)\n특정 업무나 실험 분야에 Hermes를 적용한 예시 프로젝트입니다.\n특정 업무나 실험 분야에 Hermes를 적용한 예시 프로젝트입니다. 도메인 앱 분류에서 특정 업무 분야에 Hermes 적용이 필요할 때 먼저 살펴보면 좋습니다. 실사용 예제 확인할 때도 함께 참고할 만합니다. 저장소 이름, 명령어, 원문 링크는 정확한 확인을 위해 그대로 유지했습니다.\n용도: 특정 업무 분야에 Hermes 적용, 실사용 예제 확인, 업무 자동화 시나리오 검토\n태그: 도메인 앱, 특정 업무 분야에 Hermes 적용, 실사용 예제 확인, 업무 자동화 시나리오 검토\n원문 설명: Autonomous job hunting — scans listings, writes cover letters, tracks applications",
       "sourceUrl": "https://github.com/Christabel337/job-scout-agent"
     },
     {
@@ -1691,7 +1691,7 @@
       "repoId": "rodmarkun/anihermes",
       "title": "rodmarkun/anihermes",
       "section": "한국어 요약",
-      "text": "rodmarkun/anihermes (도메인 앱)\nrodmarkun/anihermes: Local anime server and tracker via natural language for Hermes Agent을 한국어 Atlas 기준으로 분류한 프로젝트입니다.\nrodmarkun/anihermes는 도메인 앱 범주에서 볼 만한 프로젝트입니다. 원문 설명 기준으로는 “Local anime server and tracker via natural language for Hermes Agent”에 초점이 있습니다. 한국어 사용자는 특정 업무 분야에 Hermes 적용이나 실사용 예제 확인이 필요할 때 우선 살펴보면 됩니다. repo 이름과 명령어, 원본 링크는 검색성과 재현성을 위해 그대로 유지했습니다.\n용도: 특정 업무 분야에 Hermes 적용, 실사용 예제 확인, 업무 자동화 시나리오 검토, 배포\n태그: 도메인 앱, 배포, 인프라, anihermes\n원문 설명: Local anime server and tracker via natural language for Hermes Agent",
+      "text": "rodmarkun/anihermes (도메인 앱)\nHermes를 서버나 셀프호스팅 환경에 배포하기 위한 인프라 프로젝트입니다.\nHermes를 서버나 셀프호스팅 환경에 배포하기 위한 인프라 프로젝트입니다. 도메인 앱 분류에서 특정 업무 분야에 Hermes 적용이 필요할 때 먼저 살펴보면 좋습니다. 실사용 예제 확인할 때도 함께 참고할 만합니다. 저장소 이름, 명령어, 원문 링크는 정확한 확인을 위해 그대로 유지했습니다.\n용도: 특정 업무 분야에 Hermes 적용, 실사용 예제 확인, 업무 자동화 시나리오 검토, 배포\n태그: 도메인 앱, 배포, 인프라, 특정 업무 분야에 Hermes 적용, 실사용 예제 확인, 업무 자동화 시나리오 검토\n원문 설명: Local anime server and tracker via natural language for Hermes Agent",
       "sourceUrl": "https://github.com/rodmarkun/anihermes"
     },
     {
@@ -1715,7 +1715,7 @@
       "repoId": "JackTheGit/hermes-ai-infrastructure-monitoring-toolkit",
       "title": "JackTheGit/hermes-ai-infrastructure-monitoring-toolkit",
       "section": "한국어 요약",
-      "text": "JackTheGit/hermes-ai-infrastructure-monitoring-toolkit (도메인 앱)\nJackTheGit/hermes-ai-infrastructure-monitoring-toolkit: Autonomous monitoring — cron — based research ingestion, cost forecasting, headless systemd을 한국어 Atlas 기준으로 분류한 프로젝트입니다.\nJackTheGit/hermes-ai-infrastructure-monitoring-toolkit는 도메인 앱 범주에서 볼 만한 프로젝트입니다. 원문 설명 기준으로는 “Autonomous monitoring — cron — based research ingestion, cost forecasting, headless systemd”에 초점이 있습니다. 한국어 사용자는 특정 업무 분야에 Hermes 적용이나 실사용 예제 확인이 필요할 때 우선 살펴보면 됩니다. repo 이름과 명령어, 원본 링크는 검색성과 재현성을 위해 그대로 유지했습니다.\n용도: 특정 업무 분야에 Hermes 적용, 실사용 예제 확인, 업무 자동화 시나리오 검토, 배포\n태그: 도메인 앱, 배포, 인프라, hermes ai infrastructure monitoring toolkit\n원문 설명: Autonomous monitoring — cron-based research ingestion, cost forecasting, headless systemd",
+      "text": "JackTheGit/hermes-ai-infrastructure-monitoring-toolkit (도메인 앱)\nHermes 실행 상태를 관찰하고 운영 지표를 확인하기 위한 모니터링 프로젝트입니다.\nHermes 실행 상태를 관찰하고 운영 지표를 확인하기 위한 모니터링 프로젝트입니다. 도메인 앱 분류에서 특정 업무 분야에 Hermes 적용이 필요할 때 먼저 살펴보면 좋습니다. 실사용 예제 확인할 때도 함께 참고할 만합니다. 저장소 이름, 명령어, 원문 링크는 정확한 확인을 위해 그대로 유지했습니다.\n용도: 특정 업무 분야에 Hermes 적용, 실사용 예제 확인, 업무 자동화 시나리오 검토, 배포\n태그: 도메인 앱, 배포, 인프라, 특정 업무 분야에 Hermes 적용, 실사용 예제 확인, 업무 자동화 시나리오 검토\n원문 설명: Autonomous monitoring — cron-based research ingestion, cost forecasting, headless systemd",
       "sourceUrl": "https://github.com/JackTheGit/hermes-ai-infrastructure-monitoring-toolkit"
     },
     {
@@ -1739,7 +1739,7 @@
       "repoId": "bigph00t/hermescraft",
       "title": "bigph00t/hermescraft",
       "section": "한국어 요약",
-      "text": "bigph00t/hermescraft (도메인 앱)\nbigph00t/hermescraft: Embodied AI companion for Minecraft — persistent memory, vision, learning, multi — agent을 한국어 Atlas 기준으로 분류한 프로젝트입니다.\nbigph00t/hermescraft는 도메인 앱 범주에서 볼 만한 프로젝트입니다. 원문 설명 기준으로는 “Embodied AI companion for Minecraft — persistent memory, vision, learning, multi — agent”에 초점이 있습니다. 한국어 사용자는 특정 업무 분야에 Hermes 적용이나 실사용 예제 확인이 필요할 때 우선 살펴보면 됩니다. repo 이름과 명령어, 원본 링크는 검색성과 재현성을 위해 그대로 유지했습니다.\n용도: 특정 업무 분야에 Hermes 적용, 실사용 예제 확인, 업무 자동화 시나리오 검토, 메모리\n태그: 도메인 앱, 메모리, 컨텍스트 유지, 멀티 에이전트, 오케스트레이션, hermescraft\n원문 설명: Embodied AI companion for Minecraft — persistent memory, vision, learning, multi-agent",
+      "text": "bigph00t/hermescraft (도메인 앱)\n특정 업무나 실험 분야에 Hermes를 적용한 예시 프로젝트입니다.\n특정 업무나 실험 분야에 Hermes를 적용한 예시 프로젝트입니다. 도메인 앱 분류에서 특정 업무 분야에 Hermes 적용이 필요할 때 먼저 살펴보면 좋습니다. 실사용 예제 확인할 때도 함께 참고할 만합니다. 저장소 이름, 명령어, 원문 링크는 정확한 확인을 위해 그대로 유지했습니다.\n용도: 특정 업무 분야에 Hermes 적용, 실사용 예제 확인, 업무 자동화 시나리오 검토, 메모리\n태그: 도메인 앱, 메모리, 컨텍스트 유지, 멀티 에이전트, 오케스트레이션, 특정 업무 분야에 Hermes 적용\n원문 설명: Embodied AI companion for Minecraft — persistent memory, vision, learning, multi-agent",
       "sourceUrl": "https://github.com/bigph00t/hermescraft"
     },
     {
@@ -1763,7 +1763,7 @@
       "repoId": "hxsteric/mercury",
       "title": "hxsteric/mercury",
       "section": "한국어 요약",
-      "text": "hxsteric/mercury (도메인 앱)\nhxsteric/mercury: Blockchain cash flow analyzer — multi — chain analysis, fraud detection, WebGL dashboard을 한국어 Atlas 기준으로 분류한 프로젝트입니다.\nhxsteric/mercury는 도메인 앱 범주에서 볼 만한 프로젝트입니다. 원문 설명 기준으로는 “Blockchain cash flow analyzer — multi — chain analysis, fraud detection, WebGL dashboard”에 초점이 있습니다. 한국어 사용자는 특정 업무 분야에 Hermes 적용이나 실사용 예제 확인이 필요할 때 우선 살펴보면 됩니다. repo 이름과 명령어, 원본 링크는 검색성과 재현성을 위해 그대로 유지했습니다.\n용도: 특정 업무 분야에 Hermes 적용, 실사용 예제 확인, 업무 자동화 시나리오 검토, GUI\n태그: 도메인 앱, GUI, 워크스페이스, mercury\n원문 설명: Blockchain cash flow analyzer — multi-chain analysis, fraud detection, WebGL dashboard",
+      "text": "hxsteric/mercury (도메인 앱)\n특정 업무나 실험 분야에 Hermes를 적용한 예시 프로젝트입니다.\n특정 업무나 실험 분야에 Hermes를 적용한 예시 프로젝트입니다. 도메인 앱 분류에서 특정 업무 분야에 Hermes 적용이 필요할 때 먼저 살펴보면 좋습니다. 실사용 예제 확인할 때도 함께 참고할 만합니다. 저장소 이름, 명령어, 원문 링크는 정확한 확인을 위해 그대로 유지했습니다.\n용도: 특정 업무 분야에 Hermes 적용, 실사용 예제 확인, 업무 자동화 시나리오 검토, 화면형 인터페이스\n태그: 도메인 앱, 화면형 인터페이스, 워크스페이스, 특정 업무 분야에 Hermes 적용, 실사용 예제 확인, 업무 자동화 시나리오 검토\n원문 설명: Blockchain cash flow analyzer — multi-chain analysis, fraud detection, WebGL dashboard",
       "sourceUrl": "https://github.com/hxsteric/mercury"
     },
     {
@@ -1775,7 +1775,7 @@
       "repoId": "hxsteric/mercury",
       "title": "hxsteric/mercury",
       "section": "용도",
-      "text": "hxsteric/mercury의 주요 용도: 특정 업무 분야에 Hermes 적용, 실사용 예제 확인, 업무 자동화 시나리오 검토, GUI",
+      "text": "hxsteric/mercury의 주요 용도: 특정 업무 분야에 Hermes 적용, 실사용 예제 확인, 업무 자동화 시나리오 검토, 화면형 인터페이스",
       "sourceUrl": "https://github.com/hxsteric/mercury"
     },
     {
@@ -1787,7 +1787,7 @@
       "repoId": "bryercowan/hermes-embodied",
       "title": "bryercowan/hermes-embodied",
       "section": "한국어 요약",
-      "text": "bryercowan/hermes-embodied (도메인 앱)\nbryercowan/hermes-embodied: Self — improving robotics via VLA model fine — tuning on cloud GPUs을 한국어 Atlas 기준으로 분류한 프로젝트입니다.\nbryercowan/hermes-embodied는 도메인 앱 범주에서 볼 만한 프로젝트입니다. 원문 설명 기준으로는 “Self — improving robotics via VLA model fine — tuning on cloud GPUs”에 초점이 있습니다. 한국어 사용자는 특정 업무 분야에 Hermes 적용이나 실사용 예제 확인이 필요할 때 우선 살펴보면 됩니다. repo 이름과 명령어, 원본 링크는 검색성과 재현성을 위해 그대로 유지했습니다.\n용도: 특정 업무 분야에 Hermes 적용, 실사용 예제 확인, 업무 자동화 시나리오 검토\n태그: 도메인 앱, hermes embodied\n원문 설명: Self-improving robotics via VLA model fine-tuning on cloud GPUs",
+      "text": "bryercowan/hermes-embodied (도메인 앱)\n특정 업무나 실험 분야에 Hermes를 적용한 예시 프로젝트입니다.\n특정 업무나 실험 분야에 Hermes를 적용한 예시 프로젝트입니다. 도메인 앱 분류에서 특정 업무 분야에 Hermes 적용이 필요할 때 먼저 살펴보면 좋습니다. 실사용 예제 확인할 때도 함께 참고할 만합니다. 저장소 이름, 명령어, 원문 링크는 정확한 확인을 위해 그대로 유지했습니다.\n용도: 특정 업무 분야에 Hermes 적용, 실사용 예제 확인, 업무 자동화 시나리오 검토\n태그: 도메인 앱, 특정 업무 분야에 Hermes 적용, 실사용 예제 확인, 업무 자동화 시나리오 검토\n원문 설명: Self-improving robotics via VLA model fine-tuning on cloud GPUs",
       "sourceUrl": "https://github.com/bryercowan/hermes-embodied"
     },
     {
@@ -1811,7 +1811,7 @@
       "repoId": "0xNyk/awesome-hermes-agent",
       "title": "0xNyk/awesome-hermes-agent",
       "section": "한국어 요약",
-      "text": "0xNyk/awesome-hermes-agent (가이드·문서)\nHermes Agent 관련 스킬, 도구, 통합, 자료를 모아둔 curated awesome list입니다.\nawesome-hermes-agent는 Hermes 생태계 자료를 빠르게 훑기 좋은 링크 모음입니다. 특정 구현체라기보다, 어떤 스킬과 도구, 통합이 있는지 탐색할 때 출발점으로 쓰기 좋습니다.\n용도: 생태계 탐색, 자료 모음, 프로젝트 발견\n태그: awesome list, 가이드, 자료모음, 탐색\n원문 설명: Curated list of awesome skills, tools, integrations, and resources for Hermes Agent",
+      "text": "0xNyk/awesome-hermes-agent (가이드·문서)\nHermes Agent 관련 스킬, 도구, 통합, 자료를 모아둔 엄선 링크 모음입니다.\nawesome-hermes-agent는 Hermes 생태계 자료를 빠르게 훑기 좋은 링크 모음입니다. 특정 구현체라기보다, 어떤 스킬과 도구, 통합이 있는지 탐색할 때 출발점으로 쓰기 좋습니다.\n용도: 생태계 탐색, 자료 모음, 프로젝트 발견\n태그: 링크 모음, 가이드, 자료모음, 탐색\n원문 설명: Curated list of awesome skills, tools, integrations, and resources for Hermes Agent",
       "sourceUrl": "https://github.com/0xNyk/awesome-hermes-agent"
     },
     {
@@ -1835,7 +1835,7 @@
       "repoId": "alchaincyf/hermes-agent-orange-book",
       "title": "alchaincyf/hermes-agent-orange-book",
       "section": "한국어 요약",
-      "text": "alchaincyf/hermes-agent-orange-book (가이드·문서)\nalchaincyf/hermes-agent-orange-book: Hermes Agent practical guide — Orange Book series (Chinese language)을 한국어 Atlas 기준으로 분류한 프로젝트입니다.\nalchaincyf/hermes-agent-orange-book는 가이드·문서 범주에서 볼 만한 프로젝트입니다. 원문 설명 기준으로는 “Hermes Agent practical guide — Orange Book series (Chinese language)”에 초점이 있습니다. 한국어 사용자는 학습 자료 확인이나 도입 전 구조 이해이 필요할 때 우선 살펴보면 됩니다. repo 이름과 명령어, 원본 링크는 검색성과 재현성을 위해 그대로 유지했습니다.\n용도: 학습 자료 확인, 도입 전 구조 이해, 팀 온보딩, GUI\n태그: 가이드·문서, GUI, 워크스페이스, hermes agent orange book\n원문 설명: Hermes Agent practical guide — Orange Book series (Chinese language)",
+      "text": "alchaincyf/hermes-agent-orange-book (가이드·문서)\nHermes를 배우고 비교하고 도입할 때 참고할 수 있는 자료입니다.\nHermes를 배우고 비교하고 도입할 때 참고할 수 있는 자료입니다. 가이드·문서 분류에서 학습 자료 확인할 때 먼저 살펴보면 좋습니다. 도입 전 구조 이해이 필요할 때도 함께 참고할 만합니다. 저장소 이름, 명령어, 원문 링크는 정확한 확인을 위해 그대로 유지했습니다.\n용도: 학습 자료 확인, 도입 전 구조 이해, 팀 온보딩, 화면형 인터페이스\n태그: 가이드·문서, 화면형 인터페이스, 워크스페이스, 학습 자료 확인, 도입 전 구조 이해, 팀 온보딩\n원문 설명: Hermes Agent practical guide — Orange Book series (Chinese language)",
       "sourceUrl": "https://github.com/alchaincyf/hermes-agent-orange-book"
     },
     {
@@ -1847,7 +1847,7 @@
       "repoId": "alchaincyf/hermes-agent-orange-book",
       "title": "alchaincyf/hermes-agent-orange-book",
       "section": "용도",
-      "text": "alchaincyf/hermes-agent-orange-book의 주요 용도: 학습 자료 확인, 도입 전 구조 이해, 팀 온보딩, GUI",
+      "text": "alchaincyf/hermes-agent-orange-book의 주요 용도: 학습 자료 확인, 도입 전 구조 이해, 팀 온보딩, 화면형 인터페이스",
       "sourceUrl": "https://github.com/alchaincyf/hermes-agent-orange-book"
     },
     {
@@ -1859,7 +1859,7 @@
       "repoId": "OnlyTerp/hermes-optimization-guide",
       "title": "OnlyTerp/hermes-optimization-guide",
       "section": "한국어 요약",
-      "text": "OnlyTerp/hermes-optimization-guide (가이드·문서)\nOnlyTerp/hermes-optimization-guide: Performance optimization guide for Hermes deployments을 한국어 Atlas 기준으로 분류한 프로젝트입니다.\nOnlyTerp/hermes-optimization-guide는 가이드·문서 범주에서 볼 만한 프로젝트입니다. 원문 설명 기준으로는 “Performance optimization guide for Hermes deployments”에 초점이 있습니다. 한국어 사용자는 학습 자료 확인이나 도입 전 구조 이해이 필요할 때 우선 살펴보면 됩니다. repo 이름과 명령어, 원본 링크는 검색성과 재현성을 위해 그대로 유지했습니다.\n용도: 학습 자료 확인, 도입 전 구조 이해, 팀 온보딩, 배포\n태그: 가이드·문서, 배포, 인프라, GUI, 워크스페이스, hermes optimization guide\n원문 설명: Performance optimization guide for Hermes deployments",
+      "text": "OnlyTerp/hermes-optimization-guide (가이드·문서)\nHermes를 서버나 셀프호스팅 환경에 배포하기 위한 인프라 프로젝트입니다.\nHermes를 서버나 셀프호스팅 환경에 배포하기 위한 인프라 프로젝트입니다. 가이드·문서 분류에서 학습 자료 확인할 때 먼저 살펴보면 좋습니다. 도입 전 구조 이해이 필요할 때도 함께 참고할 만합니다. 저장소 이름, 명령어, 원문 링크는 정확한 확인을 위해 그대로 유지했습니다.\n용도: 학습 자료 확인, 도입 전 구조 이해, 팀 온보딩, 배포\n태그: 가이드·문서, 배포, 인프라, 화면형 인터페이스, 워크스페이스, 학습 자료 확인\n원문 설명: Performance optimization guide for Hermes deployments",
       "sourceUrl": "https://github.com/OnlyTerp/hermes-optimization-guide"
     },
     {
@@ -1883,7 +1883,7 @@
       "repoId": "metantonio/hermes-wsl-ubuntu",
       "title": "metantonio/hermes-wsl-ubuntu",
       "section": "한국어 요약",
-      "text": "metantonio/hermes-wsl-ubuntu (가이드·문서)\nmetantonio/hermes-wsl-ubuntu: Step — by — step WSL2 Ubuntu setup guide for Windows users을 한국어 Atlas 기준으로 분류한 프로젝트입니다.\nmetantonio/hermes-wsl-ubuntu는 가이드·문서 범주에서 볼 만한 프로젝트입니다. 원문 설명 기준으로는 “Step — by — step WSL2 Ubuntu setup guide for Windows users”에 초점이 있습니다. 한국어 사용자는 학습 자료 확인이나 도입 전 구조 이해이 필요할 때 우선 살펴보면 됩니다. repo 이름과 명령어, 원본 링크는 검색성과 재현성을 위해 그대로 유지했습니다.\n용도: 학습 자료 확인, 도입 전 구조 이해, 팀 온보딩, GUI\n태그: 가이드·문서, GUI, 워크스페이스, hermes wsl ubuntu\n원문 설명: Step-by-step WSL2 Ubuntu setup guide for Windows users",
+      "text": "metantonio/hermes-wsl-ubuntu (가이드·문서)\nHermes를 배우고 비교하고 도입할 때 참고할 수 있는 자료입니다.\nHermes를 배우고 비교하고 도입할 때 참고할 수 있는 자료입니다. 가이드·문서 분류에서 학습 자료 확인할 때 먼저 살펴보면 좋습니다. 도입 전 구조 이해이 필요할 때도 함께 참고할 만합니다. 저장소 이름, 명령어, 원문 링크는 정확한 확인을 위해 그대로 유지했습니다.\n용도: 학습 자료 확인, 도입 전 구조 이해, 팀 온보딩, 화면형 인터페이스\n태그: 가이드·문서, 화면형 인터페이스, 워크스페이스, 학습 자료 확인, 도입 전 구조 이해, 팀 온보딩\n원문 설명: Step-by-step WSL2 Ubuntu setup guide for Windows users",
       "sourceUrl": "https://github.com/metantonio/hermes-wsl-ubuntu"
     },
     {
@@ -1895,7 +1895,7 @@
       "repoId": "metantonio/hermes-wsl-ubuntu",
       "title": "metantonio/hermes-wsl-ubuntu",
       "section": "용도",
-      "text": "metantonio/hermes-wsl-ubuntu의 주요 용도: 학습 자료 확인, 도입 전 구조 이해, 팀 온보딩, GUI",
+      "text": "metantonio/hermes-wsl-ubuntu의 주요 용도: 학습 자료 확인, 도입 전 구조 이해, 팀 온보딩, 화면형 인터페이스",
       "sourceUrl": "https://github.com/metantonio/hermes-wsl-ubuntu"
     },
     {
@@ -1907,7 +1907,7 @@
       "repoId": "mudrii/hermes-agent-docs",
       "title": "mudrii/hermes-agent-docs",
       "section": "한국어 요약",
-      "text": "mudrii/hermes-agent-docs (가이드·문서)\nmudrii/hermes-agent-docs: Community documentation covering deployment patterns and v0.2.0+ workflows을 한국어 Atlas 기준으로 분류한 프로젝트입니다.\nmudrii/hermes-agent-docs는 가이드·문서 범주에서 볼 만한 프로젝트입니다. 원문 설명 기준으로는 “Community documentation covering deployment patterns and v0.2.0+ workflows”에 초점이 있습니다. 한국어 사용자는 학습 자료 확인이나 도입 전 구조 이해이 필요할 때 우선 살펴보면 됩니다. repo 이름과 명령어, 원본 링크는 검색성과 재현성을 위해 그대로 유지했습니다.\n용도: 학습 자료 확인, 도입 전 구조 이해, 팀 온보딩, 배포\n태그: 가이드·문서, 배포, 인프라, hermes agent docs\n원문 설명: Community documentation covering deployment patterns and v0.2.0+ workflows",
+      "text": "mudrii/hermes-agent-docs (가이드·문서)\nHermes를 서버나 셀프호스팅 환경에 배포하기 위한 인프라 프로젝트입니다.\nHermes를 서버나 셀프호스팅 환경에 배포하기 위한 인프라 프로젝트입니다. 가이드·문서 분류에서 학습 자료 확인할 때 먼저 살펴보면 좋습니다. 도입 전 구조 이해이 필요할 때도 함께 참고할 만합니다. 저장소 이름, 명령어, 원문 링크는 정확한 확인을 위해 그대로 유지했습니다.\n용도: 학습 자료 확인, 도입 전 구조 이해, 팀 온보딩, 배포\n태그: 가이드·문서, 배포, 인프라, 학습 자료 확인, 도입 전 구조 이해, 팀 온보딩\n원문 설명: Community documentation covering deployment patterns and v0.2.0+ workflows",
       "sourceUrl": "https://github.com/mudrii/hermes-agent-docs"
     },
     {
@@ -1931,7 +1931,7 @@
       "repoId": "martymcenroe/HermesWiki",
       "title": "martymcenroe/HermesWiki",
       "section": "한국어 요약",
-      "text": "martymcenroe/HermesWiki (가이드·문서)\nmartymcenroe/HermesWiki: Community wiki with deployment patterns and recipes을 한국어 Atlas 기준으로 분류한 프로젝트입니다.\nmartymcenroe/HermesWiki는 가이드·문서 범주에서 볼 만한 프로젝트입니다. 원문 설명 기준으로는 “Community wiki with deployment patterns and recipes”에 초점이 있습니다. 한국어 사용자는 학습 자료 확인이나 도입 전 구조 이해이 필요할 때 우선 살펴보면 됩니다. repo 이름과 명령어, 원본 링크는 검색성과 재현성을 위해 그대로 유지했습니다.\n용도: 학습 자료 확인, 도입 전 구조 이해, 팀 온보딩, 배포\n태그: 가이드·문서, 배포, 인프라, HermesWiki\n원문 설명: Community wiki with deployment patterns and recipes",
+      "text": "martymcenroe/HermesWiki (가이드·문서)\nHermes를 서버나 셀프호스팅 환경에 배포하기 위한 인프라 프로젝트입니다.\nHermes를 서버나 셀프호스팅 환경에 배포하기 위한 인프라 프로젝트입니다. 가이드·문서 분류에서 학습 자료 확인할 때 먼저 살펴보면 좋습니다. 도입 전 구조 이해이 필요할 때도 함께 참고할 만합니다. 저장소 이름, 명령어, 원문 링크는 정확한 확인을 위해 그대로 유지했습니다.\n용도: 학습 자료 확인, 도입 전 구조 이해, 팀 온보딩, 배포\n태그: 가이드·문서, 배포, 인프라, 학습 자료 확인, 도입 전 구조 이해, 팀 온보딩\n원문 설명: Community wiki with deployment patterns and recipes",
       "sourceUrl": "https://github.com/martymcenroe/HermesWiki"
     },
     {
@@ -1955,7 +1955,7 @@
       "repoId": "nativ3ai/hermes-agent-camel",
       "title": "nativ3ai/hermes-agent-camel",
       "section": "한국어 요약",
-      "text": "nativ3ai/hermes-agent-camel (포크·파생)\nnativ3ai/hermes-agent-camel: Hermes with integrated CaMeL trust boundaries for safer autonomous execution을 한국어 Atlas 기준으로 분류한 프로젝트입니다.\nnativ3ai/hermes-agent-camel는 포크·파생 범주에서 볼 만한 프로젝트입니다. 원문 설명 기준으로는 “Hermes with integrated CaMeL trust boundaries for safer autonomous execution”에 초점이 있습니다. 한국어 사용자는 대안 구현 비교이나 실험적 기능 확인이 필요할 때 우선 살펴보면 됩니다. repo 이름과 명령어, 원본 링크는 검색성과 재현성을 위해 그대로 유지했습니다.\n용도: 대안 구현 비교, 실험적 기능 확인, 원본과 다른 방향성 탐색\n태그: 포크·파생, hermes agent camel\n원문 설명: Hermes with integrated CaMeL trust boundaries for safer autonomous execution",
+      "text": "nativ3ai/hermes-agent-camel (포크·파생)\n원본 Hermes 흐름을 다른 방식으로 실험한 파생 프로젝트입니다.\n원본 Hermes 흐름을 다른 방식으로 실험한 파생 프로젝트입니다. 포크·파생 분류에서 대안 구현 비교이 필요할 때 먼저 살펴보면 좋습니다. 실험적 기능 확인할 때도 함께 참고할 만합니다. 저장소 이름, 명령어, 원문 링크는 정확한 확인을 위해 그대로 유지했습니다.\n용도: 대안 구현 비교, 실험적 기능 확인, 원본과 다른 방향성 탐색\n태그: 포크·파생, 대안 구현 비교, 실험적 기능 확인, 원본과 다른 방향성 탐색\n원문 설명: Hermes with integrated CaMeL trust boundaries for safer autonomous execution",
       "sourceUrl": "https://github.com/nativ3ai/hermes-agent-camel"
     },
     {
@@ -1979,7 +1979,7 @@
       "repoId": "kaminocorp/hermes-alpha",
       "title": "kaminocorp/hermes-alpha",
       "section": "한국어 요약",
-      "text": "kaminocorp/hermes-alpha (포크·파생)\nkaminocorp/hermes-alpha: Cloud — deployed Hermes with pre — configured templates and managed infrastructure을 한국어 Atlas 기준으로 분류한 프로젝트입니다.\nkaminocorp/hermes-alpha는 포크·파생 범주에서 볼 만한 프로젝트입니다. 원문 설명 기준으로는 “Cloud — deployed Hermes with pre — configured templates and managed infrastructure”에 초점이 있습니다. 한국어 사용자는 대안 구현 비교이나 실험적 기능 확인이 필요할 때 우선 살펴보면 됩니다. repo 이름과 명령어, 원본 링크는 검색성과 재현성을 위해 그대로 유지했습니다.\n용도: 대안 구현 비교, 실험적 기능 확인, 원본과 다른 방향성 탐색, 배포\n태그: 포크·파생, 배포, 인프라, hermes alpha\n원문 설명: Cloud-deployed Hermes with pre-configured templates and managed infrastructure",
+      "text": "kaminocorp/hermes-alpha (포크·파생)\n원본 Hermes 흐름을 다른 방식으로 실험한 파생 프로젝트입니다.\n원본 Hermes 흐름을 다른 방식으로 실험한 파생 프로젝트입니다. 포크·파생 분류에서 대안 구현 비교이 필요할 때 먼저 살펴보면 좋습니다. 실험적 기능 확인할 때도 함께 참고할 만합니다. 저장소 이름, 명령어, 원문 링크는 정확한 확인을 위해 그대로 유지했습니다.\n용도: 대안 구현 비교, 실험적 기능 확인, 원본과 다른 방향성 탐색, 배포\n태그: 포크·파생, 배포, 인프라, 대안 구현 비교, 실험적 기능 확인, 원본과 다른 방향성 탐색\n원문 설명: Cloud-deployed Hermes with pre-configured templates and managed infrastructure",
       "sourceUrl": "https://github.com/kaminocorp/hermes-alpha"
     },
     {
@@ -2003,7 +2003,7 @@
       "repoId": "beardthelion/hermes-skill-distillation",
       "title": "beardthelion/hermes-skill-distillation",
       "section": "한국어 요약",
-      "text": "beardthelion/hermes-skill-distillation (포크·파생)\nbeardthelion/hermes-skill-distillation: Generate agentic training trajectories from real — world tasks for Hermes 4 fine — tuning을 한국어 Atlas 기준으로 분류한 프로젝트입니다.\nbeardthelion/hermes-skill-distillation는 포크·파생 범주에서 볼 만한 프로젝트입니다. 원문 설명 기준으로는 “Generate agentic training trajectories from real — world tasks for Hermes 4 fine — tuning”에 초점이 있습니다. 한국어 사용자는 대안 구현 비교이나 실험적 기능 확인이 필요할 때 우선 살펴보면 됩니다. repo 이름과 명령어, 원본 링크는 검색성과 재현성을 위해 그대로 유지했습니다.\n용도: 대안 구현 비교, 실험적 기능 확인, 원본과 다른 방향성 탐색, 스킬\n태그: 포크·파생, 스킬, 재사용 가능한 작업 절차, hermes skill distillation\n원문 설명: Generate agentic training trajectories from real-world tasks for Hermes 4 fine-tuning",
+      "text": "beardthelion/hermes-skill-distillation (포크·파생)\n원본 Hermes 흐름을 다른 방식으로 실험한 파생 프로젝트입니다.\n원본 Hermes 흐름을 다른 방식으로 실험한 파생 프로젝트입니다. 포크·파생 분류에서 대안 구현 비교이 필요할 때 먼저 살펴보면 좋습니다. 실험적 기능 확인할 때도 함께 참고할 만합니다. 저장소 이름, 명령어, 원문 링크는 정확한 확인을 위해 그대로 유지했습니다.\n용도: 대안 구현 비교, 실험적 기능 확인, 원본과 다른 방향성 탐색, 스킬\n태그: 포크·파생, 스킬, 재사용 가능한 작업 절차, 대안 구현 비교, 실험적 기능 확인, 원본과 다른 방향성 탐색\n원문 설명: Generate agentic training trajectories from real-world tasks for Hermes 4 fine-tuning",
       "sourceUrl": "https://github.com/beardthelion/hermes-skill-distillation"
     },
     {
@@ -2027,7 +2027,7 @@
       "repoId": "xaspx/hermes-control-interface",
       "title": "xaspx/hermes-control-interface",
       "section": "한국어 요약",
-      "text": "xaspx/hermes-control-interface (워크스페이스·GUI)\nxaspx/hermes-control-interface: A self — hosted web dashboard for the Hermes AI agent stack. Provides a browser — based terminal, file explorer, session overview, cron management, system metrics, and an agent status panel — all behind a을 한국어 Atlas 기준으로 분류한 프로젝트입니다.\nxaspx/hermes-control-interface는 워크스페이스·GUI 범주에서 볼 만한 프로젝트입니다. 원문 설명 기준으로는 “A self — hosted web dashboard for the Hermes AI agent stack. Provides a browser — based terminal, file explorer, session overview, cron management, system metrics, and an agent status panel — all behind a”에 초점이 있습니다. 한국어 사용자는 시각적인 작업 공간 구성이나 에이전트 작업 흐름 모니터링이 필요할 때 우선 살펴보면 됩니다. repo 이름과 명령어, 원본 링크는 검색성과 재현성을 위해 그대로 유지했습니다.\n용도: 시각적인 작업 공간 구성, 에이전트 작업 흐름 모니터링, 비개발자 친화 UI 제공, GUI\n태그: 워크스페이스·GUI, GUI, 워크스페이스, hermes control interface\n원문 설명: A self-hosted web dashboard for the Hermes AI agent stack. Provides a browser-based terminal, file explorer, session overview, cron management, system metrics, and an agent status panel — all behind a",
+      "text": "xaspx/hermes-control-interface (워크스페이스·화면형 도구)\n웹 검색이나 브라우저 조작을 Hermes 작업 흐름에 붙이는 확장 프로젝트입니다.\n웹 검색이나 브라우저 조작을 Hermes 작업 흐름에 붙이는 확장 프로젝트입니다. 워크스페이스·화면형 도구 분류에서 작업 흐름을 화면에서 확인할 때 먼저 살펴보면 좋습니다. 채팅, 터미널, 메모리 관리를 한 화면에서 처리할 때도 함께 참고할 만합니다. 저장소 이름, 명령어, 원문 링크는 정확한 확인을 위해 그대로 유지했습니다.\n용도: 작업 흐름을 화면에서 확인, 채팅·터미널·메모리 관리, 비개발자도 쓰기 쉬운 화면형 도구 검토, 화면형 인터페이스\n태그: 워크스페이스·화면형 도구, 화면형 인터페이스, 워크스페이스, 작업 흐름을 화면에서 확인, 채팅·터미널·메모리 관리, 비개발자도 쓰기 쉬운 화면형 도구 검토\n원문 설명: A self-hosted web dashboard for the Hermes AI agent stack. Provides a browser-based terminal, file explorer, session overview, cron management, system metrics, and an agent status panel — all behind a",
       "sourceUrl": "https://github.com/xaspx/hermes-control-interface"
     },
     {
@@ -2039,7 +2039,7 @@
       "repoId": "xaspx/hermes-control-interface",
       "title": "xaspx/hermes-control-interface",
       "section": "용도",
-      "text": "xaspx/hermes-control-interface의 주요 용도: 시각적인 작업 공간 구성, 에이전트 작업 흐름 모니터링, 비개발자 친화 UI 제공, GUI",
+      "text": "xaspx/hermes-control-interface의 주요 용도: 작업 흐름을 화면에서 확인, 채팅·터미널·메모리 관리, 비개발자도 쓰기 쉬운 화면형 도구 검토, 화면형 인터페이스",
       "sourceUrl": "https://github.com/xaspx/hermes-control-interface"
     },
     {
@@ -2051,7 +2051,7 @@
       "repoId": "ksimback/hermes-ecosystem",
       "title": "ksimback/hermes-ecosystem",
       "section": "한국어 요약",
-      "text": "ksimback/hermes-ecosystem (가이드·문서)\nksimback/hermes-ecosystem: Hermes Atlas — the community map of every tool, skill, and integration for Hermes Agent by Nous Research을 한국어 Atlas 기준으로 분류한 프로젝트입니다.\nksimback/hermes-ecosystem는 가이드·문서 범주에서 볼 만한 프로젝트입니다. 원문 설명 기준으로는 “Hermes Atlas — the community map of every tool, skill, and integration for Hermes Agent by Nous Research”에 초점이 있습니다. 한국어 사용자는 학습 자료 확인이나 도입 전 구조 이해이 필요할 때 우선 살펴보면 됩니다. repo 이름과 명령어, 원본 링크는 검색성과 재현성을 위해 그대로 유지했습니다.\n용도: 학습 자료 확인, 도입 전 구조 이해, 팀 온보딩, 스킬\n태그: 가이드·문서, 스킬, 재사용 가능한 작업 절차, hermes ecosystem\n원문 설명: Hermes Atlas — the community map of every tool, skill, and integration for Hermes Agent by Nous Research",
+      "text": "ksimback/hermes-ecosystem (가이드·문서)\nHermes를 배우고 비교하고 도입할 때 참고할 수 있는 자료입니다.\nHermes를 배우고 비교하고 도입할 때 참고할 수 있는 자료입니다. 가이드·문서 분류에서 학습 자료 확인할 때 먼저 살펴보면 좋습니다. 도입 전 구조 이해이 필요할 때도 함께 참고할 만합니다. 저장소 이름, 명령어, 원문 링크는 정확한 확인을 위해 그대로 유지했습니다.\n용도: 학습 자료 확인, 도입 전 구조 이해, 팀 온보딩, 스킬\n태그: 가이드·문서, 스킬, 재사용 가능한 작업 절차, 학습 자료 확인, 도입 전 구조 이해, 팀 온보딩\n원문 설명: Hermes Atlas — the community map of every tool, skill, and integration for Hermes Agent by Nous Research",
       "sourceUrl": "https://github.com/ksimback/hermes-ecosystem"
     },
     {
@@ -2075,7 +2075,7 @@
       "repoId": "dodo-reach/hermes-desktop",
       "title": "dodo-reach/hermes-desktop",
       "section": "한국어 요약",
-      "text": "dodo-reach/hermes-desktop (워크스페이스·GUI)\ndodo-reach/hermes-desktop: A native Mac workspace for Hermes: real SSH, real terminal, real session data.을 한국어 Atlas 기준으로 분류한 프로젝트입니다.\ndodo-reach/hermes-desktop는 워크스페이스·GUI 범주에서 볼 만한 프로젝트입니다. 원문 설명 기준으로는 “A native Mac workspace for Hermes: real SSH, real terminal, real session data.”에 초점이 있습니다. 한국어 사용자는 시각적인 작업 공간 구성이나 에이전트 작업 흐름 모니터링이 필요할 때 우선 살펴보면 됩니다. repo 이름과 명령어, 원본 링크는 검색성과 재현성을 위해 그대로 유지했습니다.\n용도: 시각적인 작업 공간 구성, 에이전트 작업 흐름 모니터링, 비개발자 친화 UI 제공, GUI\n태그: 워크스페이스·GUI, GUI, 워크스페이스, hermes desktop\n원문 설명: A native Mac workspace for Hermes: real SSH, real terminal, real session data.",
+      "text": "dodo-reach/hermes-desktop (워크스페이스·화면형 도구)\nHermes 작업을 웹이나 데스크톱 화면에서 다루기 위한 인터페이스 프로젝트입니다.\nHermes 작업을 웹이나 데스크톱 화면에서 다루기 위한 인터페이스 프로젝트입니다. 워크스페이스·화면형 도구 분류에서 작업 흐름을 화면에서 확인할 때 먼저 살펴보면 좋습니다. 채팅, 터미널, 메모리 관리를 한 화면에서 처리할 때도 함께 참고할 만합니다. 저장소 이름, 명령어, 원문 링크는 정확한 확인을 위해 그대로 유지했습니다.\n용도: 작업 흐름을 화면에서 확인, 채팅·터미널·메모리 관리, 비개발자도 쓰기 쉬운 화면형 도구 검토, 화면형 인터페이스\n태그: 워크스페이스·화면형 도구, 화면형 인터페이스, 워크스페이스, 작업 흐름을 화면에서 확인, 채팅·터미널·메모리 관리, 비개발자도 쓰기 쉬운 화면형 도구 검토\n원문 설명: A native Mac workspace for Hermes: real SSH, real terminal, real session data.",
       "sourceUrl": "https://github.com/dodo-reach/hermes-desktop"
     },
     {
@@ -2087,7 +2087,7 @@
       "repoId": "dodo-reach/hermes-desktop",
       "title": "dodo-reach/hermes-desktop",
       "section": "용도",
-      "text": "dodo-reach/hermes-desktop의 주요 용도: 시각적인 작업 공간 구성, 에이전트 작업 흐름 모니터링, 비개발자 친화 UI 제공, GUI",
+      "text": "dodo-reach/hermes-desktop의 주요 용도: 작업 흐름을 화면에서 확인, 채팅·터미널·메모리 관리, 비개발자도 쓰기 쉬운 화면형 도구 검토, 화면형 인터페이스",
       "sourceUrl": "https://github.com/dodo-reach/hermes-desktop"
     },
     {
@@ -2099,7 +2099,7 @@
       "repoId": "clawshell/clawshell",
       "title": "clawshell/clawshell",
       "section": "한국어 요약",
-      "text": "clawshell/clawshell (플러그인·확장)\nclawshell/clawshell: The Runtime Security Layer for OpenClaw/Hermes — agent, the essential safety harness for PII & sensitive credentials protection.을 한국어 Atlas 기준으로 분류한 프로젝트입니다.\nclawshell/clawshell는 플러그인·확장 범주에서 볼 만한 프로젝트입니다. 원문 설명 기준으로는 “The Runtime Security Layer for OpenClaw/Hermes — agent, the essential safety harness for PII & sensitive credentials protection.”에 초점이 있습니다. 한국어 사용자는 Hermes 기능 확장이나 외부 도구 연결이 필요할 때 우선 살펴보면 됩니다. repo 이름과 명령어, 원본 링크는 검색성과 재현성을 위해 그대로 유지했습니다.\n용도: Hermes 기능 확장, 외부 도구 연결, 특정 작업 흐름 자동화, 보안\n태그: 플러그인·확장, 보안, 사이버보안, clawshell\n원문 설명: The Runtime Security Layer for OpenClaw/Hermes-agent, the essential safety harness for PII & sensitive credentials protection.",
+      "text": "clawshell/clawshell (플러그인·확장)\n보안 점검과 사이버보안 작업을 에이전트 스킬로 다루는 프로젝트입니다.\n보안 점검과 사이버보안 작업을 에이전트 스킬로 다루는 프로젝트입니다. 플러그인·확장 분류에서 Hermes 기능 확장이 필요할 때 먼저 살펴보면 좋습니다. 외부 도구 연결이 필요할 때도 함께 참고할 만합니다. 저장소 이름, 명령어, 원문 링크는 정확한 확인을 위해 그대로 유지했습니다.\n용도: Hermes 기능 확장, 외부 도구 연결, 특정 작업 흐름 자동화, 보안\n태그: 플러그인·확장, 보안, 사이버보안, Hermes 기능 확장, 외부 도구 연결, 특정 작업 흐름 자동화\n원문 설명: The Runtime Security Layer for OpenClaw/Hermes-agent, the essential safety harness for PII & sensitive credentials protection.",
       "sourceUrl": "https://github.com/clawshell/clawshell"
     },
     {
@@ -2123,7 +2123,7 @@
       "repoId": "nesquena/hermes-webui",
       "title": "nesquena/hermes-webui",
       "section": "한국어 요약",
-      "text": "nesquena/hermes-webui (워크스페이스·GUI)\n웹과 모바일 브라우저에서 Hermes Agent를 쓰기 위한 Web UI 프로젝트입니다.\nhermes-webui는 Hermes Agent를 터미널 밖에서 쓰고 싶은 사용자를 위한 웹 인터페이스입니다. 휴대폰이나 브라우저에서 접근하는 사용 경험을 중시하는 프로젝트로, CLI보다 GUI 환경을 선호한다면 먼저 확인할 만합니다.\n용도: 웹 기반 Hermes 사용, 모바일 브라우저 접근, GUI 작업 환경\n태그: 웹 UI, 모바일, GUI, 워크스페이스\n원문 설명: Hermes WebUI: The best way to use Hermes Agent from the web or from your phone!",
+      "text": "nesquena/hermes-webui (워크스페이스·화면형 도구)\n웹과 모바일 브라우저에서 Hermes Agent를 쓰기 위한 웹 인터페이스 프로젝트입니다.\nhermes-webui는 Hermes Agent를 터미널 밖에서 쓰고 싶은 사용자를 위한 웹 인터페이스입니다. 휴대폰이나 브라우저에서 접근하는 사용 경험을 중시하는 프로젝트로, 명령줄보다 화면형 환경을 선호한다면 먼저 확인할 만합니다.\n용도: 웹 기반 Hermes 사용, 모바일 브라우저 접근, 화면형 작업 환경\n태그: 웹 인터페이스, 모바일, 화면형 인터페이스, 워크스페이스\n원문 설명: Hermes WebUI: The best way to use Hermes Agent from the web or from your phone!",
       "sourceUrl": "https://github.com/nesquena/hermes-webui"
     },
     {
@@ -2135,7 +2135,7 @@
       "repoId": "nesquena/hermes-webui",
       "title": "nesquena/hermes-webui",
       "section": "용도",
-      "text": "nesquena/hermes-webui의 주요 용도: 웹 기반 Hermes 사용, 모바일 브라우저 접근, GUI 작업 환경",
+      "text": "nesquena/hermes-webui의 주요 용도: 웹 기반 Hermes 사용, 모바일 브라우저 접근, 화면형 작업 환경",
       "sourceUrl": "https://github.com/nesquena/hermes-webui"
     },
     {
@@ -2147,7 +2147,7 @@
       "repoId": "garrytan/gbrain",
       "title": "garrytan/gbrain",
       "section": "한국어 요약",
-      "text": "garrytan/gbrain (메모리·컨텍스트)\nGarry Tan이 운영하는 OpenClaw/Hermes용 개인 지식 브레인 프로젝트입니다.\ngbrain은 개인의 지식과 작업 맥락을 에이전트가 활용할 수 있게 정리한 opinionated brain 프로젝트입니다. 일반-purpose 라이브러리라기보다, 실제 사용자가 어떤 방식으로 Hermes/OpenClaw 기억 체계를 구성하는지 참고하기 좋은 사례에 가깝습니다.\n용도: 개인 지식 베이스 참고, 메모리 설계 사례 분석\n태그: 브레인, 메모리, 개인지식, 사례\n원문 설명: Garry's Opinionated OpenClaw/Hermes Agent Brain",
+      "text": "garrytan/gbrain (메모리·컨텍스트)\nGarry Tan이 운영하는 OpenClaw/Hermes용 개인 지식 브레인 프로젝트입니다.\ngbrain은 개인의 지식과 작업 맥락을 에이전트가 활용할 수 있게 정리한 개인 지식 브레인 프로젝트입니다. 범용 라이브러리라기보다, 실제 사용자가 어떤 방식으로 Hermes/OpenClaw 기억 체계를 구성하는지 참고하기 좋은 사례에 가깝습니다.\n용도: 개인 지식 베이스 참고, 메모리 설계 사례 분석\n태그: 브레인, 메모리, 개인지식, 사례\n원문 설명: Garry's Opinionated OpenClaw/Hermes Agent Brain",
       "sourceUrl": "https://github.com/garrytan/gbrain"
     },
     {
@@ -2171,7 +2171,7 @@
       "repoId": "pyrate-llama/hermes-ui",
       "title": "pyrate-llama/hermes-ui",
       "section": "한국어 요약",
-      "text": "pyrate-llama/hermes-ui (워크스페이스·GUI)\npyrate-llama/hermes-ui: Glassmorphic web interface for Hermes Agent — your self — hosted AI assistant을 한국어 Atlas 기준으로 분류한 프로젝트입니다.\npyrate-llama/hermes-ui는 워크스페이스·GUI 범주에서 볼 만한 프로젝트입니다. 원문 설명 기준으로는 “Glassmorphic web interface for Hermes Agent — your self — hosted AI assistant”에 초점이 있습니다. 한국어 사용자는 시각적인 작업 공간 구성이나 에이전트 작업 흐름 모니터링이 필요할 때 우선 살펴보면 됩니다. repo 이름과 명령어, 원본 링크는 검색성과 재현성을 위해 그대로 유지했습니다.\n용도: 시각적인 작업 공간 구성, 에이전트 작업 흐름 모니터링, 비개발자 친화 UI 제공\n태그: 워크스페이스·GUI, hermes ui\n원문 설명: Glassmorphic web interface for Hermes Agent — your self-hosted AI assistant",
+      "text": "pyrate-llama/hermes-ui (워크스페이스·화면형 도구)\nHermes 작업을 웹이나 데스크톱 화면에서 다루기 위한 인터페이스 프로젝트입니다.\nHermes 작업을 웹이나 데스크톱 화면에서 다루기 위한 인터페이스 프로젝트입니다. 워크스페이스·화면형 도구 분류에서 작업 흐름을 화면에서 확인할 때 먼저 살펴보면 좋습니다. 채팅, 터미널, 메모리 관리를 한 화면에서 처리할 때도 함께 참고할 만합니다. 저장소 이름, 명령어, 원문 링크는 정확한 확인을 위해 그대로 유지했습니다.\n용도: 작업 흐름을 화면에서 확인, 채팅·터미널·메모리 관리, 비개발자도 쓰기 쉬운 화면형 도구 검토\n태그: 워크스페이스·화면형 도구, 작업 흐름을 화면에서 확인, 채팅·터미널·메모리 관리, 비개발자도 쓰기 쉬운 화면형 도구 검토\n원문 설명: Glassmorphic web interface for Hermes Agent — your self-hosted AI assistant",
       "sourceUrl": "https://github.com/pyrate-llama/hermes-ui"
     },
     {
@@ -2183,7 +2183,7 @@
       "repoId": "pyrate-llama/hermes-ui",
       "title": "pyrate-llama/hermes-ui",
       "section": "용도",
-      "text": "pyrate-llama/hermes-ui의 주요 용도: 시각적인 작업 공간 구성, 에이전트 작업 흐름 모니터링, 비개발자 친화 UI 제공",
+      "text": "pyrate-llama/hermes-ui의 주요 용도: 작업 흐름을 화면에서 확인, 채팅·터미널·메모리 관리, 비개발자도 쓰기 쉬운 화면형 도구 검토",
       "sourceUrl": "https://github.com/pyrate-llama/hermes-ui"
     },
     {
@@ -2195,7 +2195,7 @@
       "repoId": "kevinmarmstrong/hermes-claude-code-rc",
       "title": "kevinmarmstrong/hermes-claude-code-rc",
       "section": "한국어 요약",
-      "text": "kevinmarmstrong/hermes-claude-code-rc (통합·브리지)\nkevinmarmstrong/hermes-claude-code-rc: Hermes Agent plugin for remote controlling Claude Code sessions via Telegram을 한국어 Atlas 기준으로 분류한 프로젝트입니다.\nkevinmarmstrong/hermes-claude-code-rc는 통합·브리지 범주에서 볼 만한 프로젝트입니다. 원문 설명 기준으로는 “Hermes Agent plugin for remote controlling Claude Code sessions via Telegram”에 초점이 있습니다. 한국어 사용자는 메신저·외부 앱 연동이나 기존 워크플로와 Hermes 연결이 필요할 때 우선 살펴보면 됩니다. repo 이름과 명령어, 원본 링크는 검색성과 재현성을 위해 그대로 유지했습니다.\n용도: 메신저·외부 앱 연동, 기존 워크플로와 Hermes 연결, API 기반 자동화, 텔레그램 연동\n태그: 통합·브리지, 텔레그램 연동, 메신저 기반 실행, hermes claude code rc\n원문 설명: Hermes Agent plugin for remote controlling Claude Code sessions via Telegram",
+      "text": "kevinmarmstrong/hermes-claude-code-rc (통합·브리지)\nHermes를 텔레그램 환경에서 쓰기 쉽게 연결하는 통합 프로젝트입니다.\nHermes를 텔레그램 환경에서 쓰기 쉽게 연결하는 통합 프로젝트입니다. 통합·브리지 분류에서 메신저와 외부 앱 연동할 때 먼저 살펴보면 좋습니다. 기존 업무 흐름에 Hermes 연결이 필요할 때도 함께 참고할 만합니다. 저장소 이름, 명령어, 원문 링크는 정확한 확인을 위해 그대로 유지했습니다.\n용도: 메신저와 외부 앱 연동, 기존 업무 흐름에 Hermes 연결, 서비스 연동 자동화, 텔레그램 연동\n태그: 통합·브리지, 텔레그램 연동, 메신저 기반 실행, 메신저와 외부 앱 연동, 기존 업무 흐름에 Hermes 연결, 서비스 연동 자동화\n원문 설명: Hermes Agent plugin for remote controlling Claude Code sessions via Telegram",
       "sourceUrl": "https://github.com/kevinmarmstrong/hermes-claude-code-rc"
     },
     {
@@ -2207,7 +2207,7 @@
       "repoId": "kevinmarmstrong/hermes-claude-code-rc",
       "title": "kevinmarmstrong/hermes-claude-code-rc",
       "section": "용도",
-      "text": "kevinmarmstrong/hermes-claude-code-rc의 주요 용도: 메신저·외부 앱 연동, 기존 워크플로와 Hermes 연결, API 기반 자동화, 텔레그램 연동",
+      "text": "kevinmarmstrong/hermes-claude-code-rc의 주요 용도: 메신저와 외부 앱 연동, 기존 업무 흐름에 Hermes 연결, 서비스 연동 자동화, 텔레그램 연동",
       "sourceUrl": "https://github.com/kevinmarmstrong/hermes-claude-code-rc"
     },
     {
@@ -2219,7 +2219,7 @@
       "repoId": "AaronWong1999/hermesclaw",
       "title": "AaronWong1999/hermesclaw",
       "section": "한국어 요약",
-      "text": "AaronWong1999/hermesclaw (통합·브리지)\nAaronWong1999/hermesclaw: Run Hermes Agent and OpenClaw on the same WeChat account을 한국어 Atlas 기준으로 분류한 프로젝트입니다.\nAaronWong1999/hermesclaw는 통합·브리지 범주에서 볼 만한 프로젝트입니다. 원문 설명 기준으로는 “Run Hermes Agent and OpenClaw on the same WeChat account”에 초점이 있습니다. 한국어 사용자는 메신저·외부 앱 연동이나 기존 워크플로와 Hermes 연결이 필요할 때 우선 살펴보면 됩니다. repo 이름과 명령어, 원본 링크는 검색성과 재현성을 위해 그대로 유지했습니다.\n용도: 메신저·외부 앱 연동, 기존 워크플로와 Hermes 연결, API 기반 자동화\n태그: 통합·브리지, hermesclaw\n원문 설명: Run Hermes Agent and OpenClaw on the same WeChat account",
+      "text": "AaronWong1999/hermesclaw (통합·브리지)\nHermes를 메신저, 업무 도구, 외부 서비스와 연결하는 브리지 프로젝트입니다.\nHermes를 메신저, 업무 도구, 외부 서비스와 연결하는 브리지 프로젝트입니다. 통합·브리지 분류에서 메신저와 외부 앱 연동할 때 먼저 살펴보면 좋습니다. 기존 업무 흐름에 Hermes 연결이 필요할 때도 함께 참고할 만합니다. 저장소 이름, 명령어, 원문 링크는 정확한 확인을 위해 그대로 유지했습니다.\n용도: 메신저와 외부 앱 연동, 기존 업무 흐름에 Hermes 연결, 서비스 연동 자동화\n태그: 통합·브리지, 메신저와 외부 앱 연동, 기존 업무 흐름에 Hermes 연결, 서비스 연동 자동화\n원문 설명: Run Hermes Agent and OpenClaw on the same WeChat account",
       "sourceUrl": "https://github.com/AaronWong1999/hermesclaw"
     },
     {
@@ -2231,7 +2231,7 @@
       "repoId": "AaronWong1999/hermesclaw",
       "title": "AaronWong1999/hermesclaw",
       "section": "용도",
-      "text": "AaronWong1999/hermesclaw의 주요 용도: 메신저·외부 앱 연동, 기존 워크플로와 Hermes 연결, API 기반 자동화",
+      "text": "AaronWong1999/hermesclaw의 주요 용도: 메신저와 외부 앱 연동, 기존 업무 흐름에 Hermes 연결, 서비스 연동 자동화",
       "sourceUrl": "https://github.com/AaronWong1999/hermesclaw"
     },
     {
@@ -2243,7 +2243,7 @@
       "repoId": "stephenschoettler/hermes-lcm",
       "title": "stephenschoettler/hermes-lcm",
       "section": "한국어 요약",
-      "text": "stephenschoettler/hermes-lcm (메모리·컨텍스트)\nstephenschoettler/hermes-lcm: Lossless Context Management plugin for Hermes Agent — DAG — based context engine that never loses a message을 한국어 Atlas 기준으로 분류한 프로젝트입니다.\nstephenschoettler/hermes-lcm는 메모리·컨텍스트 범주에서 볼 만한 프로젝트입니다. 원문 설명 기준으로는 “Lossless Context Management plugin for Hermes Agent — DAG — based context engine that never loses a message”에 초점이 있습니다. 한국어 사용자는 장기 기억 저장이나 세션 간 맥락 유지이 필요할 때 우선 살펴보면 됩니다. repo 이름과 명령어, 원본 링크는 검색성과 재현성을 위해 그대로 유지했습니다.\n용도: 장기 기억 저장, 세션 간 맥락 유지, 개인화된 에이전트 경험 구성, 메모리\n태그: 메모리·컨텍스트, 메모리, 컨텍스트 유지, hermes lcm\n원문 설명: Lossless Context Management plugin for Hermes Agent — DAG-based context engine that never loses a message",
+      "text": "stephenschoettler/hermes-lcm (메모리·컨텍스트)\n에이전트가 장기 기억과 작업 맥락을 유지하도록 돕는 메모리 프로젝트입니다.\n에이전트가 장기 기억과 작업 맥락을 유지하도록 돕는 메모리 프로젝트입니다. 메모리·컨텍스트 분류에서 장기 기억 저장이 필요할 때 먼저 살펴보면 좋습니다. 세션 사이의 맥락 유지이 필요할 때도 함께 참고할 만합니다. 저장소 이름, 명령어, 원문 링크는 정확한 확인을 위해 그대로 유지했습니다.\n용도: 장기 기억 저장, 세션 사이의 맥락 유지, 개인화된 에이전트 구성, 메모리\n태그: 메모리·컨텍스트, 메모리, 컨텍스트 유지, 장기 기억 저장, 세션 사이의 맥락 유지, 개인화된 에이전트 구성\n원문 설명: Lossless Context Management plugin for Hermes Agent — DAG-based context engine that never loses a message",
       "sourceUrl": "https://github.com/stephenschoettler/hermes-lcm"
     },
     {
@@ -2255,7 +2255,7 @@
       "repoId": "stephenschoettler/hermes-lcm",
       "title": "stephenschoettler/hermes-lcm",
       "section": "용도",
-      "text": "stephenschoettler/hermes-lcm의 주요 용도: 장기 기억 저장, 세션 간 맥락 유지, 개인화된 에이전트 경험 구성, 메모리",
+      "text": "stephenschoettler/hermes-lcm의 주요 용도: 장기 기억 저장, 세션 사이의 맥락 유지, 개인화된 에이전트 구성, 메모리",
       "sourceUrl": "https://github.com/stephenschoettler/hermes-lcm"
     },
     {
@@ -2267,7 +2267,7 @@
       "repoId": "Codename-11/hermes-relay",
       "title": "Codename-11/hermes-relay",
       "section": "한국어 요약",
-      "text": "Codename-11/hermes-relay (통합·브리지)\nCodename-11/hermes-relay: Hermes Companion — Android app for Hermes agent platform. Chat, terminal, and device control over WSS.을 한국어 Atlas 기준으로 분류한 프로젝트입니다.\nCodename-11/hermes-relay는 통합·브리지 범주에서 볼 만한 프로젝트입니다. 원문 설명 기준으로는 “Hermes Companion — Android app for Hermes agent platform. Chat, terminal, and device control over WSS.”에 초점이 있습니다. 한국어 사용자는 메신저·외부 앱 연동이나 기존 워크플로와 Hermes 연결이 필요할 때 우선 살펴보면 됩니다. repo 이름과 명령어, 원본 링크는 검색성과 재현성을 위해 그대로 유지했습니다.\n용도: 메신저·외부 앱 연동, 기존 워크플로와 Hermes 연결, API 기반 자동화\n태그: 통합·브리지, hermes relay\n원문 설명: Hermes Companion — Android app for Hermes agent platform. Chat, terminal, and device control over WSS.",
+      "text": "Codename-11/hermes-relay (통합·브리지)\nHermes를 메신저, 업무 도구, 외부 서비스와 연결하는 브리지 프로젝트입니다.\nHermes를 메신저, 업무 도구, 외부 서비스와 연결하는 브리지 프로젝트입니다. 통합·브리지 분류에서 메신저와 외부 앱 연동할 때 먼저 살펴보면 좋습니다. 기존 업무 흐름에 Hermes 연결이 필요할 때도 함께 참고할 만합니다. 저장소 이름, 명령어, 원문 링크는 정확한 확인을 위해 그대로 유지했습니다.\n용도: 메신저와 외부 앱 연동, 기존 업무 흐름에 Hermes 연결, 서비스 연동 자동화\n태그: 통합·브리지, 메신저와 외부 앱 연동, 기존 업무 흐름에 Hermes 연결, 서비스 연동 자동화\n원문 설명: Hermes Companion — Android app for Hermes agent platform. Chat, terminal, and device control over WSS.",
       "sourceUrl": "https://github.com/Codename-11/hermes-relay"
     },
     {
@@ -2279,7 +2279,7 @@
       "repoId": "Codename-11/hermes-relay",
       "title": "Codename-11/hermes-relay",
       "section": "용도",
-      "text": "Codename-11/hermes-relay의 주요 용도: 메신저·외부 앱 연동, 기존 워크플로와 Hermes 연결, API 기반 자동화",
+      "text": "Codename-11/hermes-relay의 주요 용도: 메신저와 외부 앱 연동, 기존 업무 흐름에 Hermes 연결, 서비스 연동 자동화",
       "sourceUrl": "https://github.com/Codename-11/hermes-relay"
     },
     {
@@ -2291,7 +2291,7 @@
       "repoId": "clawvader-tech/hermes-telegram-miniapp",
       "title": "clawvader-tech/hermes-telegram-miniapp",
       "section": "한국어 요약",
-      "text": "clawvader-tech/hermes-telegram-miniapp (워크스페이스·GUI)\nclawvader-tech/hermes-telegram-miniapp: React SPA dashboard for Telegram Mini App v2.0 — 10 — page mobile — first UI. Runs locally.을 한국어 Atlas 기준으로 분류한 프로젝트입니다.\nclawvader-tech/hermes-telegram-miniapp는 워크스페이스·GUI 범주에서 볼 만한 프로젝트입니다. 원문 설명 기준으로는 “React SPA dashboard for Telegram Mini App v2.0 — 10 — page mobile — first UI. Runs locally.”에 초점이 있습니다. 한국어 사용자는 시각적인 작업 공간 구성이나 에이전트 작업 흐름 모니터링이 필요할 때 우선 살펴보면 됩니다. repo 이름과 명령어, 원본 링크는 검색성과 재현성을 위해 그대로 유지했습니다.\n용도: 시각적인 작업 공간 구성, 에이전트 작업 흐름 모니터링, 비개발자 친화 UI 제공, 텔레그램 연동\n태그: 워크스페이스·GUI, 텔레그램 연동, 메신저 기반 실행, GUI, 워크스페이스, hermes telegram miniapp\n원문 설명: React SPA dashboard for Telegram Mini App v2.0 — 10-page mobile-first UI. Runs locally.",
+      "text": "clawvader-tech/hermes-telegram-miniapp (워크스페이스·화면형 도구)\nHermes를 텔레그램 환경에서 쓰기 쉽게 연결하는 통합 프로젝트입니다.\nHermes를 텔레그램 환경에서 쓰기 쉽게 연결하는 통합 프로젝트입니다. 워크스페이스·화면형 도구 분류에서 작업 흐름을 화면에서 확인할 때 먼저 살펴보면 좋습니다. 채팅, 터미널, 메모리 관리를 한 화면에서 처리할 때도 함께 참고할 만합니다. 저장소 이름, 명령어, 원문 링크는 정확한 확인을 위해 그대로 유지했습니다.\n용도: 작업 흐름을 화면에서 확인, 채팅·터미널·메모리 관리, 비개발자도 쓰기 쉬운 화면형 도구 검토, 텔레그램 연동\n태그: 워크스페이스·화면형 도구, 텔레그램 연동, 메신저 기반 실행, 화면형 인터페이스, 워크스페이스, 작업 흐름을 화면에서 확인\n원문 설명: React SPA dashboard for Telegram Mini App v2.0 — 10-page mobile-first UI. Runs locally.",
       "sourceUrl": "https://github.com/clawvader-tech/hermes-telegram-miniapp"
     },
     {
@@ -2303,7 +2303,7 @@
       "repoId": "clawvader-tech/hermes-telegram-miniapp",
       "title": "clawvader-tech/hermes-telegram-miniapp",
       "section": "용도",
-      "text": "clawvader-tech/hermes-telegram-miniapp의 주요 용도: 시각적인 작업 공간 구성, 에이전트 작업 흐름 모니터링, 비개발자 친화 UI 제공, 텔레그램 연동",
+      "text": "clawvader-tech/hermes-telegram-miniapp의 주요 용도: 작업 흐름을 화면에서 확인, 채팅·터미널·메모리 관리, 비개발자도 쓰기 쉬운 화면형 도구 검토, 텔레그램 연동",
       "sourceUrl": "https://github.com/clawvader-tech/hermes-telegram-miniapp"
     },
     {
@@ -2315,7 +2315,7 @@
       "repoId": "briancaffey/hermes-otel",
       "title": "briancaffey/hermes-otel",
       "section": "한국어 요약",
-      "text": "briancaffey/hermes-otel (플러그인·확장)\nbriancaffey/hermes-otel: OTel Plugin for Hermes Agent을 한국어 Atlas 기준으로 분류한 프로젝트입니다.\nbriancaffey/hermes-otel는 플러그인·확장 범주에서 볼 만한 프로젝트입니다. 원문 설명 기준으로는 “OTel Plugin for Hermes Agent”에 초점이 있습니다. 한국어 사용자는 Hermes 기능 확장이나 외부 도구 연결이 필요할 때 우선 살펴보면 됩니다. repo 이름과 명령어, 원본 링크는 검색성과 재현성을 위해 그대로 유지했습니다.\n용도: Hermes 기능 확장, 외부 도구 연결, 특정 작업 흐름 자동화\n태그: 플러그인·확장, hermes otel\n원문 설명: OTel Plugin for Hermes Agent",
+      "text": "briancaffey/hermes-otel (플러그인·확장)\nHermes 실행 상태를 관찰하고 운영 지표를 확인하기 위한 모니터링 프로젝트입니다.\nHermes 실행 상태를 관찰하고 운영 지표를 확인하기 위한 모니터링 프로젝트입니다. 플러그인·확장 분류에서 Hermes 기능 확장이 필요할 때 먼저 살펴보면 좋습니다. 외부 도구 연결이 필요할 때도 함께 참고할 만합니다. 저장소 이름, 명령어, 원문 링크는 정확한 확인을 위해 그대로 유지했습니다.\n용도: Hermes 기능 확장, 외부 도구 연결, 특정 작업 흐름 자동화\n태그: 플러그인·확장, Hermes 기능 확장, 외부 도구 연결, 특정 작업 흐름 자동화\n원문 설명: OTel Plugin for Hermes Agent",
       "sourceUrl": "https://github.com/briancaffey/hermes-otel"
     },
     {
@@ -2339,7 +2339,7 @@
       "repoId": "EKKOLearnAI/hermes-web-ui",
       "title": "EKKOLearnAI/hermes-web-ui",
       "section": "한국어 요약",
-      "text": "EKKOLearnAI/hermes-web-ui (워크스페이스·GUI)\n채팅, 세션, 예약 작업, 사용량 분석, 채널 설정을 다루는 Hermes 웹 대시보드입니다.\nhermes-web-ui는 Hermes Agent를 여러 플랫폼 채널과 함께 운영하기 위한 웹 대시보드입니다. Telegram, Discord, Slack, WhatsApp 같은 채널 설정과 세션 관리, 예약 작업, 사용량 분석을 한 화면에서 다루는 방향입니다.\n용도: 멀티 플랫폼 채널 관리, 세션 관리, 예약 작업, 사용량 분석\n태그: 웹 대시보드, Telegram, Discord, 예약작업, 분석\n원문 설명: Web dashboard for Hermes Agent — multi-platform AI chat, session management, scheduled jobs, usage analytics & channel configuration (Telegram, Discord, Slack, WhatsApp)",
+      "text": "EKKOLearnAI/hermes-web-ui (워크스페이스·화면형 도구)\n채팅, 세션, 예약 작업, 사용량 분석, 채널 설정을 다루는 Hermes 웹 대시보드입니다.\nhermes-web-ui는 Hermes Agent를 여러 플랫폼 채널과 함께 운영하기 위한 웹 대시보드입니다. 텔레그램, 디스코드, 슬랙, 왓츠앱 같은 채널 설정과 세션 관리, 예약 작업, 사용량 분석을 한 화면에서 다루는 방향입니다.\n용도: 멀티 플랫폼 채널 관리, 세션 관리, 예약 작업, 사용량 분석\n태그: 웹 대시보드, 텔레그램, 디스코드, 예약작업, 분석\n원문 설명: Web dashboard for Hermes Agent — multi-platform AI chat, session management, scheduled jobs, usage analytics & channel configuration (Telegram, Discord, Slack, WhatsApp)",
       "sourceUrl": "https://github.com/EKKOLearnAI/hermes-web-ui"
     },
     {
@@ -2363,7 +2363,7 @@
       "repoId": "keepnotes-ai/keep",
       "title": "keepnotes-ai/keep",
       "section": "한국어 요약",
-      "text": "keepnotes-ai/keep (메모리·컨텍스트)\nkeepnotes-ai/keep: Reflective memory for AI agents을 한국어 Atlas 기준으로 분류한 프로젝트입니다.\nkeepnotes-ai/keep는 메모리·컨텍스트 범주에서 볼 만한 프로젝트입니다. 원문 설명 기준으로는 “Reflective memory for AI agents”에 초점이 있습니다. 한국어 사용자는 장기 기억 저장이나 세션 간 맥락 유지이 필요할 때 우선 살펴보면 됩니다. repo 이름과 명령어, 원본 링크는 검색성과 재현성을 위해 그대로 유지했습니다.\n용도: 장기 기억 저장, 세션 간 맥락 유지, 개인화된 에이전트 경험 구성, 메모리\n태그: 메모리·컨텍스트, 메모리, 컨텍스트 유지, keep\n원문 설명: Reflective memory for AI agents",
+      "text": "keepnotes-ai/keep (메모리·컨텍스트)\n에이전트가 이전 작업과 사용자 맥락을 이어갈 수 있게 돕는 메모리 프로젝트입니다.\n에이전트가 이전 작업과 사용자 맥락을 이어갈 수 있게 돕는 메모리 프로젝트입니다. 메모리·컨텍스트 분류에서 장기 기억 저장이 필요할 때 먼저 살펴보면 좋습니다. 세션 사이의 맥락 유지이 필요할 때도 함께 참고할 만합니다. 저장소 이름, 명령어, 원문 링크는 정확한 확인을 위해 그대로 유지했습니다.\n용도: 장기 기억 저장, 세션 사이의 맥락 유지, 개인화된 에이전트 구성, 메모리\n태그: 메모리·컨텍스트, 메모리, 컨텍스트 유지, 장기 기억 저장, 세션 사이의 맥락 유지, 개인화된 에이전트 구성\n원문 설명: Reflective memory for AI agents",
       "sourceUrl": "https://github.com/keepnotes-ai/keep"
     },
     {
@@ -2375,7 +2375,7 @@
       "repoId": "keepnotes-ai/keep",
       "title": "keepnotes-ai/keep",
       "section": "용도",
-      "text": "keepnotes-ai/keep의 주요 용도: 장기 기억 저장, 세션 간 맥락 유지, 개인화된 에이전트 경험 구성, 메모리",
+      "text": "keepnotes-ai/keep의 주요 용도: 장기 기억 저장, 세션 사이의 맥락 유지, 개인화된 에이전트 구성, 메모리",
       "sourceUrl": "https://github.com/keepnotes-ai/keep"
     },
     {
@@ -2387,7 +2387,7 @@
       "repoId": "AxDSan/mnemosyne",
       "title": "AxDSan/mnemosyne",
       "section": "한국어 요약",
-      "text": "AxDSan/mnemosyne (메모리·컨텍스트)\nAxDSan/mnemosyne: The Zero — Dependency, Sub — Millisecond AI Memory System for Hermes Agents을 한국어 Atlas 기준으로 분류한 프로젝트입니다.\nAxDSan/mnemosyne는 메모리·컨텍스트 범주에서 볼 만한 프로젝트입니다. 원문 설명 기준으로는 “The Zero — Dependency, Sub — Millisecond AI Memory System for Hermes Agents”에 초점이 있습니다. 한국어 사용자는 장기 기억 저장이나 세션 간 맥락 유지이 필요할 때 우선 살펴보면 됩니다. repo 이름과 명령어, 원본 링크는 검색성과 재현성을 위해 그대로 유지했습니다.\n용도: 장기 기억 저장, 세션 간 맥락 유지, 개인화된 에이전트 경험 구성, 메모리\n태그: 메모리·컨텍스트, 메모리, 컨텍스트 유지, mnemosyne\n원문 설명: The Zero-Dependency, Sub-Millisecond AI Memory System for Hermes Agents",
+      "text": "AxDSan/mnemosyne (메모리·컨텍스트)\n에이전트가 이전 작업과 사용자 맥락을 이어갈 수 있게 돕는 메모리 프로젝트입니다.\n에이전트가 이전 작업과 사용자 맥락을 이어갈 수 있게 돕는 메모리 프로젝트입니다. 메모리·컨텍스트 분류에서 장기 기억 저장이 필요할 때 먼저 살펴보면 좋습니다. 세션 사이의 맥락 유지이 필요할 때도 함께 참고할 만합니다. 저장소 이름, 명령어, 원문 링크는 정확한 확인을 위해 그대로 유지했습니다.\n용도: 장기 기억 저장, 세션 사이의 맥락 유지, 개인화된 에이전트 구성, 메모리\n태그: 메모리·컨텍스트, 메모리, 컨텍스트 유지, 장기 기억 저장, 세션 사이의 맥락 유지, 개인화된 에이전트 구성\n원문 설명: The Zero-Dependency, Sub-Millisecond AI Memory System for Hermes Agents",
       "sourceUrl": "https://github.com/AxDSan/mnemosyne"
     },
     {
@@ -2399,7 +2399,7 @@
       "repoId": "AxDSan/mnemosyne",
       "title": "AxDSan/mnemosyne",
       "section": "용도",
-      "text": "AxDSan/mnemosyne의 주요 용도: 장기 기억 저장, 세션 간 맥락 유지, 개인화된 에이전트 경험 구성, 메모리",
+      "text": "AxDSan/mnemosyne의 주요 용도: 장기 기억 저장, 세션 사이의 맥락 유지, 개인화된 에이전트 구성, 메모리",
       "sourceUrl": "https://github.com/AxDSan/mnemosyne"
     },
     {
@@ -2435,7 +2435,7 @@
       "repoId": "aivrar/portable-hermes-agent",
       "title": "aivrar/portable-hermes-agent",
       "section": "한국어 요약",
-      "text": "aivrar/portable-hermes-agent (워크스페이스·GUI)\naivrar/portable-hermes-agent: Hermes Agent made portable desktop for Windows — 100 tools, GUI, local models via LM Studio, TTS, Music, ComfyUI, workflows, tool maker. No install. No Docker. No admin rights.을 한국어 Atlas 기준으로 분류한 프로젝트입니다.\naivrar/portable-hermes-agent는 워크스페이스·GUI 범주에서 볼 만한 프로젝트입니다. 원문 설명 기준으로는 “Hermes Agent made portable desktop for Windows — 100 tools, GUI, local models via LM Studio, TTS, Music, ComfyUI, workflows, tool maker. No install. No Docker. No admin rights.”에 초점이 있습니다. 한국어 사용자는 시각적인 작업 공간 구성이나 에이전트 작업 흐름 모니터링이 필요할 때 우선 살펴보면 됩니다. repo 이름과 명령어, 원본 링크는 검색성과 재현성을 위해 그대로 유지했습니다.\n용도: 시각적인 작업 공간 구성, 에이전트 작업 흐름 모니터링, 비개발자 친화 UI 제공, 배포\n태그: 워크스페이스·GUI, 배포, 인프라, GUI, 워크스페이스, portable hermes agent\n원문 설명: Hermes Agent made portable desktop for Windows — 100 tools, GUI, local models via LM Studio, TTS, Music, ComfyUI, workflows, tool maker. No install. No Docker. No admin rights.",
+      "text": "aivrar/portable-hermes-agent (워크스페이스·화면형 도구)\nHermes를 서버나 셀프호스팅 환경에 배포하기 위한 인프라 프로젝트입니다.\nHermes를 서버나 셀프호스팅 환경에 배포하기 위한 인프라 프로젝트입니다. 워크스페이스·화면형 도구 분류에서 작업 흐름을 화면에서 확인할 때 먼저 살펴보면 좋습니다. 채팅, 터미널, 메모리 관리를 한 화면에서 처리할 때도 함께 참고할 만합니다. 저장소 이름, 명령어, 원문 링크는 정확한 확인을 위해 그대로 유지했습니다.\n용도: 작업 흐름을 화면에서 확인, 채팅·터미널·메모리 관리, 비개발자도 쓰기 쉬운 화면형 도구 검토, 배포\n태그: 워크스페이스·화면형 도구, 배포, 인프라, 화면형 인터페이스, 워크스페이스, 작업 흐름을 화면에서 확인\n원문 설명: Hermes Agent made portable desktop for Windows — 100 tools, GUI, local models via LM Studio, TTS, Music, ComfyUI, workflows, tool maker. No install. No Docker. No admin rights.",
       "sourceUrl": "https://github.com/aivrar/portable-hermes-agent"
     },
     {
@@ -2447,7 +2447,7 @@
       "repoId": "aivrar/portable-hermes-agent",
       "title": "aivrar/portable-hermes-agent",
       "section": "용도",
-      "text": "aivrar/portable-hermes-agent의 주요 용도: 시각적인 작업 공간 구성, 에이전트 작업 흐름 모니터링, 비개발자 친화 UI 제공, 배포",
+      "text": "aivrar/portable-hermes-agent의 주요 용도: 작업 흐름을 화면에서 확인, 채팅·터미널·메모리 관리, 비개발자도 쓰기 쉬운 화면형 도구 검토, 배포",
       "sourceUrl": "https://github.com/aivrar/portable-hermes-agent"
     },
     {
@@ -2459,7 +2459,7 @@
       "repoId": "iamagenius00/hermes-a2a",
       "title": "iamagenius00/hermes-a2a",
       "section": "한국어 요약",
-      "text": "iamagenius00/hermes-a2a (플러그인·확장)\niamagenius00/hermes-a2a: A2A (Agent — to — Agent) protocol plugin for Hermes Agent — zero — patch, instant wake, session injection을 한국어 Atlas 기준으로 분류한 프로젝트입니다.\niamagenius00/hermes-a2a는 플러그인·확장 범주에서 볼 만한 프로젝트입니다. 원문 설명 기준으로는 “A2A (Agent — to — Agent) protocol plugin for Hermes Agent — zero — patch, instant wake, session injection”에 초점이 있습니다. 한국어 사용자는 Hermes 기능 확장이나 외부 도구 연결이 필요할 때 우선 살펴보면 됩니다. repo 이름과 명령어, 원본 링크는 검색성과 재현성을 위해 그대로 유지했습니다.\n용도: Hermes 기능 확장, 외부 도구 연결, 특정 작업 흐름 자동화\n태그: 플러그인·확장, hermes a2a\n원문 설명: A2A (Agent-to-Agent) protocol plugin for Hermes Agent — zero-patch, instant wake, session injection",
+      "text": "iamagenius00/hermes-a2a (플러그인·확장)\nHermes에 새로운 기능이나 외부 도구를 붙이는 확장 프로젝트입니다.\nHermes에 새로운 기능이나 외부 도구를 붙이는 확장 프로젝트입니다. 플러그인·확장 분류에서 Hermes 기능 확장이 필요할 때 먼저 살펴보면 좋습니다. 외부 도구 연결이 필요할 때도 함께 참고할 만합니다. 저장소 이름, 명령어, 원문 링크는 정확한 확인을 위해 그대로 유지했습니다.\n용도: Hermes 기능 확장, 외부 도구 연결, 특정 작업 흐름 자동화\n태그: 플러그인·확장, Hermes 기능 확장, 외부 도구 연결, 특정 작업 흐름 자동화\n원문 설명: A2A (Agent-to-Agent) protocol plugin for Hermes Agent — zero-patch, instant wake, session injection",
       "sourceUrl": "https://github.com/iamagenius00/hermes-a2a"
     },
     {
@@ -2483,7 +2483,7 @@
       "repoId": "Cranot/super-hermes",
       "title": "Cranot/super-hermes",
       "section": "한국어 요약",
-      "text": "Cranot/super-hermes (스킬·레지스트리)\nCranot/super-hermes: Skills that teach Hermes Agent to write its own analytical prompts을 한국어 Atlas 기준으로 분류한 프로젝트입니다.\nCranot/super-hermes는 스킬·레지스트리 범주에서 볼 만한 프로젝트입니다. 원문 설명 기준으로는 “Skills that teach Hermes Agent to write its own analytical prompts”에 초점이 있습니다. 한국어 사용자는 반복 작업을 재사용 가능한 스킬로 정리이나 도메인별 스킬 탐색이 필요할 때 우선 살펴보면 됩니다. repo 이름과 명령어, 원본 링크는 검색성과 재현성을 위해 그대로 유지했습니다.\n용도: 반복 작업을 재사용 가능한 스킬로 정리, 도메인별 스킬 탐색, 팀 단위 작업 표준화, 스킬\n태그: 스킬·레지스트리, 스킬, 재사용 가능한 작업 절차, super hermes\n원문 설명: Skills that teach Hermes Agent to write its own analytical prompts",
+      "text": "Cranot/super-hermes (스킬·레지스트리)\n반복 작업을 스킬로 묶고 다시 쓰기 쉽게 정리하는 프로젝트입니다.\n반복 작업을 스킬로 묶고 다시 쓰기 쉽게 정리하는 프로젝트입니다. 스킬·레지스트리 분류에서 반복 작업을 스킬로 정리할 때 먼저 살펴보면 좋습니다. 도메인별 스킬을 탐색할 때도 함께 참고할 만합니다. 저장소 이름, 명령어, 원문 링크는 정확한 확인을 위해 그대로 유지했습니다.\n용도: 반복 작업을 스킬로 정리, 도메인별 스킬 탐색, 팀 작업 방식 표준화, 스킬\n태그: 스킬·레지스트리, 스킬, 재사용 가능한 작업 절차, 반복 작업을 스킬로 정리, 도메인별 스킬 탐색, 팀 작업 방식 표준화\n원문 설명: Skills that teach Hermes Agent to write its own analytical prompts",
       "sourceUrl": "https://github.com/Cranot/super-hermes"
     },
     {
@@ -2495,7 +2495,7 @@
       "repoId": "Cranot/super-hermes",
       "title": "Cranot/super-hermes",
       "section": "용도",
-      "text": "Cranot/super-hermes의 주요 용도: 반복 작업을 재사용 가능한 스킬로 정리, 도메인별 스킬 탐색, 팀 단위 작업 표준화, 스킬",
+      "text": "Cranot/super-hermes의 주요 용도: 반복 작업을 스킬로 정리, 도메인별 스킬 탐색, 팀 작업 방식 표준화, 스킬",
       "sourceUrl": "https://github.com/Cranot/super-hermes"
     },
     {
@@ -2507,7 +2507,7 @@
       "repoId": "EfficientContext/ContextPilot",
       "title": "EfficientContext/ContextPilot",
       "section": "한국어 요약",
-      "text": "EfficientContext/ContextPilot (메모리·컨텍스트)\nEfficientContext/ContextPilot: Accelerating Long Context LLM Inference with Accuracy — Preserving Context Optimization in SGLang, vLLM, llama.cpp, OpenClaw, RAG, and Agentic AI.을 한국어 Atlas 기준으로 분류한 프로젝트입니다.\nEfficientContext/ContextPilot는 메모리·컨텍스트 범주에서 볼 만한 프로젝트입니다. 원문 설명 기준으로는 “Accelerating Long Context LLM Inference with Accuracy — Preserving Context Optimization in SGLang, vLLM, llama.cpp, OpenClaw, RAG, and Agentic AI.”에 초점이 있습니다. 한국어 사용자는 장기 기억 저장이나 세션 간 맥락 유지이 필요할 때 우선 살펴보면 됩니다. repo 이름과 명령어, 원본 링크는 검색성과 재현성을 위해 그대로 유지했습니다.\n용도: 장기 기억 저장, 세션 간 맥락 유지, 개인화된 에이전트 경험 구성, 메모리\n태그: 메모리·컨텍스트, 메모리, 컨텍스트 유지, ContextPilot\n원문 설명: Accelerating Long Context LLM Inference with Accuracy-Preserving Context Optimization in SGLang, vLLM, llama.cpp, OpenClaw, RAG, and Agentic AI.",
+      "text": "EfficientContext/ContextPilot (메모리·컨텍스트)\n에이전트가 장기 기억과 작업 맥락을 유지하도록 돕는 메모리 프로젝트입니다.\n에이전트가 장기 기억과 작업 맥락을 유지하도록 돕는 메모리 프로젝트입니다. 메모리·컨텍스트 분류에서 장기 기억 저장이 필요할 때 먼저 살펴보면 좋습니다. 세션 사이의 맥락 유지이 필요할 때도 함께 참고할 만합니다. 저장소 이름, 명령어, 원문 링크는 정확한 확인을 위해 그대로 유지했습니다.\n용도: 장기 기억 저장, 세션 사이의 맥락 유지, 개인화된 에이전트 구성, 메모리\n태그: 메모리·컨텍스트, 메모리, 컨텍스트 유지, 장기 기억 저장, 세션 사이의 맥락 유지, 개인화된 에이전트 구성\n원문 설명: Accelerating Long Context LLM Inference with Accuracy-Preserving Context Optimization in SGLang, vLLM, llama.cpp, OpenClaw, RAG, and Agentic AI.",
       "sourceUrl": "https://github.com/EfficientContext/ContextPilot"
     },
     {
@@ -2519,7 +2519,7 @@
       "repoId": "EfficientContext/ContextPilot",
       "title": "EfficientContext/ContextPilot",
       "section": "용도",
-      "text": "EfficientContext/ContextPilot의 주요 용도: 장기 기억 저장, 세션 간 맥락 유지, 개인화된 에이전트 경험 구성, 메모리",
+      "text": "EfficientContext/ContextPilot의 주요 용도: 장기 기억 저장, 세션 사이의 맥락 유지, 개인화된 에이전트 구성, 메모리",
       "sourceUrl": "https://github.com/EfficientContext/ContextPilot"
     },
     {
@@ -2531,7 +2531,7 @@
       "repoId": "335234131/agent-browser-mcp",
       "title": "335234131/agent-browser-mcp",
       "section": "한국어 요약",
-      "text": "335234131/agent-browser-mcp (플러그인·확장)\n335234131/agent-browser-mcp: 让 Agent 直接操作真实 Chrome 的 MCP 服务，支持页面扫描、CDP、截图与物理输入을 한국어 Atlas 기준으로 분류한 프로젝트입니다.\n335234131/agent-browser-mcp는 플러그인·확장 범주에서 볼 만한 프로젝트입니다. 원문 설명 기준으로는 “让 Agent 直接操作真实 Chrome 的 MCP 服务，支持页面扫描、CDP、截图与物理输入”에 초점이 있습니다. 한국어 사용자는 Hermes 기능 확장이나 외부 도구 연결이 필요할 때 우선 살펴보면 됩니다. repo 이름과 명령어, 원본 링크는 검색성과 재현성을 위해 그대로 유지했습니다.\n용도: Hermes 기능 확장, 외부 도구 연결, 특정 작업 흐름 자동화, MCP\n태그: 플러그인·확장, MCP, 외부 도구 연결, agent browser mcp\n원문 설명: 让 Agent 直接操作真实 Chrome 的 MCP 服务，支持页面扫描、CDP、截图与物理输入",
+      "text": "335234131/agent-browser-mcp (플러그인·확장)\nMCP 서버와 도구를 에이전트가 필요한 만큼 단계적으로 불러오게 하는 클라이언트 패턴입니다.\nMCP 서버와 도구를 에이전트가 필요한 만큼 단계적으로 불러오게 하는 클라이언트 패턴입니다. 플러그인·확장 분류에서 Hermes 기능 확장이 필요할 때 먼저 살펴보면 좋습니다. 외부 도구 연결이 필요할 때도 함께 참고할 만합니다. 저장소 이름, 명령어, 원문 링크는 정확한 확인을 위해 그대로 유지했습니다.\n용도: Hermes 기능 확장, 외부 도구 연결, 특정 작업 흐름 자동화, MCP\n태그: 플러그인·확장, MCP, 외부 도구 연결, Hermes 기능 확장, 특정 작업 흐름 자동화\n원문 설명: 让 Agent 直接操作真实 Chrome 的 MCP 服务，支持页面扫描、CDP、截图与物理输入",
       "sourceUrl": "https://github.com/335234131/agent-browser-mcp"
     },
     {
@@ -2555,7 +2555,7 @@
       "repoId": "jwangkun/hermes-agent-guide",
       "title": "jwangkun/hermes-agent-guide",
       "section": "한국어 요약",
-      "text": "jwangkun/hermes-agent-guide (가이드·문서)\njwangkun/hermes-agent-guide: A systematic Chinese — language guide to Hermes Agent — 16 books, 300K+ words, covering installation, advanced development, single — and multi — agent orchestration.을 한국어 Atlas 기준으로 분류한 프로젝트입니다.\njwangkun/hermes-agent-guide는 가이드·문서 범주에서 볼 만한 프로젝트입니다. 원문 설명 기준으로는 “A systematic Chinese — language guide to Hermes Agent — 16 books, 300K+ words, covering installation, advanced development, single — and multi — agent orchestration.”에 초점이 있습니다. 한국어 사용자는 학습 자료 확인이나 도입 전 구조 이해이 필요할 때 우선 살펴보면 됩니다. repo 이름과 명령어, 원본 링크는 검색성과 재현성을 위해 그대로 유지했습니다.\n용도: 학습 자료 확인, 도입 전 구조 이해, 팀 온보딩, GUI\n태그: 가이드·문서, GUI, 워크스페이스, 멀티 에이전트, 오케스트레이션, hermes agent guide\n원문 설명: A systematic Chinese-language guide to Hermes Agent — 16 books, 300K+ words, covering installation, advanced development, single- and multi-agent orchestration.",
+      "text": "jwangkun/hermes-agent-guide (가이드·문서)\nHermes를 배우고 비교하고 도입할 때 참고할 수 있는 자료입니다.\nHermes를 배우고 비교하고 도입할 때 참고할 수 있는 자료입니다. 가이드·문서 분류에서 학습 자료 확인할 때 먼저 살펴보면 좋습니다. 도입 전 구조 이해이 필요할 때도 함께 참고할 만합니다. 저장소 이름, 명령어, 원문 링크는 정확한 확인을 위해 그대로 유지했습니다.\n용도: 학습 자료 확인, 도입 전 구조 이해, 팀 온보딩, 화면형 인터페이스\n태그: 가이드·문서, 화면형 인터페이스, 워크스페이스, 멀티 에이전트, 오케스트레이션, 학습 자료 확인\n원문 설명: A systematic Chinese-language guide to Hermes Agent — 16 books, 300K+ words, covering installation, advanced development, single- and multi-agent orchestration.",
       "sourceUrl": "https://github.com/jwangkun/hermes-agent-guide"
     },
     {
@@ -2567,7 +2567,7 @@
       "repoId": "jwangkun/hermes-agent-guide",
       "title": "jwangkun/hermes-agent-guide",
       "section": "용도",
-      "text": "jwangkun/hermes-agent-guide의 주요 용도: 학습 자료 확인, 도입 전 구조 이해, 팀 온보딩, GUI",
+      "text": "jwangkun/hermes-agent-guide의 주요 용도: 학습 자료 확인, 도입 전 구조 이해, 팀 온보딩, 화면형 인터페이스",
       "sourceUrl": "https://github.com/jwangkun/hermes-agent-guide"
     },
     {
@@ -2579,7 +2579,7 @@
       "repoId": "longyunfeigu/learn-hermes-agent",
       "title": "longyunfeigu/learn-hermes-agent",
       "section": "한국어 요약",
-      "text": "longyunfeigu/learn-hermes-agent (가이드·문서)\nlongyunfeigu/learn-hermes-agent: A 27 — chapter hands — on tutorial for building an autonomous AI agent from zero in Python — agent loop, tool system, memory, skills, MCP, multi — platform gateway, and self — evolution.을 한국어 Atlas 기준으로 분류한 프로젝트입니다.\nlongyunfeigu/learn-hermes-agent는 가이드·문서 범주에서 볼 만한 프로젝트입니다. 원문 설명 기준으로는 “A 27 — chapter hands — on tutorial for building an autonomous AI agent from zero in Python — agent loop, tool system, memory, skills, MCP, multi — platform gateway, and self — evolution.”에 초점이 있습니다. 한국어 사용자는 학습 자료 확인이나 도입 전 구조 이해이 필요할 때 우선 살펴보면 됩니다. repo 이름과 명령어, 원본 링크는 검색성과 재현성을 위해 그대로 유지했습니다.\n용도: 학습 자료 확인, 도입 전 구조 이해, 팀 온보딩, 메모리\n태그: 가이드·문서, 메모리, 컨텍스트 유지, 스킬, 재사용 가능한 작업 절차, MCP\n원문 설명: A 27-chapter hands-on tutorial for building an autonomous AI agent from zero in Python — agent loop, tool system, memory, skills, MCP, multi-platform gateway, and self-evolution.",
+      "text": "longyunfeigu/learn-hermes-agent (가이드·문서)\nMCP 서버와 도구를 에이전트가 필요한 만큼 단계적으로 불러오게 하는 클라이언트 패턴입니다.\nMCP 서버와 도구를 에이전트가 필요한 만큼 단계적으로 불러오게 하는 클라이언트 패턴입니다. 가이드·문서 분류에서 학습 자료 확인할 때 먼저 살펴보면 좋습니다. 도입 전 구조 이해이 필요할 때도 함께 참고할 만합니다. 저장소 이름, 명령어, 원문 링크는 정확한 확인을 위해 그대로 유지했습니다.\n용도: 학습 자료 확인, 도입 전 구조 이해, 팀 온보딩, 메모리\n태그: 가이드·문서, 메모리, 컨텍스트 유지, 스킬, 재사용 가능한 작업 절차, MCP\n원문 설명: A 27-chapter hands-on tutorial for building an autonomous AI agent from zero in Python — agent loop, tool system, memory, skills, MCP, multi-platform gateway, and self-evolution.",
       "sourceUrl": "https://github.com/longyunfeigu/learn-hermes-agent"
     },
     {
@@ -2603,7 +2603,7 @@
       "repoId": "jpalmae/hermeshq",
       "title": "jpalmae/hermeshq",
       "section": "한국어 요약",
-      "text": "jpalmae/hermeshq (배포·인프라)\njpalmae/hermeshq: HermesHQ is a Docker — first control plane for running and operating multiple Hermes Agent instances from one web application.을 한국어 Atlas 기준으로 분류한 프로젝트입니다.\njpalmae/hermeshq는 배포·인프라 범주에서 볼 만한 프로젝트입니다. 원문 설명 기준으로는 “HermesHQ is a Docker — first control plane for running and operating multiple Hermes Agent instances from one web application.”에 초점이 있습니다. 한국어 사용자는 서버 배포이나 운영 자동화이 필요할 때 우선 살펴보면 됩니다. repo 이름과 명령어, 원본 링크는 검색성과 재현성을 위해 그대로 유지했습니다.\n용도: 서버 배포, 운영 자동화, 프로덕션 환경 구성, 배포\n태그: 배포·인프라, 배포, 인프라, hermeshq\n원문 설명: HermesHQ is a Docker-first control plane for running and operating multiple Hermes Agent instances from one web application.",
+      "text": "jpalmae/hermeshq (배포·인프라)\nHermes를 서버나 셀프호스팅 환경에 배포하기 위한 인프라 프로젝트입니다.\nHermes를 서버나 셀프호스팅 환경에 배포하기 위한 인프라 프로젝트입니다. 배포·인프라 분류에서 서버 배포이 필요할 때 먼저 살펴보면 좋습니다. 운영 자동화가 필요할 때도 함께 참고할 만합니다. 저장소 이름, 명령어, 원문 링크는 정확한 확인을 위해 그대로 유지했습니다.\n용도: 서버 배포, 운영 자동화, 프로덕션 환경 구성, 배포\n태그: 배포·인프라, 배포, 인프라, 서버 배포, 운영 자동화, 프로덕션 환경 구성\n원문 설명: HermesHQ is a Docker-first control plane for running and operating multiple Hermes Agent instances from one web application.",
       "sourceUrl": "https://github.com/jpalmae/hermeshq"
     },
     {
@@ -2627,7 +2627,7 @@
       "repoId": "plastic-labs/honcho",
       "title": "plastic-labs/honcho",
       "section": "한국어 요약",
-      "text": "plastic-labs/honcho (메모리·컨텍스트)\n상태를 가진 에이전트를 만들기 위한 메모리 라이브러리로, Hermes 메모리 wrapper의 기반이 됩니다.\nHoncho는 stateful agent를 만들기 위한 메모리 라이브러리입니다. Hermes 생태계에서는 honcho-self-hosted 같은 wrapper가 이 upstream 라이브러리를 기반으로 합니다. 메모리 provider를 직접 이해하거나 확장하려는 개발자에게 중요합니다.\n용도: 상태ful 에이전트, 메모리 라이브러리, provider 기반 이해\n태그: 메모리, 라이브러리, stateful agent\n원문 설명: Memory library for building stateful agents — the upstream library that the elkimek/honcho-self-hosted Hermes wrapper builds on.",
+      "text": "plastic-labs/honcho (메모리·컨텍스트)\n상태를 가진 에이전트를 만들기 위한 메모리 라이브러리로, Hermes 메모리 연결 계층의 기반이 됩니다.\nHoncho는 상태를 유지하는 에이전트를 만들기 위한 메모리 라이브러리입니다. Hermes 생태계에서는 honcho-self-hosted 같은 연결 프로젝트가 이 원본 라이브러리를 기반으로 합니다. 메모리 제공자 구조를 직접 이해하거나 확장하려는 개발자에게 중요합니다.\n용도: 상태 유지 에이전트, 메모리 라이브러리, 메모리 제공자 구조 이해\n태그: 메모리, 라이브러리, 상태 유지\n원문 설명: Memory library for building stateful agents — the upstream library that the elkimek/honcho-self-hosted Hermes wrapper builds on.",
       "sourceUrl": "https://github.com/plastic-labs/honcho"
     },
     {
@@ -2639,7 +2639,7 @@
       "repoId": "plastic-labs/honcho",
       "title": "plastic-labs/honcho",
       "section": "용도",
-      "text": "plastic-labs/honcho의 주요 용도: 상태ful 에이전트, 메모리 라이브러리, provider 기반 이해",
+      "text": "plastic-labs/honcho의 주요 용도: 상태 유지 에이전트, 메모리 라이브러리, 메모리 제공자 구조 이해",
       "sourceUrl": "https://github.com/plastic-labs/honcho"
     },
     {
@@ -2651,7 +2651,7 @@
       "repoId": "adnw-vinc/hermes-nextcloud",
       "title": "adnw-vinc/hermes-nextcloud",
       "section": "한국어 요약",
-      "text": "adnw-vinc/hermes-nextcloud (스킬·레지스트리)\nadnw-vinc/hermes-nextcloud: Hermes Agent skill for Nextcloud — manage files, notes, calendar, tasks, and contacts via WebDAV and CalDAV.을 한국어 Atlas 기준으로 분류한 프로젝트입니다.\nadnw-vinc/hermes-nextcloud는 스킬·레지스트리 범주에서 볼 만한 프로젝트입니다. 원문 설명 기준으로는 “Hermes Agent skill for Nextcloud — manage files, notes, calendar, tasks, and contacts via WebDAV and CalDAV.”에 초점이 있습니다. 한국어 사용자는 반복 작업을 재사용 가능한 스킬로 정리이나 도메인별 스킬 탐색이 필요할 때 우선 살펴보면 됩니다. repo 이름과 명령어, 원본 링크는 검색성과 재현성을 위해 그대로 유지했습니다.\n용도: 반복 작업을 재사용 가능한 스킬로 정리, 도메인별 스킬 탐색, 팀 단위 작업 표준화, 스킬\n태그: 스킬·레지스트리, 스킬, 재사용 가능한 작업 절차, hermes nextcloud\n원문 설명: Hermes Agent skill for Nextcloud — manage files, notes, calendar, tasks, and contacts via WebDAV and CalDAV.",
+      "text": "adnw-vinc/hermes-nextcloud (스킬·레지스트리)\n외부 서비스와 Hermes를 이어 기존 업무 흐름에 붙이는 통합 프로젝트입니다.\n외부 서비스와 Hermes를 이어 기존 업무 흐름에 붙이는 통합 프로젝트입니다. 스킬·레지스트리 분류에서 반복 작업을 스킬로 정리할 때 먼저 살펴보면 좋습니다. 도메인별 스킬을 탐색할 때도 함께 참고할 만합니다. 저장소 이름, 명령어, 원문 링크는 정확한 확인을 위해 그대로 유지했습니다.\n용도: 반복 작업을 스킬로 정리, 도메인별 스킬 탐색, 팀 작업 방식 표준화, 스킬\n태그: 스킬·레지스트리, 스킬, 재사용 가능한 작업 절차, 반복 작업을 스킬로 정리, 도메인별 스킬 탐색, 팀 작업 방식 표준화\n원문 설명: Hermes Agent skill for Nextcloud — manage files, notes, calendar, tasks, and contacts via WebDAV and CalDAV.",
       "sourceUrl": "https://github.com/adnw-vinc/hermes-nextcloud"
     },
     {
@@ -2663,7 +2663,7 @@
       "repoId": "adnw-vinc/hermes-nextcloud",
       "title": "adnw-vinc/hermes-nextcloud",
       "section": "용도",
-      "text": "adnw-vinc/hermes-nextcloud의 주요 용도: 반복 작업을 재사용 가능한 스킬로 정리, 도메인별 스킬 탐색, 팀 단위 작업 표준화, 스킬",
+      "text": "adnw-vinc/hermes-nextcloud의 주요 용도: 반복 작업을 스킬로 정리, 도메인별 스킬 탐색, 팀 작업 방식 표준화, 스킬",
       "sourceUrl": "https://github.com/adnw-vinc/hermes-nextcloud"
     },
     {

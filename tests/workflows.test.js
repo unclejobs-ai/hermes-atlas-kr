@@ -25,7 +25,7 @@ test('nightly sync workflow refreshes upstream data and opens review PR', () => 
 test('README documents production URL and operating pipeline', () => {
   const readme = read('README.md');
   assert.match(readme, /https:\/\/hermes-atlas-kr\.vercel\.app/);
-  assert.match(readme, /Ask Atlas/);
+  assert.match(readme, /한국어 질문 기능/);
   assert.match(readme, /npm run sync/);
   assert.match(readme, /npm run build/);
 });

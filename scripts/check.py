@@ -29,7 +29,7 @@ if missing:
     sys.exit(1)
 
 html = (root / 'index.html').read_text(encoding='utf-8')
-for token in ['lang="ko"', 'Hermes Atlas 한국어판', '검색', '카테고리', '프로젝트', 'Ask Atlas', 'og:image', 'summaryCoverage']:
+for token in ['lang="ko"', 'Hermes Atlas 한국어판', '검색', '분류', '프로젝트', '질문하기', 'og:image', 'summaryCoverage']:
     assert token in html, token
 
 repos = json.loads((root / 'data/repos.ko.json').read_text(encoding='utf-8'))

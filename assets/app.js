@@ -53,11 +53,11 @@ function renderFilters(){
 }
 function chip(label, value){
   const b=document.createElement('button'); b.type='button'; b.className='chip'; b.textContent=label; b.dataset.category=value;
-  b.addEventListener('click',()=>{state.category=value; $('#categorySelect').value=value; render();}); return b;
+  b.addEventListener('click',()=>{state.category=value; state.selected=null; $('#categorySelect').value=value; render();}); return b;
 }
 function bindControls(){
-  $('#searchInput').addEventListener('input', e => { state.query = e.target.value.trim().toLowerCase(); render(); });
-  $('#categorySelect').addEventListener('change', e => { state.category = e.target.value; render(); });
+  $('#searchInput').addEventListener('input', e => { state.query = e.target.value.trim().toLowerCase(); state.selected=null; render(); });
+  $('#categorySelect').addEventListener('change', e => { state.category = e.target.value; state.selected=null; render(); });
   $('#sortSelect').addEventListener('change', e => { state.sort = e.target.value; render(); });
 }
 function bindAsk(){
@@ -97,25 +97,39 @@ function renderAnswer(answer, citations = []){
   }).filter(Boolean).join('');
   return `${safe}${links ? `<div class="askCitations">${links}</div>` : ''}`;
 }
+function searchFields(r){
+  return {
+    primary: [r.owner, r.repo, r.name, r.categoryKo, ...(r.keywordsKo || []), ...(r.tagsKo || []), ...(r.useCasesKo || [])].join(' ').toLowerCase(),
+    secondary: [r.description, r.descriptionKo, r.oneLineKo, r.summaryKo, ...(r.audienceKo || [])].join(' ').toLowerCase(),
+  };
+}
+function searchRelevance(r, query){
+  if(!query) return 0;
+  const repoId = `${r.owner}/${r.repo}`.toLowerCase();
+  const { primary, secondary } = searchFields(r);
+  const count = (text) => text.split(query).length - 1;
+  let score = 0;
+  if(repoId.includes(query)) score += 80;
+  score += count(primary) * 12;
+  score += count(secondary) * 3;
+  if((r.tagsKo || []).some(tag => String(tag).toLowerCase().includes(query))) score += 24;
+  if((r.useCasesKo || []).some(use => String(use).toLowerCase().includes(query))) score += 18;
+  return score;
+}
 function filtered(){
   let list = state.repos.filter(r => state.category === 'all' || r.category === state.category);
   if(state.query){
     const q=state.query;
-    list = list.filter(r => [
-      r.owner,
-      r.repo,
-      r.name,
-      r.description,
-      r.descriptionKo,
-      r.oneLineKo,
-      r.summaryKo,
-      r.categoryKo,
-      ...(r.keywordsKo || []),
-      ...(r.useCasesKo || []),
-      ...(r.audienceKo || [])
-    ].join(' ').toLowerCase().includes(q));
+    list = list.filter(r => {
+      const fields = searchFields(r);
+      return `${fields.primary} ${fields.secondary}`.includes(q);
+    });
   }
   list.sort((a,b)=>{
+    if(state.query){
+      const relevance = searchRelevance(b,state.query)-searchRelevance(a,state.query);
+      if(relevance) return relevance;
+    }
     if(state.sort==='stars') return (b.stars||0)-(a.stars||0);
     if(state.sort==='name') return `${a.owner}/${a.repo}`.localeCompare(`${b.owner}/${b.repo}`);
     return (a.categoryKo||a.category).localeCompare(b.categoryKo||b.category) || (b.stars||0)-(a.stars||0);
@@ -152,10 +166,11 @@ function renderDetail(){
   const audience = Array.isArray(r.audienceKo) && r.audienceKo.length
     ? `<div class="detailBlock"><h4>맞는 사람</h4><p>${escapeHtml(r.audienceKo.join(' · '))}</p></div>`
     : '';
-  const keywords = Array.isArray(r.keywordsKo) && r.keywordsKo.length
-    ? `<div class="keywordRow">${r.keywordsKo.slice(0, 6).map(item => `<span>${escapeHtml(item)}</span>`).join('')}</div>`
+  const keywordsSource = Array.isArray(r.keywordsKo) && r.keywordsKo.length ? r.keywordsKo : (r.tagsKo || []);
+  const keywords = keywordsSource.length
+    ? `<div class="keywordRow">${keywordsSource.slice(0, 6).map(item => `<span>${escapeHtml(item)}</span>`).join('')}</div>`
     : '';
-  el.innerHTML = `<h3>${escapeHtml(r.owner)} / ${escapeHtml(r.repo)}</h3><p>${escapeHtml(summary)}</p><div class="detailMeta"><span class="pill">${escapeHtml(r.categoryKo || r.category)}</span><span class="pill">★ ${fmt(r.stars||0)}</span>${r.official?'<span class="pill">공식</span>':''}</div>${keywords}${useCases}${audience}<p class="source">원문 설명: ${escapeHtml(r.description || '')}</p><div class="detailActions"><a class="visit" href="${escapeAttr(projectPath(r))}">상세 페이지</a><a class="visit secondaryVisit" href="${escapeAttr(r.url)}" target="_blank" rel="noreferrer">GitHub에서 보기</a></div>`;
+  el.innerHTML = `<h3>${escapeHtml(r.owner)} / ${escapeHtml(r.repo)}</h3><p>${escapeHtml(summary)}</p><div class="detailMeta"><span class="pill">${escapeHtml(r.categoryKo || r.category)}</span><span class="pill">★ ${fmt(r.stars||0)}</span>${r.official?'<span class="pill">공식</span>':''}</div>${keywords}${useCases}${audience}<p class="source">원문 설명과 구현 세부사항은 원문 저장소에서 확인할 수 있습니다.</p><div class="detailActions"><a class="visit" href="${escapeAttr(projectPath(r))}">상세 페이지</a><a class="visit secondaryVisit" href="${escapeAttr(r.url)}" target="_blank" rel="noreferrer">원문 저장소 보기</a></div>`;
 }
 function escapeHtml(s=''){ return String(s).replace(/[&<>'"]/g, ch => ({'&':'&amp;','<':'&lt;','>':'&gt;',"'":'&#39;','"':'&quot;'}[ch])); }
 function escapeAttr(s=''){ return escapeHtml(s); }

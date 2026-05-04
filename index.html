@@ -7,7 +7,7 @@
   <meta name="description" content="Hermes Agent 생태계를 한국어로 탐색하는 지도. 도구, 스킬, 플러그인, 메모리, 배포 옵션을 한눈에 봅니다." />
   <link rel="canonical" href="https://hermes-atlas-kr.vercel.app" />
   <meta property="og:title" content="Hermes Atlas 한국어판 — Hermes Agent 생태계 지도" />
-  <meta property="og:description" content="Hermes Agent 생태계를 한국어 요약, 상세 페이지, Ask Atlas RAG로 탐색합니다." />
+  <meta property="og:description" content="Hermes Agent 생태계를 한국어 요약, 상세 페이지, 질문 기능으로 탐색합니다." />
   <meta property="og:type" content="website" />
   <meta property="og:url" content="https://hermes-atlas-kr.vercel.app" />
   <meta property="og:image" content="https://hermes-atlas-kr.vercel.app/assets/og/atlas-card.svg" />
@@ -22,7 +22,7 @@
     </a>
     <nav aria-label="주요 메뉴">
       <a href="#catalog">지도</a>
-      <a href="#ask">Ask Atlas</a>
+      <a href="#ask">질문하기</a>
       <a href="#about">소개</a>
       <a href="https://github.com/ksimback/hermes-ecosystem" target="_blank" rel="noreferrer">원본</a>
     </nav>
@@ -31,9 +31,9 @@
   <main id="top">
     <section class="hero">
       <div class="hero-copy">
-        <p class="eyebrow">Hermes Agent ecosystem, in Korean</p>
-        <h1>Hermes 생태계를 한국어로 빠르게 훑어보는 지도</h1>
-        <p class="lede">도구, 스킬, 플러그인, 메모리, 배포 옵션을 목적별로 정리했습니다. 영어 README를 다 읽기 전에 “어떤 프로젝트가 있는지” 먼저 파악하는 용도입니다.</p>
+        <p class="eyebrow">Hermes Agent 생태계, 한국어로 먼저 보기</p>
+        <h1><span>Hermes 생태계를</span><span>한눈에 이해하는</span><span>한국어 지도</span></h1>
+        <p class="lede">도구, 스킬, 플러그인, 메모리, 배포 옵션을 목적별로 묶었습니다. 긴 원문 문서를 열기 전에 “내가 볼 만한 프로젝트인지”부터 빠르게 판단할 수 있습니다.</p>
         <div class="hero-actions">
           <a class="primary" href="#catalog">프로젝트 보기</a>
           <button id="themeButton" class="secondary" type="button">다크 모드</button>
@@ -41,51 +41,51 @@
       </div>
       <aside class="hero-panel" aria-label="요약">
         <div class="metric"><strong id="totalRepos">—</strong><span>프로젝트</span></div>
-        <div class="metric"><strong id="totalStars">—</strong><span>GitHub stars</span></div>
-        <div class="metric"><strong>12</strong><span>카테고리</span></div>
-        <div class="metric"><strong id="summaryCoverage">—</strong><span>요약 커버리지</span></div>
-        <div class="metric"><strong id="reviewedRepos">—</strong><span>검수 요약</span></div>
-        <p class="note">원본 데이터: ksimback/hermes-ecosystem. 한국어 설명은 별도 필드로 분리해 확장 가능하게 설계했습니다.</p>
+        <div class="metric"><strong id="totalStars">—</strong><span>GitHub 별</span></div>
+        <div class="metric"><strong>12</strong><span>분류</span></div>
+        <div class="metric"><strong id="summaryCoverage">—</strong><span>요약 완성도</span></div>
+        <div class="metric"><strong id="reviewedRepos">—</strong><span>사람 검수</span></div>
+        <p class="note">원본 데이터는 ksimback/hermes-ecosystem에서 가져옵니다. 한국어 설명은 원본과 분리해 관리하므로, 업데이트와 사람 검수를 함께 이어갈 수 있습니다.</p>
       </aside>
     </section>
 
     <section class="notice" id="about">
-      <b>완전 한글판 기준</b>
-      <span>현재 구현은 한국어 UI + 111개 한국어 요약 커버리지 + Ask Atlas RAG + upstream 문서 lexical RAG입니다. README 전문 번역과 사람 검수는 계속 확장합니다.</span>
+      <b>한국어로 먼저 이해하고, 필요할 때 원문으로 넘어가세요</b>
+      <span>지금은 111개 프로젝트 모두에 한국어 요약을 붙이고, 질문 기능이 원문 문서까지 함께 찾아주는 상태입니다. 사람 손으로 다듬은 요약은 계속 늘려갑니다.</span>
     </section>
 
     <section class="listLinks" aria-label="추천 리스트">
-      <div class="sectionHead"><h2>추천 리스트</h2><span>SEO 페이지</span></div>
+      <div class="sectionHead"><h2>추천 리스트</h2><span>바로 보기</span></div>
       <div class="listLinkGrid">
         <a href="/lists/best-memory-providers">메모리 제공자</a>
         <a href="/lists/top-skills">인기 스킬</a>
         <a href="/lists/deployment-options">배포 옵션</a>
         <a href="/lists/multi-agent-frameworks">멀티 에이전트</a>
         <a href="/lists/developer-tools">개발자 도구</a>
-        <a href="/lists/workspaces-and-guis">워크스페이스·GUI</a>
+        <a href="/lists/workspaces-and-guis">워크스페이스·화면형 도구</a>
       </div>
     </section>
 
-    <section class="ask" id="ask" aria-label="Ask Atlas 한국어 질문">
+    <section class="ask" id="ask" aria-label="한국어 질문">
       <div>
-        <p class="eyebrow">Ask Atlas</p>
+        <p class="eyebrow">아틀라스에게 묻기</p>
         <h2>한국어로 물어보세요</h2>
-        <p>예: “메모리 provider 뭐가 좋아?”, “Telegram 연동 프로젝트 찾아줘”, “사이버보안 스킬은 뭐가 있어?”</p>
+        <p>예: “메모리는 뭐가 좋아?”, “텔레그램 연동 프로젝트 찾아줘”, “보안 스킬은 뭐가 있어?”</p>
       </div>
       <form id="askForm" class="askForm">
         <input id="askInput" type="search" placeholder="Hermes 생태계에 대해 질문하기" autocomplete="off" />
         <button type="submit">질문</button>
       </form>
-      <div id="askAnswer" class="askAnswer" aria-live="polite">질문하면 한국어 RAG 인덱스에서 관련 프로젝트와 출처를 찾아 답합니다.</div>
+      <div id="askAnswer" class="askAnswer" aria-live="polite">질문하면 한국어 검색 인덱스에서 관련 프로젝트와 출처를 찾아 답합니다.</div>
     </section>
 
     <section class="controls" id="catalog" aria-label="프로젝트 검색과 필터">
       <label class="searchBox">
         <span>검색</span>
-        <input id="searchInput" type="search" placeholder="예: memory, telegram, skill, docker" autocomplete="off" />
+        <input id="searchInput" type="search" placeholder="예: 메모리, 텔레그램, 스킬, 도커" autocomplete="off" />
       </label>
       <label>
-        <span>카테고리</span>
+        <span>분류</span>
         <select id="categorySelect"><option value="all">전체</option></select>
       </label>
       <label>
@@ -98,7 +98,7 @@
       </label>
     </section>
 
-    <section class="categoryStrip" id="categories" aria-label="카테고리 빠른 필터"></section>
+    <section class="categoryStrip" id="categories" aria-label="분류 빠른 필터"></section>
 
     <section class="layout">
       <div>
@@ -109,7 +109,7 @@
         <div class="grid" id="projectGrid"></div>
       </div>
       <aside class="detail" id="detailPanel" aria-live="polite">
-        <p class="empty">프로젝트를 선택하면 설명, 카테고리, GitHub 링크가 여기에 표시됩니다.</p>
+        <p class="empty">프로젝트를 선택하면 설명, 분류, 원문 저장소 링크가 여기에 표시됩니다.</p>
       </aside>
     </section>
   </main>
@@ -119,6 +119,6 @@
     <span>데이터 출처: <a href="https://github.com/ksimback/hermes-ecosystem" target="_blank" rel="noreferrer">hermes-ecosystem</a></span>
   </footer>
 
-  <script type="module" src="./assets/app.js?v=2"></script>
+  <script type="module" src="./assets/app.js?v=4"></script>
 </body>
 </html>

@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630" role="img" aria-labelledby="title desc">
   <title id="title">Hermes Atlas 한국어판</title>
-  <desc id="desc">Hermes Agent 생태계를 한국어로 탐색하는 Atlas</desc>
+  <desc id="desc">Hermes Agent 생태계를 한국어로 탐색하는 지도</desc>
   <defs>
     <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
       <stop offset="0" stop-color="#111827"/>
@@ -18,7 +18,7 @@
   <text x="110" y="150" fill="#fed7aa" font-family="Inter, Pretendard, Apple SD Gothic Neo, sans-serif" font-size="28" font-weight="700" letter-spacing="3">HERMES ATLAS KR</text>
   <text x="110" y="250" fill="#ffffff" font-family="Inter, Pretendard, Apple SD Gothic Neo, sans-serif" font-size="72" font-weight="900">Hermes 생태계 지도</text>
   <text x="110" y="326" fill="#ffffff" font-family="Inter, Pretendard, Apple SD Gothic Neo, sans-serif" font-size="72" font-weight="900">한국어판</text>
-  <text x="112" y="400" fill="#d1d5db" font-family="Inter, Pretendard, Apple SD Gothic Neo, sans-serif" font-size="32">프로젝트 111개 · Ask Atlas RAG · SEO 상세 페이지</text>
+  <text x="112" y="400" fill="#d1d5db" font-family="Inter, Pretendard, Apple SD Gothic Neo, sans-serif" font-size="32">프로젝트 111개 · 한국어 질문 · 상세 페이지</text>
   <text x="112" y="458" fill="#d1d5db" font-family="Inter, Pretendard, Apple SD Gothic Neo, sans-serif" font-size="28">원본 출처를 보존하고 한국어 요약/검색/질문으로 탐색합니다.</text>
   <rect x="906" y="390" width="144" height="144" rx="32" fill="#f97316"/>
   <text x="949" y="488" fill="#111827" font-family="Inter, Pretendard, Apple SD Gothic Neo, sans-serif" font-size="92" font-weight="900">H</text>

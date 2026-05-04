@@ -17,14 +17,37 @@ function callHandler(body, method = 'POST') {
 
 test('chat API answers Korean questions from local RAG when no LLM key is available', async () => {
   const original = process.env.OPENROUTER_API_KEY;
-  delete process.env.OPENROUTER_API_KEY;
-  const res = await callHandler({ question: '사이버보안 스킬은 뭐가 있어?' });
-  process.env.OPENROUTER_API_KEY = original;
-  assert.equal(res.statusCode, 200);
-  const json = JSON.parse(res.body);
-  assert.equal(json.mode, 'local');
-  assert.match(json.answer, /mukul975\/Anthropic-Cybersecurity-Skills/);
-  assert.ok(json.citations.some(c => c.repoId === 'mukul975/Anthropic-Cybersecurity-Skills'));
+  try {
+    delete process.env.OPENROUTER_API_KEY;
+    const res = await callHandler({ question: '사이버보안 스킬은 뭐가 있어?' });
+    assert.equal(res.statusCode, 200);
+    const json = JSON.parse(res.body);
+    assert.equal(json.mode, 'local');
+    assert.match(json.answer, /mukul975\/Anthropic-Cybersecurity-Skills/);
+    assert.ok(json.citations.some(c => c.repoId === 'mukul975/Anthropic-Cybersecurity-Skills'));
+  } finally {
+    if (original) process.env.OPENROUTER_API_KEY = original;
+    else delete process.env.OPENROUTER_API_KEY;
+  }
+});
+
+test('chat API stays local even when an OpenRouter key is present', async () => {
+  const originalKey = process.env.OPENROUTER_API_KEY;
+  const originalFetch = globalThis.fetch;
+  try {
+    process.env.OPENROUTER_API_KEY = 'sk-test-do-not-call';
+    globalThis.fetch = () => {
+      throw new Error('external fetch should not be called');
+    };
+    const res = await callHandler({ question: '메모리는 뭐가 좋아?' });
+    assert.equal(res.statusCode, 200);
+    const json = JSON.parse(res.body);
+    assert.equal(json.mode, 'local');
+  } finally {
+    globalThis.fetch = originalFetch;
+    if (originalKey) process.env.OPENROUTER_API_KEY = originalKey;
+    else delete process.env.OPENROUTER_API_KEY;
+  }
 });
 
 test('chat API rejects empty question', async () => {

@@ -15,39 +15,6 @@ async function loadChunks() {
   return cachedChunks;
 }
 
-async function answerWithOpenRouter(question, contexts) {
-  const apiKey = process.env.OPENROUTER_API_KEY;
-  if (!apiKey || !apiKey.startsWith('sk-')) return null;
-  const model = process.env.OPENROUTER_MODEL || 'openai/gpt-4o-mini';
-  const contextText = contexts.map((c, i) => `[${i + 1}] ${c.repoId || c.title}\n${c.text}\nURL: ${c.sourceUrl}`).join('\n\n');
-  const response = await fetch('https://openrouter.ai/api/v1/chat/completions', {
-    method: 'POST',
-    headers: {
-      'Authorization': `Bearer ${apiKey}`,
-      'Content-Type': 'application/json',
-      'HTTP-Referer': 'https://hermes-atlas-kr.local',
-      'X-Title': 'Hermes Atlas KR'
-    },
-    body: JSON.stringify({
-      model,
-      temperature: 0.2,
-      messages: [
-        {
-          role: 'system',
-          content: '당신은 Hermes Atlas 한국어판 안내자입니다. 제공된 컨텍스트 안에서만 한국어로 답하세요. 모르면 모른다고 말하세요. repo 이름과 출처 URL을 보존하세요.'
-        },
-        {
-          role: 'user',
-          content: `질문: ${question}\n\n컨텍스트:\n${contextText}`
-        }
-      ]
-    })
-  });
-  if (!response.ok) return null;
-  const json = await response.json();
-  return json?.choices?.[0]?.message?.content?.trim() || null;
-}
-
 function sendJson(res, status, body) {
   res.statusCode = status;
   res.setHeader('Content-Type', 'application/json; charset=utf-8');
@@ -77,11 +44,10 @@ export default async function handler(req, res) {
       return;
     }
     const contexts = retrieve(question, chunks, { limit: 6 });
-    const llmAnswer = await answerWithOpenRouter(question, contexts).catch(() => null);
-    const answer = llmAnswer || answerFromContext(question, contexts, { limit: 4 });
+    const answer = answerFromContext(question, contexts, { limit: 4 });
     sendJson(res, 200, {
       answer,
-      mode: llmAnswer ? 'llm' : 'local',
+      mode: 'local',
       citations: contexts.slice(0, 6).map(c => ({
         id: c.id,
         repoId: c.repoId,
@@ -91,6 +57,6 @@ export default async function handler(req, res) {
       }))
     });
   } catch (error) {
-    sendJson(res, 500, { error: 'Ask Atlas 처리 중 오류가 발생했습니다.', detail: error.message });
+    sendJson(res, 500, { error: '질문 처리 중 오류가 발생했습니다.', detail: error.message });
   }
 }

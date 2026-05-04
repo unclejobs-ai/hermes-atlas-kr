@@ -4,7 +4,7 @@
     "descKo": "Hermes Agent의 공식 핵심 저장소와 Nous Research가 직접 관리하는 프로젝트입니다."
   },
   "Workspaces & GUIs": {
-    "ko": "워크스페이스·GUI",
+    "ko": "워크스페이스·화면형 도구",
     "descKo": "웹·데스크톱에서 Hermes를 쓰기 쉽게 만든 화면, 대시보드, 작업 공간입니다."
   },
   "Skills & Skill Registries": {
@@ -25,7 +25,7 @@
   },
   "Deployment & Infra": {
     "ko": "배포·인프라",
-    "descKo": "VPS, Docker, Nix, systemd, 클라우드에 Hermes를 배포하기 위한 인프라입니다."
+    "descKo": "서버, 컨테이너, 패키지 관리, 시스템 서비스, 클라우드에 Hermes를 배포하기 위한 인프라입니다."
   },
   "Integrations & Bridges": {
     "ko": "통합·브리지",
@@ -33,7 +33,7 @@
   },
   "Developer Tools": {
     "ko": "개발자 도구",
-    "descKo": "Hermes 개발과 운영을 편하게 만드는 CLI, 린터, 마이그레이션, 유틸리티입니다."
+    "descKo": "Hermes 개발과 운영을 편하게 만드는 명령줄 도구, 린터, 마이그레이션, 유틸리티입니다."
   },
   "Domain Applications": {
     "ko": "도메인 앱",

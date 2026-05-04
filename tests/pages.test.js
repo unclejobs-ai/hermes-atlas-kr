@@ -16,7 +16,7 @@ test('build-pages generates Korean project detail pages with canonical source li
   assert.match(html, /<html lang="ko">/);
   assert.match(html, /Hermes Agent의 공식 본체/);
   assert.match(html, /https:\/\/github.com\/NousResearch\/hermes-agent/);
-  assert.match(html, /Ask Atlas/);
+  assert.match(html, /아틀라스에게 물어보기/);
 });
 
 test('home links to generated list pages and project detail pages', () => {
@@ -38,4 +38,20 @@ test('build-pages generates Korean list pages, sitemap and robots', () => {
   assert.match(sitemap, /https:\/\/hermes-atlas-kr\.vercel\.app\/lists\/best-memory-providers/);
   const robots = read('robots.txt');
   assert.match(robots, /Sitemap: https:\/\/hermes-atlas-kr\.vercel\.app\/sitemap.xml/);
+});
+
+test('build-pages can run concurrently without directory removal races', () => {
+  const script = `
+    const { spawn } = require('node:child_process');
+    const runs = [0, 1].map(() => spawn(process.execPath, ['scripts/build-pages.js'], { cwd: process.cwd(), stdio: 'pipe' }));
+    Promise.all(runs.map(child => new Promise((resolve, reject) => {
+      let output = '';
+      child.stdout.on('data', chunk => { output += chunk; });
+      child.stderr.on('data', chunk => { output += chunk; });
+      child.on('error', reject);
+      child.on('close', code => code === 0 ? resolve(output) : reject(new Error(output || 'build-pages failed')));
+    }))).then(() => process.exit(0), error => { console.error(error.message); process.exit(1); });
+  `;
+  execFileSync(process.execPath, ['-e', script], { cwd: root, stdio: 'pipe' });
+  assert.match(read('projects/NousResearch/hermes-agent/index.html'), /프로젝트 상세/);
 });
