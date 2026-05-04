@@ -52,6 +52,11 @@ test('retrieve ranks Telegram project first in real Atlas index', () => {
   assert.equal(results[0].repoId, 'clawvader-tech/hermes-telegram-miniapp');
 });
 
+test('retrieve ranks Telegram miniapp first for Korean Telegram integration query', () => {
+  const results = retrieve('텔레그램 연동 프로젝트 찾아줘', realIndex.chunks, { limit: 3 });
+  assert.equal(results[0].repoId, 'clawvader-tech/hermes-telegram-miniapp');
+});
+
 test('answerFromContext returns Korean answer with citations and repo names', () => {
   const results = retrieve('메모리 provider 뭐가 좋아?', chunks, { limit: 2 });
   const answer = answerFromContext('메모리 provider 뭐가 좋아?', results);
